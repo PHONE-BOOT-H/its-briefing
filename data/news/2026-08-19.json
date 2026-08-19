@@ -80,6 +80,7 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "busan",
   "first_seen": "2026-08-19"
  },
  {
@@ -161,6 +162,7 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "rideflux",
   "first_seen": "2026-08-19"
  },
  {
@@ -216,6 +218,7 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "molit",
   "first_seen": "2026-08-19"
  },
  {
@@ -555,8 +558,8 @@
   "country": null,
   "country_ko": null,
   "title": "가주서 대형 자율주행 트럭 첫 도로 시험…노조는 소송",
-  "media": "koreadaily.com",
-  "org": "koreadaily.com",
+  "media": "미주중앙일보",
+  "org": "미주중앙일보",
   "published": "2026-08-18",
   "deadline": null,
   "budget": null,
@@ -574,34 +577,7 @@
  },
  {
   "schema_version": 1,
-  "id": "news-2bcfee51d2e3",
-  "kind": "news",
-  "board": "B",
-  "source": "Google News",
-  "type": "국내기사",
-  "country": null,
-  "country_ko": null,
-  "title": "강남 심야 자율주행택시 19대로 확충…11월엔 '무인택시' 달린다",
-  "media": "sportalkorea.com",
-  "org": "sportalkorea.com",
-  "published": "2026-08-19",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSkJvZi05SUxTcVVneEZaOUhLMS13U1M5OU5zMFUta0ZxR0l5SHlxaGhNekx6dFVkYUVKWE93bEYtMy1RNzdGOHVFLUpWRllTUFZHWDYybEVKQmdqZ0JKN0JDbmQyTVA0ZUI3Q2ZrYjFlbmdKbDB0SlFrYjdKOHk1STdn?oc=5",
-  "cpv": [],
-  "score": 26,
-  "score_hits": [
-   "자율주행",
-   "택시"
-  ],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-08-19"
- },
- {
-  "schema_version": 1,
-  "id": "news-1f6149065d55",
+  "id": "news-9ce6355d6d6f",
   "kind": "news",
   "board": "B",
   "source": "Google News",
@@ -615,7 +591,7 @@
   "deadline": null,
   "budget": null,
   "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB1TlZsMXY1TmE5d2tMbTlyYzg2TUhDTUxBLTN0Y2szcGxzSXB1bnNPQTU3a0hyT19iQmtKOHFPQU1IcVJOTTZLOWl3a19CRW1HN1VEUV91TzZ6TGozZ254UVZpdVdlQVl4Tk5J?oc=5",
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5jY3cxclZob3EyczhhMmo0QU1IWW1WU3prekJfbWN4X1V1LXhNYjg4RVpncktVWTJHbVBWWjNiamdSTUJnT1hhV1BSbDJ6SFR2NDBBQzNxeERIUDdZOTU0c200WExJdWgyU2c?oc=5",
   "cpv": [],
   "score": 26,
   "score_hits": [
@@ -893,6 +869,7 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "hyundai",
   "first_seen": "2026-08-19"
  },
  {
@@ -919,6 +896,7 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "saesoltech",
   "first_seen": "2026-08-19"
  },
  {
@@ -1075,6 +1053,7 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "vueron",
   "first_seen": "2026-08-19"
  },
  {
@@ -1153,6 +1132,7 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "hyundai",
   "first_seen": "2026-08-19"
  },
  {
@@ -1309,6 +1289,7 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "busan",
   "first_seen": "2026-08-19"
  },
  {
@@ -1456,8 +1437,8 @@
   "country": null,
   "country_ko": null,
   "title": "Sharjah Police nab lorry driver who hid number plate with mud to evade traffic cameras",
-  "media": "Gulf News",
-  "org": "Gulf News",
+  "media": "gulfnews.com",
+  "org": "gulfnews.com",
   "published": "2026-08-12",
   "deadline": null,
   "budget": null,
@@ -2043,6 +2024,34 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "koroad",
+  "first_seen": "2026-08-19"
+ },
+ {
+  "schema_version": 1,
+  "id": "news-896c535c7bf1",
+  "kind": "news",
+  "board": "A",
+  "source": "ITS Korea",
+  "type": "해외기사",
+  "country": null,
+  "country_ko": null,
+  "title": "[미국] Charger Logistics To Deploy Second-Generation Driverless Trucks",
+  "media": "ITS Korea",
+  "org": "ITS Korea",
+  "published": "2026-08-19",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://itskorea.kr/boardDetail.do?type=9&idx=23017",
+  "cpv": [],
+  "score": 9,
+  "score_hits": [
+   "driverless",
+   "logistics"
+  ],
+  "already_posted": false,
+  "collector": "news",
   "first_seen": "2026-08-19"
  },
  {
@@ -2073,6 +2082,32 @@
  },
  {
   "schema_version": 1,
+  "id": "news-b042df7e3710",
+  "kind": "news",
+  "board": "A",
+  "source": "ITS Korea",
+  "type": "해외기사",
+  "country": null,
+  "country_ko": null,
+  "title": "[회원사/동향] E2E AI Truck to Carry Export Cargo… MasAuto Unveils Physical Model for the First Time at AME 출처: E2E AI Truck to Carry Export Cargo… MasAuto Unveils Physical Model for the First Time at AME",
+  "media": "ITS Korea",
+  "org": "ITS Korea",
+  "published": "2026-08-14",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://itskorea.kr/boardDetail.do?type=9&idx=22969",
+  "cpv": [],
+  "score": 6,
+  "score_hits": [
+   "cargo"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-08-19"
+ },
+ {
+  "schema_version": 1,
   "id": "news-5404b9bc9c1f",
   "kind": "news",
   "board": "B",
@@ -2095,6 +2130,7 @@
   ],
   "already_posted": false,
   "collector": "news",
+  "related_posted": "hyundai",
   "first_seen": "2026-08-19"
  },
  {
@@ -2255,30 +2291,6 @@
  },
  {
   "schema_version": 1,
-  "id": "news-b042df7e3710",
-  "kind": "news",
-  "board": "A",
-  "source": "ITS Korea",
-  "type": "해외기사",
-  "country": null,
-  "country_ko": null,
-  "title": "[회원사/동향] E2E AI Truck to Carry Export Cargo… MasAuto Unveils Physical Model for the First Time at AME 출처: E2E AI Truck to Carry Export Cargo… MasAuto Unveils Physical Model for the First Time at AME",
-  "media": "ITS Korea",
-  "org": "ITS Korea",
-  "published": "2026-08-14",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://itskorea.kr/boardDetail.do?type=9&idx=22969",
-  "cpv": [],
-  "score": 0,
-  "score_hits": [],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-08-19"
- },
- {
-  "schema_version": 1,
   "id": "news-a7dd07ee68f7",
   "kind": "news",
   "board": "B",
@@ -2366,30 +2378,6 @@
   "budget": null,
   "ref_no": null,
   "link": "https://itskorea.kr/boardDetail.do?type=9&idx=23026",
-  "cpv": [],
-  "score": 0,
-  "score_hits": [],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-08-19"
- },
- {
-  "schema_version": 1,
-  "id": "news-c42a8b2fec23",
-  "kind": "news",
-  "board": "A",
-  "source": "ITS Korea",
-  "type": "해외기사",
-  "country": null,
-  "country_ko": null,
-  "title": "[아르헨티나] Argentina’s truck driver shortage is increasingly a skills gap",
-  "media": "ITS Korea",
-  "org": "ITS Korea",
-  "published": "2026-08-19",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://itskorea.kr/boardDetail.do?type=9&idx=23025",
   "cpv": [],
   "score": 0,
   "score_hits": [],

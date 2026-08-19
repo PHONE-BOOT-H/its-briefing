@@ -81,7 +81,9 @@ KEYWORD_BONUS = [
           'traffic monitoring', 'traffic counting', 'radar', 'speed measurement',
           'detection', 'surveillance', 'bulletin board']),
     (6, ['bus rapid transit', 'public transport', 'mobility', 'road safety',
-         'telematics', 'fare collection', 'ticketing', 'weigh-in-motion']),
+         'telematics', 'fare collection', 'ticketing', 'weigh-in-motion',
+         'autonomous truck', 'self-driving', 'driverless', 'freight', 'cargo',
+         'logistics', 'platooning', 'shuttle']),
 ]
 NEGATIVE = ['cleaning', 'catering', 'insurance', 'audit', 'accounting', 'furniture',
             'stationery', 'medical', 'food', 'gender', 'legal advice',
@@ -451,6 +453,77 @@ def fetch_worldbank(days=7):
     return list(best.values())
 
 
+# ── 사내 게시판 대조 (이미 올린 건 표시)
+#
+# 게시판 API는 로그인 없이 열린다. 발주는 참조번호로 정확히 대조되지만,
+# 기사는 게시판이 영어 제목이고 우리 수집분은 한국어라 문자 대조가 안 된다.
+# 기업·기관 이름 대조로 느슨하게 잡는다 — 최종 판단은 어차피 사람이 한다.
+BOARD_ORDERS = ('https://intl.its.go.kr/api/export/its-orders'
+                '?curPage=%d&lang=ko&searchType=&keyword=&continent=&deadline=&pbanType=')
+BOARD_ORDER_DETAIL = ('https://intl.its.go.kr/api/export/its-orders/%s'
+                      '?curPage=1&continent=&deadline=&searchType=&keyword=&lang=ko')
+BOARD_NOTICES = 'https://intl.its.go.kr/communication/notices?lang=en&curPage=%d'
+
+# 게시판(영문) ↔ 국내 기사(한국어) 이름 대조표. 자주 나오는 것만 둔다.
+BOARD_ALIAS = {
+    'vueron': '뷰런', 'rideflux': '라이드플럭스', 'mars auto': '마스오토',
+    'saesoltech': '새솔테크', 'autocrypt': '아우토크립트', 'autonomous a2z': '오토노머스',
+    'koroad': '도로교통공단', 'molit': '국토교통부', 'kakao': '카카오',
+    'hyundai': '현대', 'kia': '기아', 'tmoney': '티머니', 'naver': '네이버',
+    'socar': '쏘카', 'seoul': '서울', 'busan': '부산', 'incheon': '인천',
+    'gangneung': '강릉', 'deepx': '딥엑스', 'mobilint': '모빌린트',
+    'stradvision': '스트라드비젼', 'thordrive': '토르드라이브', 'lg': 'LG', 'sk': 'SK',
+}
+
+
+def fetch_board_state():
+    """게시판에 이미 올라간 것들. 실패해도 수집 자체는 계속되어야 한다."""
+    refs, titles = set(), []
+    try:
+        for page in (1, 2, 3):
+            d = http_json(BOARD_ORDERS % page)
+            for r in d.get('resultResponses', []):
+                try:
+                    dd = http_json(BOARD_ORDER_DETAIL % r['bno'])
+                except Exception:
+                    continue
+                for v in (dd.get('refNo'), dd.get('link')):
+                    if v:
+                        refs.add(str(v).strip())
+    except Exception as e:
+        print('  게시판(발주) 대조 실패: %s' % e, file=sys.stderr)
+    try:
+        for page in (1, 2):
+            h = http_text(BOARD_NOTICES % page)
+            for _, t in re.findall(r'goToDetail\((\d+)\)">(.*?)</a>', h, re.S):
+                titles.append(strip_tags(t))
+    except Exception as e:
+        print('  게시판(기사) 대조 실패: %s' % e, file=sys.stderr)
+    return refs, titles
+
+
+def mark_posted(items, refs, board_titles):
+    """이미 게시판에 올라간 항목에 표시. 제외하지 않고 표시만 한다."""
+    joined = ' | '.join(board_titles).lower()
+    n = 0
+    for it in items:
+        if it['kind'] == 'tender':
+            keys = [it.get('ref_no'), it.get('project_id'),
+                    (it.get('link') or '').rsplit('/', 1)[-1]]
+            if any(k and any(str(k) in r or r in str(k) for r in refs) for k in keys):
+                it['already_posted'] = True
+                n += 1
+        else:
+            t = (it.get('title') or '').lower()
+            for en, ko in BOARD_ALIAS.items():
+                if en in joined and (ko.lower() in t or en in t):
+                    # 같은 회사가 최근 게시판에 올랐다는 신호일 뿐, 같은 기사라는 뜻은 아니다
+                    it['related_posted'] = en
+                    n += 1
+                    break
+    return n
+
+
 SOURCES = [
     ('ted', fetch_ted),
     ('worldbank', fetch_worldbank),
@@ -526,6 +599,14 @@ def main():
             merged[it['id']] = it
     items = list(merged.values())
 
+    try:
+        refs, board_titles = fetch_board_state()
+        posted = mark_posted(items, refs, board_titles)
+        print('게시판 대조: 참조번호 %d개 / 등록 제목 %d개 → 표시 %d건'
+              % (len(refs), len(board_titles), posted), file=sys.stderr)
+    except Exception as e:
+        print('게시판 대조 건너뜀: %s' % e, file=sys.stderr)
+
     new_count = apply_first_seen(items, seen, today)
     items.sort(key=lambda x: (-x['score'], x.get('deadline') or '9999'))
 
@@ -587,7 +668,19 @@ EN_NEWS_NEGATIVE = ['market size', 'market growth', 'market share', 'market repo
 NEWS_DAILY_CAP = 5   # 보드별 하루 노출 상한
 
 
+def is_english(title):
+    """제목이 영어인지. 라틴 문자 비율만 봐도 충분하다."""
+    t = re.sub(r'[^0-9A-Za-z가-힣]', '', title or '')
+    if not t:
+        return False
+    latin = sum(1 for c in t if c.isascii())
+    return latin / len(t) > 0.7
+
+
 def score_news(title, korean=False):
+    # 한국어 소스라도 제목이 영어면 영어 채점기를 태운다
+    if korean and is_english(title):
+        korean = False
     t = (title or '').lower()
     total, hits = 0, []
     for weight, words in (KO_BONUS if korean else KEYWORD_BONUS):

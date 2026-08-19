@@ -232,6 +232,8 @@ function render() {
         <span class="badge">${it.type || it.source}</span>
         ${ddayBadge(it.deadline)}
         ${isNew ? '<span class="badge new">NEW</span>' : ''}
+        ${it.already_posted ? '<span class="badge done">게시판 기등록</span>' : ''}
+        ${it.related_posted ? `<span class="badge done">${esc(it.related_posted)} 최근 등록</span>` : ''}
       </div>
       <div class="title">${esc(it.title || '')}</div>
       <div class="sub">${(it.kind === 'tender'

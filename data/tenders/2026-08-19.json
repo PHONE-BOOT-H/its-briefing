@@ -35,7 +35,7 @@
    "intelligent transport",
    "signalling"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "ted",
   "first_seen": "2026-08-19"
  },
@@ -484,7 +484,7 @@
    "cpv:48813100",
    "bulletin board"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "ted",
   "first_seen": "2026-08-19"
  },
@@ -904,7 +904,7 @@
   "score_hits": [
    "cpv:34970000"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "ted",
   "first_seen": "2026-08-19"
  },
@@ -1026,7 +1026,7 @@
   "score_hits": [
    "cpv:34970000"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "ted",
   "first_seen": "2026-08-19"
  },
@@ -1090,6 +1090,32 @@
   ],
   "already_posted": false,
   "collector": "ted",
+  "first_seen": "2026-08-19"
+ },
+ {
+  "schema_version": 1,
+  "id": "wbd-099081326195524748",
+  "kind": "tender",
+  "source": "World Bank",
+  "type": "조달예측",
+  "stream": "document",
+  "country": "Viet Nam",
+  "country_ko": "베트남",
+  "title": "Viet Nam - EAST ASIA AND PACIFIC- P169954- Southern Waterway Corridors and Logistics Development Project - Procurement Plan",
+  "org": null,
+  "budget": null,
+  "published": "2026-08-13",
+  "deadline": null,
+  "ref_no": "P169954",
+  "project_id": "P169954",
+  "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099081326195524748",
+  "cpv": [],
+  "score": 46,
+  "score_hits": [
+   "logistics"
+  ],
+  "already_posted": false,
+  "collector": "worldbank",
   "first_seen": "2026-08-19"
  },
  {
@@ -1528,30 +1554,6 @@
  },
  {
   "schema_version": 1,
-  "id": "wbd-099081326195524748",
-  "kind": "tender",
-  "source": "World Bank",
-  "type": "조달예측",
-  "stream": "document",
-  "country": "Viet Nam",
-  "country_ko": "베트남",
-  "title": "Viet Nam - EAST ASIA AND PACIFIC- P169954- Southern Waterway Corridors and Logistics Development Project - Procurement Plan",
-  "org": null,
-  "budget": null,
-  "published": "2026-08-13",
-  "deadline": null,
-  "ref_no": "P169954",
-  "project_id": "P169954",
-  "link": "https://documents.worldbank.org/en/publication/documents-reports/documentdetail/099081326195524748",
-  "cpv": [],
-  "score": 40,
-  "score_hits": [],
-  "already_posted": false,
-  "collector": "worldbank",
-  "first_seen": "2026-08-19"
- },
- {
-  "schema_version": 1,
   "id": "wbd-099081326105093510",
   "kind": "tender",
   "source": "World Bank",
@@ -1764,7 +1766,7 @@
   "cpv": [],
   "score": 25,
   "score_hits": [],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "worldbank",
   "first_seen": "2026-08-19"
  },
@@ -1788,7 +1790,7 @@
   "cpv": [],
   "score": 25,
   "score_hits": [],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "worldbank",
   "first_seen": "2026-08-19"
  },
