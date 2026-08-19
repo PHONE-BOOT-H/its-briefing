@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ITS 해외 발주·동향</title>
+<style>
+  :root {
+    --bg: #f7f7f5; --card: #fff; --line: #e3e3df; --ink: #1a1a18; --dim: #6b6b64;
+    --accent: #1f5f4f; --warn: #b4451f; --new: #1f5f4f;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg:#16161a; --card:#1e1e23; --line:#2e2e35; --ink:#e8e8e4; --dim:#9a9a92;
+            --accent:#6ec3a8; --warn:#e08a63; --new:#6ec3a8; }
+  }
+  * { box-sizing: border-box; }
+  body { margin:0; background:var(--bg); color:var(--ink);
+         font-family:"Pretendard","Malgun Gothic","Segoe UI",system-ui,sans-serif;
+         font-size:15px; line-height:1.5; }
+  header { padding:20px 24px 0; max-width:1100px; margin:0 auto; }
+  h1 { font-size:19px; margin:0 0 4px; letter-spacing:-.02em; }
+  .meta { font-size:13px; color:var(--dim); }
+  .meta .stale { color:var(--warn); font-weight:600; }
+  main { max-width:1100px; margin:0 auto; padding:0 24px 60px; }
+
+  .tabs { display:flex; gap:2px; margin:18px 0 14px; border-bottom:1px solid var(--line); }
+  .tabs button { border:0; background:none; padding:9px 16px; font-size:15px; color:var(--dim);
+                 cursor:pointer; border-bottom:2px solid transparent; font-family:inherit; }
+  .tabs button[aria-selected="true"] { color:var(--ink); border-bottom-color:var(--accent); font-weight:600; }
+
+  .controls { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:16px; }
+  .chip { border:1px solid var(--line); background:var(--card); color:var(--dim);
+          padding:5px 12px; border-radius:999px; font-size:13px; cursor:pointer; font-family:inherit; }
+  .chip[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
+  select, input[type=search], input[type=date] {
+    border:1px solid var(--line); background:var(--card); color:var(--ink);
+    padding:5px 9px; border-radius:6px; font-size:13px; font-family:inherit; }
+  .spacer { flex:1; }
+  .count { font-size:13px; color:var(--dim); }
+
+  .card { background:var(--card); border:1px solid var(--line); border-radius:10px;
+          padding:13px 15px; margin-bottom:8px; cursor:pointer; }
+  .card:hover { border-color:var(--dim); }
+  .row1 { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:5px; }
+  .badge { font-size:11.5px; padding:2px 8px; border-radius:5px; border:1px solid var(--line); color:var(--dim); }
+  .badge.country { border-color:var(--accent); color:var(--accent); font-weight:600; }
+  .badge.new { background:var(--new); color:#fff; border-color:var(--new); font-weight:600; }
+  .badge.dday { border-color:var(--warn); color:var(--warn); font-weight:600; }
+  .badge.done { color:var(--dim); }
+  .card.expired { opacity:.55; }
+  .badge.score { font-variant-numeric:tabular-nums; }
+  .title { font-size:15px; font-weight:600; letter-spacing:-.01em; margin-bottom:4px; }
+  .sub { font-size:13px; color:var(--dim); }
+  .empty { text-align:center; color:var(--dim); padding:60px 0; font-size:14px; }
+
+  dialog { position:relative; border:1px solid var(--line); border-radius:12px;
+           background:var(--card); color:var(--ink); max-width:640px; width:calc(100% - 40px); padding:0; }
+  dialog::backdrop { background:rgba(0,0,0,.45); }
+  .dh { padding:16px 20px 12px; border-bottom:1px solid var(--line); }
+  .dh .title { font-size:16px; margin:6px 0 0; }
+  .db { padding:14px 20px; }
+  .db dl { display:grid; grid-template-columns:100px 1fr; gap:7px 14px; margin:0; font-size:14px; }
+  .db dt { color:var(--dim); }
+  .db dd { margin:0; word-break:break-word; }
+  .df { padding:12px 20px 18px; display:flex; gap:8px; flex-wrap:wrap; }
+  .btn { border:1px solid var(--line); background:var(--card); color:var(--ink); padding:8px 14px;
+         border-radius:7px; font-size:13.5px; cursor:pointer; text-decoration:none; font-family:inherit; }
+  .btn.primary { background:var(--accent); border-color:var(--accent); color:#fff; }
+  .close { position:absolute; right:14px; top:12px; border:0; background:none; color:var(--dim);
+           font-size:20px; cursor:pointer; }
+</style>
+</head>
+<body>
+<header>
+  <h1>ITS 해외 발주·동향</h1>
+  <div class="meta" id="meta">불러오는 중…</div>
+</header>
+
+<main>
+  <div class="tabs" role="tablist">
+    <button role="tab" data-tab="tenders" aria-selected="true">발주정보</button>
+    <button role="tab" data-tab="news" aria-selected="false">기사</button>
+  </div>
+
+  <div class="controls" id="controls">
+    <button class="chip" data-range="7" aria-pressed="true">이번 주</button>
+    <button class="chip" data-range="3">최근 3일</button>
+    <button class="chip" data-range="14">최근 2주</button>
+    <button class="chip" data-range="0">전체</button>
+    <button class="chip" id="onlyNew" aria-pressed="true">신규만</button>
+    <select id="sort">
+      <option value="score">관련도순</option>
+      <option value="deadline">마감임박순</option>
+      <option value="published">최신순</option>
+    </select>
+    <input type="search" id="q" placeholder="검색 (국가·제목·발주처)">
+    <span class="spacer"></span>
+    <span class="count" id="count"></span>
+  </div>
+
+  <div id="list"></div>
+</main>
+
+<dialog id="dlg">
+  <button class="close" onclick="dlg.close()">×</button>
+  <div class="dh"><div id="dBadges"></div><div class="title" id="dTitle"></div></div>
+  <div class="db"><dl id="dFields"></dl></div>
+  <div class="df">
+    <a class="btn primary" id="dLink" target="_blank" rel="noopener">원문 공고 열기 ↗</a>
+    <a class="btn" id="dTrans" target="_blank" rel="noopener">제목 번역 ↗</a>
+    <button class="btn" id="dCopy">등록문 복사</button>
+  </div>
+</dialog>
+
+<script>
+const S = { tab:'tenders', range:7, onlyNew:true, sort:'score', q:'' };
+let ITEMS = [], INDEX = null;
+// 로컬 날짜. toISOString()은 UTC라 한국에서 오전 9시 이전에 열면 하루 밀린다.
+const today = new Date().toLocaleDateString('sv-SE');
+const days = (a,b) => Math.round((new Date(b) - new Date(a)) / 86400000);
+
+// ── URL 상태
+function readURL() {
+  const p = new URLSearchParams(location.search);
+  if (p.get('tab')) S.tab = p.get('tab');
+  if (p.get('range') !== null) S.range = +p.get('range');
+  if (p.get('new') !== null) S.onlyNew = p.get('new') === '1';
+  if (p.get('sort')) S.sort = p.get('sort');
+  if (p.get('q')) S.q = p.get('q');
+}
+function writeURL() {
+  const p = new URLSearchParams();
+  p.set('tab', S.tab); p.set('range', S.range); p.set('new', S.onlyNew ? 1 : 0); p.set('sort', S.sort);
+  if (S.q) p.set('q', S.q);
+  history.replaceState(null, '', '?' + p);
+}
+
+// ── 로드
+async function load() {
+  INDEX = await (await fetch('data/index.json')).json();
+  const files = INDEX.tenders || [];
+  const all = await Promise.all(files.map(f => fetch('data/tenders/' + f).then(r => r.json())));
+  const seen = new Set();
+  ITEMS = [];
+  for (const arr of all.flat()) { // 날짜 파일 간 중복은 id로 합침
+    if (seen.has(arr.id)) continue;
+    seen.add(arr.id); ITEMS.push(arr);
+  }
+  renderMeta(); render();
+}
+
+function renderMeta() {
+  const last = INDEX.last_success ? INDEX.last_success.slice(0,10) : null;
+  const gap = last ? days(last, today) : null;
+  const label = gap === 0 ? '오늘' : gap === 1 ? '어제' : gap + '일 전';
+  const stale = gap !== null && gap > 7;
+  const bad = Object.entries(INDEX.sources || {}).filter(([,v]) => !v.ok).map(([k]) => k);
+  document.getElementById('meta').innerHTML =
+    `마지막 수집: <span class="${stale ? 'stale' : ''}">${last || '알 수 없음'} (${label})</span>` +
+    (bad.length ? ` · 수집 실패: ${bad.join(', ')}` : '');
+}
+
+// ── 필터·정렬
+function visible() {
+  const from = S.range ? new Date(Date.now() - S.range * 86400000).toISOString().slice(0,10) : '0000-00-00';
+  const q = S.q.trim().toLowerCase();
+  let out = ITEMS.filter(it => (it.kind === 'tender') === (S.tab === 'tenders'));
+  out = out.filter(it => (S.onlyNew ? (it.first_seen || it.published) >= from : (it.published || '') >= from));
+  if (q) out = out.filter(it => [it.title, it.org, it.country, it.country_ko, it.ref_no]
+      .filter(Boolean).join(' ').toLowerCase().includes(q));
+  const key = { score: it => -it.score, deadline: it => it.deadline || '9999',
+                published: it => (it.published || '') }[S.sort];
+  out.sort((a,b) => {
+    const ka = key(a), kb = key(b);
+    if (ka < kb) return S.sort === 'published' ? 1 : -1;
+    if (ka > kb) return S.sort === 'published' ? -1 : 1;
+    return (a.deadline || '9999') < (b.deadline || '9999') ? -1 : 1;
+  });
+  return out;
+}
+
+function money(b) {
+  if (!b || !b.amount) return null;
+  const a = b.amount;
+  let s;
+  if (a >= 1e8) { const v = a / 1e8; s = (v >= 100 ? Math.round(v).toLocaleString() : v.toFixed(1).replace(/\.0$/,'')) + '억'; }
+  else if (a >= 1e4) { const v = a / 1e4; s = (v >= 100 ? Math.round(v).toLocaleString() : v.toFixed(1).replace(/\.0$/,'')) + '만'; }
+  else s = a.toLocaleString();
+  return `${b.currency} ${s}`;
+}
+
+// 마감까지 남은 날 → 배지. 오늘 마감과 지난 마감을 구분한다.
+function ddayBadge(deadline) {
+  if (!deadline) return '';
+  const d = days(today, deadline);
+  if (d < 0) return '<span class="badge done">마감됨</span>';
+  if (d === 0) return '<span class="badge dday">오늘 마감</span>';
+  return `<span class="badge dday">D-${d}</span>`;
+}
+
+function render() {
+  const list = document.getElementById('list');
+  const items = visible();
+  document.getElementById('count').textContent = items.length + '건';
+  if (!items.length) {
+    list.innerHTML = `<div class="empty">${S.tab === 'news'
+      ? '기사 수집은 아직 연결되지 않았습니다.' : '조건에 맞는 항목이 없습니다.'}</div>`;
+    return;
+  }
+  list.innerHTML = items.map((it, i) => {
+    const expired = it.deadline && days(today, it.deadline) < 0;
+    const isNew = it.first_seen === today || (it.first_seen && days(it.first_seen, today) <= 1);
+    return `<div class="card${expired ? ' expired' : ''}" data-i="${i}">
+      <div class="row1">
+        <span class="badge country">${it.country_ko || it.country || '-'}</span>
+        <span class="badge">${it.type || it.source}</span>
+        ${ddayBadge(it.deadline)}
+        ${isNew ? '<span class="badge new">NEW</span>' : ''}
+        <span class="badge score">${it.score}점</span>
+      </div>
+      <div class="title">${esc(it.title || '')}</div>
+      <div class="sub">${[esc(it.org || ''), money(it.budget), it.published,
+        it.deadline ? '마감 ' + it.deadline : ''].filter(Boolean).join(' · ')}</div>
+    </div>`;
+  }).join('');
+  [...list.querySelectorAll('.card')].forEach(el =>
+    el.onclick = () => openDetail(items[+el.dataset.i]));
+}
+
+const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+
+function openDetail(it) {
+  document.getElementById('dBadges').innerHTML =
+    `<span class="badge country">${it.country_ko || it.country}</span>
+     <span class="badge">${it.type || ''}</span>
+     ${ddayBadge(it.deadline)}`;
+  document.getElementById('dTitle').textContent = it.title || '';
+  const f = [
+    ['발주처', it.org], ['예산', money(it.budget) || 'N/A'],
+    ['게시일', it.published], ['마감일', it.deadline || '-'],
+    ['참조번호', it.ref_no], ['출처', it.source],
+    ['CPV', (it.cpv || []).join(', ')],
+    ['처음 발견', it.first_seen], ['관련도', it.score + '점 (' + (it.score_hits || []).join(', ') + ')'],
+  ].filter(([,v]) => v);
+  document.getElementById('dFields').innerHTML =
+    f.map(([k,v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('');
+  document.getElementById('dLink').href = it.link;
+  document.getElementById('dTrans').href =
+    'https://papago.naver.com/?sk=auto&tk=ko&st=' + encodeURIComponent(it.title || '');
+  document.getElementById('dCopy').onclick = () => copyTemplate(it);
+  dlg.showModal();
+}
+
+function copyTemplate(it) {
+  const t = [
+    `사업명(원문)  : ${it.title || ''}`,
+    `사업명(한글)  : `,
+    `위치          : ${it.country_ko || it.country || ''}`,
+    `발주처        : ${it.org || ''}`,
+    `예산          : ${money(it.budget) || 'N/A'}`,
+    `마감일        : ${it.deadline || ''}`,
+    `공고유형      : ${it.type || ''}`,
+    `분류          : 교통, 지능형교통체계(ITS)`,
+    `참조번호      : ${it.ref_no || ''}`,
+    `원문링크      : ${it.link}`,
+    `출처          : ${it.source}`,
+    ``,
+    `□ 세부내용`,
+    ` ○ 기본정보`,
+    `  - 사업명 : ${it.title || ''}`,
+    `    * `,
+    `  - 위치 : ${it.country_ko || it.country || ''}`,
+    `  - 시행기관 : ${it.org || ''}`,
+    `  - 재원 : `,
+    `  - 상태 : ${it.type || ''}`,
+    `  - 예산 : ${money(it.budget) || 'N/A'}`,
+    `  - 분야 : 교통, 지능형교통체계(ITS)`,
+  ].join('\n');
+  navigator.clipboard.writeText(t).then(() => {
+    const b = document.getElementById('dCopy');
+    b.textContent = '복사됨 ✓';
+    setTimeout(() => b.textContent = '등록문 복사', 1500);
+  });
+}
+
+// ── 이벤트
+document.querySelectorAll('[role=tab]').forEach(b => b.onclick = () => {
+  S.tab = b.dataset.tab;
+  document.querySelectorAll('[role=tab]').forEach(x =>
+    x.setAttribute('aria-selected', x === b));
+  writeURL(); render();
+});
+document.querySelectorAll('.chip[data-range]').forEach(b => b.onclick = () => {
+  S.range = +b.dataset.range;
+  document.querySelectorAll('.chip[data-range]').forEach(x =>
+    x.setAttribute('aria-pressed', x === b));
+  writeURL(); render();
+});
+document.getElementById('onlyNew').onclick = e => {
+  S.onlyNew = !S.onlyNew;
+  e.target.setAttribute('aria-pressed', S.onlyNew);
+  writeURL(); render();
+};
+document.getElementById('sort').onchange = e => { S.sort = e.target.value; writeURL(); render(); };
+document.getElementById('q').oninput = e => { S.q = e.target.value; writeURL(); render(); };
+
+readURL();
+document.getElementById('sort').value = S.sort;
+document.getElementById('q').value = S.q;
+document.getElementById('onlyNew').setAttribute('aria-pressed', S.onlyNew);
+document.querySelectorAll('[role=tab]').forEach(x =>
+  x.setAttribute('aria-selected', x.dataset.tab === S.tab));
+document.querySelectorAll('.chip[data-range]').forEach(x =>
+  x.setAttribute('aria-pressed', +x.dataset.range === S.range));
+load().catch(e => document.getElementById('list').innerHTML =
+  `<div class="empty">데이터를 불러오지 못했습니다.<br>${esc(e.message)}<br><br>
+   로컬에서 열 때는 <code>python -m http.server</code>로 띄워야 합니다.</div>`);
+</script>
+</body>
+</html>
