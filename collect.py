@@ -14,6 +14,7 @@ import http.cookiejar
 import email.utils
 import collections
 import hashlib
+import html as html_mod
 from datetime import date, datetime, timezone, timedelta
 
 SCHEMA_VERSION = 1
@@ -721,7 +722,7 @@ def rss_items(xml):
 
         def tag(n):
             mm = re.search(r'<%s[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</%s>' % (n, n), b, re.S)
-            return re.sub(r'\s+', ' ', mm.group(1)).strip() if mm else None
+            return html_mod.unescape(re.sub(r'\s+', ' ', mm.group(1))).strip() if mm else None
         d, iso = tag('pubDate'), None
         if d:
             try:
@@ -748,7 +749,7 @@ def gnews(query, hl='en', gl='US'):
 
 
 def strip_tags(s):
-    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', s or '')).strip()
+    return re.sub(r'\s+', ' ', html_mod.unescape(re.sub(r'<[^>]+>', ' ', s or ''))).strip()
 
 
 # 쿼리 세트. 'ITS' 단독 검색은 쓰지 않는다 — 영어 소유격 its가 걸려
@@ -792,6 +793,9 @@ def fetch_news(days=7):
             if media:
                 title = re.sub(r'\s*[-\u2013]\s*' + re.escape(media) + r'\s*$', '', title)
             title = re.sub(r'\s*[-\u2013]\s*[\w.]+\.(com|net|kr|co\.kr)\s*$', '', title)
+            # 매체가 붙이는 섹션 꼬리 — "… > 뉴스", "… | 종합" 류
+            title = re.sub(r'\s*[>\u203a|]\s*(뉴스|종합|속보|기사|홈)\s*$', '', title).strip()
+            title = re.sub(r'\s*[-\u2013|]\s*$', '', title).strip()
             seen_url.add(nu)
             seen_title.add(nt)
             out.append({
