@@ -693,6 +693,12 @@ def fetch_news(days=7):
             sc, hits = score_news(x['title'], korean)
             if sc < min_score:
                 continue
+            # 구글뉴스 제목은 "제목 - 매체명"으로 끝난다. 매체는 따로 표시하므로 뗀다.
+            title = x['title']
+            media = x.get('media')
+            if media:
+                title = re.sub(r'\s*[-\u2013]\s*' + re.escape(media) + r'\s*$', '', title)
+            title = re.sub(r'\s*[-\u2013]\s*[\w.]+\.(com|net|kr|co\.kr)\s*$', '', title)
             seen_url.add(nu)
             seen_title.add(nt)
             out.append({
@@ -701,7 +707,7 @@ def fetch_news(days=7):
                 'kind': 'news', 'board': board, 'source': source,
                 'type': BOARD_TYPE[board],
                 'country': None, 'country_ko': None,
-                'title': x['title'], 'media': x.get('media'), 'org': x.get('media'),
+                'title': title, 'media': media, 'org': media,
                 'published': x.get('date') or date.today().isoformat(),
                 'deadline': None, 'budget': None, 'ref_no': None,
                 'link': x['link'], 'cpv': [],
