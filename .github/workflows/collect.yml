@@ -28,8 +28,8 @@ jobs:
 
       - name: 결과 커밋
         run: |
-          git config user.name  "its-radar-bot"
-          git config user.email "its-radar-bot@users.noreply.github.com"
+          git config user.name  "its-briefing-bot"
+          git config user.email "its-briefing-bot@users.noreply.github.com"
           git add data
           if git diff --cached --quiet; then
             echo "변경 없음 — 커밋 건너뜀"
