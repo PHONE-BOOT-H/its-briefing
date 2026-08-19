@@ -9,7 +9,11 @@ REQUIRED = ['id', 'kind', 'source', 'title', 'link', 'published']
 files = sorted(glob.glob(os.path.join(DATA, 'tenders', '*.json')))
 path = files[-1]
 items = json.load(open(path, encoding='utf-8'))
-print('대상: %s (%d건)\n' % (os.path.basename(path), len(items)))
+news_files = sorted(glob.glob(os.path.join(DATA, 'news', '*.json')))
+news = json.load(open(news_files[-1], encoding='utf-8')) if news_files else []
+items += news
+print('대상: %s (발주 %d + 기사 %d = %d건)\n'
+      % (os.path.basename(path), len(items) - len(news), len(news), len(items)))
 
 # 1. 스키마 자가검사
 print('=== 1. 스키마')
