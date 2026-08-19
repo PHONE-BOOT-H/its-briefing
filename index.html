@@ -48,7 +48,6 @@
   .badge.dday { border-color:var(--warn); color:var(--warn); font-weight:600; }
   .badge.done { color:var(--dim); }
   .card.expired { opacity:.55; }
-  .badge.score { font-variant-numeric:tabular-nums; }
   .title { font-size:15px; font-weight:600; letter-spacing:-.01em; margin-bottom:4px; }
   .sub { font-size:13px; color:var(--dim); }
   .empty { text-align:center; color:var(--dim); padding:60px 0; font-size:14px; }
@@ -162,7 +161,9 @@ function renderMeta() {
 
 // ── 필터·정렬
 function visible() {
-  const from = S.range ? new Date(Date.now() - S.range * 86400000).toISOString().slice(0,10) : '0000-00-00';
+  const from = S.range
+    ? new Date(Date.now() - S.range * 86400000).toLocaleDateString('sv-SE')  // 로컬 기준
+    : '0000-00-00';
   const q = S.q.trim().toLowerCase();
   let out = ITEMS.filter(it => (it.kind === 'tender') === (S.tab === 'tenders'));
   out = out.filter(it => (S.onlyNew ? (it.first_seen || it.published) >= from : (it.published || '') >= from));
