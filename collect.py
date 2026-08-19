@@ -10,6 +10,10 @@ import sys
 import urllib.parse
 import urllib.request
 import urllib.error
+import http.cookiejar
+import email.utils
+import collections
+import hashlib
 from datetime import date, datetime, timezone, timedelta
 
 SCHEMA_VERSION = 1
@@ -450,6 +454,7 @@ def fetch_worldbank(days=7):
 SOURCES = [
     ('ted', fetch_ted),
     ('worldbank', fetch_worldbank),
+    ('news', None),          # 기사는 fetch_news()로 따로 수집한다 (main 참조)
     # SAM.gov 보류: 창 내 215건 중 ITS 핵심어에 걸리는 건이 0건이었다.
     # 미국 ITS 발주는 주(state) DOT 소관이라 연방 조달망에 거의 오지 않는다.
     # 함수는 남겨둔다 — 나중에 주 단위 포털을 붙일 때 참고용.
@@ -487,14 +492,32 @@ def main():
     items, status = [], {}
 
     for name, fn in SOURCES:
+        if fn is None:
+            fn = fetch_news
         try:
             got = fn()
+            for g in got:
+                g['collector'] = name
             items.extend(got)
             status[name] = {'ok': True, 'count': len(got), 'at': now.isoformat()}
             print('[%s] %d건' % (name, len(got)), file=sys.stderr)
         except Exception as e:
             status[name] = {'ok': False, 'count': 0, 'at': now.isoformat(), 'error': str(e)[:200]}
             print('[%s] 실패: %s' % (name, e), file=sys.stderr)
+
+    # 실패한 소스는 오늘 파일에 남아 있던 결과를 되살린다.
+    # 일시적인 네트워크 장애로 그날 수집분이 통째로 사라지는 것을 막는다.
+    failed = [n for n, st in status.items() if not st['ok']]
+    if failed:
+        for sub in ('tenders', 'news'):
+            path = os.path.join(DATA, sub, '%s.json' % today)
+            if not os.path.exists(path):
+                continue
+            with open(path, encoding='utf-8') as f:
+                for old in json.load(f):
+                    if old.get('collector') in failed:
+                        items.append(old)
+        print('실패한 소스 %s → 이전 결과에서 복원' % ', '.join(failed), file=sys.stderr)
 
     # id 기준 중복 제거 (소스 간 병합)
     merged = {}
@@ -510,17 +533,280 @@ def main():
         print('수집 결과 0건 — 실패 처리', file=sys.stderr)
         sys.exit(1)
 
+    tenders = [i for i in items if i['kind'] == 'tender']
+    news = [i for i in items if i['kind'] == 'news']
+    os.makedirs(os.path.join(DATA, 'news'), exist_ok=True)
     with open(os.path.join(DATA, 'tenders', '%s.json' % today), 'w', encoding='utf-8') as f:
-        json.dump(items, f, ensure_ascii=False, indent=1)
+        json.dump(tenders, f, ensure_ascii=False, indent=1)
+    if news:
+        with open(os.path.join(DATA, 'news', '%s.json' % today), 'w', encoding='utf-8') as f:
+            json.dump(news, f, ensure_ascii=False, indent=1)
     with open(SEEN_PATH, 'w', encoding='utf-8') as f:
         json.dump(seen, f, ensure_ascii=False, indent=1, sort_keys=True)
 
     index = {'schema_version': SCHEMA_VERSION, 'last_success': now.isoformat(), 'sources': status,
-             'tenders': sorted(os.listdir(os.path.join(DATA, 'tenders')))}
+             'tenders': sorted(os.listdir(os.path.join(DATA, 'tenders'))),
+             'news': sorted(os.listdir(os.path.join(DATA, 'news')))
+                     if os.path.isdir(os.path.join(DATA, 'news')) else []}
     with open(os.path.join(DATA, 'index.json'), 'w', encoding='utf-8') as f:
         json.dump(index, f, ensure_ascii=False, indent=1)
 
-    print('총 %d건 (신규 %d건) → data/tenders/%s.json' % (len(items), new_count, today), file=sys.stderr)
+    print('총 %d건 (발주 %d / 기사 %d, 신규 %d건)'
+          % (len(items), len(tenders), len(news), new_count), file=sys.stderr)
+
+
+
+
+# ══════════════════════════════════════════════════════════════════
+# 기사 수집 — 보드 A(해외 영어) / 보드 B(국내) / 국내 동향(정책·법제도)
+# ══════════════════════════════════════════════════════════════════
+
+BROWSER_UA = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
+_OPENER = urllib.request.build_opener(
+    urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+_OPENER.addheaders = [('User-Agent', BROWSER_UA)]
+
+# 한국어 기사 채점. 영어 기사는 KEYWORD_BONUS를 그대로 쓴다.
+KO_BONUS = [
+    (20, ['지능형교통체계', 'c-its', '자율주행', '교통관제', '교통 관제', 'v2x']),
+    (12, ['신호', '스마트교통', '스마트 교통', '교통정보', '요금징수', '하이패스',
+          '단속', '과속', '교통량', '버스정보', '주차', 'brt', '수요응답',
+          '레벨4', '모빌리티', '차량통신', '입법예고', '시행령', '개정']),
+    (6, ['교통', '도로', '철도', '물류', '대중교통', '스마트시티', '국토교통부',
+         '자동차', '고속도로', '지하철', 'ktx', '버스', '택시', '화물', '운전',
+         'npu', '반도체', '카메라', '관제', '단속', '통신']),
+]
+KO_NEGATIVE = ['부고', '인사이동', '주가', '증시', '코스피', '분양', '아파트값', '날씨', '부동산',
+               '시장 규모', '시장규모', '점유율', '시장 전망', '리포트 발간', '보고서 발간']
+
+# 영어 기사 전용 차단어. 시장조사 보도자료와 항공교통관제(ITS 아님)를 걸러낸다.
+EN_NEWS_NEGATIVE = ['market size', 'market growth', 'market share', 'market report',
+                    'market to reach', 'market analysis', 'cagr', 'forecast to 20',
+                    'air traffic', 'air navigation']
+
+NEWS_DAILY_CAP = 5   # 보드별 하루 노출 상한
+
+
+def score_news(title, korean=False):
+    t = (title or '').lower()
+    total, hits = 0, []
+    for weight, words in (KO_BONUS if korean else KEYWORD_BONUS):
+        matched = [w for w in words if w in t]
+        for i, w in enumerate(matched[:2]):
+            total += weight if i == 0 else weight // 2
+            hits.append(w)
+    stop = KO_NEGATIVE if korean else (NEGATIVE + EN_NEWS_NEGATIVE)
+    for w in stop:
+        if w in t:
+            total -= 25   # 기사에서는 차단어가 걸리면 사실상 탈락시킨다
+            hits.append('-' + w)
+    return max(0, min(100, total)), hits
+
+
+def norm_url(u):
+    """추적 파라미터 제거 + 프로토콜·www 통일. 기사 중복 판정용."""
+    if not u:
+        return ''
+    u = re.sub(r'^https?://', '', u)
+    u = re.sub(r'^www\.', '', u)
+    base, _, qs = u.partition('?')
+    keep = [kv for kv in qs.split('&')
+            if kv and not re.match(r'(utm_|fbclid|gclid|ref=|src=)', kv)]
+    return base.rstrip('/') + (('?' + '&'.join(keep)) if keep else '')
+
+
+def norm_title(s):
+    """매체명 꼬리와 기호를 떼어 같은 사안을 묶는다. 완벽할 필요 없다 — 최종 필터는 사람이다."""
+    s = re.sub(r'\s*[-\u2013|]\s*[^-\u2013|]{2,20}$', '', s or '')
+    return re.sub(r'[^0-9a-z가-힣]', '', s.lower())
+
+
+def rss_items(xml):
+    out = []
+    for m in re.finditer(r'<item>(.*?)</item>', xml, re.S):
+        b = m.group(1)
+
+        def tag(n):
+            mm = re.search(r'<%s[^>]*>(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?</%s>' % (n, n), b, re.S)
+            return re.sub(r'\s+', ' ', mm.group(1)).strip() if mm else None
+        d, iso = tag('pubDate'), None
+        if d:
+            try:
+                iso = email.utils.parsedate_to_datetime(d).date().isoformat()
+            except Exception:
+                pass
+        out.append({'title': tag('title'), 'link': tag('link'),
+                    'date': iso, 'media': tag('source')})
+    return out
+
+
+def http_text(url, timeout=45, session=False):
+    if session:
+        return _OPENER.open(url, timeout=timeout).read().decode('utf-8', 'ignore')
+    req = urllib.request.Request(url, headers={'User-Agent': BROWSER_UA})
+    with urllib.request.urlopen(req, timeout=timeout) as r:
+        return r.read().decode('utf-8', 'ignore')
+
+
+def gnews(query, hl='en', gl='US'):
+    u = ('https://news.google.com/rss/search?q=%s&hl=%s&gl=%s&ceid=%s:%s'
+         % (urllib.parse.quote(query), hl, gl, gl, hl))
+    return rss_items(http_text(u))
+
+
+def strip_tags(s):
+    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', s or '')).strip()
+
+
+# 쿼리 세트. 'ITS' 단독 검색은 쓰지 않는다 — 영어 소유격 its가 걸려
+# 실측에서 66건 중 대부분이 오탐이었다.
+GNEWS_EN = ['"intelligent transport system" when:7d',
+            '"traffic management system" when:7d',
+            '"traffic signal" upgrade OR contract when:7d',
+            '"smart traffic" when:7d',
+            '"toll collection" system when:7d',
+            '"traffic monitoring" when:7d',
+            'V2X OR "connected vehicle" deployment when:7d',
+            'autonomous shuttle OR "autonomous bus" pilot when:7d']
+GNEWS_KO = ['지능형교통체계 when:7d', 'C-ITS when:7d', '자율주행 수주 OR 계약 when:7d',
+            '교통 관제 시스템 구축 when:7d', 'V2X 통신 when:7d']
+GNEWS_POL = ['자율주행 법안 OR 개정 when:7d', '도로교통법 개정 when:7d',
+             'C-ITS 사업 when:7d', '국토교통부 모빌리티 정책 when:7d',
+             '자율주행 시범운행지구 when:7d']
+
+BOARD_TYPE = {'A': '해외기사', 'B': '국내기사', 'P': '국내동향'}
+
+
+def fetch_news(days=7):
+    start = (date.today() - timedelta(days=days)).isoformat()
+    out, seen_url, seen_title = [], set(), set()
+
+    def add(items, board, korean, source, min_score):
+        for x in items:
+            if not x.get('title') or not x.get('link'):
+                continue
+            if x.get('date') and x['date'] < start:
+                continue
+            nu, nt = norm_url(x['link']), norm_title(x['title'])
+            if nu in seen_url or (nt and nt in seen_title):
+                continue
+            sc, hits = score_news(x['title'], korean)
+            if sc < min_score:
+                continue
+            seen_url.add(nu)
+            seen_title.add(nt)
+            out.append({
+                'schema_version': SCHEMA_VERSION,
+                'id': 'news-%s' % hashlib.md5(nu.encode('utf-8')).hexdigest()[:12],
+                'kind': 'news', 'board': board, 'source': source,
+                'type': BOARD_TYPE[board],
+                'country': None, 'country_ko': None,
+                'title': x['title'], 'media': x.get('media'), 'org': x.get('media'),
+                'published': x.get('date') or date.today().isoformat(),
+                'deadline': None, 'budget': None, 'ref_no': None,
+                'link': x['link'], 'cpv': [],
+                'score': sc, 'score_hits': hits, 'already_posted': False,
+            })
+
+    for q in GNEWS_EN:
+        add(gnews(q), 'A', False, 'Google News', 12)
+    for q in GNEWS_KO:
+        add(gnews(q, 'ko', 'KR'), 'B', True, 'Google News', 20)
+    for q in GNEWS_POL:
+        add(gnews(q, 'ko', 'KR'), 'P', True, 'Google News', 20)
+
+    # itskorea — 사람이 이미 골라놓은 목록 (type=8 국내동향, type=9 해외영문)
+    for t, board, korean in [(8, 'B', True), (9, 'A', False)]:
+        try:
+            h = http_text('https://itskorea.kr/boardList.do?type=%d&currentPage=1' % t)
+            anchor = re.compile(r'boardDetail\.do\?type=%d&idx=(\d+)[^>]*>(.*?)</a>' % t, re.S)
+            for m in anchor.finditer(h):
+                idx, title = m.group(1), strip_tags(m.group(2))
+                title = re.sub(r'\s*새글$', '', title)
+                win = h[m.end():m.end() + 700]           # 날짜는 제목 뒤 <dd>에 있다
+                dm = re.search(r'(20\d\d[-.]\d\d[-.]\d\d)', win)
+                add([{'title': title,
+                      'link': 'https://itskorea.kr/boardDetail.do?type=%d&idx=%s' % (t, idx),
+                      'date': dm.group(1).replace('.', '-') if dm else None,
+                      'media': 'ITS Korea'}],
+                    board, korean, 'ITS Korea', 0)   # 협회가 이미 골라놓은 목록
+        except Exception as e:
+            print('  itskorea type=%d 실패: %s' % (t, e), file=sys.stderr)
+
+    # 국토교통부 보도자료 — 세션 쿠키 없으면 307 리다이렉트 루프에 빠진다
+    try:
+        h = http_text('https://www.molit.go.kr/USR/NEWS/m_71/lst.jsp', session=True)
+        for href, title in re.findall(r'<a[^>]+href="([^"]*dtl[^"]*)"[^>]*>(.*?)</a>', h, re.S):
+            add([{'title': strip_tags(title), 'media': '국토교통부', 'date': None,
+                  'link': 'https://www.molit.go.kr/USR/NEWS/m_71/' + href.replace('&amp;', '&')}],
+                'P', True, '국토교통부', 6)   # 부처 원문 — 교통 관련어 하나라도 걸리면 통과
+    except Exception as e:
+        print('  국토부 실패: %s' % e, file=sys.stderr)
+
+    # 법제처 입법예고 — 교통 관련 분야만
+    try:
+        h = http_text('https://opinion.lawmaking.go.kr/gcom/ogLmPp')
+        for r in re.findall(r'<tr[^>]*>(.*?)</tr>', h, re.S):
+            tds = [strip_tags(x) for x in re.findall(r'<td[^>]*>(.*?)</td>', r, re.S)]
+            if len(tds) < 3:
+                continue
+            if not any(k in ' '.join(tds) for k in
+                       ['교통', '도로', '자동차', '철도', '자전거', '운수', '물류']):
+                continue
+            # 제목은 법령명이 든 칸이다. 길이만으로 고르면 날짜 칸이 잡힌다.
+            cand = [t for t in tds if re.search(r'(법률안|령안|규칙안|입법예고|법 시행)', t)]
+            if not cand:
+                continue
+            lm = re.search(r'/gcom/ogLmPp/(\d+)', r)
+            add([{'title': max(cand, key=len), 'media': '법제처 입법예고', 'date': None,
+                  'link': ('https://opinion.lawmaking.go.kr/gcom/ogLmPp/%s' % lm.group(1))
+                          if lm else 'https://opinion.lawmaking.go.kr/gcom/ogLmPp'}],
+                'P', True, '법제처', 0)
+    except Exception as e:
+        print('  법제처 실패: %s' % e, file=sys.stderr)
+
+    # 근접중복 묶기 — 같은 사안을 여러 매체가 쓴다.
+    # URL·제목 완전일치만으로는 못 잡는다(실측: 천안 자율주행버스 4건, 강남 심야택시 5건).
+    # 상한이 하루 5건이라 한 사안이 상한을 통째로 먹는 게 실질 문제여서 여기서 묶는다.
+    # 단어 토큰으로는 한국어가 안 묶인다 — '천안'과 '천안시'가 다른 토큰이라
+    # 유사도가 0.33까지 떨어진다(실측). 문자 바이그램으로 본다.
+    def tokens(t):
+        t = re.sub(r'[^0-9a-z가-힣]', '', (t or '').lower())
+        return set(t[i:i + 2] for i in range(len(t) - 1))
+
+    out.sort(key=lambda x: -x['score'])
+    kept = []
+    for it in out:
+        tk = tokens(it['title'])
+        dup = False
+        for k in kept:
+            if k['board'] != it['board']:
+                continue
+            a, b = tk, k['_tk']
+            if a and b and len(a & b) / len(a | b) >= 0.34:
+                dup = True
+                break
+        if not dup:
+            it['_tk'] = tk
+            kept.append(it)
+    for k in kept:
+        k.pop('_tk', None)
+    out = kept
+
+    # 상한: 소스 계열별로 따로 센다.
+    # 한 통에 넣고 점수로 자르면 32점 뉴스가 24점 부처 원문을 밀어낸다(실측 확인).
+    EXEMPT = ('국토교통부', '법제처')      # 주 3~5건, 검토 가치 높음 — 상한 없음
+    capped, per = [], collections.Counter()
+    for it in sorted(out, key=lambda x: (-x['score'], x['published'])):
+        if it['source'] in EXEMPT:
+            capped.append(it)
+            continue
+        k = (it['source'] == 'ITS Korea', it['board'], it['published'])
+        if per[k] >= NEWS_DAILY_CAP:
+            continue
+        per[k] += 1
+        capped.append(it)
+    return capped
 
 
 if __name__ == '__main__':
