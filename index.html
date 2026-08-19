@@ -216,7 +216,6 @@ function render() {
         <span class="badge">${it.type || it.source}</span>
         ${ddayBadge(it.deadline)}
         ${isNew ? '<span class="badge new">NEW</span>' : ''}
-        <span class="badge score">${it.score}점</span>
       </div>
       <div class="title">${esc(it.title || '')}</div>
       <div class="sub">${[esc(it.org || ''), money(it.budget), it.published,
@@ -240,7 +239,8 @@ function openDetail(it) {
     ['게시일', it.published], ['마감일', it.deadline || '-'],
     ['참조번호', it.ref_no], ['출처', it.source],
     ['CPV', (it.cpv || []).join(', ')],
-    ['처음 발견', it.first_seen], ['관련도', it.score + '점 (' + (it.score_hits || []).join(', ') + ')'],
+    ['처음 발견', it.first_seen],
+    ['관련', (it.score_hits || []).filter(h => !h.startsWith('-')).map(h => h.replace(/^cpv:/, 'CPV ')).join(', ')],
   ].filter(([,v]) => v);
   document.getElementById('dFields').innerHTML =
     f.map(([k,v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('');
