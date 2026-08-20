@@ -444,14 +444,14 @@ def fetch_worldbank(days=7):
                 'already_posted': False,
             }
 
-    # 같은 사업(P번호)에서 여러 자료가 잡히면 가장 구체적인 것 하나만 (조달공고 > 문서)
-    best = {}
-    for it in out.values():
-        k = it.get('project_id') or it['id']
-        cur = best.get(k)
-        if cur is None or (cur['stream'] == 'document' and it['stream'] == 'notice'):
-            best[k] = it
-    return list(best.values())
+    # 같은 사업에서 조달공고와 문서가 함께 잡히면 문서를 버린다.
+    # 단 공고끼리는 남긴다 — 한 사업에 용역·공사 공고가 따로 뜨는 일이 흔하고,
+    # 프로젝트당 1건으로 접으면 그중 하나가 통째로 사라진다.
+    notices = [it for it in out.values() if it['stream'] == 'notice']
+    covered = {it.get('project_id') for it in notices if it.get('project_id')}
+    docs = [it for it in out.values()
+            if it['stream'] == 'document' and it.get('project_id') not in covered]
+    return notices + docs
 
 
 # ── 사내 게시판 대조 (이미 올린 건 표시)
