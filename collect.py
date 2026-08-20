@@ -14,6 +14,7 @@ import http.cookiejar
 import email.utils
 import collections
 import hashlib
+import time
 import html as html_mod
 from datetime import date, datetime, timezone, timedelta
 
@@ -811,12 +812,18 @@ def fetch_news(days=7):
                 'score': sc, 'score_hits': hits, 'already_posted': False,
             })
 
-    for q in GNEWS_EN:
-        add(gnews(q), 'A', False, 'Google News', 12)
-    for q in GNEWS_KO:
-        add(gnews(q, 'ko', 'KR'), 'B', True, 'Google News', 20)
-    for q in GNEWS_POL:
-        add(gnews(q, 'ko', 'KR'), 'P', True, 'Google News', 20)
+    # 쿼리 18개를 한 덩어리로 돌리면 하나만 실패해도 news 수집 전체가 죽는다.
+    # 쿼리마다 격리하고 1초씩 띄운다.
+    plan = ([(q, 'A', False, 'en', 'US', 12) for q in GNEWS_EN]
+            + [(q, 'B', True, 'ko', 'KR', 20) for q in GNEWS_KO]
+            + [(q, 'P', True, 'ko', 'KR', 20) for q in GNEWS_POL])
+    for i, (q, board, korean, hl, gl, floor) in enumerate(plan):
+        try:
+            add(gnews(q, hl, gl), board, korean, 'Google News', floor)
+        except Exception as e:
+            print('  구글뉴스 쿼리 실패 [%s]: %s' % (q, e), file=sys.stderr)
+        if i < len(plan) - 1:
+            time.sleep(1)
 
     # itskorea — 사람이 이미 골라놓은 목록 (type=8 국내동향, type=9 해외영문)
     for t, board, korean in [(8, 'B', True), (9, 'A', False)]:
