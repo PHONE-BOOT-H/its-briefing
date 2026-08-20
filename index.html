@@ -268,10 +268,10 @@ function render() {
     const isNew = it.first_seen === today;   // 어제 것까지 NEW로 두면 배지가 의미를 잃는다
     return `<div class="card${expired ? ' expired' : ''}" data-i="${i}">
       <div class="row1">
-        ${it.kind === 'tender'
-          ? `<span class="badge country">${it.country_ko || it.country || '-'}</span>`
-          : `<span class="badge country">${esc(it.media || it.source || '')}</span>`}
-        <span class="badge">${it.type || it.source}</span>
+        <span class="badge country">${esc(it.kind === 'tender'
+          ? (it.country_ko || it.country || '-')
+          : (it.media || it.source || ''))}</span>
+        <span class="badge">${esc(it.type || it.source || '')}</span>
         ${ddayBadge(it.deadline)}
         ${isNew ? '<span class="badge new">NEW</span>' : ''}
         ${it.already_posted ? '<span class="badge done">게시판 기등록</span>' : ''}
@@ -292,9 +292,12 @@ function render() {
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
 function openDetail(it) {
+  const head = it.kind === 'tender'
+    ? (it.country_ko || it.country || '-')
+    : (it.media || it.source || '');
   document.getElementById('dBadges').innerHTML =
-    `<span class="badge country">${it.country_ko || it.country}</span>
-     <span class="badge">${it.type || ''}</span>
+    `<span class="badge country">${esc(head)}</span>
+     <span class="badge">${esc(it.type || '')}</span>
      ${ddayBadge(it.deadline)}`;
   document.getElementById('dTitle').textContent = it.title || '';
   const f = it.kind === 'news' ? [
@@ -311,7 +314,8 @@ function openDetail(it) {
   ].filter(([,v]) => v);
   document.getElementById('dFields').innerHTML =
     f.map(([k,v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('');
-  document.getElementById('dLink').href = it.link;
+  const safe = /^https?:\/\//i.test(it.link || '') ? it.link : '#';
+  document.getElementById('dLink').href = safe;
   document.getElementById('dTrans').href =
     'https://papago.naver.com/?sk=auto&tk=ko&st=' + encodeURIComponent(it.title || '');
   document.getElementById('dCopy').onclick = () => copyTemplate(it);
