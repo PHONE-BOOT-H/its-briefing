@@ -9,9 +9,15 @@ on:
 permissions:
   contents: write
 
+# 크론과 수동 실행이 겹치면 같은 파일을 두 번 커밋해 푸시가 충돌한다
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
+    timeout-minutes: 15      # 소스가 응답을 안 주면 러너가 6시간 물린다
     steps:
       - uses: actions/checkout@v4
 

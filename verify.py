@@ -1,6 +1,6 @@
 """수집 결과 자가검증. 스키마·날짜·점수분포·중복."""
 import json, os, sys, glob, collections, random
-from datetime import date
+from datetime import datetime, timedelta, timezone
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, 'data')
@@ -30,7 +30,7 @@ bad_date = [it['id'] for it in items
 print('  published 형식 오류: %d건' % len(bad_date))
 
 no_deadline = [it for it in items if not it.get('deadline')]
-today = date.today().isoformat()
+today = datetime.now(timezone(timedelta(hours=9))).date().isoformat()  # 러너는 UTC
 past = [it for it in items if it.get('deadline') and it['deadline'] < today]
 print('  마감일 없음: %d건 / 이미 지난 마감: %d건' % (len(no_deadline), len(past)))
 if past:
@@ -70,6 +70,35 @@ for it in random.sample(items, min(5, len(items))):
     print('    %s' % (it['title'] or '')[:95])
     print('    %s' % it['link'])
 
+# ── 채점기 회귀 테스트
+# 실측에서 실제로 틀렸던 3건을 고정 입력으로 박아둔다.
+# 채점 규칙을 만질 때 이 셋이 깨지면 예전 실수로 돌아간 것이다.
+print('\n=== 채점기 회귀 테스트')
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import collect
+
+LITMUS = [
+    # (설명, 제목, CPV, 기대 조건)
+    ('체코 과속단속 레이더 — CPV가 ITS인데 제목엔 ITS 단어가 없다',
+     'Czechia – Radar sets – Mesto Chrudim - Mereni rychlosti v obcich',
+     ['34932000', '34971000', '34996000'], lambda s: s >= 50),
+    ('스페인 잡화 조달 — CPV 39개 중 ITS는 하나뿐',
+     'Spain – Construction structures and materials',
+     ['14210000', '18100000', '24000000', '31000000', '31500000', '32000000',
+      '33192000', '34928000', '34996000', '35111300', '37400000', '39110000',
+      '42600000', '44000000', '45212221'], lambda s: s <= 15),
+    ('브르노 ITS 3단계 — 부수 CPV가 붙어도 깎이면 안 된다',
+     'Czechia – Control, safety or signalling equipment for roads – Rozvoj ITS v Brne',
+     ['32333200', '32500000', '34996000', '35125300', '45000000'], lambda s: s >= 60),
+]
+reg_fail = []
+for desc, title, cpv, ok in LITMUS:
+    sc, _ = collect.score_item(title, cpv)
+    good = ok(sc)
+    print('  %s %3d점  %s' % ('OK ' if good else '실패', sc, desc))
+    if not good:
+        reg_fail.append(desc)
+
 # ── CI 게이트: 아래는 데이터가 망가진 것이므로 실패로 끝낸다
 hard = []
 if miss:
@@ -82,6 +111,8 @@ if dup:
     hard.append('중복 id %d건' % len(dup))
 if mismatch:
     hard.append('장부와 first_seen 불일치 %d건' % len(mismatch))
+if reg_fail:
+    hard.append('채점기 회귀 %d건' % len(reg_fail))
 
 print()
 if hard:

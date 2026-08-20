@@ -24,6 +24,11 @@ DATA = os.path.join(ROOT, 'data')
 SEEN_PATH = os.path.join(DATA, 'seen.json')
 KST = timezone(timedelta(hours=9))
 
+
+def today_kst():
+    """수집 기준일. 러너는 UTC라 date.today()를 쓰면 새벽 실행에서 하루가 밀린다."""
+    return datetime.now(KST).date()
+
 # ── 국가 코드 → 한글 (ISO3 기준, 필요한 것만)
 COUNTRY_KO = {
     'DEU': '독일', 'ESP': '스페인', 'CZE': '체코', 'POL': '폴란드', 'ROU': '루마니아',
@@ -154,7 +159,7 @@ def score_item(title, cpv_list):
 
 # ── 공통 유틸
 def http_json(url, payload=None, headers=None, timeout=60):
-    hdr = {'User-Agent': 'its-radar/1.0'}
+    hdr = {'User-Agent': 'its-briefing/1.0 (+https://github.com/PHONE-BOOT-H/its-briefing)'}
     if headers:
         hdr.update(headers)
     data = None
@@ -283,7 +288,7 @@ def strip_html(s):
 
 
 def fetch_samgov(days=7):
-    start = (date.today() - timedelta(days=days)).isoformat()
+    start = (today_kst() - timedelta(days=days)).isoformat()
     rows, out = [], []
     for page in range(6):
         d = http_json(SAM_URL % page, headers=SAM_HEADERS)
@@ -374,7 +379,7 @@ def wb_date(s):
 
 
 def fetch_worldbank(days=7):
-    start = (date.today() - timedelta(days=days)).isoformat()
+    start = (today_kst() - timedelta(days=days)).isoformat()
     out = {}
 
     # A. 조달공고 → 입찰
@@ -510,9 +515,10 @@ def mark_posted(items, refs, board_titles):
     n = 0
     for it in items:
         if it['kind'] == 'tender':
-            keys = [it.get('ref_no'), it.get('project_id'),
-                    (it.get('link') or '').rsplit('/', 1)[-1]]
-            if any(k and any(str(k) in r or r in str(k) for r in refs) for k in keys):
+            keys = [k for k in (it.get('ref_no'), it.get('project_id'),
+                                (it.get('link') or '').rsplit('/', 1)[-1])
+                    if k and len(str(k)) >= 6]   # 짧은 번호는 우연히 겹친다
+            if any(any(str(k) in r or r in str(k) for r in refs) for k in keys):
                 it['already_posted'] = True
                 n += 1
         else:
@@ -773,7 +779,7 @@ BOARD_TYPE = {'A': '해외기사', 'B': '국내기사', 'P': '국내동향'}
 
 
 def fetch_news(days=7):
-    start = (date.today() - timedelta(days=days)).isoformat()
+    start = (today_kst() - timedelta(days=days)).isoformat()
     out, seen_url, seen_title = [], set(), set()
 
     def add(items, board, korean, source, min_score):
@@ -801,12 +807,15 @@ def fetch_news(days=7):
             seen_title.add(nt)
             out.append({
                 'schema_version': SCHEMA_VERSION,
-                'id': 'news-%s' % hashlib.md5(nu.encode('utf-8')).hexdigest()[:12],
+                # id를 링크 해시로 만들면 안 된다 — 구글뉴스 RSS 링크는 요청마다 바뀌는
+                # 불투명 토큰이라 같은 기사가 매번 새 id를 받고, 매일 '신규'로 다시 뜬다.
+                # 정규화한 제목이 훨씬 안정적이다.
+                'id': 'news-%s' % hashlib.md5((nt or nu).encode('utf-8')).hexdigest()[:12],
                 'kind': 'news', 'board': board, 'source': source,
                 'type': BOARD_TYPE[board],
                 'country': None, 'country_ko': None,
                 'title': title, 'media': media, 'org': media,
-                'published': x.get('date') or date.today().isoformat(),
+                'published': x.get('date') or today_kst().isoformat(),
                 'deadline': None, 'budget': None, 'ref_no': None,
                 'link': x['link'], 'cpv': [],
                 'score': sc, 'score_hits': hits, 'already_posted': False,
