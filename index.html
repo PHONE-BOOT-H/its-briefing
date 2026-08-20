@@ -144,18 +144,40 @@ function writeURL() {
 }
 
 // ── 로드
+// 파일이 하루에 두 개씩 쌓인다. 1년이면 700개라 전부 받으면 첫 화면이 느려진다.
+// 기본은 최근 14일치만 받고, '전체'를 고를 때만 나머지를 더 받는다.
+const RECENT_DAYS = 14;
+let loadedAll = false;
+
+function filePaths(all) {
+  const cut = new Date(Date.now() - RECENT_DAYS * 86400000).toLocaleDateString('sv-SE');
+  const pick = (list, dir) => (list || [])
+    .filter(f => all || f.slice(0, 10) >= cut)
+    .map(f => 'data/' + dir + '/' + f);
+  return [...pick(INDEX.tenders, 'tenders'), ...pick(INDEX.news, 'news')];
+}
+
+async function fetchInto(paths) {
+  const got = await Promise.all(paths.map(p => fetch(p).then(r => r.json()).catch(() => [])));
+  const seen = new Set(ITEMS.map(i => i.id));
+  for (const it of got.flat()) {          // 날짜 파일 간 중복은 id로 합침
+    if (seen.has(it.id)) continue;
+    seen.add(it.id); ITEMS.push(it);
+  }
+}
+
 async function load() {
   INDEX = await (await fetch('data/index.json')).json();
-  const paths = [...(INDEX.tenders || []).map(f => 'data/tenders/' + f),
-                 ...(INDEX.news || []).map(f => 'data/news/' + f)];
-  const all = await Promise.all(paths.map(p => fetch(p).then(r => r.json()).catch(() => [])));
-  const seen = new Set();
-  ITEMS = [];
-  for (const arr of all.flat()) { // 날짜 파일 간 중복은 id로 합침
-    if (seen.has(arr.id)) continue;
-    seen.add(arr.id); ITEMS.push(arr);
-  }
+  await fetchInto(filePaths(false));
   renderMeta(); render();
+}
+
+async function loadRest() {
+  if (loadedAll) return;
+  loadedAll = true;
+  const have = new Set(filePaths(false));
+  await fetchInto(filePaths(true).filter(p => !have.has(p)));
+  render();
 }
 
 function renderMeta() {
@@ -360,6 +382,7 @@ document.querySelectorAll('.chip[data-board]').forEach(b => b.onclick = () => {
 });
 document.querySelectorAll('.chip[data-range]').forEach(b => b.onclick = () => {
   S.range = +b.dataset.range;
+  if (S.range === 0) loadRest();
   document.querySelectorAll('.chip[data-range]').forEach(x =>
     x.setAttribute('aria-pressed', x === b));
   writeURL(); render();
@@ -383,7 +406,7 @@ document.querySelectorAll('.chip[data-range]').forEach(x =>
 document.querySelectorAll('.chip[data-board]').forEach(x =>
   x.setAttribute('aria-pressed', x.dataset.board === S.board));
 syncTabUI();
-load().catch(e => document.getElementById('list').innerHTML =
+load().then(() => { if (S.range === 0) loadRest(); }).catch(e => document.getElementById('list').innerHTML =
   `<div class="empty">데이터를 불러오지 못했습니다.<br>${esc(e.message)}<br><br>
    로컬에서 열 때는 <code>python -m http.server</code>로 띄워야 합니다.</div>`);
 </script>
