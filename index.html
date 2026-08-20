@@ -196,12 +196,16 @@ function visible() {
   // 수집기는 실행할 때마다 그날 몫을 채우므로, 여러 날 파일을 합치면 같은 게재일에
   // 5건씩 겹쳐 쌓인다 (실측: 8/19 국내동향 14건).
   if (S.tab !== 'tenders') {
-    // 자를 때는 오늘 처음 발견한 것에 우선권을 준다.
-    // 점수순으로만 자르면 오늘 새로 뜬 건이 어제 고득점 기사에 밀려 사라진다.
+    // 수집기(collect.py)와 같은 규칙을 쓴다. 규칙이 갈리면 화면과 데이터가 어긋난다.
+    //  - 부처·법제처 원문은 상한 면제 (주 3~5건, 검토 가치가 높다)
+    //  - 협회(ITS Korea)와 구글뉴스는 계열을 나눠 따로 센다
+    //  - 자를 때는 오늘 처음 발견한 것에 우선권 (점수순으로만 자르면 오늘 신규가 밀린다)
+    const EXEMPT = ['국토교통부', '법제처'];
     const per = {}, allowed = new Set();
     for (const it of [...out].sort((a,b) =>
         (b.first_seen === today) - (a.first_seen === today))) {
-      const k = it.board + '|' + it.published;
+      if (EXEMPT.includes(it.source)) { allowed.add(it.id); continue; }
+      const k = (it.source === 'ITS Korea' ? 'assoc' : 'news') + '|' + it.board + '|' + it.published;
       per[k] = (per[k] || 0) + 1;
       if (per[k] <= NEWS_CAP) allowed.add(it.id);
     }
