@@ -157,12 +157,23 @@ function filePaths(all) {
   return [...pick(INDEX.tenders, 'tenders'), ...pick(INDEX.news, 'news')];
 }
 
+// 앞부분만 본다. 같은 기사인데 매체 꼬리가 붙은 판과 떼어낸 판이 섞여 있다.
+const normTitle = s => (s || '').toLowerCase().replace(/[^0-9a-z가-힣]/g, '').slice(0, 40);
+
 async function fetchInto(paths) {
   const got = await Promise.all(paths.map(p => fetch(p).then(r => r.json()).catch(() => [])));
-  const seen = new Set(ITEMS.map(i => i.id));
-  for (const it of got.flat()) {          // 날짜 파일 간 중복은 id로 합침
-    if (seen.has(it.id)) continue;
-    seen.add(it.id); ITEMS.push(it);
+  const seenId = new Set(ITEMS.map(i => i.id));
+  // id뿐 아니라 제목으로도 합친다. 기사 id 기준을 링크 해시에서 제목 해시로 바꿨는데,
+  // 그 전에 저장된 파일에는 옛 id가 남아 있어 같은 기사가 두 번 보인다.
+  const seenTitle = new Set(ITEMS.filter(i => i.kind === 'news').map(i => normTitle(i.title)));
+  for (const it of got.flat()) {
+    if (seenId.has(it.id)) continue;
+    if (it.kind === 'news') {
+      const nt = normTitle(it.title);
+      if (seenTitle.has(nt)) continue;
+      seenTitle.add(nt);
+    }
+    seenId.add(it.id); ITEMS.push(it);
   }
 }
 
