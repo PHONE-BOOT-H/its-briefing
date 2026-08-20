@@ -185,12 +185,28 @@ function visible() {
       .filter(Boolean).join(' ').toLowerCase().includes(q));
   const key = { score: it => -it.score, deadline: it => it.deadline || '9999',
                 published: it => (it.published || '') }[S.sort];
+  const NEWS_CAP = 5;   // 수집기와 같은 규칙을 화면에서도 건다
   out.sort((a,b) => {
     const ka = key(a), kb = key(b);
     if (ka < kb) return S.sort === 'published' ? 1 : -1;
     if (ka > kb) return S.sort === 'published' ? -1 : 1;
     return (a.deadline || '9999') < (b.deadline || '9999') ? -1 : 1;
   });
+  // 기사는 보드·게재일별 상한을 화면에서 다시 건다.
+  // 수집기는 실행할 때마다 그날 몫을 채우므로, 여러 날 파일을 합치면 같은 게재일에
+  // 5건씩 겹쳐 쌓인다 (실측: 8/19 국내동향 14건).
+  if (S.tab !== 'tenders') {
+    // 자를 때는 오늘 처음 발견한 것에 우선권을 준다.
+    // 점수순으로만 자르면 오늘 새로 뜬 건이 어제 고득점 기사에 밀려 사라진다.
+    const per = {}, allowed = new Set();
+    for (const it of [...out].sort((a,b) =>
+        (b.first_seen === today) - (a.first_seen === today))) {
+      const k = it.board + '|' + it.published;
+      per[k] = (per[k] || 0) + 1;
+      if (per[k] <= NEWS_CAP) allowed.add(it.id);
+    }
+    out = out.filter(it => allowed.has(it.id));   // 표시 순서는 정렬 기준 그대로
+  }
   return out;
 }
 
@@ -223,7 +239,7 @@ function render() {
   }
   list.innerHTML = items.map((it, i) => {
     const expired = it.deadline && days(today, it.deadline) < 0;
-    const isNew = it.first_seen === today || (it.first_seen && days(it.first_seen, today) <= 1);
+    const isNew = it.first_seen === today;   // 어제 것까지 NEW로 두면 배지가 의미를 잃는다
     return `<div class="card${expired ? ' expired' : ''}" data-i="${i}">
       <div class="row1">
         ${it.kind === 'tender'
