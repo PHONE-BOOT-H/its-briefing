@@ -16,7 +16,7 @@ import collections
 import hashlib
 import time
 import html as html_mod
-from datetime import date, datetime, timezone, timedelta
+from datetime import datetime, timezone, timedelta
 
 SCHEMA_VERSION = 1
 ROOT = os.path.dirname(os.path.abspath(__file__))
