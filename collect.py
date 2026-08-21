@@ -928,6 +928,9 @@ def fetch_news(days=7):
     out = kept
 
     # 상한: 소스 계열별로 따로 센다.
+    # ⚠ 같은 규칙이 index.html visible()에도 있다 (NEWS_CAP 블록).
+    #   EXEMPT 목록·상한값·ITS Korea 계열 분리를 양쪽에서 같이 고쳐야 한다.
+    #   채움 순서는 일부러 다르다 — 여기는 점수순, 화면은 '오늘 신규' 우선.
     # 한 통에 넣고 점수로 자르면 32점 뉴스가 24점 부처 원문을 밀어낸다(실측 확인).
     EXEMPT = ('국토교통부', '법제처')      # 주 3~5건, 검토 가치 높음 — 상한 없음
     capped, per = [], collections.Counter()
