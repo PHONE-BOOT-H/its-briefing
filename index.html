@@ -408,7 +408,15 @@ document.getElementById('onlyNew').onclick = e => {
   writeURL(); render();
 };
 document.getElementById('sort').onchange = e => { S.sort = e.target.value; writeURL(); render(); };
-document.getElementById('q').oninput = e => { S.q = e.target.value; writeURL(); render(); };
+// 검색은 키 입력마다 들어온다. history.replaceState를 매 타에 부르면
+// Safari가 호출 제한을 건다. 주소 반영만 늦춘다 — 화면은 즉시 갱신.
+let qTimer = null;
+document.getElementById('q').oninput = e => {
+  S.q = e.target.value;
+  render();
+  clearTimeout(qTimer);
+  qTimer = setTimeout(writeURL, 400);
+};
 
 readURL();
 document.getElementById('sort').value = S.sort;
