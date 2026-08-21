@@ -329,13 +329,7 @@ def fetch_samgov(days=7):
         desc = ''
         for d0 in (r.get('descriptions') or [])[:1]:
             desc = strip_html(d0.get('content'))[:600]
-        _, bonus_hits = score_item(title + ' ' + desc, [])
-        bonus = 0
-        text = (title + ' ' + desc).lower()
-        for weight, words in KEYWORD_BONUS:
-            matched = [w for w in words if w in text]
-            for i, w in enumerate(matched[:2]):
-                bonus += weight if i == 0 else weight // 2
+        bonus, bonus_hits = keyword_bonus(title + ' ' + desc, KEYWORD_BONUS)
         if bonus < SAM_MIN_BONUS:
             continue
 
