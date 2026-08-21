@@ -325,12 +325,40 @@
   "score": 29,
   "score_hits": [
    "자율주행",
-   "통신",
-   "택시"
+   "택시",
+   "통신"
   ],
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-08-20"
+ },
+ {
+  "schema_version": 1,
+  "id": "news-32950258ed2b",
+  "kind": "news",
+  "board": "P",
+  "source": "Google News",
+  "type": "국내동향",
+  "country": null,
+  "country_ko": null,
+  "title": "서울시, 강남 심야 자율주행 택시 늘린다",
+  "media": "정보통신신문",
+  "org": "정보통신신문",
+  "published": "2026-08-20",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzeEo3bkwyMTdOZjJjUnZ2MEZ1eEx5aXljeGxEMnp4WkJIRkV2b2QzZENvUWMyWXRSRlVxSXA2M2dnSXhPZU1Ob2dydFlVZmNvUU5DX3JPdEhIbU9yWW1vMmt1Z2hSSkFl0gFsQVVfeXFMTWNTMFhpV0RLQ0xpMWFXQ0pOQlNmTkFVRmprcUlGQXlXMWVyaThYSnhnUHpoYl85RU5MUG9VVEtOekFOdy1BSURVdmhBXzRZMU1maXprdVRJZ3dyYWlHTk1rUmZJU3R4THRWcFFa?oc=5",
+  "cpv": [],
+  "score": 29,
+  "score_hits": [
+   "자율주행",
+   "택시",
+   "통신"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-08-21"
  },
  {
   "schema_version": 1,
@@ -358,6 +386,33 @@
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-08-20"
+ },
+ {
+  "schema_version": 1,
+  "id": "news-67469fd7ded1",
+  "kind": "news",
+  "board": "P",
+  "source": "Google News",
+  "type": "국내동향",
+  "country": null,
+  "country_ko": null,
+  "title": "미국: 워싱턴 DC는 자율주행 택시의 상용화를 검토 중이다.",
+  "media": "Vietnam.vn",
+  "org": "Vietnam.vn",
+  "published": "2026-08-15",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSVNaVFllczVxMlRDLWdtN0lOT3VUZUhsbDM2ZDRvajVvSk1IRHNKRUlXTlVFV29VOFlPRFJ2b2Q5SHFrZmJIbmExQ2h1VnpFdV9Wc2JaTXVBVXExUzkwaWVLZFR4aXR2TURsRmp6R1UwaFpNMzRRalU2MHd2eDNQb1ZiZS0?oc=5",
+  "cpv": [],
+  "score": 26,
+  "score_hits": [
+   "자율주행",
+   "택시"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-08-21"
  },
  {
   "schema_version": 1,

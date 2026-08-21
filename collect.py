@@ -61,6 +61,10 @@ COUNTRY_NAME_KO = {
     'Congo, Democratic Republic of': '콩고민주공화국', 'Solomon Islands': '솔로몬제도',
     'Turkiye': '튀르키예', 'Serbia': '세르비아', 'Moldova': '몰도바', 'Kosovo': '코소보',
     'Bosnia and Herzegovina': '보스니아헤르체고비나', 'Central Africa': '중앙아프리카',
+    'Papua New Guinea': '파푸아뉴기니', 'Azerbaijan': '아제르바이잔', 'Timor-Leste': '동티모르',
+    'Regional': '다국가', 'Lao PDR': '라오스', 'Cambodia': '캄보디아', 'Myanmar': '미얀마',
+    'Thailand': '태국', 'Mongolia': '몽골', 'Fiji': '피지', 'Maldives': '몰디브',
+    'Armenia': '아르메니아', 'Tajikistan': '타지키스탄', 'Turkmenistan': '투르크메니스탄',
 }
 
 # ── ITS 밀착도 채점
@@ -670,6 +674,67 @@ def main():
 
 
 
+
+# ── 소스: ADB (아시아개발은행)
+#
+# 게시판 기등록 400건의 국가 분포에서 아시아가 47%(인도 17·인도네시아 14·필리핀 10)인데
+# 아시아 MDB가 빠져 있었다. World Bank와 사업이 겹치지 않아 순기여가 그대로 더해진다.
+#
+# 주의: 공식 API가 아니다. adb.org가 공개 JS 번들에 박아둔 검색 토큰을 그대로 쓴다.
+# 토큰이 바뀌면 401이 나고 소스 상태가 ok=false로 남는다(화면 상단에 표시된다).
+ADB_TOKEN = '2a076eb3a48fd68fc78506c1a16a5d5000da76e4'
+ADB_URL = ('https://searchcloud-2-ap-southeast-1.searchstax.com/29847/tenders-11959/emselect'
+           '?q=*:*&fq=sm_fct_sector:%22Transport%22'
+           '&fq=ds_date_posted:%5BNOW-{days}DAYS%20TO%20NOW%5D'
+           '&sort=ds_date_posted%20desc&rows=200&wt=json'
+           '&fl=id,tm_X3b_en_title,tm_X3b_en_country,tm_X3b_en_project_number,tm_X3b_en_type,'
+           'tm_X3b_en_status,ds_date_posted,ds_date_closing,ss_url,ss_csrn_url')
+
+# 공고 유형 → 게시판 유형. 개인 컨설턴트도 버리지 않는다 —
+# 파키스탄 ITS Specialist처럼 개인 채용이 게시판에 올라간 전례가 있다. 거르는 건 사람이 한다.
+ADB_TYPE = {'Invitation for Bids': '입찰', 'Firm': '입찰', 'Individual': '입찰',
+            'General Procurement Notice': '조달예측', 'Other Notice': '조달예측'}
+
+
+def fetch_adb(days=7):
+    d = http_json(ADB_URL.format(days=days),
+                  headers={'Authorization': 'Token ' + ADB_TOKEN})
+    out = []
+    for doc in (d.get('response') or {}).get('docs', []):
+        title = first_of(doc.get('tm_X3b_en_title'))
+        if not title:
+            continue
+        subtype = first_of(doc.get('tm_X3b_en_type')) or ''
+        country = first_of(doc.get('tm_X3b_en_country'))
+        pnum = first_of(doc.get('tm_X3b_en_project_number')) or ''
+        sc, hits = score_item(title, [])
+        # 섹터 태그가 다부문 사업에도 붙는다 — 인도 건 12개 중 관광·스포츠 전문가 채용이
+        # Transport로 잡혔다. World Bank 조달공고와 같은 게이트를 건다.
+        if sc == 0 and not transportish(title):
+            continue
+        node = (doc.get('ss_url') or '').lstrip('/')
+        out.append({
+            'schema_version': SCHEMA_VERSION,
+            'id': 'adb-%s' % (doc.get('id') or node),
+            'kind': 'tender', 'source': 'ADB',
+            'type': ADB_TYPE.get(subtype, '입찰'),
+            'subtype': subtype,                     # 개인/기업 구분은 화면 배지로만
+            'stream': 'notice',
+            'country': country,
+            'country_ko': COUNTRY_NAME_KO.get(country, country),
+            'title': title, 'org': None, 'budget': None,
+            'published': (doc.get('ds_date_posted') or '')[:10] or None,
+            'deadline': (doc.get('ds_date_closing') or '')[:10] or None,
+            'ref_no': pnum, 'project_id': pnum,
+            'link': doc.get('ss_csrn_url') or ('https://www.adb.org/' + node),
+            'cpv': [],
+            'score': min(100, 25 + sc),             # World Bank 공고와 같은 기준선
+            'score_hits': hits,
+            'already_posted': False,
+        })
+    return out
+
+
 # ══════════════════════════════════════════════════════════════════
 # 기사 수집 — 보드 A(해외 영어) / 보드 B(국내) / 국내 동향(정책·법제도)
 # ══════════════════════════════════════════════════════════════════
@@ -958,6 +1023,7 @@ def fetch_news(days=7):
 SOURCES = [
     ('ted', fetch_ted),
     ('worldbank', fetch_worldbank),
+    ('adb', fetch_adb),
     ('news', fetch_news),
     # SAM.gov 보류: 창 내 215건 중 ITS 핵심어에 걸리는 건이 0건이었다.
     # 미국 ITS 발주는 주(state) DOT 소관이라 연방 조달망에 거의 오지 않는다.

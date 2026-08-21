@@ -286,6 +286,7 @@ function render() {
           ? (it.country_ko || it.country || '-')
           : (it.media || it.source || ''))}</span>
         <span class="badge">${esc(it.type || it.source || '')}</span>
+        ${it.subtype ? `<span class="badge">${esc(it.subtype)}</span>` : ''}
         ${ddayBadge(it.deadline)}
         ${isNew ? '<span class="badge new">NEW</span>' : ''}
         ${it.already_posted ? '<span class="badge done">게시판 기등록</span>' : ''}
@@ -319,7 +320,7 @@ function openDetail(it) {
     ['처음 발견', it.first_seen],
     ['관련', (it.score_hits || []).filter(h => !h.startsWith('-')).join(', ')],
   ] : [
-    ['발주처', it.org], ['예산', money(it.budget) || 'N/A'],
+    ['발주처', it.org], ['공고종류', it.subtype], ['예산', money(it.budget) || 'N/A'],
     ['게시일', it.published], ['마감일', it.deadline || '-'],
     ['참조번호', it.ref_no], ['출처', it.source],
     ['CPV', (it.cpv || []).join(', ')],
