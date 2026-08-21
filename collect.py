@@ -544,17 +544,6 @@ def mark_posted(items, refs, board_titles):
     return n
 
 
-SOURCES = [
-    ('ted', fetch_ted),
-    ('worldbank', fetch_worldbank),
-    ('news', None),          # 기사는 fetch_news()로 따로 수집한다 (main 참조)
-    # SAM.gov 보류: 창 내 215건 중 ITS 핵심어에 걸리는 건이 0건이었다.
-    # 미국 ITS 발주는 주(state) DOT 소관이라 연방 조달망에 거의 오지 않는다.
-    # 함수는 남겨둔다 — 나중에 주 단위 포털을 붙일 때 참고용.
-    # ('samgov', fetch_samgov),
-]
-
-
 # ── 장부: 최초 발견일 기록
 def load_seen():
     if os.path.exists(SEEN_PATH):
@@ -585,8 +574,6 @@ def main():
     items, status = [], {}
 
     for name, fn in SOURCES:
-        if fn is None:
-            fn = fetch_news
         try:
             got = fn()
             for g in got:
@@ -933,6 +920,18 @@ def fetch_news(days=7):
         per[k] += 1
         capped.append(it)
     return capped
+
+
+# 수집기 목록. fetch_news가 정의된 뒤에 와야 한다.
+SOURCES = [
+    ('ted', fetch_ted),
+    ('worldbank', fetch_worldbank),
+    ('news', fetch_news),
+    # SAM.gov 보류: 창 내 215건 중 ITS 핵심어에 걸리는 건이 0건이었다.
+    # 미국 ITS 발주는 주(state) DOT 소관이라 연방 조달망에 거의 오지 않는다.
+    # 함수는 남겨둔다 — 나중에 주 단위 포털을 붙일 때 참고용.
+    # ('samgov', fetch_samgov),
+]
 
 
 if __name__ == '__main__':
