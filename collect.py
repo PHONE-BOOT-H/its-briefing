@@ -87,11 +87,15 @@ KEYWORD_BONUS = [
           'toll', 'tolling', 'road pricing', 'speed camera', 'enforcement',
           'anpr', 'number plate', 'variable message', 'passenger information',
           'traffic monitoring', 'traffic counting', 'radar', 'speed measurement',
-          'detection', 'surveillance', 'bulletin board']),
+          'detection', 'surveillance', 'bulletin board',
+          # 실측에서 0점으로 떨어졌던 제목들에서 뽑은 말
+          'work zone', 'work-zone', 'school zone', 'roadside', 'level crossing']),
     (6, ['bus rapid transit', 'public transport', 'mobility', 'road safety',
          'telematics', 'fare collection', 'ticketing', 'weigh-in-motion',
          'autonomous truck', 'self-driving', 'driverless', 'freight', 'cargo',
-         'logistics', 'platooning', 'shuttle']),
+         'logistics', 'platooning', 'shuttle',
+         'tram', 'light rail', 'metro', 'parking', 'interoperability',
+         'smart city', 'maas', 'dashcam', 'black box']),
 ]
 NEGATIVE = ['cleaning', 'catering', 'insurance', 'audit', 'accounting', 'furniture',
             'stationery', 'medical', 'food', 'gender', 'legal advice',
@@ -694,6 +698,7 @@ EN_NEWS_NEGATIVE = ['market size', 'market growth', 'market share', 'market repo
                     'air traffic', 'air navigation']
 
 NEWS_DAILY_CAP = 5   # 보드별 하루 노출 상한
+ASSOC_BASE = 12      # ITS Korea 게시판 기본점 — 협회가 ITS 관점에서 이미 고른 목록이다
 
 
 def is_english(title):
@@ -807,6 +812,9 @@ def fetch_news(days=7):
             if nu in seen_url or (nt and nt in seen_title):
                 continue
             sc, hits = score_news(x['title'], korean)
+            if source == 'ITS Korea':
+                sc = min(100, sc + ASSOC_BASE)
+                hits = hits + ['협회게시판']
             if sc < min_score:
                 continue
             # 구글뉴스 제목은 "제목 - 매체명"으로 끝난다. 매체는 따로 표시하므로 뗀다.
