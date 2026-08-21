@@ -97,6 +97,33 @@ NEGATIVE = ['cleaning', 'catering', 'insurance', 'audit', 'accounting', 'furnitu
             'security service', 'guard service', 'physical protection']
 
 
+def keyword_bonus(text, rules):
+    """키워드 가산점. 등급별로 최대 2개, 두 번째는 절반.
+
+    같은 개념이 두 번 세어지는 걸 막는다.
+      - 긴 단어 우선: 'tolling'이 걸리면 'toll'로 또 더하지 않는다
+      - 상위 등급에서 잡힌 말의 부분은 하위 등급에서 건너뛴다
+        ('교통관제' 20점이 걸렸으면 '관제' 6점은 세지 않는다)
+    실측에서 '단속'이 12점·6점 양쪽에 등재돼 27점짜리 기사가 나왔다.
+    """
+    t = (text or '').lower()
+    total, hits, taken = 0, [], []
+    for weight, words in rules:
+        cands = sorted({w for w in words if w in t}, key=len, reverse=True)
+        picked = []
+        for w in cands:
+            if any(w in prev for prev in taken):     # 이미 센 개념의 부분
+                continue
+            picked.append(w)
+            taken.append(w)
+            if len(picked) == 2:
+                break
+        for i, w in enumerate(picked):
+            total += weight if i == 0 else weight // 2
+            hits.append(w)
+    return total, hits
+
+
 def cpv_base(cpv_list):
     """CPV 코드로 기본점. 가장 높은 등급 하나만 적용."""
     best, hit = 0, None
@@ -130,13 +157,8 @@ def score_item(title, cpv_list):
     base, base_hit = cpv_base(cpv_list)
     hits = ['cpv:' + base_hit] if base_hit else []
 
-    # 등급별 첫 매칭은 만점, 두 번째 매칭은 절반만 — 같은 CPV 안에서 순위를 벌린다
-    bonus = 0
-    for weight, words in KEYWORD_BONUS:
-        matched = [w for w in words if w in t]
-        for i, w in enumerate(matched[:2]):
-            bonus += weight if i == 0 else weight // 2
-            hits.append(w)
+    bonus, bonus_hits = keyword_bonus(t, KEYWORD_BONUS)
+    hits += bonus_hits
 
     penalty = 0
     for w in NEGATIVE:
@@ -663,7 +685,7 @@ KO_BONUS = [
           '레벨4', '모빌리티', '차량통신', '입법예고', '시행령', '개정']),
     (6, ['교통', '도로', '철도', '물류', '대중교통', '스마트시티', '국토교통부',
          '자동차', '고속도로', '지하철', 'ktx', '버스', '택시', '화물', '운전',
-         'npu', '반도체', '카메라', '관제', '단속', '통신']),
+         'npu', '반도체', '카메라', '관제', '통신']),   # '단속'은 12점 등급에만 둔다
 ]
 KO_NEGATIVE = ['부고', '인사이동', '주가', '증시', '코스피', '분양', '아파트값', '날씨', '부동산',
                '시장 규모', '시장규모', '점유율', '시장 전망', '리포트 발간', '보고서 발간']
@@ -690,12 +712,7 @@ def score_news(title, korean=False):
     if korean and is_english(title):
         korean = False
     t = (title or '').lower()
-    total, hits = 0, []
-    for weight, words in (KO_BONUS if korean else KEYWORD_BONUS):
-        matched = [w for w in words if w in t]
-        for i, w in enumerate(matched[:2]):
-            total += weight if i == 0 else weight // 2
-            hits.append(w)
+    total, hits = keyword_bonus(t, KO_BONUS if korean else KEYWORD_BONUS)
     stop = KO_NEGATIVE if korean else (NEGATIVE + EN_NEWS_NEGATIVE)
     for w in stop:
         if w in t:
