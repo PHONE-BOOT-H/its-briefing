@@ -305,10 +305,6 @@ SAM_MIN_BONUS = 12   # 제목·본문에 실제 ITS 키워드가 걸린 것만 (
 SAM_BASE = 25        # 교통 인접 NAICS로 이미 걸러진 상태라 기본점을 준다
 
 
-def strip_html(s):
-    return re.sub(r'\s+', ' ', re.sub(r'<[^>]+>', ' ', s or '')).strip()
-
-
 def fetch_samgov(days=7):
     start = (today_kst() - timedelta(days=days)).isoformat()
     rows, out = [], []
@@ -328,7 +324,7 @@ def fetch_samgov(days=7):
         title = r.get('title') or ''
         desc = ''
         for d0 in (r.get('descriptions') or [])[:1]:
-            desc = strip_html(d0.get('content'))[:600]
+            desc = strip_tags(d0.get('content'))[:600]
         bonus, bonus_hits = keyword_bonus(title + ' ' + desc, KEYWORD_BONUS)
         if bonus < SAM_MIN_BONUS:
             continue
