@@ -22,6 +22,7 @@ SCHEMA_VERSION = 1
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, 'data')
 SEEN_PATH = os.path.join(DATA, 'seen.json')
+BOARD_CACHE_PATH = os.path.join(DATA, 'board_cache.json')
 KST = timezone(timedelta(hours=9))
 
 
@@ -496,19 +497,39 @@ BOARD_ALIAS = {
 
 
 def fetch_board_state():
-    """게시판에 이미 올라간 것들. 실패해도 수집 자체는 계속되어야 한다."""
+    """게시판에 이미 올라간 것들. 실패해도 수집 자체는 계속되어야 한다.
+
+    게시글은 한 번 올라오면 바뀌지 않으므로 상세는 캐시한다.
+    캐시가 없던 때는 매일 30건의 상세를 전부 다시 받았다.
+    """
     refs, titles = set(), []
+    cache = {}
+    if os.path.exists(BOARD_CACHE_PATH):
+        try:
+            with open(BOARD_CACHE_PATH, encoding='utf-8') as f:
+                cache = json.load(f)
+        except Exception:
+            cache = {}
+    fetched = 0
     try:
         for page in (1, 2, 3):
             d = http_json(BOARD_ORDERS % page)
             for r in d.get('resultResponses', []):
-                try:
-                    dd = http_json(BOARD_ORDER_DETAIL % r['bno'])
-                except Exception:
-                    continue
-                for v in (dd.get('refNo'), dd.get('link')):
+                bno = str(r['bno'])
+                if bno not in cache:
+                    try:
+                        dd = http_json(BOARD_ORDER_DETAIL % bno)
+                    except Exception:
+                        continue
+                    cache[bno] = {'refNo': (dd.get('refNo') or '').strip(),
+                                  'link': (dd.get('link') or '').strip()}
+                    fetched += 1
+                for v in cache[bno].values():
                     if v:
-                        refs.add(str(v).strip())
+                        refs.add(v)
+        with open(BOARD_CACHE_PATH, 'w', encoding='utf-8') as f:
+            json.dump(cache, f, ensure_ascii=False, indent=1, sort_keys=True)
+        print('  게시판 상세: 캐시 %d건, 신규 조회 %d건' % (len(cache), fetched), file=sys.stderr)
     except Exception as e:
         print('  게시판(발주) 대조 실패: %s' % e, file=sys.stderr)
     try:
