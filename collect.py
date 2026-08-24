@@ -825,8 +825,9 @@ CAT_EN = [
                  'fastag', 'electronic fee']),
     ('단속·집행', ['enforcement', 'anpr', 'number plate', 'licence plate', 'license plate',
                 'speed camera', 'red light', 'overspeed', 'violation',
-                # 눈검사에서 잡힌 것 — 'school zone cameras cut speeding'이 신호·관제로 갔다.
-                'speeding', 'zone camera', 'traffic fine']),
+                # 눈검사에서 잡힌 것 — 'school zone cameras cut speeding'이 신호·관제로,
+                # 'work-zone safety camera pilot'이 기타로 갔다.
+                'speeding', 'zone camera', 'safety camera', 'traffic fine']),
     ('신호·관제', ['traffic signal', 'traffic light', 'signalling', 'signaling',
                 'traffic management', 'traffic control', 'intersection',
                 'traffic monitoring', 'variable message', 'passenger information',
@@ -867,7 +868,10 @@ def classify(title, board):
     영어 표로 한 번 더 본다 — 국내 보드에도 영문 제목이 섞여 들어온다.
     """
     t = (title or '').lower()
-    tables = [CAT_EN] if board == 'A' else [CAT_KO, CAT_EN]
+    # 해외 보드에도 한글 제목이 온다 — ITS Korea 해외 게시판(type=9)과 번역된 기사다.
+    # 영어 표만 걸면 '브라질 전기버스 1만 대 돌파', '샌프란시스코 자율주행 현주소'가
+    # 통째로 기타로 떨어진다(눈검사에서 3건 확인).
+    tables = [CAT_EN, CAT_KO] if board == 'A' else [CAT_KO, CAT_EN]
     for table in tables:
         for name, words in table:
             if any(w in t for w in words):
