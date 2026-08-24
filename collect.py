@@ -395,7 +395,7 @@ WB_TERMS = ['transport', 'traffic', 'intelligent transport', 'mobility',
 WB_NOTICE = ('https://search.worldbank.org/api/v2/procnotices?format=json&qterm=%s'
              '&srt=noticedate&order=desc&rows=40&os=%d'
              '&fl=id,noticedate,notice_type,project_ctry_name,project_id,project_name,'
-             'bid_description,submission_date,submission_deadline_date')
+             'bid_description,submission_date,submission_deadline_date,contact_organization')
 
 # 세계은행은 qterm·섹터 태그가 넓어서 항공권 구매·난민사업까지 딸려온다.
 # 제목에 교통 관련어가 없고 ITS 키워드 보너스도 0이면 버린다.
@@ -452,7 +452,12 @@ def fetch_worldbank(days=7):
                     'source': 'World Bank', 'type': '입찰', 'stream': 'notice',
                     'country': n.get('project_ctry_name'),
                     'country_ko': COUNTRY_NAME_KO.get(n.get('project_ctry_name'), n.get('project_ctry_name')),
-                    'title': title, 'org': n.get('project_name'), 'budget': None,
+                    'title': title,
+                    # org는 발주기관이다. 사업명(project_name)을 넣고 있었다 —
+                    # title과 같은 값 계열이라 컬럼이 통째로 무의미했다.
+                    'org': n.get('contact_organization'),
+                    'project_title': n.get('project_name'),
+                    'budget': None,
                     'published': nd, 'deadline': (n.get('submission_deadline_date') or '')[:10] or None,
                     'ref_no': n.get('project_id') or n['id'],
                     'project_id': n.get('project_id'),
@@ -712,7 +717,9 @@ ADB_URL = ('https://searchcloud-2-ap-southeast-1.searchstax.com/29847/tenders-11
            '&fq=ds_date_posted:%5BNOW-{days}DAYS%20TO%20NOW%5D'
            '&sort=ds_date_posted%20desc&rows=200&wt=json'
            '&fl=id,tm_X3b_en_title,tm_X3b_en_country,tm_X3b_en_project_number,tm_X3b_en_type,'
-           'tm_X3b_en_status,ds_date_posted,ds_date_closing,ss_url,ss_csrn_url')
+           'tm_X3b_en_status,ds_date_posted,ds_date_closing,ss_url,ss_csrn_url,'
+           # 아래 둘은 인덱스에 있는데 요청 목록에서 빠져 있었다. 그래서 발주기관이 0%였다.
+           'tm_X3b_en_project_title,tm_X3b_en_executing_agency')
 
 # 공고 유형 → 게시판 유형. 개인 컨설턴트도 버리지 않는다 —
 # 파키스탄 ITS Specialist처럼 개인 채용이 게시판에 올라간 전례가 있다. 거르는 건 사람이 한다.
@@ -729,6 +736,10 @@ def fetch_adb(days=7):
         if not title:
             continue
         subtype = first_of(doc.get('tm_X3b_en_type')) or ''
+        # 낙찰 완료건은 기회가 아니다. World Bank의 Contract Award 제외와 같은 기준.
+        # 유형표에 없어서 지금은 '입찰'로 둔갑한다 — 조회 창을 늘리면 바로 드러난다.
+        if subtype == 'Contracts Awarded':
+            continue
         country = first_of(doc.get('tm_X3b_en_country'))
         pnum = first_of(doc.get('tm_X3b_en_project_number')) or ''
         raw, _ = score_item(title, [])
@@ -747,7 +758,10 @@ def fetch_adb(days=7):
             'stream': 'notice',
             'country': country,
             'country_ko': COUNTRY_NAME_KO.get(country, country),
-            'title': title, 'org': None, 'budget': None,
+            'title': title,
+            'org': first_of(doc.get('tm_X3b_en_executing_agency')),
+            'project_title': first_of(doc.get('tm_X3b_en_project_title')),
+            'budget': None,                         # CSRN 상세에만 있다 — 별도 단계
             'published': (doc.get('ds_date_posted') or '')[:10] or None,
             'deadline': (doc.get('ds_date_closing') or '')[:10] or None,
             'ref_no': pnum, 'project_id': pnum,
