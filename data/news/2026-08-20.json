@@ -25,7 +25,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -53,7 +54,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -81,7 +83,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -108,7 +111,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -136,7 +140,8 @@
   "already_posted": false,
   "collector": "news",
   "related_posted": "rideflux",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "산업·투자"
  },
  {
   "schema_version": 1,
@@ -163,7 +168,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -191,7 +197,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -219,7 +226,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -247,7 +255,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -274,7 +283,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -301,7 +311,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -328,7 +339,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -355,7 +367,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -382,7 +395,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -409,7 +423,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -436,7 +451,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -463,7 +479,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -490,7 +507,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "C-ITS·V2X"
  },
  {
   "schema_version": 1,
@@ -517,7 +535,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -544,7 +563,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -572,7 +592,8 @@
   "already_posted": false,
   "collector": "news",
   "related_posted": "busan",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -599,7 +620,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -626,7 +648,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -654,7 +677,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "정책·법제도"
  },
  {
   "schema_version": 1,
@@ -682,7 +706,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "정책·법제도"
  },
  {
   "schema_version": 1,
@@ -710,7 +735,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "정책·법제도"
  },
  {
   "schema_version": 1,
@@ -738,7 +764,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "단속·집행"
  },
  {
   "schema_version": 1,
@@ -765,7 +792,8 @@
   "already_posted": false,
   "collector": "news",
   "related_posted": "hyundai",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -792,7 +820,8 @@
   "already_posted": false,
   "collector": "news",
   "related_posted": "saesoltech",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "C-ITS·V2X"
  },
  {
   "schema_version": 1,
@@ -818,7 +847,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -844,7 +874,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -870,7 +901,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -896,7 +928,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -922,7 +955,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -948,7 +982,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -974,7 +1009,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1001,7 +1037,8 @@
   "already_posted": false,
   "collector": "news",
   "related_posted": "vueron",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -1028,7 +1065,8 @@
   "already_posted": false,
   "collector": "news",
   "related_posted": "hyundai",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "산업·투자"
  },
  {
   "schema_version": 1,
@@ -1054,7 +1092,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -1080,7 +1119,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1106,7 +1146,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -1132,7 +1173,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "산업·투자"
  },
  {
   "schema_version": 1,
@@ -1159,7 +1201,8 @@
   "already_posted": false,
   "collector": "news",
   "related_posted": "rideflux",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -1186,7 +1229,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "요금·통행료"
  },
  {
   "schema_version": 1,
@@ -1213,7 +1257,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -1240,7 +1285,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "정책·법제도"
  },
  {
   "schema_version": 1,
@@ -1266,7 +1312,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1292,7 +1339,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "요금·통행료"
  },
  {
   "schema_version": 1,
@@ -1318,7 +1366,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "요금·통행료"
  },
  {
   "schema_version": 1,
@@ -1344,7 +1393,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "요금·통행료"
  },
  {
   "schema_version": 1,
@@ -1370,7 +1420,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1396,7 +1447,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1422,7 +1474,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "요금·통행료"
  },
  {
   "schema_version": 1,
@@ -1448,7 +1501,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1474,7 +1528,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "단속·집행"
  },
  {
   "schema_version": 1,
@@ -1500,7 +1555,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "요금·통행료"
  },
  {
   "schema_version": 1,
@@ -1526,7 +1582,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1552,7 +1609,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1578,7 +1636,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1604,7 +1663,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "요금·통행료"
  },
  {
   "schema_version": 1,
@@ -1630,7 +1690,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1656,7 +1717,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1682,7 +1744,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "요금·통행료"
  },
  {
   "schema_version": 1,
@@ -1708,7 +1771,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "대중교통·물류"
  },
  {
   "schema_version": 1,
@@ -1734,7 +1798,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "요금·통행료"
  },
  {
   "schema_version": 1,
@@ -1760,7 +1825,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1786,7 +1852,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "산업·투자"
  },
  {
   "schema_version": 1,
@@ -1812,7 +1879,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -1838,7 +1906,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "신호·관제"
  },
  {
   "schema_version": 1,
@@ -1864,7 +1933,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -1890,7 +1960,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -1916,7 +1987,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -1942,7 +2014,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "단속·집행"
  },
  {
   "schema_version": 1,
@@ -1968,7 +2041,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -1994,7 +2068,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -2020,7 +2095,8 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "대중교통·물류"
  },
  {
   "schema_version": 1,
@@ -2045,7 +2121,8 @@
   "already_posted": false,
   "collector": "news",
   "related_posted": "rideflux",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "산업·투자"
  },
  {
   "schema_version": 1,
@@ -2069,7 +2146,8 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -2093,7 +2171,8 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -2117,7 +2196,8 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -2141,7 +2221,8 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "자율주행"
  },
  {
   "schema_version": 1,
@@ -2165,7 +2246,8 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "기타"
  },
  {
   "schema_version": 1,
@@ -2189,6 +2271,7 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "category": "대중교통·물류"
  }
 ]
