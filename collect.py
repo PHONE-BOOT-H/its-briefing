@@ -809,6 +809,72 @@ EN_NEWS_NEGATIVE = ['market size', 'market growth', 'market share', 'market repo
                     'market to reach', 'market analysis', 'cagr', 'forecast to 20',
                     'air traffic', 'air navigation']
 
+# ── 기사 ITS 카테고리 (카드 배지 한 칸에 들어가는 폐쇄 어휘)
+#
+# 해외 보드와 국내 보드는 규칙을 나눈다. 실측에서 결정 키워드 교집합이 0이었다 —
+# 해외 87건 중 82건이 영어 단어로, 국내 60건 전부가 한국어 단어로 갈렸다.
+# 하나로 합쳐두면 이름만 같은 분류기 두 개를 한 표에 적어놓은 셈이 된다.
+#
+# 순서 = 트리거어의 모호도 순. 위일수록 우연히 안 걸리는 말이다.
+# 첫 매칭이 이긴다(first-match-wins). 실측상 기사 셋 중 하나가 두 카테고리에
+# 동시에 걸리므로, 이 순서가 곧 분류 정책이다.
+CAT_EN = [
+    ('C-ITS·V2X', ['c-its', 'v2x', 'v2i', 'v2v', 'telematics', 'dsrc',
+                   'connected vehicle', 'cooperative its']),
+    ('요금·통행료', ['toll', 'road pricing', 'congestion charge', 'mlff', 'free flow',
+                 'fastag', 'electronic fee']),
+    ('단속·집행', ['enforcement', 'anpr', 'number plate', 'licence plate', 'license plate',
+                'speed camera', 'red light', 'overspeed', 'violation',
+                # 눈검사에서 잡힌 것 — 'school zone cameras cut speeding'이 신호·관제로 갔다.
+                'speeding', 'zone camera', 'traffic fine']),
+    ('신호·관제', ['traffic signal', 'traffic light', 'signalling', 'signaling',
+                'traffic management', 'traffic control', 'intersection',
+                'traffic monitoring', 'variable message', 'passenger information',
+                'intelligent transport', 'its system', 'surveillance', 'work zone',
+                'school zone', 'road safety']),
+    ('자율주행', ['autonomous', 'self-driving', 'selfdriving', 'driverless',
+               'robotaxi', 'robo-taxi', 'automated driving', 'level 4']),
+    ('산업·투자', ['ipo', 'acquisition', 'merger', 'stake', 'funding round',
+                'investment', 'wins contract', 'awarded contract']),
+    ('대중교통·물류', ['public transport', 'bus rapid', 'brt', 'metro', 'tram',
+                  'light rail', 'railway', 'freight', 'logistics', 'parking',
+                  'maas', 'mobility as a service', 'seaport']),
+]
+# 국내 보드는 산업·투자를 자율주행 위에 둔다.
+# 실측: 자율주행이 국내 보드의 61~73%를 먹는데 그중 상당수가 상장·지분·수주 기사였다
+# ('라이드플럭스 코스닥 상장 예심 청구'가 자율주행 배지를 달던 문제).
+CAT_KO = [
+    ('정책·법제도', ['입법예고', '시행령', '시행규칙', '개정안', '개정령', '법률안', '제정안',
+                 '고시', '국회 통과', '법 개정', '하위법령']),
+    ('C-ITS·V2X', ['c-its', 'v2x', 'v2i', '차량통신', '차량사물통신', '협력주행', '텔레매틱스']),
+    ('산업·투자', ['상장', '코스닥', '코스피 이전', '기업공개', '지분', '인수', '매각',
+                '투자 유치', '시리즈 a', '시리즈 b', '수주', '계약 체결', '공급 계약',
+                '양해각서', 'mou']),
+    ('요금·통행료', ['통행료', '요금징수', '하이패스', '스마트톨링', '다차로', '요금소', '교통카드']),
+    ('단속·집행', ['단속', '과속', '무인단속', '음주운전', '과적', '불법주정차', '위반']),
+    ('신호·관제', ['신호', '교차로', '교통관제', '관제센터', '관제시스템', '교통정보', '교통량',
+                '혼잡', '돌발상황', '정보제공', '스마트교차로']),
+    ('자율주행', ['자율주행', '자율차', '로보택시', '무인주행', '레벨4', '자율운행', '자율협력']),
+    ('대중교통·물류', ['대중교통', '버스', 'brt', '철도', '지하철', 'ktx', '트램', '전철',
+                  '택시', '물류', '화물', '주차', '파킹', '수요응답']),
+]
+
+
+def classify(title, board):
+    """기사 제목 → ITS 카테고리. 규칙만 쓴다(LLM 금지).
+
+    board A(해외 영문)와 B·P(국내)는 표를 따로 쓴다. 국내 표가 먼저 걸리지 않으면
+    영어 표로 한 번 더 본다 — 국내 보드에도 영문 제목이 섞여 들어온다.
+    """
+    t = (title or '').lower()
+    tables = [CAT_EN] if board == 'A' else [CAT_KO, CAT_EN]
+    for table in tables:
+        for name, words in table:
+            if any(w in t for w in words):
+                return name
+    return '기타'
+
+
 NEWS_DAILY_CAP = 5   # 보드별 하루 노출 상한
 ASSOC_BASE = 12      # ITS Korea 게시판 기본점 — 협회가 ITS 관점에서 이미 고른 목록이다
 
@@ -956,6 +1022,8 @@ def fetch_news(days=7):
                 'type': BOARD_TYPE[board],
                 'country': None, 'country_ko': None,
                 'title': title, 'media': media, 'org': media,
+                # 카드 배지가 매체명 대신 이걸 쓴다. 매체명은 상세 모달에만 남는다.
+                'category': classify(title, board),
                 'published': x.get('date') or today_kst().isoformat(),
                 'deadline': None, 'budget': None, 'ref_no': None,
                 'link': x['link'], 'cpv': [],
