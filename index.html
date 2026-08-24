@@ -189,9 +189,32 @@ async function fetchInto(paths) {
   }
 }
 
+// 같은 사업이 공고번호만 달리해 두 번 오는 일이 있다 — TED 정정·재공고, 그리고
+// World Bank는 한 사업의 문서가 두 건씩 잡힌다. 제목이 완전히 같을 때만 묶고
+// 최신 것을 대표로 남긴다(같은 날이면 공고번호가 큰 쪽).
+// 40자만 보는 normTitle은 여기 쓰면 안 된다 — TED 제목은 앞부분이 CPV 이름이라
+// 다른 사업끼리도 앞 40자가 같다.
+const normFull = s => (s || '').toLowerCase().replace(/[^0-9a-z가-힣]/g, '');
+
+function dedupeTenders() {
+  const best = new Map();
+  for (const it of ITEMS) {
+    if (it.kind !== 'tender') continue;
+    const k = it.source + '|' + normFull(it.title);
+    const p = best.get(k);
+    const newer = !p
+      || (it.published || '') > (p.published || '')
+      || ((it.published || '') === (p.published || '') && (it.ref_no || '') > (p.ref_no || ''));
+    if (newer) best.set(k, it);
+  }
+  const keep = new Set([...best.values()].map(i => i.id));
+  ITEMS = ITEMS.filter(it => it.kind !== 'tender' || keep.has(it.id));
+}
+
 async function load() {
   INDEX = await (await fetch('data/index.json')).json();
   await fetchInto(filePaths(false));
+  dedupeTenders();
   renderMeta(); render();
 }
 
@@ -200,6 +223,7 @@ async function loadRest() {
   loadedAll = true;
   const have = new Set(filePaths(false));
   await fetchInto(filePaths(true).filter(p => !have.has(p)));
+  dedupeTenders();
   render();
 }
 
