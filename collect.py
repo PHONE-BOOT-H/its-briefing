@@ -105,6 +105,14 @@ NEGATIVE = ['cleaning', 'catering', 'insurance', 'audit', 'accounting', 'furnitu
             'stationery', 'medical', 'food', 'gender', 'legal advice',
             'security service', 'guard service', 'physical protection']
 
+# 비ITS 도메인 감점 — 섹터 태그는 교통인데 실체가 수자원·환경인 사업.
+# 실측: 'Jamuna River Sustainable Management Project'(방글라데시 P172499)가
+# 조달예측 기본점 40을 그대로 받아 상위권에 올라왔다.
+# 지우지 않고 깎기만 한다 — 케냐 Horn of Africa Gateway(P161305)처럼
+# 제목만으로는 ITS인지 알 수 없는 진짜 건이 있기 때문이다.
+DOMAIN_NEG = ['river', 'waterway', 'water supply', 'flood', 'embankment', 'irrigation',
+              'dredg', 'sanitation', 'sewer', 'drainage', 'watershed']
+
 
 def keyword_bonus(text, rules):
     """키워드 가산점. 등급별로 최대 2개, 두 번째는 절반.
@@ -160,8 +168,12 @@ def its_ratio(cpv_list):
     return n / len(cpv_list)
 
 
-def score_item(title, cpv_list):
-    """CPV 기본점 + 제목 키워드 보너스 - 잡화 감점. 0~100."""
+def score_item(title, cpv_list, base_extra=0):
+    """CPV 기본점 + 제목 키워드 보너스 - 잡화 감점. 0~100.
+
+    base_extra는 소스가 주는 기본점(World Bank·ADB 계열)이다. 밖에서 더하면
+    감점이 0에서 잘려 사라진다 — 자무나 건이 40점 그대로 살아남던 경로다.
+    """
     t = (title or '').lower()
     base, base_hit = cpv_base(cpv_list)
     hits = ['cpv:' + base_hit] if base_hit else []
@@ -175,6 +187,15 @@ def score_item(title, cpv_list):
             penalty += 15
             hits.append('-' + w)
 
+    # 비ITS 도메인: 강한 ITS 신호(12점 이상 키워드나 CPV 기본점)가 없을 때만 깎는다.
+    # 도로공사에 딸린 배수(drainage) 같은 부수 단어로 진짜 ITS 건을 깎지 않기 위해서다.
+    if bonus < 12 and base == 0:
+        for w in DOMAIN_NEG:
+            if w in t:
+                penalty += 20
+                hits.append('-' + w)
+                break
+
     # 잡화 조달: CPV가 잔뜩인데 ITS 비중이 낮으면 본체가 ITS가 아니다
     ratio = its_ratio(cpv_list)
     n_cpv = len(cpv_list or [])
@@ -185,7 +206,7 @@ def score_item(title, cpv_list):
         penalty += 40
         hits.append('-잡화(CPV%d개, ITS%.0f%%)' % (n_cpv, ratio * 100))
 
-    return max(0, min(100, base + bonus - penalty)), hits
+    return max(0, min(100, base_extra + base + bonus - penalty)), hits
 
 
 # ── 공통 유틸
@@ -420,9 +441,12 @@ def fetch_worldbank(days=7):
                     continue
                 title = n.get('bid_description') or n.get('project_name') or ''
                 ctx = title + ' ' + (n.get('project_name') or '')
-                sc, hits = score_item(ctx, [])
-                if sc == 0 and not transportish(ctx):
+                # 게이트는 소스 기본점을 뺀 키워드 점수로 본다. 최종 점수는 기본점을
+                # score_item 안에서 더해야 감점이 0에서 잘리지 않는다.
+                raw, _ = score_item(ctx, [])
+                if raw == 0 and not transportish(ctx):
                     continue
+                sc, hits = score_item(ctx, [], base_extra=25)
                 out['wb-%s' % n['id']] = {
                     'schema_version': SCHEMA_VERSION, 'id': 'wb-%s' % n['id'], 'kind': 'tender',
                     'source': 'World Bank', 'type': '입찰', 'stream': 'notice',
@@ -433,7 +457,7 @@ def fetch_worldbank(days=7):
                     'ref_no': n.get('project_id') or n['id'],
                     'project_id': n.get('project_id'),
                     'link': 'https://projects.worldbank.org/en/projects-operations/procurement-detail/%s' % n['id'],
-                    'cpv': [], 'score': min(100, 25 + sc), 'score_hits': hits,
+                    'cpv': [], 'score': sc, 'score_hits': hits,
                     'already_posted': False,
                 }
             if oldest < start:
@@ -455,7 +479,7 @@ def fetch_worldbank(days=7):
             title = x.get('display_title') or ''
             if not extra and not transportish(title):
                 continue  # 섹터 필터가 없는 문서 종류만 제목으로 거른다
-            sc, hits = score_item(title, [])
+            sc, hits = score_item(title, [], base_extra=base)
             guid = x.get('guid') or x.get('id')
             pid = x.get('projectid')
             out['wbd-%s' % guid] = {
@@ -467,7 +491,7 @@ def fetch_worldbank(days=7):
                 'published': dt, 'deadline': None,
                 'ref_no': pid or guid, 'project_id': pid,
                 'link': 'https://documents.worldbank.org/en/publication/documents-reports/documentdetail/%s' % guid,
-                'cpv': [], 'score': min(100, base + sc), 'score_hits': hits,
+                'cpv': [], 'score': sc, 'score_hits': hits,
                 'already_posted': False,
             }
 
@@ -707,11 +731,12 @@ def fetch_adb(days=7):
         subtype = first_of(doc.get('tm_X3b_en_type')) or ''
         country = first_of(doc.get('tm_X3b_en_country'))
         pnum = first_of(doc.get('tm_X3b_en_project_number')) or ''
-        sc, hits = score_item(title, [])
+        raw, _ = score_item(title, [])
         # 섹터 태그가 다부문 사업에도 붙는다 — 인도 건 12개 중 관광·스포츠 전문가 채용이
         # Transport로 잡혔다. World Bank 조달공고와 같은 게이트를 건다.
-        if sc == 0 and not transportish(title):
+        if raw == 0 and not transportish(title):
             continue
+        sc, hits = score_item(title, [], base_extra=25)
         node = (doc.get('ss_url') or '').lstrip('/')
         out.append({
             'schema_version': SCHEMA_VERSION,
@@ -728,7 +753,7 @@ def fetch_adb(days=7):
             'ref_no': pnum, 'project_id': pnum,
             'link': doc.get('ss_csrn_url') or ('https://www.adb.org/' + node),
             'cpv': [],
-            'score': min(100, 25 + sc),             # World Bank 공고와 같은 기준선
+            'score': sc,                            # World Bank 공고와 같은 기준선(25)
             'score_hits': hits,
             'already_posted': False,
         })

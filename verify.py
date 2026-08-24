@@ -78,22 +78,29 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import collect
 
 LITMUS = [
-    # (설명, 제목, CPV, 기대 조건)
+    # (설명, 제목, CPV, 소스 기본점, 기대 조건)
     ('체코 과속단속 레이더 — CPV가 ITS인데 제목엔 ITS 단어가 없다',
      'Czechia – Radar sets – Mesto Chrudim - Mereni rychlosti v obcich',
-     ['34932000', '34971000', '34996000'], lambda s: s >= 50),
+     ['34932000', '34971000', '34996000'], 0, lambda s: s >= 50),
     ('스페인 잡화 조달 — CPV 39개 중 ITS는 하나뿐',
      'Spain – Construction structures and materials',
      ['14210000', '18100000', '24000000', '31000000', '31500000', '32000000',
       '33192000', '34928000', '34996000', '35111300', '37400000', '39110000',
-      '42600000', '44000000', '45212221'], lambda s: s <= 15),
+      '42600000', '44000000', '45212221'], 0, lambda s: s <= 15),
     ('브르노 ITS 3단계 — 부수 CPV가 붙어도 깎이면 안 된다',
      'Czechia – Control, safety or signalling equipment for roads – Rozvoj ITS v Brne',
-     ['32333200', '32500000', '34996000', '35125300', '45000000'], lambda s: s >= 60),
+     ['32333200', '32500000', '34996000', '35125300', '45000000'], 0, lambda s: s >= 60),
+    # 아래 둘은 짝이다. 비ITS 수자원은 깎되, 제목에 교통어가 없는 진짜 ITS 건은 남겨야 한다.
+    ('자무나 수자원 — 섹터 태그만 교통이고 실체는 강 관리 사업',
+     'Bangladesh - SOUTH ASIA- P172499- Jamuna River Sustainable Management Project 1',
+     [], 40, lambda s: s <= 25),
+    ('케냐 Horn of Africa Gateway — 제목에 교통 단어가 없는 진짜 ITS 사업',
+     'Kenya - EASTERN AND SOUTHERN AFRICA- P161305- Horn of Africa Gateway Development Project',
+     [], 40, lambda s: s >= 40),
 ]
 reg_fail = []
-for desc, title, cpv, ok in LITMUS:
-    sc, _ = collect.score_item(title, cpv)
+for desc, title, cpv, base_extra, ok in LITMUS:
+    sc, _ = collect.score_item(title, cpv, base_extra=base_extra)
     good = ok(sc)
     print('  %s %3d점  %s' % ('OK ' if good else '실패', sc, desc))
     if not good:
