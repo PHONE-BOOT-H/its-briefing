@@ -48,6 +48,10 @@
   .badge.dday { border-color:var(--warn); color:var(--warn); font-weight:600; }
   .badge.done { color:var(--dim); }
   .card.expired { opacity:.55; }
+  .foldbtn { display:block; width:100%; margin:14px 0 4px; padding:10px;
+             border:1px dashed var(--line); border-radius:8px; background:none;
+             color:var(--dim); font-size:13px; cursor:pointer; font-family:inherit; }
+  .foldbtn:hover { border-color:var(--dim); color:var(--ink); }
   .title { font-size:15px; font-weight:600; letter-spacing:-.01em; margin-bottom:4px; }
   .sub { font-size:13px; color:var(--dim); }
   .empty { text-align:center; color:var(--dim); padding:60px 0; font-size:14px; }
@@ -117,6 +121,8 @@
 const S = { tab:'tenders', range:7, onlyNew:true, sort:'score', q:'' };
 // 탭 → 기사 보드. 발주정보 탭은 여기 없다.
 const TAB_BOARD = { news:'A', domestic:'B', policy:'P' };
+const FOLD_SCORE = 25;   // 발주 접기 기준선. 25점은 World Bank·ADB의 소스 기본점이라
+                         // "기본점조차 못 받았거나 감점된 건"만 접힌다.
 let ITEMS = [], INDEX = null;
 // 로컬 날짜. toISOString()은 UTC라 한국에서 오전 9시 이전에 열면 하루 밀린다.
 const today = new Date().toLocaleDateString('sv-SE');
@@ -273,6 +279,16 @@ function ddayBadge(deadline) {
   return `<span class="badge dday">D-${d}</span>`;
 }
 
+// 접기 대상: 관련도가 기준선 아래이거나 마감이 지난 발주.
+// 지우지 않는다 — 케냐 P161305처럼 제목만으로는 ITS인지 모를 건이 섞여 있다.
+// 기사는 접지 않는다. 12점대에도 진짜 ITS 기사가 있어서 점수로 접으면 정답을 숨긴다
+// (하루 5건 상한이 이미 그 역할을 한다).
+function foldable(it) {
+  if (it.kind !== 'tender') return false;
+  if (it.deadline && days(today, it.deadline) < 0) return true;
+  return (it.score || 0) < FOLD_SCORE;
+}
+
 function cardHTML(it, i) {
   const expired = it.deadline && days(today, it.deadline) < 0;
   const isNew = it.first_seen === today;   // 어제 것까지 NEW로 두면 배지가 의미를 잃는다
@@ -303,14 +319,32 @@ function cardHTML(it, i) {
 function render() {
   const list = document.getElementById('list');
   const items = visible();
-  document.getElementById('count').textContent = items.length + '건';
-  if (!items.length) {
+  const main = items.filter(it => !foldable(it));
+  const folded = items.filter(foldable);
+  const order = [...main, ...folded];
+  document.getElementById('count').textContent =
+    main.length + '건' + (folded.length ? ` · 접힘 ${folded.length}` : '');
+  if (!order.length) {
     list.innerHTML = '<div class="empty">조건에 맞는 항목이 없습니다.</div>';
     return;
   }
-  list.innerHTML = items.map((it, i) => cardHTML(it, i)).join('');
+  list.innerHTML =
+    (main.length ? main.map((it, i) => cardHTML(it, i)).join('')
+                 : '<div class="empty">기본 화면에 표시할 항목이 없습니다.</div>')
+    + (folded.length ? `<button class="foldbtn" id="foldBtn" aria-expanded="false">
+         관련 낮은 항목 ${folded.length}건 보기</button>
+       <div id="foldList" hidden>${folded.map((it, i) =>
+         cardHTML(it, main.length + i)).join('')}</div>` : '');
+  const btn = document.getElementById('foldBtn');
+  if (btn) btn.onclick = () => {
+    const box = document.getElementById('foldList');
+    box.hidden = !box.hidden;
+    btn.setAttribute('aria-expanded', String(!box.hidden));
+    btn.textContent = (box.hidden ? '관련 낮은 항목 ' + folded.length + '건 보기'
+                                  : '관련 낮은 항목 접기');
+  };
   [...list.querySelectorAll('.card')].forEach(el =>
-    el.onclick = () => openDetail(items[+el.dataset.i]));
+    el.onclick = () => openDetail(order[+el.dataset.i]));
 }
 
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
