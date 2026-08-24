@@ -614,6 +614,11 @@ def apply_first_seen(items, seen, today):
     """장부에 없으면 오늘로 기록, 있으면 기존 값 유지."""
     new_count = 0
     for it in items:
+        # id 계산식이 바뀐 회차의 이월. 옛 id로 이미 본 항목이면 그 날짜를 물려받는다.
+        # 없으면 전건이 '오늘 신규'가 되어 재노출 금지 설계가 하루치 통째로 무너진다.
+        old = it.pop('id_legacy', None)
+        if it['id'] not in seen and old and old in seen:
+            seen[it['id']] = seen[old]
         if it['id'] in seen:
             it['first_seen'] = seen[it['id']]
         else:
@@ -794,7 +799,10 @@ KO_BONUS = [
          'npu', '반도체', '카메라', '관제', '통신']),   # '단속'은 12점 등급에만 둔다
 ]
 KO_NEGATIVE = ['부고', '인사이동', '주가', '증시', '코스피', '분양', '아파트값', '날씨', '부동산',
-               '시장 규모', '시장규모', '점유율', '시장 전망', '리포트 발간', '보고서 발간']
+               '시장 규모', '시장규모', '점유율', '시장 전망', '리포트 발간', '보고서 발간',
+               # 항공교통관제는 ITS가 아니다. 영어 쪽 'air traffic' 차단어의 한국어 짝이
+               # 빠져 있어서 '항공교통관제 시뮬레이터 체험' 기사가 29점으로 통과했다.
+               '항공교통관제', '항공관제', '항공교통']
 
 # 영어 기사 전용 차단어. 시장조사 보도자료와 항공교통관제(ITS 아님)를 걸러낸다.
 EN_NEWS_NEGATIVE = ['market size', 'market growth', 'market share', 'market report',
@@ -932,12 +940,18 @@ def fetch_news(days=7):
             title = re.sub(r'\s*[-\u2013|]\s*$', '', title).strip()
             seen_url.add(nu)
             seen_title.add(nt)
+            # id는 매체 꼬리를 뗀 '표시용 제목'으로 만든다.
+            # 원본 RSS 제목으로 만들면 구글뉴스가 날마다 다른 꼬리를 붙일 때
+            # 같은 기사가 두 개의 id를 받는다(실측 50쌍, 22.5%).
+            nt_disp = norm_title(title)
             out.append({
                 'schema_version': SCHEMA_VERSION,
                 # id를 링크 해시로 만들면 안 된다 — 구글뉴스 RSS 링크는 요청마다 바뀌는
                 # 불투명 토큰이라 같은 기사가 매번 새 id를 받고, 매일 '신규'로 다시 뜬다.
                 # 정규화한 제목이 훨씬 안정적이다.
-                'id': 'news-%s' % hashlib.md5((nt or nu).encode('utf-8')).hexdigest()[:12],
+                'id': 'news-%s' % hashlib.md5((nt_disp or nu).encode('utf-8')).hexdigest()[:12],
+                # 옛 계산식(원본 제목 기준) id. 장부 이월용이며 채워 쓰고 버린다.
+                'id_legacy': 'news-%s' % hashlib.md5((nt or nu).encode('utf-8')).hexdigest()[:12],
                 'kind': 'news', 'board': board, 'source': source,
                 'type': BOARD_TYPE[board],
                 'country': None, 'country_ko': None,
