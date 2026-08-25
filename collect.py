@@ -993,12 +993,6 @@ def fetch_news(days=7):
             nu, nt = norm_url(x['link']), norm_title(x['title'])
             if nu in seen_url or (nt and nt in seen_title):
                 continue
-            sc, hits = score_news(x['title'], korean)
-            if source == 'ITS Korea':
-                sc = min(100, sc + ASSOC_BASE)
-                hits = hits + ['협회게시판']
-            if sc < min_score:
-                continue
             # 구글뉴스 제목은 "제목 - 매체명"으로 끝난다. 매체는 따로 표시하므로 뗀다.
             title = x['title']
             media = x.get('media')
@@ -1008,6 +1002,15 @@ def fetch_news(days=7):
             # 매체가 붙이는 섹션 꼬리 — "… > 뉴스", "… | 종합" 류
             title = re.sub(r'\s*[>\u203a|]\s*(뉴스|종합|속보|기사|홈)\s*$', '', title).strip()
             title = re.sub(r'\s*[-\u2013|]\s*$', '', title).strip()
+            # 채점은 매체 꼬리를 뗀 뒤에 한다. 원본 제목으로 매기면 매체명이 점수에 들어간다 —
+            # '… - 다나와 자동차'의 '자동차'가 6점으로 계산되던 실측 12건.
+            # id·분류·점수가 모두 같은 문자열을 보게 맞춰 둔다.
+            sc, hits = score_news(title, korean)
+            if source == 'ITS Korea':
+                sc = min(100, sc + ASSOC_BASE)
+                hits = hits + ['협회게시판']
+            if sc < min_score:
+                continue
             seen_url.add(nu)
             seen_title.add(nt)
             # id는 매체 꼬리를 뗀 '표시용 제목'으로 만든다.
