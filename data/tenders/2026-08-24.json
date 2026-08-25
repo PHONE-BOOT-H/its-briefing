@@ -954,7 +954,7 @@
   "score_hits": [
    "mobility"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "worldbank",
   "first_seen": "2026-08-20"
  },
