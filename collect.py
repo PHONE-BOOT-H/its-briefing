@@ -25,6 +25,7 @@ SEEN_PATH = os.path.join(DATA, 'seen.json')
 BOARD_CACHE_PATH = os.path.join(DATA, 'board_cache.json')
 ADB_CACHE_PATH = os.path.join(DATA, 'adb_cache.json')
 NOTES_PATH = os.path.join(DATA, 'notes.json')
+FLAGS_PATH = os.path.join(DATA, 'flags.json')
 
 # 스키마 v2 빈 값 원칙
 # ────────────────────────────────────────────────────────────
@@ -732,6 +733,20 @@ def main():
     for it in items:
         it['notes'] = notes.get(it['id'])
 
+    # 사람이 직접 접는 목록. 규칙으로 못 잡는 건을 여기에 적는다.
+    # 실사용 사례: 프놈펜 노상주차 기고문은 협회 게시판 경유라 제목·매체 어디에도
+    # 기고 표시가 없다(원문 KIRIPOST). 도메인 목록은 반복범, 이 파일은 일회성이다.
+    # 형식: { "news-abc123": "기고·칼럼" }
+    flags = {}
+    if os.path.exists(FLAGS_PATH):
+        with open(FLAGS_PATH, encoding='utf-8') as f:
+            flags = json.load(f)
+    for it in items:
+        manual = flags.get(it['id'])
+        if manual and not it.get('flag'):
+            it['flag'] = manual
+            it['score'] = max(0, it.get('score', 0) - OPINION_PENALTY)
+            it['score_hits'] = (it.get('score_hits') or []) + ['-수동표시']
     items.sort(key=lambda x: (-x['score'], x.get('deadline') or '9999'))
 
     if not items:
@@ -1007,6 +1022,35 @@ def classify(title, board):
     return '기타'
 
 
+# ── 기사 감점 목록 (운영하며 늘려가는 자리)
+#
+# 둘 다 '제외'가 아니라 감점이다. 원 기사가 진짜일 수 있고, 기고문에도 쓸 내용이 있다.
+# 점수를 깎고 표시를 붙여 화면 아래로 가라앉히면 사람이 펼쳐서 판단할 수 있다.
+#
+# 재가공(도용) 의심 — 남의 기사를 그대로 옮겨 싣는 사이트.
+# 실사용 발견: streamlinefeed.co.ke가 홍콩프리프레스 기사를 옮겨 실어 수집에 잡혔다.
+# 새로 발견하면 이 목록에 한 줄 추가하면 된다. 매체명과 링크 도메인 양쪽을 본다.
+REPOST_DOMAINS = ['streamlinefeed.co.ke']
+REPOST_PENALTY = 20
+
+# 기고·칼럼·사설 — 사실 보도가 아니라 의견이다.
+# 실사용 발견: 프놈펜 노상주차 기고문이 뉴스로 통과했다.
+OPINION_SIGNALS = ['commentary', 'opinion', 'editorial', 'op-ed', 'viewpoint',
+                   '기고', '칼럼', '사설', '기자수첩', '오피니언', '시론', '기획']
+OPINION_PENALTY = 15
+
+
+def news_flags(title, media, link):
+    """감점 사유와 크기. (감점, 표시, hits 항목)"""
+    hay = ((media or '') + ' ' + (link or '')).lower()
+    if any(d in hay for d in REPOST_DOMAINS):
+        return REPOST_PENALTY, '재가공 의심', '-재가공의심'
+    t = (title or '').lower()
+    if any(w in t for w in OPINION_SIGNALS):
+        return OPINION_PENALTY, '기고·칼럼', '-기고문'
+    return 0, None, None
+
+
 NEWS_DAILY_CAP = 5   # 보드별 하루 노출 상한
 ASSOC_BASE = 12      # ITS Korea 게시판 기본점 — 협회가 ITS 관점에서 이미 고른 목록이다
 
@@ -1137,8 +1181,14 @@ def fetch_news(days=7):
             if source == 'ITS Korea':
                 sc = min(100, sc + ASSOC_BASE)
                 hits = hits + ['협회게시판']
+            # 하한은 감점 전 점수로 본다. 감점으로 탈락시키면 '제외'가 되어버린다 —
+            # 재가공·기고문은 지우는 게 아니라 접어서 사람이 펼쳐 보게 하는 것이 목적이다.
             if sc < min_score:
                 continue
+            penalty, flag, hit = news_flags(title, media, x['link'])
+            if penalty:
+                sc = max(0, sc - penalty)
+                hits = hits + [hit]
             seen_url.add(nu)
             seen_title.add(nt)
             # id는 매체 꼬리를 뗀 '표시용 제목'으로 만든다.
@@ -1159,6 +1209,7 @@ def fetch_news(days=7):
                 'title': title, 'media': media, 'org': media,
                 # 카드 배지가 매체명 대신 이걸 쓴다. 매체명은 상세 모달에만 남는다.
                 'category': classify(title, board),
+                'flag': flag,          # '재가공 의심' / '기고·칼럼' — 화면에서 접는다
                 'published': x.get('date') or today_kst().isoformat(),
                 'deadline': None, 'budget': None, 'ref_no': None,
                 'link': x['link'], 'cpv': [],
@@ -1264,6 +1315,11 @@ def fetch_news(days=7):
     EXEMPT = ('국토교통부', '법제처')      # 주 3~5건, 검토 가치 높음 — 상한 없음
     capped, per = [], collections.Counter()
     for it in sorted(out, key=lambda x: (-x['score'], x['published'])):
+        # 감점 표시된 기사는 상한 경쟁에서 빼둔다. 점수가 낮아 무조건 잘리는데,
+        # 잘리면 '제외'가 된다 — 접어서 보여주기로 한 것들이다. (화면에도 같은 규칙)
+        if it.get('flag'):
+            capped.append(it)
+            continue
         if it['source'] in EXEMPT:
             capped.append(it)
             continue
