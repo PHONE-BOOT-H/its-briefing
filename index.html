@@ -29,6 +29,7 @@
   .tabs button[aria-selected="true"] { color:var(--ink); border-bottom-color:var(--accent); font-weight:600; }
 
   .controls { display:flex; flex-wrap:wrap; gap:8px; align-items:center; margin-bottom:16px; }
+  .controls[hidden] { display:none; }   /* display:flex가 hidden 속성을 덮는다 */
   .chip { border:1px solid var(--line); background:var(--card); color:var(--dim);
           padding:5px 12px; border-radius:999px; font-size:13px; cursor:pointer; font-family:inherit; }
   .chip[aria-pressed="true"] { background:var(--accent); border-color:var(--accent); color:#fff; }
@@ -57,6 +58,22 @@
   .rel-list li { font-size:13px; color:var(--dim); padding:4px 0; cursor:pointer; }
   .rel-list li:hover { color:var(--ink); }
   .rel-list li span { font-size:11.5px; margin-left:6px; opacity:.75; }
+  .statcard { background:var(--card); border:1px solid var(--line); border-radius:10px;
+              padding:16px 18px; margin-bottom:14px; }
+  .statcard h2 { font-size:15px; margin:0 0 10px; }
+  .statcard .note { font-size:12.5px; color:var(--dim); line-height:1.55; margin:10px 0 0; }
+  .chart { max-width:100%; overflow:visible; }
+  .chart .cl { font-size:12px; fill:var(--ink); }
+  .chart .cv { font-size:11.5px; fill:var(--dim); }
+  .chart .seg { rx:1; }
+  .chart .seg.a { fill:var(--accent); }
+  .chart .seg.b { fill:#7aa89b; }
+  .chart .seg.c { fill:#bcd0c8; }
+  .chart .seg.warn { fill:var(--warn); }
+  .note b.k { font-weight:600; padding:0 4px; border-radius:3px; color:#fff; }
+  .note b.k.a { background:var(--accent); }
+  .note b.k.b { background:#7aa89b; }
+  .note b.k.c { background:#bcd0c8; color:#1a1a18; }
   .card.expired { opacity:.55; }
   .foldbtn { display:block; width:100%; margin:14px 0 4px; padding:10px;
              border:1px dashed var(--line); border-radius:8px; background:none;
@@ -95,6 +112,7 @@
     <button role="tab" data-tab="news" aria-selected="false">해외기사</button>
     <button role="tab" data-tab="domestic" aria-selected="false">국내기사</button>
     <button role="tab" data-tab="policy" aria-selected="false">국내 동향</button>
+    <button role="tab" data-tab="stats" aria-selected="false">통계</button>
   </div>
 
   <div class="controls" id="controls">
@@ -145,7 +163,7 @@ function readURL() {
   // 옛 링크 호환. 기사 탭 하나 + 보드 칩이던 시절의 주소를 새 탭으로 옮긴다.
   // 즐겨찾기해 둔 ?tab=news 가 빈 화면으로 떨어지면 안 된다.
   if (S.tab === 'news' && p.get('board') === 'B') S.tab = 'domestic';
-  if (!TAB_BOARD[S.tab] && S.tab !== 'tenders') S.tab = 'tenders';
+  if (!TAB_BOARD[S.tab] && S.tab !== 'tenders' && S.tab !== 'stats') S.tab = 'tenders';
   if (p.get('range') !== null) S.range = +p.get('range');
   else if (S.tab !== 'tenders') S.range = 3;   // 기사·국내동향은 매일 쌓이므로 3일
   if (p.get('new') !== null) S.onlyNew = p.get('new') === '1';
@@ -420,8 +438,105 @@ function cardHTML(it, i) {
   </div>`;
 }
 
+// ── 통계
+//
+// 두 가지를 지킨다.
+//  1) 목록 탭이 쓰는 배열(ITEMS + 같은 사안 묶기)로 센다. 파일을 직접 세면 화면 숫자와 갈린다.
+//  2) 통계 탭에 들어오면 전체 파일을 받는다. 기본 로드는 최근 14일치뿐이라
+//     그냥 세면 '누적'이라 적어놓고 최근 14일만 세게 된다.
+// 라이브러리는 안 쓴다. 막대 하나가 rect 하나다.
+function bars(rows, opt) {
+  // 픽셀 좌표로 그린다. viewBox를 늘려 맞추면 글자까지 늘어난다.
+  const max = Math.max(1, ...rows.map(r => r.total !== undefined ? r.total : r.value));
+  const LH = 24, LAB = 120, BAR = 420, W = 700, H = rows.length * LH + 4;
+  return `<svg class="chart" viewBox="0 0 ${W} ${H}" width="100%" height="${H}"
+               role="img" aria-label="${esc(opt.label || '')}">
+    ${rows.map((r, i) => {
+      const y = i * LH + 6;
+      const segs = r.segs || [{ value: r.value, cls: 'a' }];
+      let x = LAB;
+      const body = segs.map(s => {
+        const w = Math.max(1, (s.value / max) * BAR);
+        const rect = `<rect x="${x}" y="${y}" width="${w}" height="13" class="seg ${s.cls}"><title>${esc(s.title || '')}</title></rect>`;
+        x += w;
+        return rect;
+      }).join('');
+      return `<text x="0" y="${y + 11}" class="cl">${esc(r.label)}</text>${body}
+              <text x="${x + 6}" y="${y + 11}" class="cv">${esc(r.text)}</text>`;
+    }).join('')}
+  </svg>`;
+}
+
+function statCards() {
+  const all = groupStories(ITEMS.filter(i => i.kind === 'news'))
+    .concat(ITEMS.filter(i => i.kind === 'tender'));
+  const tenders = all.filter(i => i.kind === 'tender');
+  const news = all.filter(i => i.kind === 'news');
+  const cards = [];
+
+  // 1. 소스별 순기여 — 중복을 걷어낸 뒤 실제로 몇 건이 남는가
+  const bySource = {};
+  for (const it of all) bySource[it.source] = (bySource[it.source] || 0) + 1;
+  const srcRows = Object.entries(bySource).sort((a, b) => b[1] - a[1])
+    .map(([k, v]) => ({ label: k, value: v, text: `${v}건`, segs: [{ value: v, cls: 'a', title: `${k} ${v}건` }] }));
+  cards.push({
+    title: '소스별 순기여',
+    note: `중복·같은 사안을 걷어낸 뒤 남은 건수. 합계 ${all.length}건. `
+        + '한 소스가 많이 던져도 실제로 남는 건수는 다르다 — 유지비 대비 기여를 보는 표다.',
+    svg: bars(srcRows, { label: '소스별 건수' }),
+  });
+
+  // 2. 마감까지 남은 기간
+  const live = tenders.filter(t => t.deadline && days(today, t.deadline) >= 0);
+  const buckets = [['D-0~7', 0, 7], ['D-8~14', 8, 14], ['D-15~30', 15, 30], ['D-31~60', 31, 60], ['D-61+', 61, 9999]];
+  const dRows = buckets.map(([lab, lo, hi]) => {
+    const n = live.filter(t => { const d = days(today, t.deadline); return d >= lo && d <= hi; }).length;
+    return { label: lab, value: n, text: `${n}건`, segs: [{ value: n, cls: lo <= 7 ? 'warn' : 'a', title: `${lab} ${n}건` }] };
+  });
+  const withDl = tenders.filter(t => t.deadline).length;
+  cards.push({
+    title: '마감까지 남은 기간',
+    note: `마감이 남은 발주 ${live.length}건. 마감일이 있는 건 ${withDl}/${tenders.length}건뿐이라 `
+        + '이 그림은 사실상 TED·ADB의 분포다 — World Bank 조달예측 문서는 마감 개념 자체가 없다.',
+    svg: bars(dRows, { label: '마감 임박 분포' }),
+  });
+
+  // 3. 국가별 TOP10 (소스별 스택)
+  const byCountry = {};
+  for (const t of tenders) {
+    const k = t.country_ko || t.country || '미상';
+    (byCountry[k] = byCountry[k] || {})[t.source] = ((byCountry[k] || {})[t.source] || 0) + 1;
+  }
+  const SRC = ['TED', 'World Bank', 'ADB'];
+  const cRows = Object.entries(byCountry)
+    .map(([k, m]) => ({ k, m, total: Object.values(m).reduce((a, b) => a + b, 0) }))
+    .sort((a, b) => b.total - a.total).slice(0, 10)
+    .map(r => ({
+      label: r.k, total: r.total, text: `${r.total}건`,
+      segs: SRC.filter(s => r.m[s]).map((s, i) => ({ value: r.m[s], cls: ['a', 'b', 'c'][SRC.indexOf(s)], title: `${s} ${r.m[s]}건` })),
+    }));
+  cards.push({
+    title: '국가별 발주 TOP10',
+    note: `누적 ${tenders.length}건 기준(${Object.keys(byCountry).length}개국). `
+        + '표본이 아직 며칠치라 순위는 흔들린다. 색은 소스다 — '
+        + '<b class="k a">TED</b> <b class="k b">World Bank</b> <b class="k c">ADB</b>. '
+        + '미국·중동·중남미가 0건인 것은 발주가 없어서가 아니라 우리 소스가 그쪽을 안 덮기 때문이다.',
+    svg: bars(cRows, { label: '국가별 건수' }),
+  });
+  return cards;
+}
+
+function renderStats() {
+  const list = document.getElementById('list');
+  document.getElementById('count').textContent = loadedAll ? '' : '불러오는 중…';
+  list.innerHTML = statCards().map(c =>
+    `<div class="statcard"><h2>${esc(c.title)}</h2>${c.svg}<p class="note">${c.note}</p></div>`).join('');
+  document.getElementById('count').textContent = '';
+}
+
 function render() {
   const list = document.getElementById('list');
+  if (S.tab === 'stats') return renderStats();
   const items = groupStories(visible());
   const main = items.filter(it => !foldable(it));
   const folded = items.filter(foldable);
@@ -576,12 +691,16 @@ function copyTemplate(it) {
 
 // ── 이벤트
 function syncTabUI() {
+  // 통계는 누적을 보는 화면이라 기간·정렬·검색이 붙을 자리가 없다.
+  document.getElementById('controls').hidden = S.tab === 'stats';
   // 기사·국내동향은 매일 쌓이므로 기본 3일, 발주는 주 단위라 7일
   document.querySelectorAll('.chip[data-range]').forEach(x =>
     x.setAttribute('aria-pressed', +x.dataset.range === S.range));
 }
 document.querySelectorAll('[role=tab]').forEach(b => b.onclick = () => {
   S.tab = b.dataset.tab;
+  // 통계는 누적을 세는 화면이다. 최근 14일치만 받은 상태로 세면 '누적'이 거짓말이 된다.
+  if (S.tab === 'stats') loadRest().then(render);
   S.range = S.tab === 'tenders' ? 7 : 3;
   document.querySelectorAll('[role=tab]').forEach(x =>
     x.setAttribute('aria-selected', x === b));
@@ -620,7 +739,8 @@ document.querySelectorAll('.chip[data-range]').forEach(x =>
   x.setAttribute('aria-pressed', +x.dataset.range === S.range));
 syncTabUI();
 writeURL();   // 옛 링크(?tab=news&board=B)로 들어온 경우 주소를 새 형식으로 정리한다
-load().then(() => { if (S.range === 0) loadRest(); }).catch(e => document.getElementById('list').innerHTML =
+load().then(() => { if (S.range === 0 || S.tab === 'stats') loadRest().then(render); })
+  .catch(e => document.getElementById('list').innerHTML =
   `<div class="empty">데이터를 불러오지 못했습니다.<br>${esc(e.message)}<br><br>
    로컬에서 열 때는 <code>python -m http.server</code>로 띄워야 합니다.</div>`);
 </script>
