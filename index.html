@@ -321,7 +321,9 @@ function visible(tab) {
     //  - 부처·법제처 원문은 상한 면제 (주 3~5건, 검토 가치가 높다)
     //  - 협회(ITS Korea)와 구글뉴스는 계열을 나눠 따로 센다
     //  - 자를 때는 오늘 처음 발견한 것에 우선권 (점수순으로만 자르면 오늘 신규가 밀린다)
-    const EXEMPT = ['국토교통부', '법제처'];
+    // 상한 면제 — 사람이 이미 선별한 목록(수집기와 같은 규칙).
+    // 협회 글 중 카테고리가 '기타'인 것은 대신 접기 영역으로 내린다.
+    const EXEMPT = ['국토교통부', '법제처', 'ITS Korea'];
     const per = {}, allowed = new Set();
     for (const it of [...out].sort((a,b) =>
         (b.first_seen === today) - (a.first_seen === today))) {
@@ -329,7 +331,7 @@ function visible(tab) {
       // 상한에서 잘리면 '제외'가 되는데, 이건 접어서 보여주기로 한 것들이다.
       if (it.flag) { allowed.add(it.id); continue; }
       if (EXEMPT.includes(it.source)) { allowed.add(it.id); continue; }
-      const k = (it.source === 'ITS Korea' ? 'assoc' : 'news') + '|' + it.board + '|' + it.published;
+      const k = it.board + '|' + it.published;
       per[k] = (per[k] || 0) + 1;
       if (per[k] <= NEWS_CAP) allowed.add(it.id);
     }
@@ -413,9 +415,12 @@ function groupStories(items) {
 // 기사는 접지 않는다. 12점대에도 진짜 ITS 기사가 있어서 점수로 접으면 정답을 숨긴다
 // (하루 5건 상한이 이미 그 역할을 한다).
 function foldable(it) {
-  // 기사는 점수로 접지 않는다. 다만 재가공 의심·기고문은 접는다 —
-  // 지우지 않고 가라앉혀서, 필요하면 펼쳐 보게 한다.
-  if (it.kind !== 'tender') return !!it.flag;
+  // 기사는 점수로 접지 않는다. 접는 것은 표시가 붙은 것뿐이다.
+  //  - 재가공 의심·기고문
+  //  - 협회 게시판 글 중 카테고리가 '기타'인 것: 상한을 면제해 하루 10건 안팎이
+  //    통째로 들어오는데, 실측상 그 64%가 ITS와 직접 관련이 없다(AI 윤리원칙,
+  //    전기차 화재 감지, 공공조달 조직개편 …). 지우지 않고 가라앉힌다.
+  if (it.kind !== 'tender') return !!it.flag || (it.source === 'ITS Korea' && it.category === '기타');
   if (it.deadline && days(today, it.deadline) < 0) return true;
   return (it.score || 0) < FOLD_SCORE;
 }

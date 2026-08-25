@@ -1335,7 +1335,10 @@ def fetch_news(days=7):
     #   EXEMPT 목록·상한값·ITS Korea 계열 분리를 양쪽에서 같이 고쳐야 한다.
     #   채움 순서는 일부러 다르다 — 여기는 점수순, 화면은 '오늘 신규' 우선.
     # 한 통에 넣고 점수로 자르면 32점 뉴스가 24점 부처 원문을 밀어낸다(실측 확인).
-    EXEMPT = ('국토교통부', '법제처')      # 주 3~5건, 검토 가치 높음 — 상한 없음
+    # 상한 면제 — 사람이 이미 선별한 목록이라 기계가 다시 자를 이유가 없다.
+    # ITS Korea는 협회가 고른 목록이고(하루 11건 안팎), 부처 원문은 주 3~5건이다.
+    # 대신 협회 글 중 카테고리가 '기타'인 것은 화면에서 접는다(index.html foldable).
+    EXEMPT = ('국토교통부', '법제처', 'ITS Korea')
     capped, per = [], collections.Counter()
     for it in sorted(out, key=lambda x: (-x['score'], x['published'])):
         # 감점 표시된 기사는 상한 경쟁에서 빼둔다. 점수가 낮아 무조건 잘리는데,
@@ -1346,7 +1349,7 @@ def fetch_news(days=7):
         if it['source'] in EXEMPT:
             capped.append(it)
             continue
-        k = (it['source'] == 'ITS Korea', it['board'], it['published'])
+        k = (it['board'], it['published'])
         if per[k] >= NEWS_DAILY_CAP:
             continue
         per[k] += 1
