@@ -977,7 +977,8 @@ CAT_EN = [
                 'intelligent transport', 'its system', 'surveillance', 'work zone',
                 'school zone', 'road safety']),
     ('자율주행', ['autonomous', 'self-driving', 'selfdriving', 'driverless',
-               'robotaxi', 'robo-taxi', 'automated driving', 'level 4']),
+               'robotaxi', 'robo-taxi', 'automated driving', 'level 4',
+               ]),
     ('산업·투자', ['ipo', 'acquisition', 'merger', 'stake', 'funding round',
                 'investment', 'wins contract', 'awarded contract']),
     ('대중교통·물류', ['public transport', 'bus rapid', 'brt', 'metro', 'tram',
@@ -995,10 +996,12 @@ CAT_KO = [
                 '투자 유치', '시리즈 a', '시리즈 b', '수주', '계약 체결', '공급 계약',
                 '양해각서', 'mou']),
     ('요금·통행료', ['통행료', '요금징수', '하이패스', '스마트톨링', '다차로', '요금소', '교통카드']),
-    ('단속·집행', ['단속', '과속', '무인단속', '음주운전', '과적', '불법주정차', '위반']),
+    ('단속·집행', ['단속', '과속', '무인단속', '음주운전', '과적', '불법주정차', '위반',
+                ]),
     ('신호·관제', ['신호', '교차로', '교통관제', '관제센터', '관제시스템', '교통정보', '교통량',
                 '혼잡', '돌발상황', '정보제공', '스마트교차로']),
-    ('자율주행', ['자율주행', '자율차', '로보택시', '무인주행', '레벨4', '자율운행', '자율협력']),
+    ('자율주행', ['자율주행', '자율차', '로보택시', '무인주행', '레벨4', '자율운행', '자율협력',
+               ]),
     ('대중교통·물류', ['대중교통', '버스', 'brt', '철도', '지하철', 'ktx', '트램', '전철',
                   '택시', '물류', '화물', '주차', '파킹', '수요응답']),
 ]
@@ -1156,7 +1159,7 @@ def fetch_news(days=7):
     start = (today_kst() - timedelta(days=days)).isoformat()
     out, seen_url, seen_title = [], set(), set()
 
-    def add(items, board, korean, source, min_score):
+    def add(items, board, korean, source, min_score, pinned=False):
         for x in items:
             if not x.get('title') or not x.get('link'):
                 continue
@@ -1210,6 +1213,11 @@ def fetch_news(days=7):
                 # 카드 배지가 매체명 대신 이걸 쓴다. 매체명은 상세 모달에만 남는다.
                 'category': classify(title, board),
                 'flag': flag,          # '재가공 의심' / '기고·칼럼' — 화면에서 접는다
+                # 게시판 맨 위에 고정된 공지글. 매일 목록 상단에 다시 나타나므로
+                # 노출 상한을 이것들이 먼저 먹으면 그날 새 글이 통째로 밀린다
+                # (실측: 8/21에 우리가 담은 5건이 전부 고정 공지였고 새 글은 0건).
+                # 표시해 두고 상한 계산에서 뺀다.
+                'pinned': pinned or None,
                 'published': x.get('date') or today_kst().isoformat(),
                 'deadline': None, 'budget': None, 'ref_no': None,
                 'link': x['link'], 'cpv': [],
@@ -1230,22 +1238,37 @@ def fetch_news(days=7):
             time.sleep(1)
 
     # itskorea — 사람이 이미 골라놓은 목록 (type=8 국내동향, type=9 해외영문)
+    #
+    # 3페이지까지 읽는다. 1페이지만 읽으면 못 따라간다 — 실측: 게시판은 하루 11건 안팎을
+    # 올리는데 1페이지의 '일반' 칸은 10개뿐이고, 앞 10행은 매일 같은 공지 고정글이다.
+    # 하루 한 번 읽는 구조에서 1페이지만 보면 도달 가능 21%, 3페이지면 84%다.
+    #
+    # 행 단위(<li><dl>)로 파싱한다. 앵커만 훑으면 같은 글이 두 번 잡히고(제목·썸네일 링크)
+    # 공지 고정글을 구분할 수 없다.
+    ROW = re.compile(r'<li( class="li_fixed")?>\s*<dl>(.*?)</dl>\s*</li>', re.S)
+    DATE_LI = re.compile(r'<li>(20\d\d[-.]\d\d[-.]\d\d)</li>')
     for t, board, korean in [(8, 'B', True), (9, 'A', False)]:
-        try:
-            h = http_text('https://itskorea.kr/boardList.do?type=%d&currentPage=1' % t)
-            anchor = re.compile(r'boardDetail\.do\?type=%d&idx=(\d+)[^>]*>(.*?)</a>' % t, re.S)
-            for m in anchor.finditer(h):
-                idx, title = m.group(1), strip_tags(m.group(2))
-                title = re.sub(r'\s*새글$', '', title)
-                win = h[m.end():m.end() + 700]           # 날짜는 제목 뒤 <dd>에 있다
-                dm = re.search(r'(20\d\d[-.]\d\d[-.]\d\d)', win)
-                add([{'title': title,
-                      'link': 'https://itskorea.kr/boardDetail.do?type=%d&idx=%s' % (t, idx),
-                      'date': dm.group(1).replace('.', '-') if dm else None,
-                      'media': 'ITS Korea'}],
-                    board, korean, 'ITS Korea', 0)   # 협회가 이미 골라놓은 목록
-        except Exception as e:
-            print('  itskorea type=%d 실패: %s' % (t, e), file=sys.stderr)
+        link_re = re.compile(r'boardDetail\.do\?type=%d&idx=(\d+)[^>]*>(.*?)</a>' % t, re.S)
+        for page in (1, 2, 3):
+            try:
+                h = http_text('https://itskorea.kr/boardList.do?type=%d&currentPage=%d' % (t, page))
+                i, j = h.find('listSet'), h.find('pagination')
+                area = h[i:j] if 0 <= i < j else h      # 목록 영역만. 사이드바 위젯을 피한다
+                for m in ROW.finditer(area):
+                    pinned, body = bool(m.group(1)), m.group(2)
+                    lm = link_re.search(body)
+                    if not lm:
+                        continue
+                    title = re.sub(r'\s*새글\s*$', '', strip_tags(lm.group(2))).strip()
+                    dm = DATE_LI.search(body)
+                    add([{'title': title,
+                          'link': 'https://itskorea.kr/boardDetail.do?type=%d&idx=%s' % (t, lm.group(1)),
+                          'date': dm.group(1).replace('.', '-') if dm else None,
+                          'media': 'ITS Korea'}],
+                        board, korean, 'ITS Korea', 0,   # 협회가 이미 골라놓은 목록
+                        pinned=pinned)
+            except Exception as e:
+                print('  itskorea type=%d p%d 실패: %s' % (t, page, e), file=sys.stderr)
 
     # 국토교통부 보도자료 — 세션 쿠키 없으면 307 리다이렉트 루프에 빠진다
     try:
