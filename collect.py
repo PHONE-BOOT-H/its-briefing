@@ -18,11 +18,21 @@ import time
 import html as html_mod
 from datetime import datetime, timezone, timedelta
 
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, 'data')
 SEEN_PATH = os.path.join(DATA, 'seen.json')
 BOARD_CACHE_PATH = os.path.join(DATA, 'board_cache.json')
+ADB_CACHE_PATH = os.path.join(DATA, 'adb_cache.json')
+NOTES_PATH = os.path.join(DATA, 'notes.json')
+
+# 스키마 v2 빈 값 원칙
+# ────────────────────────────────────────────────────────────
+# 채울 수 없는 항목은 비운다(None). 추정치·유사값으로 메꾸지 않는다.
+# 사업명이 없다고 계약건명을 넣거나, 예산이 없다고 사업 총액을 대신 넣는 식은 금지.
+# 값의 의미가 소스마다 다르면 별도 필드로 나눈다(budget.is_project_total).
+# 화면은 빈 값을 '정보 없음 — 원문 확인'으로 보여주고, 등록문 복사도 빈칸 그대로 둔다.
+# 비어 있는 것이 잘못 채워진 것보다 낫다 — 담당자가 원문을 열어보게 만드는 게 목적이다.
 KST = timezone(timedelta(hours=9))
 
 
@@ -259,6 +269,25 @@ def iso_date(value):
 
 # ── 소스: TED (EU 조달공고)
 TED_CPV = ['34996000', '34970000', '34923000', '48813000', '34922100', '63712700', '34942000']
+
+# TED 발주기관 유형 코드 → 한글. 모르는 코드는 원문 그대로 둔다(빈 값 원칙: 지어내지 않는다).
+TED_ORG_TYPE = {'la': '지방정부', 'ra': '광역정부', 'cga': '중앙정부', 'body-pl': '공법인',
+                'pub-undert': '공기업', 'def-cont': '국방', 'eu-ins-bod-ag': 'EU기관',
+                'org-sub': '보조금 수급기관', 'int-org': '국제기구'}
+
+
+def ted_award_method(values):
+    """낙찰 기준 코드 → 한글 한 줄. 값이 없으면 None (부처 서식 그대로 비운다)."""
+    v = set(values or [])
+    if not v:
+        return None
+    if 'price' in v and ('quality' in v or 'cost' in v):
+        return '종합평가(가격+기술)'
+    if v == {'price'}:
+        return '최저가'
+    if 'quality' in v:
+        return '기술평가'
+    return None
 TED_URL = 'https://api.ted.europa.eu/v3/notices/search'
 
 
@@ -271,7 +300,10 @@ def fetch_ted(days=7):
         'query': query,
         'fields': ['publication-number', 'publication-date', 'notice-title', 'buyer-name',
                    'buyer-country', 'deadline-receipt-request', 'classification-cpv',
-                   'estimated-value-proc', 'estimated-value-cur-proc', 'contract-nature'],
+                   'estimated-value-proc', 'estimated-value-cur-proc', 'contract-nature',
+                   # v2 추가분. 셋 다 이미 응답에 오던 값인데 요청 목록에 없어서 버리고 있었다.
+                   'buyer-legal-type', 'deadline-receipt-tender-time-lot',
+                   'award-criterion-type-lot'],
         'limit': 250,
         'page': 1,
     }
@@ -307,11 +339,17 @@ def fetch_ted(days=7):
             'country': country,
             'country_ko': COUNTRY_KO.get(country, country),
             'title': title,
+            'project_title': None,          # TED는 사업명·계약건명이 한 줄로 온다
             'org': pick_lang(n.get('buyer-name')),
+            'org_type': TED_ORG_TYPE.get(first_of(n.get('buyer-legal-type')),
+                                         first_of(n.get('buyer-legal-type'))),
             'budget': budget,
             'nature': first_of(n.get('contract-nature')),
+            'selection_method': ted_award_method(n.get('award-criterion-type-lot')),
+            'source_scope': None,           # EU는 국적 제한 자체가 금지라 이 축이 없다
             'published': iso_date(n.get('publication-date')),
             'deadline': iso_date(n.get('deadline-receipt-request')),
+            'deadline_time': (first_of(n.get('deadline-receipt-tender-time-lot')) or '')[:5] or None,
             'ref_no': pub_no,
             'link': 'https://ted.europa.eu/en/notice/-/detail/%s' % pub_no,
             'cpv': cpv,
@@ -395,7 +433,8 @@ WB_TERMS = ['transport', 'traffic', 'intelligent transport', 'mobility',
 WB_NOTICE = ('https://search.worldbank.org/api/v2/procnotices?format=json&qterm=%s'
              '&srt=noticedate&order=desc&rows=40&os=%d'
              '&fl=id,noticedate,notice_type,project_ctry_name,project_id,project_name,'
-             'bid_description,submission_date,submission_deadline_date,contact_organization')
+             'bid_description,submission_date,submission_deadline_date,contact_organization,'
+             'submission_deadline_time,procurement_method_name')
 
 # 세계은행은 qterm·섹터 태그가 넓어서 항공권 구매·난민사업까지 딸려온다.
 # 제목에 교통 관련어가 없고 ITS 키워드 보너스도 0이면 버린다.
@@ -456,9 +495,13 @@ def fetch_worldbank(days=7):
                     # org는 발주기관이다. 사업명(project_name)을 넣고 있었다 —
                     # title과 같은 값 계열이라 컬럼이 통째로 무의미했다.
                     'org': n.get('contact_organization'),
+                    'org_type': None,       # 조달공고에 기관 유형 필드가 없다
                     'project_title': n.get('project_name'),
-                    'budget': None,
+                    'budget': None,         # 조달공고에 금액 필드 자체가 없다(사업 API는 총차관액이라 의미가 다르다)
+                    'selection_method': n.get('procurement_method_name'),
+                    'source_scope': None,
                     'published': nd, 'deadline': (n.get('submission_deadline_date') or '')[:10] or None,
+                    'deadline_time': (n.get('submission_deadline_time') or '')[:5] or None,
                     'ref_no': n.get('project_id') or n['id'],
                     'project_id': n.get('project_id'),
                     'link': 'https://projects.worldbank.org/en/projects-operations/procurement-detail/%s' % n['id'],
@@ -678,6 +721,17 @@ def main():
         print('게시판 대조 건너뜀: %s' % e, file=sys.stderr)
 
     new_count = apply_first_seen(items, seen, today)
+
+    # 사람이 원문을 읽고 채우는 칸(참가자격·공동수급·기술규격 요약 등).
+    # 수집기가 매일 파일을 새로 쓰므로 별도 파일에 두고 여기서 붙인다.
+    # 파일이 없으면 전건 None — 빈 값 원칙대로 비워둔다.
+    notes = {}
+    if os.path.exists(NOTES_PATH):
+        with open(NOTES_PATH, encoding='utf-8') as f:
+            notes = json.load(f)
+    for it in items:
+        it['notes'] = notes.get(it['id'])
+
     items.sort(key=lambda x: (-x['score'], x.get('deadline') or '9999'))
 
     if not items:
@@ -732,9 +786,64 @@ ADB_TYPE = {'Invitation for Bids': '입찰', 'Firm': '입찰', 'Individual': '�
             'General Procurement Notice': '조달예측', 'Other Notice': '조달예측'}
 
 
+def strip_tail(name, tail):
+    """기관명 끝에 붙어온 국가명을 뗀다. 못 떼면 원문 그대로 둔다."""
+    if name and tail and name.endswith(tail):
+        return name[:-len(tail)].strip() or name
+    return name
+
+
+def parse_csrn(html, country=None):
+    """ADB 공고 상세(CSRN)에서 API가 안 주는 항목만 뽑는다.
+
+    실측 6/6 추출: 발주기관 / 예산(USD) / International·National / 선정방식.
+    못 뽑은 항목은 넣지 않는다 — 빈 값 원칙. 화면이 '정보 없음'으로 보여준다.
+    """
+    t = re.sub(r'<[^>]+>', ' ', html).replace('&nbsp;', ' ')
+    t = re.sub(r'\s+', ' ', t)
+    d = {}
+    m = re.search(r'Contact Person View Details\s*(.{3,120}?)\s+(?:Executing|Implementing) Agency', t)
+    if m:
+        # 기관명 뒤에 국가 칸이 붙어 나온다('Committee of Roads Kazakhstan').
+        # 국가는 호출부에서 뗀다 — 캐시에는 원문 그대로 둔다.
+        d['org'] = m.group(1).strip() or None
+    m = re.search(r'Budget\s+USD\s+([\d,]+)', t)
+    if m:
+        d['budget'] = {'currency': 'USD', 'amount': float(m.group(1).replace(',', '')),
+                       'is_project_total': False}   # 해당 계약 추정액이다(사업 총액 아님)
+    m = re.search(r'\bSource\s+(International|National)\b', t)
+    if m:
+        d['source_scope'] = m.group(1)
+    m = re.search(r'Selection Method\s+(.{3,60}?)\s+Source\b', t)
+    if m:
+        d['selection_method'] = m.group(1).strip()
+    return d
+
+
+def load_adb_cache():
+    if os.path.exists(ADB_CACHE_PATH):
+        with open(ADB_CACHE_PATH, encoding='utf-8') as f:
+            return json.load(f)
+    return {}
+
+
+def adb_detail(url, cache):
+    """상세 1건. 공고는 한 번 올라오면 안 바뀌므로 캐시한다(하루 새로 조회는 몇 건뿐)."""
+    if url in cache:
+        return cache[url]
+    try:
+        cache[url] = parse_csrn(http_text(url))
+    except Exception as e:
+        print('  ADB 상세 실패 %s: %s' % (url[-24:], e), file=sys.stderr)
+        return {}          # 실패는 캐시하지 않는다 — 다음 실행에서 다시 시도
+    return cache[url]
+
+
 def fetch_adb(days=7):
     d = http_json(ADB_URL.format(days=days),
                   headers={'Authorization': 'Token ' + ADB_TOKEN})
+    cache = load_adb_cache()
+    fresh = 0
     out = []
     for doc in (d.get('response') or {}).get('docs', []):
         title = first_of(doc.get('tm_X3b_en_title'))
@@ -754,6 +863,14 @@ def fetch_adb(days=7):
             continue
         sc, hits = score_item(title, [], base_extra=25)
         node = (doc.get('ss_url') or '').lstrip('/')
+        link = doc.get('ss_csrn_url') or ('https://www.adb.org/' + node)
+        # 발주기관·예산·국제/국내는 API 인덱스에 없다. 상세를 한 번 더 읽어야 나온다.
+        # 상세가 없는 공고(IFB 계열, 실측 40%)는 비운다 — 지어내지 않는다.
+        det = {}
+        if 'csrn' in link.lower():
+            if link not in cache:
+                fresh += 1
+            det = adb_detail(link, cache)
         out.append({
             'schema_version': SCHEMA_VERSION,
             'id': 'adb-%s' % (doc.get('id') or node),
@@ -764,18 +881,29 @@ def fetch_adb(days=7):
             'country': country,
             'country_ko': COUNTRY_NAME_KO.get(country, country),
             'title': title,
-            'org': first_of(doc.get('tm_X3b_en_executing_agency')),
+            'org': strip_tail(det.get('org'), country)
+                   or first_of(doc.get('tm_X3b_en_executing_agency')),
+            'org_type': None,
             'project_title': first_of(doc.get('tm_X3b_en_project_title')),
-            'budget': None,                         # CSRN 상세에만 있다 — 별도 단계
+            'budget': det.get('budget'),
+            'selection_method': det.get('selection_method'),
+            # International이면 외국기업 참여 가능, National이면 현지업체 한정이다.
+            # 실측 표본의 61%가 National — 안 읽으면 못 들어가는 건을 절반 넘게 섞어 보여준다.
+            'source_scope': det.get('source_scope'),
             'published': (doc.get('ds_date_posted') or '')[:10] or None,
             'deadline': (doc.get('ds_date_closing') or '')[:10] or None,
+            'deadline_time': None,
             'ref_no': pnum, 'project_id': pnum,
-            'link': doc.get('ss_csrn_url') or ('https://www.adb.org/' + node),
+            'link': link,
             'cpv': [],
             'score': sc,                            # World Bank 공고와 같은 기준선(25)
             'score_hits': hits,
             'already_posted': False,
         })
+    if fresh:
+        with open(ADB_CACHE_PATH, 'w', encoding='utf-8') as f:
+            json.dump(cache, f, ensure_ascii=False, indent=1, sort_keys=True)
+        print('  ADB 상세: 캐시 %d건, 신규 조회 %d건' % (len(cache) - fresh, fresh))
     return out
 
 
