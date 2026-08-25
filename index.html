@@ -440,11 +440,27 @@ function copyTemplate(it) {
     `  - 예산 : ${money(it.budget) || 'N/A'}`,
     `  - 분야 : 교통, 지능형교통체계(ITS)`,
   ].join('\n');
-  navigator.clipboard.writeText(t).then(() => {
-    const b = document.getElementById('dCopy');
-    b.textContent = '복사됨 ✓';
-    setTimeout(() => b.textContent = '등록문 복사', 1500);
-  });
+  const b = document.getElementById('dCopy');
+  const done = ok => {
+    b.textContent = ok ? '복사됨 ✓' : '복사 실패 — 직접 선택해 복사하세요';
+    setTimeout(() => b.textContent = '등록문 복사', ok ? 1500 : 2500);
+  };
+  // 클립보드 API가 막힌 환경(권한 거부·비보안 컨텍스트)에서 조용히 아무 일도
+  // 안 일어나면 담당자는 복사된 줄 알고 붙여넣는다. 구형 경로로 한 번 더 시도한다.
+  const fallback = () => {
+    const ta = document.createElement('textarea');
+    ta.value = t; ta.style.position = 'fixed'; ta.style.opacity = '0';
+    document.body.appendChild(ta); ta.select();
+    let ok = false;
+    try { ok = document.execCommand('copy'); } catch (e) { ok = false; }
+    ta.remove();
+    done(ok);
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText) {
+    navigator.clipboard.writeText(t).then(() => done(true), fallback);
+  } else {
+    fallback();
+  }
 }
 
 // ── 이벤트
