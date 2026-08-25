@@ -1,0 +1,62 @@
+{
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=190FCEFA1CECA1C016F68348BBD39026548CFE810B5D5E24C4B1A93E21BDFAF8": {
+  "budget": {
+   "amount": 1475000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Public Works Department of Uttarakhand India",
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=2C1FE006695293A28694805691C79B9CBC370D4DFCB5A802DD1F565C859E9596": {
+  "budget": {
+   "amount": 1608000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Public Works Department of Uttarakhand India",
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=2F07E363615D84630E0F44ACB6AF4EA45B11DBA11E62370295CB5FB46601EEA3": {
+  "budget": {
+   "amount": 1449000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Public Works Department of Uttarakhand India",
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=49F4FC61A5EF7C519321B4F6940FEAFFF4144C5051A44AC97EEB0230C8836D94": {
+  "budget": {
+   "amount": 50000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Committee of Roads Kazakhstan",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "International"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=517B1BE256C85532E9BEB5537F673A98A56CEB10028535FE8786DC74C5F894BD": {
+  "budget": {
+   "amount": 1569000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Public Works Department of Uttarakhand India",
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=894AE428CE8D7FA6EEDD07FD7F0D7A93BE53BDF809D8C6473A0D4AC54EAF3698": {
+  "budget": {
+   "amount": 33000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Ministry of Transport Tajikistan",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "International"
+ }
+}

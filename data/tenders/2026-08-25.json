@@ -1,6 +1,6 @@
 [
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-570006-2026",
   "kind": "tender",
   "source": "TED",
@@ -8,15 +8,20 @@
   "country": "IRL",
   "country_ko": "아일랜드",
   "title": "Ireland – Installation of signalling equipment – Intelligent Transport Systems Equipment Frameworks Generation 2",
+  "project_title": null,
   "org": "Transport Infrastructure Ireland (TII)",
+  "org_type": "공법인",
   "budget": {
    "currency": "EUR",
    "amount": 42700000.0,
    "is_project_total": false
   },
   "nature": "works",
+  "selection_method": null,
+  "source_scope": null,
   "published": "2026-08-18",
   "deadline": "2026-09-04",
+  "deadline_time": "12:00",
   "ref_no": "570006-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/570006-2026",
   "cpv": [
@@ -37,75 +42,11 @@
   ],
   "already_posted": true,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
-  "id": "ted-568671-2026",
-  "kind": "tender",
-  "source": "TED",
-  "type": "입찰",
-  "country": "CZE",
-  "country_ko": "체코",
-  "title": "Czechia – Control, safety or signalling equipment for parking facilities – Obměna parkovacího systému (závorový systém)",
-  "org": "ČESKOKRUMLOVSKÝ ROZVOJOVÝ FOND, spol. s r.o.",
-  "budget": {
-   "currency": "CZK",
-   "amount": 10500000.0,
-   "is_project_total": false
-  },
-  "nature": "supplies",
-  "published": "2026-08-17",
-  "deadline": "2026-09-21",
-  "ref_no": "568671-2026",
-  "link": "https://ted.europa.eu/en/notice/-/detail/568671-2026",
-  "cpv": [
-   "34996300"
-  ],
-  "score": 68,
-  "score_hits": [
-   "cpv:34996300",
-   "signalling",
-   "parking"
-  ],
-  "already_posted": false,
-  "collector": "ted",
-  "first_seen": "2026-08-19"
- },
- {
-  "schema_version": 1,
-  "id": "ted-567483-2026",
-  "kind": "tender",
-  "source": "TED",
-  "type": "입찰",
-  "country": "HRV",
-  "country_ko": "크로아티아",
-  "title": "Croatia – Traffic lights – IZVEDBA PROMETNIH ELABORATA SVJETLOSNE PROMETNE SIGNALIZACIJE",
-  "org": "GRAD ZAGREB",
-  "budget": {
-   "currency": "EUR",
-   "amount": 1000000.0,
-   "is_project_total": false
-  },
-  "nature": "supplies",
-  "published": "2026-08-17",
-  "deadline": "2026-08-26",
-  "ref_no": "567483-2026",
-  "link": "https://ted.europa.eu/en/notice/-/detail/567483-2026",
-  "cpv": [
-   "34996100"
-  ],
-  "score": 62,
-  "score_hits": [
-   "cpv:34996100",
-   "traffic light"
-  ],
-  "already_posted": false,
-  "collector": "ted",
-  "first_seen": "2026-08-19"
- },
- {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-582279-2026",
   "kind": "tender",
   "source": "TED",
@@ -113,15 +54,20 @@
   "country": "HRV",
   "country_ko": "크로아티아",
   "title": "Croatia – Traffic lights – IZVEDBA PROMETNIH ELABORATA SVJETLOSNE PROMETNE SIGNALIZACIJE",
+  "project_title": null,
   "org": "GRAD ZAGREB",
+  "org_type": "광역정부",
   "budget": {
    "currency": "EUR",
    "amount": 1000000.0,
    "is_project_total": false
   },
   "nature": "supplies",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-24",
   "deadline": "2026-09-03",
+  "deadline_time": "13:00",
   "ref_no": "582279-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/582279-2026",
   "cpv": [
@@ -134,10 +80,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-584139-2026",
   "kind": "tender",
   "source": "TED",
@@ -145,15 +92,20 @@
   "country": "ROU",
   "country_ko": "루마니아",
   "title": "Romania – Surveillance system – MANAGEMENTUL TRAFICULUI TRANSPORTULUI PUBLIC ȘI RUTIER – componentele: stații de autobuz și intersecții",
+  "project_title": null,
   "org": "Municipiul Satu Mare",
+  "org_type": "지방정부",
   "budget": {
    "currency": "RON",
    "amount": 53381952.52,
    "is_project_total": false
   },
   "nature": "supplies",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-24",
   "deadline": "2026-09-03",
+  "deadline_time": "15:00",
   "ref_no": "584139-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/584139-2026",
   "cpv": [
@@ -178,10 +130,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-580620-2026",
   "kind": "tender",
   "source": "TED",
@@ -189,11 +142,16 @@
   "country": "SVN",
   "country_ko": "슬로베니아",
   "title": "Slovenia – Control, safety or signalling equipment for roads – Nadgradnja sistema za upravljanje prometa na občinskih cestah",
+  "project_title": null,
   "org": "MESTNA OBČINA LJUBLJANA",
+  "org_type": "지방정부",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-09-04",
+  "deadline_time": "12:00",
   "ref_no": "580620-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/580620-2026",
   "cpv": [
@@ -206,10 +164,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-573703-2026",
   "kind": "tender",
   "source": "TED",
@@ -217,11 +176,16 @@
   "country": "POL",
   "country_ko": "폴란드",
   "title": "Poland – Control, safety or signalling equipment for roads – RDW w Lublinie z/s w Bychawie: Dostawa urządzeń bezpieczeństwa ruchu drogowego (słupki prowadzące U-1a/U-1b) wraz z instalacją",
+  "project_title": null,
   "org": "Zarząd Dróg Wojewódzkich w Lublinie Rejon Dróg Wojewódzkich w Lublinie z/s w Bychawie",
+  "org_type": "공법인",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-19",
   "deadline": "2026-09-07",
+  "deadline_time": "09:00",
   "ref_no": "573703-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/573703-2026",
   "cpv": [
@@ -234,10 +198,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-583409-2026",
   "kind": "tender",
   "source": "TED",
@@ -245,11 +210,16 @@
   "country": "BEL",
   "country_ko": "벨기에",
   "title": "Belgium – Installation of signalling equipment – AWV/VW/2026/2_Nieuwbouw, aanpassingen, wegname en onderhoud van biflashes en verkeersborden met veranderlijke informatie (zone 30) in schoolomgevingen langs gewestwegen in Vlaanderen",
+  "project_title": null,
   "org": "Vlaamse Overheid",
+  "org_type": "중앙정부",
   "budget": null,
   "nature": "works",
+  "selection_method": null,
+  "source_scope": null,
   "published": "2026-08-24",
   "deadline": "2026-09-08",
+  "deadline_time": "09:45",
   "ref_no": "583409-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/583409-2026",
   "cpv": [
@@ -265,41 +235,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
-  "id": "ted-568035-2026",
-  "kind": "tender",
-  "source": "TED",
-  "type": "입찰",
-  "country": "BEL",
-  "country_ko": "벨기에",
-  "title": "Belgium – Installation of signalling equipment – AWV/VW/2026/2_Nieuwbouw, aanpassingen, wegname en onderhoud van biflashes en verkeersborden met veranderlijke informatie (zone 30) in schoolomgevingen langs gewestwegen in Vlaanderen",
-  "org": "Vlaamse Overheid",
-  "budget": null,
-  "nature": "works",
-  "published": "2026-08-17",
-  "deadline": "2026-09-08",
-  "ref_no": "568035-2026",
-  "link": "https://ted.europa.eu/en/notice/-/detail/568035-2026",
-  "cpv": [
-   "34996000",
-   "45316200",
-   "72212100",
-   "72260000"
-  ],
-  "score": 62,
-  "score_hits": [
-   "cpv:34996000",
-   "signalling"
-  ],
-  "already_posted": false,
-  "collector": "ted",
-  "first_seen": "2026-08-19"
- },
- {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-577898-2026",
   "kind": "tender",
   "source": "TED",
@@ -307,11 +247,16 @@
   "country": "POL",
   "country_ko": "폴란드",
   "title": "Poland – Passenger information system – Modernizacja systemów informacji pasażerskiej (SIP) i wybranych systemów IT w 20 spalinowych zespołach trakcyjnych serii SA103, SA131, SA132, SA133, SA136, SA137 i SA138 własności Województwa Pomorskiego wraz z dostawą aplikacji dyspozytorskiej oraz przeszkoleniem użytkowników, z opcją rozszerzenia zamówienia o realizację w maksymalnie 6 pojazdach serii SA133",
+  "project_title": null,
   "org": "Województwo Pomorskie",
+  "org_type": "광역정부",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-20",
   "deadline": "2026-09-10",
+  "deadline_time": "10:00",
   "ref_no": "577898-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/577898-2026",
   "cpv": [
@@ -324,10 +269,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-582866-2026",
   "kind": "tender",
   "source": "TED",
@@ -335,11 +281,16 @@
   "country": "DEU",
   "country_ko": "독일",
   "title": "Germany – Real-time passenger information system – Lieferung und Montage Fahrgastzählsystem (AFZS)",
+  "project_title": null,
   "org": "Rheingau-Taunus Verkehrsgesellschaft mbH",
+  "org_type": "pub-undert-ra",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-24",
   "deadline": "2026-09-14",
+  "deadline_time": "12:00",
   "ref_no": "582866-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/582866-2026",
   "cpv": [
@@ -355,10 +306,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-573325-2026",
   "kind": "tender",
   "source": "TED",
@@ -366,11 +318,16 @@
   "country": "DEU",
   "country_ko": "독일",
   "title": "Germany – Electronic bulletin boards – Lieferung, Projektierung und Inbetriebnahme von DFI-Anzeigen am ZOB in Gütersloh",
+  "project_title": null,
   "org": "Stadtbus Gütersloh GmbH",
+  "org_type": null,
   "budget": null,
   "nature": "supplies",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-19",
   "deadline": "2026-09-14",
+  "deadline_time": null,
   "ref_no": "573325-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/573325-2026",
   "cpv": [
@@ -383,10 +340,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-573093-2026",
   "kind": "tender",
   "source": "TED",
@@ -394,11 +352,16 @@
   "country": "DEU",
   "country_ko": "독일",
   "title": "Germany – Speed camera equipment – Miete Geschwindigkeitsüberwachungsanlage",
+  "project_title": null,
   "org": "Stadt Arnstadt",
+  "org_type": "지방정부",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-19",
   "deadline": "2026-09-17",
+  "deadline_time": "09:45",
   "ref_no": "573093-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/573093-2026",
   "cpv": [
@@ -411,10 +374,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-570505-2026",
   "kind": "tender",
   "source": "TED",
@@ -422,11 +386,16 @@
   "country": "FIN",
   "country_ko": "핀란드",
   "title": "Finland – Electronic bulletin boards – MLNRV3 (Artic X34) raitiovaunujen pysäkkinäytöt",
+  "project_title": null,
   "org": "RV Kalusto ja Varikko Oy",
+  "org_type": null,
   "budget": null,
   "nature": "supplies",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-18",
   "deadline": "2026-09-18",
+  "deadline_time": "10:00",
   "ref_no": "570505-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/570505-2026",
   "cpv": [
@@ -440,10 +409,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-583251-2026",
   "kind": "tender",
   "source": "TED",
@@ -451,11 +421,16 @@
   "country": "POL",
   "country_ko": "폴란드",
   "title": "Poland – Speed camera equipment – Dostawa i montaż urządzeń do rejestracji biometrycznej na potrzeby EES (Kamery) do dokonywania odprawy granicznej Non-Schengen na kierunku przylotowym – 9 szt.",
+  "project_title": null,
   "org": "Małopolski Urząd Wojewódzki w Krakowie",
+  "org_type": "중앙정부",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-24",
   "deadline": "2026-09-21",
+  "deadline_time": "08:00",
   "ref_no": "583251-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/583251-2026",
   "cpv": [
@@ -468,10 +443,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-583150-2026",
   "kind": "tender",
   "source": "TED",
@@ -479,11 +455,16 @@
   "country": "POL",
   "country_ko": "폴란드",
   "title": "Poland – Speed camera equipment – Rozbudowa i nadzór systemu łączności Państwowego Ratownictwa Medycznego w Małopolsce.",
+  "project_title": null,
   "org": "Małopolski Urząd Wojewódzki w Krakowie",
+  "org_type": "중앙정부",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-24",
   "deadline": "2026-09-21",
+  "deadline_time": "08:00",
   "ref_no": "583150-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/583150-2026",
   "cpv": [
@@ -502,10 +483,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-576128-2026",
   "kind": "tender",
   "source": "TED",
@@ -513,15 +495,20 @@
   "country": "MLT",
   "country_ko": "몰타",
   "title": "Malta – Traffic lights – SPD6/2026/049 - TENDER FOR THE DELIVERY, SUPPLY, INSTALLATION AND COMMISSIONING OF BICYCLE COUNTER TOTEMS FOR TRANSPORT MALTA (TM)",
+  "project_title": null,
   "org": "Sectoral Procurement Directorate",
+  "org_type": "body-pl-cga",
   "budget": {
    "currency": "EUR",
    "amount": 200000.0,
    "is_project_total": false
   },
   "nature": "supplies",
+  "selection_method": null,
+  "source_scope": null,
   "published": "2026-08-20",
   "deadline": "2026-09-28",
+  "deadline_time": "09:30",
   "ref_no": "576128-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/576128-2026",
   "cpv": [
@@ -535,10 +522,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-575262-2026",
   "kind": "tender",
   "source": "TED",
@@ -546,15 +534,20 @@
   "country": "LTU",
   "country_ko": "리투아니아",
   "title": "Lithuania – Road traffic-control equipment – Šviesoforų dalys",
+  "project_title": null,
   "org": "UAB \"Šiaulių šviesa\" (PV)",
+  "org_type": "지방정부",
   "budget": {
    "currency": "EUR",
    "amount": 98000.0,
    "is_project_total": false
   },
   "nature": "supplies",
+  "selection_method": null,
+  "source_scope": null,
   "published": "2026-08-19",
   "deadline": "2026-08-26",
+  "deadline_time": "09:00",
   "ref_no": "575262-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/575262-2026",
   "cpv": [
@@ -567,10 +560,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-579520-2026",
   "kind": "tender",
   "source": "TED",
@@ -578,15 +572,20 @@
   "country": "ESP",
   "country_ko": "스페인",
   "title": "Spain – Road traffic-control equipment – Contrato de suministro, implantación, puesta en marcha y mantenimiento del Living Lab AIC-AMOREBIETA",
+  "project_title": null,
   "org": "Fundación AIC Automotive Intelligence Center - Fundación AIC",
+  "org_type": "광역정부",
   "budget": {
    "currency": "EUR",
    "amount": 472000.0,
    "is_project_total": false
   },
   "nature": "supplies",
+  "selection_method": null,
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-09-07",
+  "deadline_time": "10:00",
   "ref_no": "579520-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/579520-2026",
   "cpv": [
@@ -600,10 +599,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-571860-2026",
   "kind": "tender",
   "source": "TED",
@@ -611,15 +611,20 @@
   "country": "SVK",
   "country_ko": "슬로바키아",
   "title": "Slovakia – Transport systems consultancy services – Dopravné prieskumy a rozbory, zhotovenie a kalibrácia dopravného modelu",
+  "project_title": null,
   "org": "Hlavné mesto Slovenskej republiky Bratislava",
+  "org_type": "지방정부",
   "budget": {
    "currency": "EUR",
    "amount": 2375650.0,
    "is_project_total": false
   },
   "nature": "services",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-18",
   "deadline": "2026-08-21",
+  "deadline_time": "10:15",
   "ref_no": "571860-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/571860-2026",
   "cpv": [
@@ -636,10 +641,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-575409-2026",
   "kind": "tender",
   "source": "TED",
@@ -647,11 +653,16 @@
   "country": "POL",
   "country_ko": "폴란드",
   "title": "Poland – Software package and information systems – Rozbudowa SOSRD o udostępnianie w czasie rzeczywistym danych o natężeniu ruchu wraz z ich klasyfikacją",
+  "project_title": null,
   "org": "Gmina Miasto Rzeszów - Urząd Miasta Rzeszowa",
+  "org_type": "지방정부",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-20",
   "deadline": "2026-08-28",
+  "deadline_time": "10:00",
   "ref_no": "575409-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/575409-2026",
   "cpv": [
@@ -665,28 +676,76 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
-  "id": "ted-568519-2026",
+  "schema_version": 2,
+  "id": "ted-586017-2026",
+  "kind": "tender",
+  "source": "TED",
+  "type": "입찰",
+  "country": "SVK",
+  "country_ko": "슬로바키아",
+  "title": "Slovakia – Transport systems consultancy services – Dopravné prieskumy a rozbory, zhotovenie a kalibrácia dopravného modelu",
+  "project_title": null,
+  "org": "Hlavné mesto Slovenskej republiky Bratislava",
+  "org_type": "지방정부",
+  "budget": {
+   "currency": "EUR",
+   "amount": 2375650.0,
+   "is_project_total": false
+  },
+  "nature": "services",
+  "selection_method": "최저가",
+  "source_scope": null,
+  "published": "2026-08-25",
+  "deadline": "2026-09-04",
+  "deadline_time": "10:15",
+  "ref_no": "586017-2026",
+  "link": "https://ted.europa.eu/en/notice/-/detail/586017-2026",
+  "cpv": [
+   "48900000",
+   "63712710",
+   "71241000",
+   "71311200",
+   "79300000",
+   "79311200"
+  ],
+  "score": 50,
+  "score_hits": [
+   "cpv:63712710"
+  ],
+  "already_posted": false,
+  "collector": "ted",
+  "first_seen": "2026-08-25",
+  "notes": null
+ },
+ {
+  "schema_version": 2,
+  "id": "ted-586187-2026",
   "kind": "tender",
   "source": "TED",
   "type": "입찰",
   "country": "CZE",
   "country_ko": "체코",
   "title": "Czechia – Traffic-monitoring equipment – Modernizace systému preference vozidel MHD",
+  "project_title": null,
   "org": "Dopravní podnik města Olomouce, a.s.",
+  "org_type": "body-pl-cga",
   "budget": {
    "currency": "CZK",
    "amount": 35000000.0,
    "is_project_total": false
   },
   "nature": "supplies",
-  "published": "2026-08-17",
-  "deadline": "2026-09-02",
-  "ref_no": "568519-2026",
-  "link": "https://ted.europa.eu/en/notice/-/detail/568519-2026",
+  "selection_method": "최저가",
+  "source_scope": null,
+  "published": "2026-08-25",
+  "deadline": "2026-09-06",
+  "deadline_time": "23:59",
+  "ref_no": "586187-2026",
+  "link": "https://ted.europa.eu/en/notice/-/detail/586187-2026",
   "cpv": [
    "34970000",
    "45316213",
@@ -698,12 +757,57 @@
   "score_hits": [
    "cpv:34970000"
   ],
-  "already_posted": true,
+  "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-25",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
+  "id": "ted-585289-2026",
+  "kind": "tender",
+  "source": "TED",
+  "type": "입찰",
+  "country": "DNK",
+  "country_ko": "덴마크",
+  "title": "Denmark – Car park control equipment – Parkeringssystem",
+  "project_title": null,
+  "org": "Danmarks Tekniske Universitet - DTU",
+  "org_type": "공법인",
+  "budget": {
+   "currency": "DKK",
+   "amount": 2000000.0,
+   "is_project_total": false
+  },
+  "nature": "supplies",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
+  "published": "2026-08-25",
+  "deadline": "2026-09-08",
+  "deadline_time": "10:00",
+  "ref_no": "585289-2026",
+  "link": "https://ted.europa.eu/en/notice/-/detail/585289-2026",
+  "cpv": [
+   "34000000",
+   "34900000",
+   "34920000",
+   "34924000",
+   "34926000",
+   "34990000",
+   "34996000",
+   "34996300"
+  ],
+  "score": 50,
+  "score_hits": [
+   "cpv:34996000"
+  ],
+  "already_posted": false,
+  "collector": "ted",
+  "first_seen": "2026-08-25",
+  "notes": null
+ },
+ {
+  "schema_version": 2,
   "id": "ted-575936-2026",
   "kind": "tender",
   "source": "TED",
@@ -711,11 +815,16 @@
   "country": "POL",
   "country_ko": "폴란드",
   "title": "Poland – Road signs – „RDW w Zamościu: Dostawa znaków, elementów oznakowania, urządzeń bezpieczeństwa ruchu drogowego wraz z instalacją.”",
+  "project_title": null,
   "org": "Zarząd Dróg Wojewódzkich w Lublinie, Rejon Dróg Wojewódzkich w Zamościu",
+  "org_type": "공법인",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-20",
   "deadline": "2026-09-10",
+  "deadline_time": "09:30",
   "ref_no": "575936-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/575936-2026",
   "cpv": [
@@ -730,43 +839,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
-  "id": "ted-568232-2026",
-  "kind": "tender",
-  "source": "TED",
-  "type": "입찰",
-  "country": "DEU",
-  "country_ko": "독일",
-  "title": "Germany – Installation of traffic guidance equipment – Kreuzungsfreier Ausbau Frankenschnellweg, Abschnitt West: bauzeitliche Verkehrssicherung im Zuge von Baumaßnahmen",
-  "org": "Stadt Nürnberg - Servicebetrieb Öffentlicher Raum",
-  "budget": null,
-  "nature": "works",
-  "published": "2026-08-17",
-  "deadline": "2026-09-17",
-  "ref_no": "568232-2026",
-  "link": "https://ted.europa.eu/en/notice/-/detail/568232-2026",
-  "cpv": [
-   "34972000",
-   "34992200",
-   "45233221",
-   "45233290",
-   "45233292",
-   "45316213",
-   "63712700"
-  ],
-  "score": 50,
-  "score_hits": [
-   "cpv:34972000"
-  ],
-  "already_posted": false,
-  "collector": "ted",
-  "first_seen": "2026-08-19"
- },
- {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-580359-2026",
   "kind": "tender",
   "source": "TED",
@@ -774,11 +851,16 @@
   "country": "DEU",
   "country_ko": "독일",
   "title": "Germany – Traffic-monitoring equipment – Langzeitanmietung eines Blitz-Anhängers für vier Jahre mit der Option auf zwei zusätzliche Vertragsjahre",
+  "project_title": null,
   "org": "Stadt Würzburg",
+  "org_type": "body-pl-la",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-09-22",
+  "deadline_time": "10:00",
   "ref_no": "580359-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/580359-2026",
   "cpv": [
@@ -790,10 +872,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-579790-2026",
   "kind": "tender",
   "source": "TED",
@@ -801,11 +884,16 @@
   "country": "POL",
   "country_ko": "폴란드",
   "title": "Poland – Snow-clearing services – Całoroczne (bieżące i zimowe) utrzymanie dróg krajowych administrowanych przez GDDKiA O/Olsztyn, Rejon w Giżycku, Obwód Drogowy w Orzyszu",
+  "project_title": null,
   "org": "Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Olsztynie",
+  "org_type": "중앙정부",
   "budget": null,
   "nature": "services",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-09-25",
+  "deadline_time": "11:00",
   "ref_no": "579790-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/579790-2026",
   "cpv": [
@@ -829,10 +917,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-581708-2026",
   "kind": "tender",
   "source": "TED",
@@ -840,11 +929,16 @@
   "country": "SVK",
   "country_ko": "슬로바키아",
   "title": "Slovakia – Information panels – Dodanie elektronických informačných tabúľ s príslušenstvom a poskytnutie súvisiacich služieb",
+  "project_title": null,
   "org": "Bratislavský samosprávny kraj",
+  "org_type": "광역정부",
   "budget": null,
   "nature": "supplies",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-24",
   "deadline": "2026-09-29",
+  "deadline_time": "10:00",
   "ref_no": "581708-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/581708-2026",
   "cpv": [
@@ -866,10 +960,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-581923-2026",
   "kind": "tender",
   "source": "TED",
@@ -877,11 +972,16 @@
   "country": "CHE",
   "country_ko": "스위스",
   "title": "Switzerland – Repair and maintenance services of measuring, testing and checking apparatus – Ganzer Kanton, Instandhaltung / Störungsbehebung, Verkehszählstellen (MIV+Velo)",
+  "project_title": null,
   "org": "Baudirektion Kanton Zürich, Tiefbauamt",
+  "org_type": "body-pl-ra",
   "budget": null,
   "nature": "services",
+  "selection_method": "기술평가",
+  "source_scope": null,
   "published": "2026-08-24",
   "deadline": "2026-09-30",
+  "deadline_time": "10:00",
   "ref_no": "581923-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/581923-2026",
   "cpv": [
@@ -896,10 +996,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-579081-2026",
   "kind": "tender",
   "source": "TED",
@@ -907,11 +1008,16 @@
   "country": "CHE",
   "country_ko": "스위스",
   "title": "Switzerland – Electrical wiring and fitting work – N09.48 MP-080010 - Upn.Vennes-Chexbres+PUN - Lot 400 - Signalisation pour les dosages de Chexbres - La Croix - Vennes - Lavaux (ID 11972)",
+  "project_title": null,
   "org": "Office fédéral des routes OFROU, Division Infrastructure routière Ouest, filiale Estavayer-le-Lac",
+  "org_type": "body-pl-cga",
   "budget": null,
   "nature": "works",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-10-20",
+  "deadline_time": "23:59",
   "ref_no": "579081-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/579081-2026",
   "cpv": [
@@ -930,10 +1036,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082426083022913",
   "kind": "tender",
   "source": "World Bank",
@@ -956,10 +1063,11 @@
   ],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-25"
+  "first_seen": "2026-08-25",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099081926235512999",
   "kind": "tender",
   "source": "World Bank",
@@ -982,10 +1090,11 @@
   ],
   "already_posted": true,
   "collector": "worldbank",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-572641-2026",
   "kind": "tender",
   "source": "TED",
@@ -993,15 +1102,20 @@
   "country": "ROU",
   "country_ko": "루마니아",
   "title": "Romania – Construction work for tunnels, shafts and subways – Servicii de proiectare și execuție a lucrărilor pentru REALIZARE PASAJ RUTIER DJ 172 INTERSECȚIE CU LINIA CFR ȘI DN17 ÎN LOCALITATEA BECLEAN, JUDEȚUL BISTRIȚA NĂSĂUD",
+  "project_title": null,
   "org": "ORASUL BECLEAN",
+  "org_type": "지방정부",
   "budget": {
    "currency": "RON",
    "amount": 32022103.4,
    "is_project_total": false
   },
   "nature": "works",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-19",
   "deadline": "2026-09-11",
+  "deadline_time": "15:00",
   "ref_no": "572641-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/572641-2026",
   "cpv": [
@@ -1018,10 +1132,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082426043011415",
   "kind": "tender",
   "source": "World Bank",
@@ -1042,10 +1157,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-25"
+  "first_seen": "2026-08-25",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082426062013837",
   "kind": "tender",
   "source": "World Bank",
@@ -1066,10 +1182,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-25"
+  "first_seen": "2026-08-25",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082426132510692",
   "kind": "tender",
   "source": "World Bank",
@@ -1090,10 +1207,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-25"
+  "first_seen": "2026-08-25",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082426132540740",
   "kind": "tender",
   "source": "World Bank",
@@ -1114,10 +1232,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-25"
+  "first_seen": "2026-08-25",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082426090097040",
   "kind": "tender",
   "source": "World Bank",
@@ -1138,10 +1257,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-25"
+  "first_seen": "2026-08-25",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082026164043159",
   "kind": "tender",
   "source": "World Bank",
@@ -1162,10 +1282,11 @@
   "score_hits": [],
   "already_posted": true,
   "collector": "worldbank",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082026054030615",
   "kind": "tender",
   "source": "World Bank",
@@ -1186,10 +1307,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082026165027983",
   "kind": "tender",
   "source": "World Bank",
@@ -1210,10 +1332,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099081926160036655",
   "kind": "tender",
   "source": "World Bank",
@@ -1234,10 +1357,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099081926071068358",
   "kind": "tender",
   "source": "World Bank",
@@ -1258,10 +1382,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099081826114027000",
   "kind": "tender",
   "source": "World Bank",
@@ -1282,10 +1407,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099081826111011297",
   "kind": "tender",
   "source": "World Bank",
@@ -1306,10 +1432,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-577987-2026",
   "kind": "tender",
   "source": "TED",
@@ -1317,15 +1444,20 @@
   "country": "ESP",
   "country_ko": "스페인",
   "title": "Spain – Urban furniture – Suministro de mobiliario urbano, equipamiento de espacios públicos, elementos de seguridad vial y equipamientos para litoral, caminos y espacios naturales de los entes locales adheridos a la FELIB",
+  "project_title": null,
   "org": "Presidencia de la Federació D'Entitats Locals de les Illes Balears",
+  "org_type": "지방정부",
   "budget": {
    "currency": "EUR",
    "amount": 22725300.0,
    "is_project_total": false
   },
   "nature": "supplies",
+  "selection_method": "종합평가(가격+기술)",
+  "source_scope": null,
   "published": "2026-08-20",
   "deadline": "2026-09-21",
+  "deadline_time": "08:00",
   "ref_no": "577987-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/577987-2026",
   "cpv": [
@@ -1363,10 +1495,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00464022",
   "kind": "tender",
   "source": "World Bank",
@@ -1376,10 +1509,14 @@
   "country_ko": "마다가스카르",
   "title": "Fourniture de matériels et équipements de sécurité dans les aéroports de Toliara (matériels roulants) : camion pompier, véhicule de piste, Tracteur avec gyrobroyeur",
   "org": "Projet de Transport Multimodal et Logistique",
+  "org_type": null,
   "project_title": "Multimodal Transport and Logistics Project.",
   "budget": null,
+  "selection_method": "Request for Bids",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-10-22",
+  "deadline_time": "14:00",
   "ref_no": "P512330",
   "project_id": "P512330",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464022",
@@ -1390,10 +1527,11 @@
   ],
   "already_posted": true,
   "collector": "worldbank",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00464050",
   "kind": "tender",
   "source": "World Bank",
@@ -1403,10 +1541,14 @@
   "country_ko": "마다가스카르",
   "title": "Fourniture de matériels et équipements de sécurité dans l'aéroport de Toliara : Incinérateur préfabriqué",
   "org": "Projet de Transport Multimodal et Logistique",
+  "org_type": null,
   "project_title": "Multimodal Transport and Logistics Project.",
   "budget": null,
+  "selection_method": "Request for Quotations",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-10-28",
+  "deadline_time": "10:00",
   "ref_no": "P512330",
   "project_id": "P512330",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464050",
@@ -1417,10 +1559,11 @@
   ],
   "already_posted": true,
   "collector": "worldbank",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00463437",
   "kind": "tender",
   "source": "World Bank",
@@ -1430,10 +1573,14 @@
   "country_ko": "방글라데시",
   "title": "Rehabilitation  of 16.60  km emergency evacuation of Rural Roads including  45.00 m  box culvert at Satkania upazila under Chattogram District",
   "org": "Local Government Engineering Department",
+  "org_type": null,
   "project_title": "Bangladesh Sustainable Recovery, Emergency Preparedness and Response Project",
   "budget": null,
+  "selection_method": "Request for Bids",
+  "source_scope": null,
   "published": "2026-08-19",
   "deadline": "2026-08-19",
+  "deadline_time": "00:00",
   "ref_no": "P508058",
   "project_id": "P508058",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463437",
@@ -1442,10 +1589,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00463325",
   "kind": "tender",
   "source": "World Bank",
@@ -1455,10 +1603,14 @@
   "country_ko": "인도네시아",
   "title": "Transportation Specialist for Component 2 GEF Indonesia SCIP, with 5-month working period in August to December 2026, with minimum requirement of Master's Degree and 3 years of professional working experience.",
   "org": "Directorate of Connectivity and Logistics Infrastructure, Ministry of National Development Planning/Bappenas",
+  "org_type": null,
   "project_title": "Global Environment Facility Indonesia Sustainable Cities Impact Project",
   "budget": null,
+  "selection_method": "Individual Consultant Selection",
+  "source_scope": null,
   "published": "2026-08-18",
   "deadline": "2026-08-26",
+  "deadline_time": "16:00",
   "ref_no": "P173446",
   "project_id": "P173446",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463325",
@@ -1467,10 +1619,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "adb-3y8wre-tender_search_index-entity:node/1172111:en",
   "kind": "tender",
   "source": "ADB",
@@ -1480,11 +1633,19 @@
   "country": "Kazakhstan",
   "country_ko": "카자흐스탄",
   "title": "International Transport Economist",
-  "org": null,
+  "org": "Committee of Roads",
+  "org_type": null,
   "project_title": "Preparing the Central Asia Regional Economic Cooperation Corridors 3 and 6 Turkistan Road Network Improvement Project",
-  "budget": null,
+  "budget": {
+   "amount": 50000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "International",
   "published": "2026-08-21",
   "deadline": "2026-08-27",
+  "deadline_time": null,
   "ref_no": "54217-002",
   "project_id": "54217-002",
   "link": "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=49F4FC61A5EF7C519321B4F6940FEAFFF4144C5051A44AC97EEB0230C8836D94",
@@ -1493,10 +1654,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "adb",
-  "first_seen": "2026-08-22"
+  "first_seen": "2026-08-22",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "adb-3y8wre-tender_search_index-entity:node/1172141:en",
   "kind": "tender",
   "source": "ADB",
@@ -1506,11 +1668,19 @@
   "country": "Tajikistan",
   "country_ko": "타지키스탄",
   "title": "Transport Sector Institutional Capacity Development Specialist (International)",
-  "org": null,
+  "org": "Ministry of Transport",
+  "org_type": null,
   "project_title": "Capacity Building Support to the Ministry of Transport for Better Planning and Implementation",
-  "budget": null,
+  "budget": {
+   "amount": 33000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "International",
   "published": "2026-08-21",
   "deadline": "2026-08-27",
+  "deadline_time": null,
   "ref_no": "54157-001",
   "project_id": "54157-001",
   "link": "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=894AE428CE8D7FA6EEDD07FD7F0D7A93BE53BDF809D8C6473A0D4AC54EAF3698",
@@ -1519,10 +1689,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "adb",
-  "first_seen": "2026-08-22"
+  "first_seen": "2026-08-22",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00464184",
   "kind": "tender",
   "source": "World Bank",
@@ -1532,10 +1703,14 @@
   "country_ko": "콩고민주공화국",
   "title": "Recrutement d'un Consultant (firme) Chargé de  la redéfinition de la classification routière de la RDC",
   "org": "Cellule Infrastructures",
+  "org_type": null,
   "project_title": "DRC Transport and Connectivity Development Project",
   "budget": null,
+  "selection_method": "Quality And Cost-Based Selection",
+  "source_scope": null,
   "published": "2026-08-22",
   "deadline": "2026-09-07",
+  "deadline_time": "14:00",
   "ref_no": "P506815",
   "project_id": "P506815",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464184",
@@ -1544,10 +1719,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00463963",
   "kind": "tender",
   "source": "World Bank",
@@ -1557,10 +1733,14 @@
   "country_ko": "콩고민주공화국",
   "title": "Consultant firme chargé de la réalisation d’un Plan en faveur des Populations Autochtones (PPA) pour les travaux de bitumage de la route nationale numéro 2 (rn2), tronçon Mbanga – Riviere Lualaba (200 km) dans les provinces de Lomami et du Maniema",
   "org": "Cellule Infrastructures",
+  "org_type": null,
   "project_title": "DRC Transport and Connectivity Development Project",
   "budget": null,
+  "selection_method": "Consultant Qualification  Selection",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-09-07",
+  "deadline_time": "14:00",
   "ref_no": "P506815",
   "project_id": "P506815",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463963",
@@ -1569,10 +1749,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "adb-3y8wre-tender_search_index-entity:node/1171996:en",
   "kind": "tender",
   "source": "ADB",
@@ -1583,10 +1764,14 @@
   "country_ko": "필리핀",
   "title": "P52083-003: Malolos-Clark Railway Project, Tranche 2 - Market Engagement Advertisement Notice",
   "org": null,
+  "org_type": null,
   "project_title": "Malolos–Clark Railway Project (Tranche 2)",
   "budget": null,
+  "selection_method": null,
+  "source_scope": null,
   "published": "2026-08-20",
   "deadline": "2026-09-11",
+  "deadline_time": null,
   "ref_no": "52083-003",
   "project_id": "52083-003",
   "link": "https://www.adb.org/node/1171996",
@@ -1595,10 +1780,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "adb",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "adb-3y8wre-tender_search_index-entity:node/1171491:en",
   "kind": "tender",
   "source": "ADB",
@@ -1609,10 +1795,14 @@
   "country_ko": "인도",
   "title": "IND: Bridge Improvement in Uttarakhand (multiple packages)",
   "org": null,
+  "org_type": null,
   "project_title": "Bridge Improvement in Uttarakhand",
   "budget": null,
+  "selection_method": null,
+  "source_scope": null,
   "published": "2026-08-19",
   "deadline": "2026-09-14",
+  "deadline_time": null,
   "ref_no": "59176-001",
   "project_id": "59176-001",
   "link": "https://www.adb.org/node/1171491",
@@ -1621,10 +1811,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "adb",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "adb-3y8wre-tender_search_index-entity:node/1170546:en",
   "kind": "tender",
   "source": "ADB",
@@ -1634,11 +1825,19 @@
   "country": "India",
   "country_ko": "인도",
   "title": "EOI for Selection of Consultant for Construction Supervision Consultancy -1 under ‘Bridge Improvement in Uttarakhand’ Project No:-59176-001 for all Bridge Works in District Almora & Bageshwar",
-  "org": null,
+  "org": "Public Works Department of Uttarakhand",
+  "org_type": null,
   "project_title": "Bridge Improvement in Uttarakhand",
-  "budget": null,
+  "budget": {
+   "amount": 1449000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "National",
   "published": "2026-08-19",
   "deadline": "2026-09-18",
+  "deadline_time": null,
   "ref_no": "59176-001",
   "project_id": "59176-001",
   "link": "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=2F07E363615D84630E0F44ACB6AF4EA45B11DBA11E62370295CB5FB46601EEA3",
@@ -1647,10 +1846,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "adb",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "adb-3y8wre-tender_search_index-entity:node/1170601:en",
   "kind": "tender",
   "source": "ADB",
@@ -1660,11 +1860,19 @@
   "country": "India",
   "country_ko": "인도",
   "title": "EOI for Construction Supervision Consultancy-3 under ‘Bridge Improvement in Uttarakhand’ Project No:-59176-001 for all Bridge Works and Landslide Treatment Works in District Tehri & Dehradun",
-  "org": null,
+  "org": "Public Works Department of Uttarakhand",
+  "org_type": null,
   "project_title": "Bridge Improvement in Uttarakhand",
-  "budget": null,
+  "budget": {
+   "amount": 1608000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "National",
   "published": "2026-08-19",
   "deadline": "2026-09-18",
+  "deadline_time": null,
   "ref_no": "59176-001",
   "project_id": "59176-001",
   "link": "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=2C1FE006695293A28694805691C79B9CBC370D4DFCB5A802DD1F565C859E9596",
@@ -1673,10 +1881,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "adb",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "adb-3y8wre-tender_search_index-entity:node/1170606:en",
   "kind": "tender",
   "source": "ADB",
@@ -1686,11 +1895,19 @@
   "country": "India",
   "country_ko": "인도",
   "title": "EOI for Selection of Consultant for Construction Supervision Consultancy-4 under ‘Bridge Improvement in Uttarakhand’ Project No:-59176-001 for all Bridge Works in District Pauri & Rudraprayag",
-  "org": null,
+  "org": "Public Works Department of Uttarakhand",
+  "org_type": null,
   "project_title": "Bridge Improvement in Uttarakhand",
-  "budget": null,
+  "budget": {
+   "amount": 1475000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "National",
   "published": "2026-08-19",
   "deadline": "2026-09-18",
+  "deadline_time": null,
   "ref_no": "59176-001",
   "project_id": "59176-001",
   "link": "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=190FCEFA1CECA1C016F68348BBD39026548CFE810B5D5E24C4B1A93E21BDFAF8",
@@ -1699,10 +1916,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "adb",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "adb-3y8wre-tender_search_index-entity:node/1170611:en",
   "kind": "tender",
   "source": "ADB",
@@ -1712,11 +1930,19 @@
   "country": "India",
   "country_ko": "인도",
   "title": "EOI for Construction Supervision Consultancy-2 under ‘BIIU’ Project No:-59176-001 for all Bridge Works and Landslide Treatment Works in District Nainital, Champawat & US Nagar",
-  "org": null,
+  "org": "Public Works Department of Uttarakhand",
+  "org_type": null,
   "project_title": "Bridge Improvement in Uttarakhand",
-  "budget": null,
+  "budget": {
+   "amount": 1569000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "National",
   "published": "2026-08-19",
   "deadline": "2026-09-18",
+  "deadline_time": null,
   "ref_no": "59176-001",
   "project_id": "59176-001",
   "link": "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=517B1BE256C85532E9BEB5537F673A98A56CEB10028535FE8786DC74C5F894BD",
@@ -1725,10 +1951,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "adb",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00463835",
   "kind": "tender",
   "source": "World Bank",
@@ -1738,10 +1965,14 @@
   "country_ko": "Guyana",
   "title": "Improvement (Rehabilitation and Upgrade) of the Selected Regional Road Corridor -Reconstruction of Existing Road Network on the East Coast Demerara – Lot 1: Mahaica Bridge to Abary Bridge Road Corridor (Km. 0+00 – Km. 27+10)",
   "org": "Ministry of Public Works",
+  "org_type": null,
   "project_title": "Integrated Transport Corridors Project",
   "budget": null,
+  "selection_method": "Request for Bids",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-10-02",
+  "deadline_time": "09:00",
   "ref_no": "P501759",
   "project_id": "P501759",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463835",
@@ -1750,10 +1981,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "adb-3y8wre-tender_search_index-entity:node/1172326:en",
   "kind": "tender",
   "source": "ADB",
@@ -1764,10 +1996,14 @@
   "country_ko": "아제르바이잔",
   "title": "Azerbaijan Railways Digital Transformation Project [IT 09]",
   "org": null,
+  "org_type": null,
   "project_title": "Azerbaijan Railways Digital Transformation Project",
   "budget": null,
+  "selection_method": null,
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-10-02",
+  "deadline_time": null,
   "ref_no": "58049-001",
   "project_id": "58049-001",
   "link": "https://www.adb.org/node/1172326",
@@ -1776,10 +2012,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "adb",
-  "first_seen": "2026-08-22"
+  "first_seen": "2026-08-22",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00463308",
   "kind": "tender",
   "source": "World Bank",
@@ -1789,10 +2026,14 @@
   "country_ko": "네팔",
   "title": "Upgrading/Construction works of Kalaiya-Malahi Road (16.226Km) of Bara District",
   "org": "Ministry of Physical Infrastructure Development, Madhesh Province",
+  "org_type": null,
   "project_title": "Provincial and Local Roads Improvement Program - Phase 1",
   "budget": null,
+  "selection_method": "Request for Bids",
+  "source_scope": null,
   "published": "2026-08-19",
   "deadline": "2026-10-06",
+  "deadline_time": "12:00",
   "ref_no": "P171836",
   "project_id": "P171836",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463308",
@@ -1801,10 +2042,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00463658",
   "kind": "tender",
   "source": "World Bank",
@@ -1814,10 +2056,14 @@
   "country_ko": "보스니아헤르체고비나",
   "title": "Federation Road Asset Management Enhancement",
   "org": "Public Company Roads of Federation of BH",
+  "org_type": null,
   "project_title": "Federation Road Asset Management Enhancement",
   "budget": null,
+  "selection_method": null,
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": null,
+  "deadline_time": null,
   "ref_no": "P511851",
   "project_id": "P511851",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463658",
@@ -1826,10 +2072,11 @@
   "score_hits": [],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082426022011921",
   "kind": "tender",
   "source": "World Bank",
@@ -1852,10 +2099,11 @@
   ],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-25"
+  "first_seen": "2026-08-25",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099082226234019224",
   "kind": "tender",
   "source": "World Bank",
@@ -1878,10 +2126,11 @@
   ],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wbd-099081826031518526",
   "kind": "tender",
   "source": "World Bank",
@@ -1904,10 +2153,11 @@
   ],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "wb-OP00463904",
   "kind": "tender",
   "source": "World Bank",
@@ -1917,10 +2167,14 @@
   "country_ko": "베트남",
   "title": "Improvement of Mang Thit river, Tra On river",
   "org": "Project Management Unit of Maritime and Waterway",
+  "org_type": null,
   "project_title": "Southern Waterway Corridors and Logistics Development Project",
   "budget": null,
+  "selection_method": "Request for Bids",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-09-25",
+  "deadline_time": "10:00",
   "ref_no": "P169954",
   "project_id": "P169954",
   "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463904",
@@ -1932,10 +2186,11 @@
   ],
   "already_posted": false,
   "collector": "worldbank",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-580222-2026",
   "kind": "tender",
   "source": "TED",
@@ -1943,15 +2198,20 @@
   "country": "DEU",
   "country_ko": "독일",
   "title": "Germany – Road construction works – Kooperation Eppendorfer Marktplatz, 2.BA, Los 3, Straßen- und Leitungsbau",
+  "project_title": null,
   "org": "Landesbetrieb Straßen, Brücken und Gewässer",
+  "org_type": "광역정부",
   "budget": {
    "currency": "EUR",
    "amount": 8000000.0,
    "is_project_total": false
   },
   "nature": "works",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-21",
   "deadline": "2026-09-08",
+  "deadline_time": "10:00",
   "ref_no": "580222-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/580222-2026",
   "cpv": [
@@ -2051,10 +2311,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-21"
+  "first_seen": "2026-08-21",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-582287-2026",
   "kind": "tender",
   "source": "TED",
@@ -2062,15 +2323,20 @@
   "country": "DEU",
   "country_ko": "독일",
   "title": "Germany – Road construction works – U-Bahn Farmsen, Baulos 1, Straßenbau (Los 1)",
+  "project_title": null,
   "org": "Landesbetrieb Straßen, Brücken und Gewässer",
+  "org_type": "광역정부",
   "budget": {
    "currency": "EUR",
    "amount": 8100000.0,
    "is_project_total": false
   },
   "nature": "works",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-24",
   "deadline": "2026-09-15",
+  "deadline_time": "10:00",
   "ref_no": "582287-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/582287-2026",
   "cpv": [
@@ -2151,10 +2417,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-24"
+  "first_seen": "2026-08-24",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-572060-2026",
   "kind": "tender",
   "source": "TED",
@@ -2162,15 +2429,20 @@
   "country": "ESP",
   "country_ko": "스페인",
   "title": "Spain – Construction structures and materials; auxiliary products to construction (except electric apparatus) – Suministro de elementos de construcción, mantenimiento y reposición de material diverso para el Ayuntamiento de Las Gabias.",
+  "project_title": null,
   "org": "Alcaldía del Ayuntamiento de Las Gabias",
+  "org_type": "지방정부",
   "budget": {
    "currency": "EUR",
    "amount": 5918000.0,
    "is_project_total": false
   },
   "nature": "supplies",
+  "selection_method": "기술평가",
+  "source_scope": null,
   "published": "2026-08-18",
   "deadline": "2026-09-16",
+  "deadline_time": null,
   "ref_no": "572060-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/572060-2026",
   "cpv": [
@@ -2221,10 +2493,11 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-19"
+  "first_seen": "2026-08-19",
+  "notes": null
  },
  {
-  "schema_version": 1,
+  "schema_version": 2,
   "id": "ted-577274-2026",
   "kind": "tender",
   "source": "TED",
@@ -2232,11 +2505,16 @@
   "country": "POL",
   "country_ko": "폴란드",
   "title": "Poland – Snow-clearing services – „Całoroczne (bieżące i zimowe) utrzymanie dróg kraj. będących w administracji GDDKiA Oddział w Rzeszowie, w podziale na 4 części: Cz 1 –utrzym. dróg kraj. Rejonu w Przemyślu -autostrady A-4 na odc. Rzeszów Wschód (bez węzła) do Jarosław Zachód z (węzłem) Cz 2 –utrzym. dróg kraj. G, GP Rejonu w Przemyślu Cz 3 –utrzym. dróg kraj. G, GP Rejonu w Lesku Cz 4 –utrzym. dróg kraj. G, GP i S Rejonu w Nisku",
+  "project_title": null,
   "org": "Skarb Państwa Generalny Dyrektor Dróg Krajowych i Autostrad ul. Wronia 53, 00-874 Warszawa, Prowadzący postępowanie: Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Rzeszowie 35-959 Rzeszów, ul. Legionów 20",
+  "org_type": "중앙정부",
   "budget": null,
   "nature": "services",
+  "selection_method": "최저가",
+  "source_scope": null,
   "published": "2026-08-20",
   "deadline": "2026-09-22",
+  "deadline_time": "11:00",
   "ref_no": "577274-2026",
   "link": "https://ted.europa.eu/en/notice/-/detail/577274-2026",
   "cpv": [
@@ -2263,6 +2541,7 @@
   ],
   "already_posted": false,
   "collector": "ted",
-  "first_seen": "2026-08-20"
+  "first_seen": "2026-08-20",
+  "notes": null
  }
 ]
