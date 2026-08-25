@@ -49,6 +49,14 @@
   .badge.done { color:var(--dim); }
   .badge.warn { border-color:var(--warn); color:var(--warn); font-weight:600; }
   dd.none { color:var(--dim); font-style:italic; }
+  .rel { margin-top:8px; }
+  .relbtn { border:0; background:none; padding:2px 0; color:var(--dim); font-size:12.5px;
+            cursor:pointer; font-family:inherit; text-decoration:underline dotted; }
+  .relbtn:hover { color:var(--ink); }
+  .rel-list { list-style:none; margin:6px 0 0; padding:0 0 0 10px; border-left:2px solid var(--line); }
+  .rel-list li { font-size:13px; color:var(--dim); padding:4px 0; cursor:pointer; }
+  .rel-list li:hover { color:var(--ink); }
+  .rel-list li span { font-size:11.5px; margin-left:6px; opacity:.75; }
   .card.expired { opacity:.55; }
   .foldbtn { display:block; width:100%; margin:14px 0 4px; padding:10px;
              border:1px dashed var(--line); border-radius:8px; background:none;
@@ -315,6 +323,57 @@ function ddayBadge(deadline) {
   return `<span class="badge dday">D-${d}</span>`;
 }
 
+// ── 같은 사안 묶기 (기사 전용)
+//
+// 같은 일을 여러 매체가 쓴다. 문자 유사도로는 안 묶인다 — 제목이 매체마다 크게 다르다
+// ('강남 심야 자율주행택시 7→19대 확충' / '서울시, 강남 자율주행 택시 19대로 늘린다').
+// 그래서 '흔하지 않은 말'(앵커)이 겹치는지를 본다. 흔한지 여부는 사전이 아니라
+// 지금 실린 기사들에서 센다 — 손으로 불용어를 관리하지 않기 위해서다.
+//
+// 규칙: 앵커 2개 이상 공유 + 게재일 1일 이내 + (강한 앵커 1개 이상 또는 앵커 3개 이상).
+// 강한 앵커 = 숫자이거나 한글 4자 이상. 영어는 with·safety·zone 같은 흔한 말이
+// 앵커로 새기 쉬워 강한 앵커로 치지 않는다(실측에서 서로 다른 사안 둘을 묶었다).
+// 데이터는 그대로 두고 화면에서만 접는다 — 판정이 틀려도 되돌릴 게 없다.
+const ANCHOR_DF = 4;
+
+function storyTokens(t) {
+  const s = t || '', out = new Set();
+  (s.match(/\d+만|\d+억|\d+/g) || []).forEach(w => out.add(w));
+  (s.match(/[A-Za-z]{3,}/g) || []).forEach(w => out.add(w.toLowerCase()));
+  (s.match(/[가-힣]{2,}/g) || []).forEach(w => out.add(w));
+  return [...out].filter(w => w.length >= 2);
+}
+const strongAnchor = w => /^\d/.test(w) || /^[가-힣]{4,}$/.test(w);
+
+function groupStories(items) {
+  const df = new Map();
+  for (const it of ITEMS) {
+    if (it.kind !== 'news') continue;
+    for (const w of storyTokens(it.title)) df.set(w, (df.get(w) || 0) + 1);
+  }
+  const anc = it => new Set(storyTokens(it.title).filter(w => (df.get(w) || 0) <= ANCHOR_DF));
+  const cache = new Map();
+  const ancOf = it => { if (!cache.has(it.id)) cache.set(it.id, anc(it)); return cache.get(it.id); };
+  const out = [], taken = new Set();
+  for (const it of items) {
+    if (it.kind !== 'news') { out.push(it); continue; }
+    if (taken.has(it.id)) continue;
+    const rel = [];
+    for (const other of items) {
+      if (other === it || other.kind !== 'news' || taken.has(other.id)) continue;
+      if (other.board !== it.board) continue;
+      if (Math.abs(days(it.published, other.published)) > 1) continue;
+      const shared = [...ancOf(it)].filter(w => ancOf(other).has(w));
+      if (shared.length < 2) continue;
+      if (!shared.some(strongAnchor) && shared.length < 3) continue;
+      rel.push(other); taken.add(other.id);
+    }
+    it._related = rel;              // 화면 전용. 저장 데이터는 건드리지 않는다
+    taken.add(it.id); out.push(it);
+  }
+  return out;
+}
+
 // 접기 대상: 관련도가 기준선 아래이거나 마감이 지난 발주.
 // 지우지 않는다 — 케냐 P161305처럼 제목만으로는 ITS인지 모를 건이 섞여 있다.
 // 기사는 접지 않는다. 12점대에도 진짜 ITS 기사가 있어서 점수로 접으면 정답을 숨긴다
@@ -353,12 +412,17 @@ function cardHTML(it, i) {
          it.deadline ? '마감 ' + it.deadline : '']
       : [it.source !== 'Google News' ? esc(it.source) : '', it.published]
         ).filter(Boolean).join(' · ')}</div>
+    ${(it._related || []).length ? `<div class="rel">
+      <button class="relbtn" data-rel="${i}">관련 기사 ${it._related.length}건 더</button>
+      <ul class="rel-list" hidden>${it._related.map(r =>
+        `<li data-rid="${esc(r.id)}">${esc(r.title)}<span>${esc(r.media || r.source || '')}</span></li>`).join('')}</ul>
+    </div>` : ''}
   </div>`;
 }
 
 function render() {
   const list = document.getElementById('list');
-  const items = visible();
+  const items = groupStories(visible());
   const main = items.filter(it => !foldable(it));
   const folded = items.filter(foldable);
   const order = [...main, ...folded];
@@ -385,6 +449,19 @@ function render() {
   };
   [...list.querySelectorAll('.card')].forEach(el =>
     el.onclick = () => openDetail(order[+el.dataset.i]));
+  // 묶인 기사 펼치기. 카드 클릭(상세 열기)과 겹치므로 전파를 막는다.
+  [...list.querySelectorAll('.relbtn')].forEach(b => b.onclick = e => {
+    e.stopPropagation();
+    const ul = b.nextElementSibling;
+    ul.hidden = !ul.hidden;
+    const n = order[+b.dataset.rel]._related.length;
+    b.textContent = ul.hidden ? `관련 기사 ${n}건 더` : '관련 기사 접기';
+  });
+  [...list.querySelectorAll('.rel-list li')].forEach(li => li.onclick = e => {
+    e.stopPropagation();
+    const it = ITEMS.find(x => x.id === li.dataset.rid);
+    if (it) openDetail(it);
+  });
 }
 
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
