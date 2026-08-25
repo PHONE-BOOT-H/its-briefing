@@ -62,6 +62,7 @@
               padding:16px 18px; margin-bottom:14px; }
   .statcard h2 { font-size:15px; margin:0 0 10px; }
   .statcard .note { font-size:12.5px; color:var(--dim); line-height:1.55; margin:10px 0 0; }
+  .thin { color:var(--dim); font-size:13.5px; padding:14px 0 4px; margin:0; }
   .chart { max-width:100%; overflow:visible; }
   .chart .cl { font-size:12px; fill:var(--ink); }
   .chart .cv { font-size:11.5px; fill:var(--dim); }
@@ -131,6 +132,15 @@
     <span class="count" id="count"></span>
   </div>
 
+  <div class="controls" id="scopeChips" hidden>
+    <span class="count">구분</span>
+    <button class="chip" data-scope="all" aria-pressed="true">전체</button>
+    <button class="chip" data-scope="tenders">발주</button>
+    <button class="chip" data-scope="news">해외기사</button>
+    <button class="chip" data-scope="domestic">국내기사</button>
+    <button class="chip" data-scope="policy">국내 동향</button>
+  </div>
+
   <div id="list"></div>
 </main>
 
@@ -146,7 +156,7 @@
 </dialog>
 
 <script>
-const S = { tab:'tenders', range:7, onlyNew:true, sort:'score', q:'' };
+const S = { tab:'tenders', range:7, onlyNew:true, sort:'score', q:'', scope:'all' };
 // 탭 → 기사 보드. 발주정보 탭은 여기 없다.
 const TAB_BOARD = { news:'A', domestic:'B', policy:'P' };
 const FOLD_SCORE = 25;   // 발주 접기 기준선. 25점은 World Bank·ADB의 소스 기본점이라
@@ -165,15 +175,18 @@ function readURL() {
   if (S.tab === 'news' && p.get('board') === 'B') S.tab = 'domestic';
   if (!TAB_BOARD[S.tab] && S.tab !== 'tenders' && S.tab !== 'stats') S.tab = 'tenders';
   if (p.get('range') !== null) S.range = +p.get('range');
-  else if (S.tab !== 'tenders') S.range = 3;   // 기사·국내동향은 매일 쌓이므로 3일
+  else if (S.tab !== 'tenders' && S.tab !== 'stats') S.range = 3;   // 기사·국내동향은 매일 쌓이므로 3일
+  // 통계는 주 단위로 보는 화면이라 기본 7일. 3일이면 표본이 너무 얇다.
   if (p.get('new') !== null) S.onlyNew = p.get('new') === '1';
   if (p.get('sort')) S.sort = p.get('sort');
   if (p.get('q')) S.q = p.get('q');
+  if (p.get('scope') && SCOPE_NAME[p.get('scope')]) S.scope = p.get('scope');
 }
 function writeURL() {
   const p = new URLSearchParams();
   p.set('tab', S.tab); p.set('range', S.range); p.set('new', S.onlyNew ? 1 : 0); p.set('sort', S.sort);
   if (S.q) p.set('q', S.q);
+  if (S.tab === 'stats') p.set('scope', S.scope);
   history.replaceState(null, '', '?' + p);
 }
 
@@ -274,14 +287,17 @@ function renderMeta() {
 }
 
 // ── 필터·정렬
-function visible() {
+// tab을 인자로 받는다. 통계 탭이 목록 탭과 같은 파이프라인을 그대로 태워야
+// 두 화면의 숫자가 갈리지 않는다.
+function visible(tab) {
+  tab = tab || S.tab;
   const from = S.range
     ? new Date(Date.now() - S.range * 86400000).toLocaleDateString('sv-SE')  // 로컬 기준
     : '0000-00-00';
   const q = S.q.trim().toLowerCase();
-  let out = ITEMS.filter(it => S.tab === 'tenders'
+  let out = ITEMS.filter(it => tab === 'tenders'
     ? it.kind === 'tender'
-    : it.kind === 'news' && it.board === TAB_BOARD[S.tab]);
+    : it.kind === 'news' && it.board === TAB_BOARD[tab]);
   out = out.filter(it => (S.onlyNew ? (it.first_seen || it.published) >= from : (it.published || '') >= from));
   if (q) out = out.filter(it => [it.title, it.org, it.country, it.country_ko, it.ref_no]
       .filter(Boolean).join(' ').toLowerCase().includes(q));
@@ -297,7 +313,7 @@ function visible() {
   // 기사는 보드·게재일별 상한을 화면에서 다시 건다.
   // 수집기는 실행할 때마다 그날 몫을 채우므로, 여러 날 파일을 합치면 같은 게재일에
   // 5건씩 겹쳐 쌓인다 (실측: 8/19 국내동향 14건).
-  if (S.tab !== 'tenders') {
+  if (tab !== 'tenders') {
     // ⚠ 같은 규칙이 collect.py fetch_news() 끝 '상한' 블록에도 있다.
     //   EXEMPT 목록·상한값·ITS Korea 계열 분리를 양쪽에서 같이 고쳐야 한다.
     //   채움 순서만 다르다 — 수집기는 점수순, 여기는 '오늘 신규' 우선
@@ -467,69 +483,118 @@ function bars(rows, opt) {
   </svg>`;
 }
 
-function statCards() {
-  const all = groupStories(ITEMS.filter(i => i.kind === 'news'))
-    .concat(ITEMS.filter(i => i.kind === 'tender'));
-  const tenders = all.filter(i => i.kind === 'tender');
-  const news = all.filter(i => i.kind === 'news');
+// 표본이 적으면 그리지 않는다. 거짓 추세를 그리느니 빈 화면이 낫다(빈 값 원칙의 통계판).
+const MIN_SAMPLE = 10;
+const thin = n => `<p class="thin">표본 ${n}건 — 통계로 보기엔 적습니다.</p>`;
+
+const SCOPE_TAB = { tenders: 'tenders', news: 'news', domestic: 'domestic', policy: 'policy' };
+const SCOPE_NAME = { all: '전체', tenders: '발주', news: '해외기사', domestic: '국내기사', policy: '국내 동향' };
+const RANGE_NAME = { 7: '이번 주', 3: '최근 3일', 14: '최근 2주', 0: '전체 기간' };
+
+// 통계가 세는 배열 = 목록 탭이 그리는 배열. 같은 함수를 그대로 태운다.
+function scopeItems(scope) {
+  if (scope === 'all') {
+    return ['tenders', 'news', 'domestic', 'policy'].flatMap(t => groupStories(visible(t)));
+  }
+  return groupStories(visible(SCOPE_TAB[scope]));
+}
+
+function statCards(scope) {
+  const items = scopeItems(scope);
+  const period = RANGE_NAME[S.range] || `최근 ${S.range}일`;
   const cards = [];
 
-  // 1. 소스별 순기여 — 중복을 걷어낸 뒤 실제로 몇 건이 남는가
-  const bySource = {};
-  for (const it of all) bySource[it.source] = (bySource[it.source] || 0) + 1;
-  const srcRows = Object.entries(bySource).sort((a, b) => b[1] - a[1])
-    .map(([k, v]) => ({ label: k, value: v, text: `${v}건`, segs: [{ value: v, cls: 'a', title: `${k} ${v}건` }] }));
-  cards.push({
-    title: '소스별 순기여',
-    note: `중복·같은 사안을 걷어낸 뒤 남은 건수. 합계 ${all.length}건. `
-        + '한 소스가 많이 던져도 실제로 남는 건수는 다르다 — 유지비 대비 기여를 보는 표다.',
-    svg: bars(srcRows, { label: '소스별 건수' }),
-  });
-
-  // 2. 마감까지 남은 기간
-  const live = tenders.filter(t => t.deadline && days(today, t.deadline) >= 0);
-  const buckets = [['D-0~7', 0, 7], ['D-8~14', 8, 14], ['D-15~30', 15, 30], ['D-31~60', 31, 60], ['D-61+', 61, 9999]];
-  const dRows = buckets.map(([lab, lo, hi]) => {
-    const n = live.filter(t => { const d = days(today, t.deadline); return d >= lo && d <= hi; }).length;
-    return { label: lab, value: n, text: `${n}건`, segs: [{ value: n, cls: lo <= 7 ? 'warn' : 'a', title: `${lab} ${n}건` }] };
-  });
-  const withDl = tenders.filter(t => t.deadline).length;
-  cards.push({
-    title: '마감까지 남은 기간',
-    note: `마감이 남은 발주 ${live.length}건. 마감일이 있는 건 ${withDl}/${tenders.length}건뿐이라 `
-        + '이 그림은 사실상 TED·ADB의 분포다 — World Bank 조달예측 문서는 마감 개념 자체가 없다.',
-    svg: bars(dRows, { label: '마감 임박 분포' }),
-  });
-
-  // 3. 국가별 TOP10 (소스별 스택)
-  const byCountry = {};
-  for (const t of tenders) {
-    const k = t.country_ko || t.country || '미상';
-    (byCountry[k] = byCountry[k] || {})[t.source] = ((byCountry[k] || {})[t.source] || 0) + 1;
+  if (scope === 'all') {
+    const bySource = {};
+    for (const it of items) bySource[it.source] = (bySource[it.source] || 0) + 1;
+    const rows = Object.entries(bySource).sort((a, b) => b[1] - a[1])
+      .map(([k, v]) => ({ label: k, value: v, text: `${v}건`, segs: [{ value: v, cls: 'a', title: `${k} ${v}건` }] }));
+    const n = { 발주: 0, 해외기사: 0, 국내기사: 0, '국내 동향': 0 };
+    for (const it of items) {
+      n[it.kind === 'tender' ? '발주'
+        : it.board === 'A' ? '해외기사' : it.board === 'B' ? '국내기사' : '국내 동향'] += 1;
+    }
+    cards.push({
+      title: '소스별 순기여',
+      svg: items.length >= MIN_SAMPLE ? bars(rows, { label: '소스별 건수' }) : thin(items.length),
+      note: `${period} · 합계 ${items.length}건 — `
+          + Object.entries(n).map(([k, v]) => `${k} ${v}`).join(' / ')
+          + '. 중복과 같은 사안을 걷어낸 뒤 남은 건수다. 한 소스가 많이 던져도 실제로 남는 건수는 다르다.',
+    });
+    return cards;
   }
-  const SRC = ['TED', 'World Bank', 'ADB'];
-  const cRows = Object.entries(byCountry)
-    .map(([k, m]) => ({ k, m, total: Object.values(m).reduce((a, b) => a + b, 0) }))
-    .sort((a, b) => b.total - a.total).slice(0, 10)
-    .map(r => ({
-      label: r.k, total: r.total, text: `${r.total}건`,
-      segs: SRC.filter(s => r.m[s]).map((s, i) => ({ value: r.m[s], cls: ['a', 'b', 'c'][SRC.indexOf(s)], title: `${s} ${r.m[s]}건` })),
-    }));
+
+  if (scope === 'tenders') {
+    const live = items.filter(t => t.deadline && days(today, t.deadline) >= 0);
+    const buckets = [['D-0~7', 0, 7], ['D-8~14', 8, 14], ['D-15~30', 15, 30], ['D-31~60', 31, 60], ['D-61+', 61, 9999]];
+    const dRows = buckets.map(([lab, lo, hi]) => {
+      const n = live.filter(t => { const d = days(today, t.deadline); return d >= lo && d <= hi; }).length;
+      return { label: lab, value: n, text: `${n}건`, segs: [{ value: n, cls: lo <= 7 ? 'warn' : 'a', title: `${lab} ${n}건` }] };
+    });
+    const withDl = items.filter(t => t.deadline).length;
+    cards.push({
+      title: '마감까지 남은 기간',
+      svg: live.length >= MIN_SAMPLE ? bars(dRows, { label: '마감 임박 분포' }) : thin(live.length),
+      note: `${period} · 마감이 남은 발주 ${live.length}건. 마감일이 있는 건 ${withDl}/${items.length}건뿐이라 `
+          + '이 그림은 사실상 TED·ADB의 분포다 — World Bank 조달예측 문서는 마감 개념 자체가 없다.',
+    });
+
+    const byCountry = {};
+    for (const t of items) {
+      const k = t.country_ko || t.country || '미상';
+      (byCountry[k] = byCountry[k] || {})[t.source] = ((byCountry[k] || {})[t.source] || 0) + 1;
+    }
+    const SRC = ['TED', 'World Bank', 'ADB'];
+    const cRows = Object.entries(byCountry)
+      .map(([k, m]) => ({ k, m, total: Object.values(m).reduce((a, b) => a + b, 0) }))
+      .sort((a, b) => b.total - a.total).slice(0, 10)
+      .map(r => ({
+        label: r.k, total: r.total, text: `${r.total}건`,
+        segs: SRC.filter(s => r.m[s]).map(s => ({ value: r.m[s], cls: ['a', 'b', 'c'][SRC.indexOf(s)], title: `${s} ${r.m[s]}건` })),
+      }));
+    cards.push({
+      title: '국가별 발주 TOP10',
+      svg: items.length >= MIN_SAMPLE ? bars(cRows, { label: '국가별 건수' }) : thin(items.length),
+      note: `${period} · ${items.length}건 / ${Object.keys(byCountry).length}개국. 표본이 며칠치라 순위는 흔들린다. `
+          + '색은 소스 — <b class="k a">TED</b> <b class="k b">World Bank</b> <b class="k c">ADB</b>. '
+          + '미국·중동·중남미가 0건인 것은 발주가 없어서가 아니라 우리 소스가 그쪽을 안 덮기 때문이다.',
+    });
+    return cards;
+  }
+
+  // 기사 세 갈래 — 카테고리 분포와 일별 수집량
+  const byCat = {};
+  for (const it of items) byCat[it.category || '기타'] = (byCat[it.category || '기타'] || 0) + 1;
+  const catRows = Object.entries(byCat).sort((a, b) => b[1] - a[1])
+    .map(([k, v]) => ({ label: k, value: v, text: `${v}건 (${Math.round(v * 100 / items.length)}%)`,
+                        segs: [{ value: v, cls: k === '기타' ? 'c' : 'a', title: `${k} ${v}건` }] }));
   cards.push({
-    title: '국가별 발주 TOP10',
-    note: `누적 ${tenders.length}건 기준(${Object.keys(byCountry).length}개국). `
-        + '표본이 아직 며칠치라 순위는 흔들린다. 색은 소스다 — '
-        + '<b class="k a">TED</b> <b class="k b">World Bank</b> <b class="k c">ADB</b>. '
-        + '미국·중동·중남미가 0건인 것은 발주가 없어서가 아니라 우리 소스가 그쪽을 안 덮기 때문이다.',
-    svg: bars(cRows, { label: '국가별 건수' }),
+    title: '카테고리 분포',
+    svg: items.length >= MIN_SAMPLE ? bars(catRows, { label: '카테고리별 건수' }) : thin(items.length),
+    note: `${period} · ${SCOPE_NAME[scope]} ${items.length}건. 제목 키워드 규칙으로 나눈 것이다(LLM 아님). `
+        + "'기타'는 분류 실패가 아니라 ITS 기사가 아닐 가능성을 보는 칸이다 — 이 비율이 오르면 수집 쿼리를 손봐야 한다.",
+  });
+
+  const dayRows = [];
+  for (let i = 6; i >= 0; i--) {
+    const d = new Date(Date.now() - i * 86400000).toLocaleDateString('sv-SE');
+    const n = items.filter(x => (x.first_seen || x.published) === d).length;
+    dayRows.push({ label: d.slice(5), value: n, text: `${n}건`, segs: [{ value: n, cls: 'a', title: `${d} ${n}건` }] });
+  }
+  const firstDay = ITEMS.reduce((m, i) => (i.first_seen && i.first_seen < m ? i.first_seen : m), '9999');
+  cards.push({
+    title: '일별 수집량 (최근 7일)',
+    svg: items.length >= MIN_SAMPLE ? bars(dayRows, { label: '일별 건수' }) : thin(items.length),
+    note: `처음 발견한 날 기준. 수집을 시작한 ${firstDay}은 그날 하루가 아니라 그때까지 쌓인 것을 `
+        + '한꺼번에 받은 날이라 유독 높다 — 추세로 읽으면 안 된다.',
   });
   return cards;
 }
 
 function renderStats() {
   const list = document.getElementById('list');
-  document.getElementById('count').textContent = loadedAll ? '' : '불러오는 중…';
-  list.innerHTML = statCards().map(c =>
+  const cards = statCards(S.scope);
+  list.innerHTML = cards.map(c =>
     `<div class="statcard"><h2>${esc(c.title)}</h2>${c.svg}<p class="note">${c.note}</p></div>`).join('');
   document.getElementById('count').textContent = '';
 }
@@ -691,8 +756,13 @@ function copyTemplate(it) {
 
 // ── 이벤트
 function syncTabUI() {
-  // 통계는 누적을 보는 화면이라 기간·정렬·검색이 붙을 자리가 없다.
-  document.getElementById('controls').hidden = S.tab === 'stats';
+  // 통계에도 기간 칩을 살린다 — 목록과 같은 기간으로 세야 숫자가 갈리지 않는다.
+  // 정렬·검색은 통계에 의미가 없어 감춘다.
+  const stats = S.tab === 'stats';
+  document.getElementById('controls').hidden = false;
+  document.getElementById('scopeChips').hidden = !stats;
+  document.getElementById('sort').hidden = stats;
+  document.getElementById('q').hidden = stats;
   // 기사·국내동향은 매일 쌓이므로 기본 3일, 발주는 주 단위라 7일
   document.querySelectorAll('.chip[data-range]').forEach(x =>
     x.setAttribute('aria-pressed', +x.dataset.range === S.range));
@@ -700,11 +770,17 @@ function syncTabUI() {
 document.querySelectorAll('[role=tab]').forEach(b => b.onclick = () => {
   S.tab = b.dataset.tab;
   // 통계는 누적을 세는 화면이다. 최근 14일치만 받은 상태로 세면 '누적'이 거짓말이 된다.
-  if (S.tab === 'stats') loadRest().then(render);
-  S.range = S.tab === 'tenders' ? 7 : 3;
+  if (S.tab === 'stats') { loadRest().then(render); }
+  else S.range = S.tab === 'tenders' ? 7 : 3;
   document.querySelectorAll('[role=tab]').forEach(x =>
     x.setAttribute('aria-selected', x === b));
   syncTabUI(); writeURL(); render();
+});
+document.querySelectorAll('.chip[data-scope]').forEach(b => b.onclick = () => {
+  S.scope = b.dataset.scope;
+  document.querySelectorAll('.chip[data-scope]').forEach(x =>
+    x.setAttribute('aria-pressed', x === b));
+  writeURL(); render();
 });
 document.querySelectorAll('.chip[data-range]').forEach(b => b.onclick = () => {
   S.range = +b.dataset.range;
@@ -737,6 +813,8 @@ document.querySelectorAll('[role=tab]').forEach(x =>
   x.setAttribute('aria-selected', x.dataset.tab === S.tab));
 document.querySelectorAll('.chip[data-range]').forEach(x =>
   x.setAttribute('aria-pressed', +x.dataset.range === S.range));
+document.querySelectorAll('.chip[data-scope]').forEach(x =>
+  x.setAttribute('aria-pressed', x.dataset.scope === S.scope));
 syncTabUI();
 writeURL();   // 옛 링크(?tab=news&board=B)로 들어온 경우 주소를 새 형식으로 정리한다
 load().then(() => { if (S.range === 0 || S.tab === 'stats') loadRest().then(render); })
