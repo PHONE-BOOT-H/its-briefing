@@ -963,7 +963,11 @@ EN_NEWS_NEGATIVE = ['market size', 'market growth', 'market share', 'market repo
 # 동시에 걸리므로, 이 순서가 곧 분류 정책이다.
 CAT_EN = [
     ('C-ITS·V2X', ['c-its', 'v2x', 'v2i', 'v2v', 'telematics', 'dsrc',
-                   'connected vehicle', 'cooperative its']),
+                   'connected vehicle', 'connected car', 'cooperative its']),
+    # ITS 일반(총회·표준·디지털트윈·지도)을 담을 칸이 없어서 전부 '기타'로 떨어졌다.
+    # 협회 게시판 감사에서 나온 구멍이다.
+    ('기술·표준', ['its world congress', 'standardisation', 'standardization',
+                'digital twin', 'geospatial', 'hd map', 'interoperability']),
     ('요금·통행료', ['toll', 'road pricing', 'congestion charge', 'mlff', 'free flow',
                  'fastag', 'electronic fee']),
     ('단속·집행', ['enforcement', 'anpr', 'number plate', 'licence plate', 'license plate',
@@ -978,7 +982,7 @@ CAT_EN = [
                 'school zone', 'road safety']),
     ('자율주행', ['autonomous', 'self-driving', 'selfdriving', 'driverless',
                'robotaxi', 'robo-taxi', 'automated driving', 'level 4',
-               ]),
+               'waymo', 'smart-driving', 'smart driving']),
     ('산업·투자', ['ipo', 'acquisition', 'merger', 'stake', 'funding round',
                 'investment', 'wins contract', 'awarded contract']),
     ('대중교통·물류', ['public transport', 'bus rapid', 'brt', 'metro', 'tram',
@@ -997,11 +1001,12 @@ CAT_KO = [
                 '양해각서', 'mou']),
     ('요금·통행료', ['통행료', '요금징수', '하이패스', '스마트톨링', '다차로', '요금소', '교통카드']),
     ('단속·집행', ['단속', '과속', '무인단속', '음주운전', '과적', '불법주정차', '위반',
-                ]),
+                'cctv', '무인교통단속']),
     ('신호·관제', ['신호', '교차로', '교통관제', '관제센터', '관제시스템', '교통정보', '교통량',
-                '혼잡', '돌발상황', '정보제공', '스마트교차로']),
+                '혼잡', '돌발상황', '정보제공', '스마트교차로', '교통안전']),
     ('자율주행', ['자율주행', '자율차', '로보택시', '무인주행', '레벨4', '자율운행', '자율협력',
-               ]),
+               '웨이모', '오토노머스']),
+    ('기술·표준', ['세계총회', '디지털트윈', '디지털 트윈', '국제표준', '표준화', '정밀도로지도']),
     ('대중교통·물류', ['대중교통', '버스', 'brt', '철도', '지하철', 'ktx', '트램', '전철',
                   '택시', '물류', '화물', '주차', '파킹', '수요응답']),
 ]
