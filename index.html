@@ -21,6 +21,11 @@
   h1 { font-size:19px; margin:0 0 4px; letter-spacing:-.02em; }
   .meta { font-size:13px; color:var(--dim); }
   .meta .stale { color:var(--warn); font-weight:600; }
+  .brief { font-size:13.5px; margin-top:6px; line-height:1.65; }
+  .brief b { font-weight:700; }
+  .brief a { color:var(--accent); text-decoration:underline dotted; cursor:pointer; }
+  .brief .sep { color:var(--dim); margin:0 6px; opacity:.6; }
+  .brief .dim { color:var(--dim); }
   main { max-width:1100px; margin:0 auto; padding:0 24px 60px; }
 
   .tabs { display:flex; gap:2px; margin:18px 0 14px; border-bottom:1px solid var(--line); }
@@ -119,6 +124,7 @@
 <header>
   <h1>ITS 해외 발주·동향</h1>
   <div class="meta" id="meta">불러오는 중…</div>
+  <div class="brief" id="brief"></div>
 </header>
 
 <main>
@@ -131,6 +137,7 @@
   </div>
 
   <div class="controls" id="controls">
+    <button class="chip" data-range="-1">오늘</button>
     <button class="chip" data-range="7" aria-pressed="true">이번 주</button>
     <button class="chip" data-range="3">최근 3일</button>
     <button class="chip" data-range="14">최근 2주</button>
@@ -277,7 +284,7 @@ async function load() {
   INDEX = await (await fetch('data/index.json')).json();
   await fetchInto(filePaths(false));
   dedupeTenders();
-  renderMeta(); render();
+  renderMeta(); render(); renderBrief();
 }
 
 async function loadRest() {
@@ -300,13 +307,108 @@ function renderMeta() {
     (bad.length ? ` · 수집 실패: ${bad.join(', ')}` : '');
 }
 
+// ── 오늘의 브리핑
+//
+// 문장을 만들지 않는다. 이미 있는 수치를 템플릿에 끼워 넣기만 한다(LLM 금지 원칙).
+// 세는 대상은 목록·통계 탭과 같은 배열이다 — visible()에 groupStories()까지 태운다.
+// 현재 탭·기간·검색에 영향받지 않도록 상태를 잠깐 밀어놓고 전체 기준으로 센다.
+const topCounts = (rows, key, n) => Object.entries(
+  rows.reduce((a, x) => { const k = x[key] || '기타'; a[k] = (a[k] || 0) + 1; return a; }, {}))
+  .sort((a, b) => b[1] - a[1]).slice(0, n);
+
+// day 인자는 표본 렌더용이다(지난 며칠 문안을 뽑아 볼 때만). 평소에는 오늘.
+function briefText(day) {
+  const D = day || today;
+  const save = { range: S.range, onlyNew: S.onlyNew, q: S.q };
+  let html;
+  try {
+    // 신규 건수는 '눌렀을 때 보게 될 화면'과 같은 조건으로 센다.
+    // 상한(하루 5건)이 기간에 따라 다르게 걸려서, 전체 기준으로 세면 클릭 후 건수와 갈린다
+    // (실측: 국내기사 브리핑 18 vs 목록 20).
+    const count = tab => { S.range = -1; S.onlyNew = true; S.q = '';
+      return groupStories(visible(tab)).filter(x => x.first_seen === D); };
+    const pool = tab => { S.range = 0; S.onlyNew = false; S.q = '';
+      return groupStories(visible(tab)); };
+    // 과거 날짜 표본은 '오늘만' 필터를 쓸 수 없어 전체 기준으로 근사한다.
+    const sample = D !== today;
+    const countOf = tab => sample ? pool(tab).filter(x => x.first_seen === D) : count(tab);
+    const tenders = pool('tenders');
+    const boards = [['news', '해외'], ['domestic', '국내'], ['policy', '동향']]
+      .map(([tab, label]) => ({ tab, label, rows: countOf(tab) }));
+    const go = (o, label) =>
+    `<a data-go='${JSON.stringify(o)}'${o.hint ? ` title="${o.hint}"` : ''}>${label}</a>`;
+    const newT = countOf('tenders');
+    const newN = boards.reduce((a, b) => a + b.rows.length, 0);
+    const live = tenders.filter(x => !x.deadline || days(D, x.deadline) >= 0);
+    const soon = tenders.filter(x => x.deadline && days(D, x.deadline) >= 0 && days(D, x.deadline) <= 7);
+    const law = boards.find(b => b.tab === 'policy').rows.filter(x => x.source === '법제처');
+    const parts = [];
+
+    if (newT.length + newN === 0) {
+      // 조용한 날은 조용하다고 쓴다. 없는 숫자를 만들지 않는다.
+      parts.push('오늘 신규 없음 <span class="sep">·</span> 진행 중 발주 '
+        + go({ tab: 'tenders', range: 0, new: 0, sort: 'deadline' }, `<b>${live.length}건</b>`));
+    } else {
+      const seg = [];
+      if (newT.length) {
+        const by = topCounts(newT, 'source', 2).map(([k, v]) => `${k} ${v}`).join('·');
+        seg.push('발주 ' + go({ tab: 'tenders', range: -1, new: 1, sort: 'score' }, `<b>${newT.length}</b>`)
+          + (by ? ` <span class="dim">(${by})</span>` : ''));
+      }
+      // 보드마다 탭이 다르다. 합계 하나로 묶으면 눌렀을 때 갈 곳을 정할 수 없다.
+      for (const b of boards) {
+        const rows = b.rows;
+        if (!rows.length) continue;
+        // '기타'는 접기 대상이라 목차로서 값이 없다 — 분포 표기에서 뺀다.
+        const top = topCounts(rows.filter(x => x.category !== '기타'), 'category', 1)
+          .map(([k, v]) => `${k} ${v}`).join('');
+        seg.push(b.label + ' ' + go({ tab: b.tab, range: -1, new: 1, sort: 'score' }, `<b>${rows.length}</b>`)
+          + (top ? ` <span class="dim">(${top})</span>` : ''));
+      }
+      parts.push(`오늘 신규 <b>${newT.length + newN}건</b> — ` + seg.join(' <span class="sep">·</span> '));
+    }
+    const tail = [];
+    if (soon.length) tail.push('7일 내 마감 발주 '
+      + go({ tab: 'tenders', range: 0, new: 0, sort: 'deadline', hint: '발주 전체를 마감임박순으로' },
+            `<b>${soon.length}건</b>`));
+    if (law.length) tail.push('새 입법예고 '
+      + go({ tab: 'policy', range: -1, new: 1, sort: 'published' }, `<b>${law.length}건</b>`));
+    if (tail.length) parts.push(tail.join(' <span class="sep">·</span> '));
+    html = parts.join(' <span class="sep">/</span> ');
+  } finally {
+    Object.assign(S, save);
+  }
+  return html;
+}
+
+function renderBrief() {
+  const el = document.getElementById('brief');
+  el.innerHTML = briefText();
+  [...el.querySelectorAll('a[data-go]')].forEach(a => a.onclick = () => {
+    const o = JSON.parse(a.dataset.go);
+    S.tab = o.tab; S.range = o.range; S.onlyNew = !!o.new; S.sort = o.sort || 'score'; S.q = '';
+    if (S.range === 0) loadRest();
+    document.getElementById('sort').value = S.sort;
+    document.getElementById('q').value = '';
+    document.getElementById('onlyNew').setAttribute('aria-pressed', S.onlyNew);
+    document.querySelectorAll('[role=tab]').forEach(x =>
+      x.setAttribute('aria-selected', x.dataset.tab === S.tab));
+    document.querySelectorAll('.chip[data-range]').forEach(x =>
+      x.setAttribute('aria-pressed', +x.dataset.range === S.range));
+    syncTabUI(); writeURL(); render();
+    window.scrollTo({ top: 0 });
+  });
+}
+
 // ── 필터·정렬
 // tab을 인자로 받는다. 통계 탭이 목록 탭과 같은 파이프라인을 그대로 태워야
 // 두 화면의 숫자가 갈리지 않는다.
 function visible(tab) {
   tab = tab || S.tab;
-  const from = S.range
-    ? new Date(Date.now() - S.range * 86400000).toLocaleDateString('sv-SE')  // 로컬 기준
+  // range: -1=오늘만, 0=전체, N=최근 N일.
+  // '오늘만'이 있어야 브리핑의 '오늘 신규 N건'을 눌렀을 때 목록 건수가 그 N과 같아진다.
+  const from = S.range === -1 ? today
+    : S.range ? new Date(Date.now() - S.range * 86400000).toLocaleDateString('sv-SE')
     : '0000-00-00';
   const q = S.q.trim().toLowerCase();
   let out = ITEMS.filter(it => tab === 'tenders'
