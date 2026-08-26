@@ -70,6 +70,8 @@ COUNTRY_NAME_KO = {
     'Senegal': '세네갈', 'Cameroon': '카메룬', 'Chad': '차드', 'Niger': '니제르',
     'Guinea': '기니', 'Madagascar': '마다가스카르', 'Malawi': '말라위', 'Gabon': '가봉',
     'Congo, Democratic Republic of': '콩고민주공화국', 'Solomon Islands': '솔로몬제도',
+    "Cote d'Ivoire": '코트디부아르', 'Burkina Faso': '부르키나파소', 'Mali': '말리',
+    'Benin': '베냉', 'Togo': '토고', 'Sierra Leone': '시에라리온', 'Djibouti': '지부티',
     'Turkiye': '튀르키예', 'Serbia': '세르비아', 'Moldova': '몰도바', 'Kosovo': '코소보',
     'Bosnia and Herzegovina': '보스니아헤르체고비나', 'Central Africa': '중앙아프리카',
     'Papua New Guinea': '파푸아뉴기니', 'Azerbaijan': '아제르바이잔', 'Timor-Leste': '동티모르',
@@ -273,8 +275,44 @@ TED_CPV = ['34996000', '34970000', '34923000', '48813000', '34922100', '63712700
 
 # TED 발주기관 유형 코드 → 한글. 모르는 코드는 원문 그대로 둔다(빈 값 원칙: 지어내지 않는다).
 TED_ORG_TYPE = {'la': '지방정부', 'ra': '광역정부', 'cga': '중앙정부', 'body-pl': '공법인',
-                'pub-undert': '공기업', 'def-cont': '국방', 'eu-ins-bod-ag': 'EU기관',
+                'pub-undert': '공기업', 'pub-undert-la': '지방 공기업',
+                'pub-undert-ra': '광역 공기업', 'pub-undert-cga': '중앙 공기업',
+                'body-pl-la': '지방 공법인', 'body-pl-ra': '광역 공법인',
+                'body-pl-cga': '중앙 공법인', 'def-cont': '국방', 'eu-ins-bod-ag': 'EU기관',
                 'org-sub': '보조금 수급기관', 'int-org': '국제기구'}
+
+
+# eForms 코드값 → 한글. 게시판 양식에 그대로 들어가는 말이라 국문으로 옮겨 둔다.
+# 모르는 코드는 원문 그대로 남긴다(빈 값 원칙: 지어내지 않는다).
+TED_CODE = {
+    'gen-pub': '일반 공공 서비스', 'la': '지방 자치 단체', 'ra': '광역 자치 단체',
+    'cga': '중앙정부', 'body-pl': '공법인', 'pub-undert': '공기업',
+    'none': '제한 없음', 'no-eu-funds': 'EU 기금 지원 없음', 'eu-funds': 'EU 기금 지원',
+    'fa-wo-rc': '프레임워크 계약(경쟁 재개 없음)', 'fa-w-rc': '프레임워크 계약(경쟁 재개 있음)',
+    'fa-mix': '프레임워크 계약(혼합)', 'none-fa': '프레임워크 아님',
+    'open': '일반경쟁', 'restricted': '제한경쟁', 'neg-w-call': '공고 있는 협상',
+    'comp-dial': '경쟁적 대화', 'innovation': '혁신 파트너십',
+    'min-score': '최소 점수 기준', 'weight': '가중치',
+    'epo-procurement-document': '입찰서류에 명시', 'epo-notice': '공고에 명시',
+    'epo-sub-espd': 'ESPD로 제출',
+    'quality': '품질', 'price': '가격', 'cost': '비용',
+    'YEAR': '년', 'MONTH': '개월', 'WEEK': '주', 'DAY': '일',
+    'supplies': '물품', 'services': '용역', 'works': '공사',
+}
+
+
+def ted_code(v):
+    """코드 하나 또는 목록을 한글로. 못 옮기면 원문 그대로."""
+    v = first_of(v)
+    return TED_CODE.get(v, v) if v is not None else None
+
+
+def ted_period(value, unit):
+    """4 + YEAR → '4년'. 값이 없으면 None."""
+    v, u = first_of(value), first_of(unit)
+    if not v:
+        return None
+    return '%s%s' % (v, TED_CODE.get(u, u or ''))
 
 
 def ted_award_method(values):
@@ -304,7 +342,16 @@ def fetch_ted(days=7):
                    'estimated-value-proc', 'estimated-value-cur-proc', 'contract-nature',
                    # v2 추가분. 셋 다 이미 응답에 오던 값인데 요청 목록에 없어서 버리고 있었다.
                    'buyer-legal-type', 'deadline-receipt-tender-time-lot',
-                   'award-criterion-type-lot'],
+                   'award-criterion-type-lot',
+                   # 상세보기(게시판 양식)용. 전부 코드값·숫자·연락처라 번역이 필요 없다.
+                   # 쿠네오 560665-2026으로 실측해 실제로 오는 것만 넣었다.
+                   'buyer-email', 'organisation-tel-buyer', 'buyer-country-sub',
+                   'duration-period-value-lot', 'duration-period-unit-lot',
+                   'gpa-lot', 'reserved-procurement-lot', 'eu-fund-lot',
+                   'framework-agreement-lot', 'framework-maximum-participants-number-lot',
+                   'award-criterion-number-lot', 'award-criterion-number-threshold-lot',
+                   'tender-validity-deadline-value-lot', 'tender-validity-deadline-unit-lot',
+                   'procedure-type', 'authority-main-activity', 'selection-criteria-source'],
         'limit': 250,
         'page': 1,
     }
@@ -345,9 +392,37 @@ def fetch_ted(days=7):
             'org_type': TED_ORG_TYPE.get(first_of(n.get('buyer-legal-type')),
                                          first_of(n.get('buyer-legal-type'))),
             'budget': budget,
-            'nature': first_of(n.get('contract-nature')),
+            'nature': ted_code(n.get('contract-nature')),
             'selection_method': ted_award_method(n.get('award-criterion-type-lot')),
             'source_scope': None,           # EU는 국적 제한 자체가 금지라 이 축이 없다
+            'contact_name': None,           # eForms 어휘에 담당자 이름 필드가 없다
+            'contact_email': first_of(n.get('buyer-email')),
+            'contact_phone': first_of(n.get('organisation-tel-buyer')),
+            'duration': ted_period(n.get('duration-period-value-lot'),
+                                   n.get('duration-period-unit-lot')),
+            'funder': None,                 # EU 조달공고에 자금원 항목이 없다
+            # 게시판 '내용'의 참가자격·현지요건·낙찰방식 칸을 채우는 값들.
+            # 전부 코드값·숫자라 번역이 필요 없다(실측: 쿠네오 560665-2026).
+            'terms': {k: v for k, v in {
+                '참여 제한': ted_code(n.get('reserved-procurement-lot')),
+                'EU 기금': ted_code(n.get('eu-fund-lot')),
+                'GPA 적용': ('예' if first_of(n.get('gpa-lot')) is True
+                           else '아니오' if first_of(n.get('gpa-lot')) is False else None),
+                '선정기준 출처': ted_code(n.get('selection-criteria-source')),
+                '수행 지역(NUTS)': first_of(n.get('buyer-country-sub')),
+                '프레임워크': {'none': '프레임워크 아님', 'fa-wo-rc': '프레임워크 계약(경쟁 재개 없음)',
+                          'fa-w-rc': '프레임워크 계약(경쟁 재개 있음)', 'fa-mix': '프레임워크 계약(혼합)'}
+                         .get(first_of(n.get('framework-agreement-lot'))),
+                '최대 참여자 수': first_of(n.get('framework-maximum-participants-number-lot')),
+                '입찰 유효기간': ted_period(n.get('tender-validity-deadline-value-lot'),
+                                       n.get('tender-validity-deadline-unit-lot')),
+                '낙찰 임계': (lambda v, t: None if not v else
+                          ('%s (%s)' % (v, ted_code(t)) if first_of(t) else str(v)))(
+                    first_of(n.get('award-criterion-number-lot')),
+                    n.get('award-criterion-number-threshold-lot')),
+                '절차 유형': ted_code(n.get('procedure-type')),
+                '기관 주요활동': ted_code(n.get('authority-main-activity')),
+            }.items() if v not in (None, '')} or None,
             'published': iso_date(n.get('publication-date')),
             'deadline': iso_date(n.get('deadline-receipt-request')),
             'deadline_time': (first_of(n.get('deadline-receipt-tender-time-lot')) or '')[:5] or None,
@@ -435,7 +510,8 @@ WB_NOTICE = ('https://search.worldbank.org/api/v2/procnotices?format=json&qterm=
              '&srt=noticedate&order=desc&rows=40&os=%d'
              '&fl=id,noticedate,notice_type,project_ctry_name,project_id,project_name,'
              'bid_description,submission_date,submission_deadline_date,contact_organization,'
-             'submission_deadline_time,procurement_method_name')
+             'submission_deadline_time,procurement_method_name,'
+             'contact_name,contact_email,contact_phone_no,bid_reference_no')
 
 # 세계은행은 qterm·섹터 태그가 넓어서 항공권 구매·난민사업까지 딸려온다.
 # 제목에 교통 관련어가 없고 ITS 키워드 보너스도 0이면 버린다.
@@ -446,6 +522,47 @@ TRANSPORTISH = ['transport', 'road', 'traffic', 'mobility', 'rail', 'metro', 'bu
 def transportish(text):
     t = (text or '').lower()
     return any(w in t for w in TRANSPORTISH)
+WB_PROJECT = 'https://search.worldbank.org/api/v3/projects?format=json&id=%s'
+WB_CACHE_PATH = os.path.join(DATA, 'wb_project_cache.json')
+
+
+def wb_project(pid, cache):
+    """사업 단위 정보. 조달공고에는 자금원·총사업비가 없어서 여기서 가져온다.
+
+    사업 정보는 잘 안 바뀌므로 캐시한다. 공고 여러 건이 같은 사업을 가리키는 일이 흔해
+    캐시가 없으면 같은 사업을 하루에 여러 번 조회하게 된다.
+    """
+    if not pid:
+        return {}
+    if pid in cache:
+        return cache[pid]
+    try:
+        d = http_json(WB_PROJECT % urllib.parse.quote(pid))
+        rows = list((d.get('projects') or {}).values())
+        n = rows[0] if rows else {}
+    except Exception as e:
+        print('  WB 사업조회 실패 %s: %s' % (pid, e), file=sys.stderr)
+        return {}
+    num = lambda k: float(n.get(k) or 0)
+    # 예산처 = 어느 창구에서 돈이 나왔나. 금액 필드로 판별한다(별도 필드가 없다).
+    funder = None
+    if num('idacommamt') > 0:
+        funder = 'IDA (세계은행 양허성 창구)'
+    elif num('curr_ibrd_commitment') > 0:
+        funder = 'IBRD (세계은행)'
+    elif num('grantamt') > 0:
+        funder = '무상원조(Grant)'
+    total = num('lendprojectcost') or num('totalamt')
+    cache[pid] = {
+        'funder': funder,
+        'borrower': n.get('borrower'),
+        'impagency': n.get('impagency'),
+        'total': total if total > 1000 else None,   # lendprojectcost에 400 같은 오염값이 있다
+        'closing': (n.get('closingdate') or '')[:10] or None,
+    }
+    return cache[pid]
+
+
 WB_WDS = ('https://search.worldbank.org/api/v3/wds?format=json&rows=%d&srt=docdt&order=desc'
           '&docty=%s%s&fl=docdt,docty,display_title,projectid,count,guid')
 WB_DOCTY_C = ['Project Information Document', 'Project Appraisal Document',
@@ -463,6 +580,8 @@ def wb_date(s):
 def fetch_worldbank(days=7):
     start = (today_kst() - timedelta(days=days)).isoformat()
     out = {}
+    pcache = json.load(open(WB_CACHE_PATH, encoding='utf-8')) if os.path.exists(WB_CACHE_PATH) else {}
+    before = len(pcache)
 
     # A. 조달공고 → 입찰
     for term in WB_TERMS:
@@ -487,6 +606,8 @@ def fetch_worldbank(days=7):
                 if raw == 0 and not transportish(ctx):
                     continue
                 sc, hits = score_item(ctx, [], base_extra=25)
+                # 자금원·총사업비는 조달공고에 없다. 사업 단위로 한 번 더 조회한다(캐시).
+                prj = wb_project(n.get('project_id'), pcache)
                 out['wb-%s' % n['id']] = {
                     'schema_version': SCHEMA_VERSION, 'id': 'wb-%s' % n['id'], 'kind': 'tender',
                     'source': 'World Bank', 'type': '입찰', 'stream': 'notice',
@@ -501,6 +622,17 @@ def fetch_worldbank(days=7):
                     'budget': None,         # 조달공고에 금액 필드 자체가 없다(사업 API는 총차관액이라 의미가 다르다)
                     'selection_method': n.get('procurement_method_name'),
                     'source_scope': None,
+                    'contact_name': n.get('contact_name'),
+                    'contact_email': n.get('contact_email'),
+                    'contact_phone': n.get('contact_phone_no'),
+                    'duration': None,
+                    'funder': prj.get('funder'),
+                    'terms': {k: v for k, v in {
+                        '차주': prj.get('borrower'),
+                        '시행기관': prj.get('impagency'),
+                        '사업 총사업비': ('USD %s' % format(int(prj['total']), ',')) if prj.get('total') else None,
+                        '사업 종료 예정': prj.get('closing'),
+                    }.items() if v} or None,
                     'published': nd, 'deadline': (n.get('submission_deadline_date') or '')[:10] or None,
                     'deadline_time': (n.get('submission_deadline_time') or '')[:5] or None,
                     'ref_no': n.get('project_id') or n['id'],
@@ -531,18 +663,32 @@ def fetch_worldbank(days=7):
             sc, hits = score_item(title, [], base_extra=base)
             guid = x.get('guid') or x.get('id')
             pid = x.get('projectid')
+            prj = wb_project(pid, pcache)
             out['wbd-%s' % guid] = {
                 'schema_version': SCHEMA_VERSION, 'id': 'wbd-%s' % guid, 'kind': 'tender',
                 'source': 'World Bank', 'type': ktype, 'stream': 'document',
                 'country': x.get('count'),
                 'country_ko': COUNTRY_NAME_KO.get(x.get('count'), x.get('count')),
-                'title': title, 'org': None, 'budget': None,
+                'title': title, 'org': prj.get('impagency'), 'budget': None,
+                'selection_method': None, 'source_scope': None,
+                'contact_name': None, 'contact_email': None, 'contact_phone': None,
+                'duration': None, 'funder': prj.get('funder'),
+                'terms': {k: v for k, v in {
+                    '차주': prj.get('borrower'),
+                    '사업 총사업비': ('USD %s' % format(int(prj['total']), ',')) if prj.get('total') else None,
+                    '사업 종료 예정': prj.get('closing'),
+                }.items() if v} or None,
                 'published': dt, 'deadline': None,
                 'ref_no': pid or guid, 'project_id': pid,
                 'link': 'https://documents.worldbank.org/en/publication/documents-reports/documentdetail/%s' % guid,
                 'cpv': [], 'score': sc, 'score_hits': hits,
                 'already_posted': False,
             }
+
+    if len(pcache) != before:
+        with open(WB_CACHE_PATH, 'w', encoding='utf-8') as f:
+            json.dump(pcache, f, ensure_ascii=False, indent=1, sort_keys=True)
+        print('  WB 사업조회: 캐시 %d건, 신규 %d건' % (before, len(pcache) - before))
 
     # 같은 사업에서 조달공고와 문서가 함께 잡히면 문서를 버린다.
     # 단 공고끼리는 남긴다 — 한 사업에 용역·공사 공고가 따로 뜨는 일이 흔하고,
