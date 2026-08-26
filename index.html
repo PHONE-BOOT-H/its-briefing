@@ -196,26 +196,26 @@
       수집·중복정리·정렬까지 자동이고, 무엇을 쓸지 고르는 것은 사람이 합니다.</p>
 
     <div class="hsec steps">
-      <h4>아침 3분, 이 순서로 쓰면 됩니다</h4>
+      <h4>사용 순서</h4>
       <ol>
         <li><span class="k">맨 위 한 줄로 오늘 상황을 봅니다.</span>
           숫자를 누르면 그 목록으로 바로 갑니다.</li>
-        <li><span class="k">탭을 돌며 새로 올라온 것만 훑습니다.</span>
-          찾는 것이 안 보이면 <span class="k">신규만</span>을 끄고 기간을 넓힙니다.</li>
+        <li><span class="k">탭을 돌며 새로 올라온 것을 훑습니다.</span>
+          안 보이면 <span class="k">신규만</span>을 끄거나 기간을 넓힙니다.</li>
         <li><span class="k">쓸 건은 카드를 열어 '등록문 복사'를 누릅니다.</span>
-          게시판에 붙여넣고 빈 칸(국문 번역 등)만 채우면 됩니다.</li>
+          게시판에 붙여넣고 빈 칸(국문 번역 등)만 채웁니다.</li>
         <li><span class="k">맨 위 '마지막 수집'이 오늘인지 확인합니다.</span>
-          아니면 담당자에게 알려 주십시오.</li>
+          오늘이 아니면 담당자에게 알려 주십시오.</li>
       </ol>
     </div>
 
-    <p class="divider">아래는 필요할 때 찾아보는 설명입니다.</p>
+    <p class="divider">세부 설명</p>
 
     <div class="hsec">
-      <h4>1. 안 보인다고 없어진 게 아닙니다</h4>
+      <h4>1. 목록에 안 보일 때</h4>
       <ul>
         <li><span class="k">신규만</span> — 한 번 목록에 나온 건 다음 날부터 빠집니다(마감이 남아 있어도).
-          버튼을 끄면 마감 전 공고가 전부 다시 나옵니다. 며칠 안 열었다면 기간을
+          버튼을 끄면 마감 전 공고까지 전부 나옵니다(끄면 항상 더 많이 나옵니다). 며칠 안 열었다면 기간을
           <span class="k">최근 3일·최근 2주</span>로 넓히세요.</li>
         <li><span class="badge done">게시판 기등록</span> — 이미 게시판에 올린 건입니다. 사라지지 않고 표시만 붙습니다.</li>
         <li><span class="k">접힘</span> — 관련도가 낮은 발주, 마감이 지난 공고, 재가공·기고 기사는 목록 끝의
@@ -550,7 +550,13 @@ function visible(tab) {
   let out = ITEMS.filter(it => tab === 'tenders'
     ? it.kind === 'tender'
     : it.kind === 'news' && it.board === TAB_BOARD[tab]);
-  out = out.filter(it => (S.onlyNew ? (it.first_seen || it.published) >= from : (it.published || '') >= from));
+  // '신규만'은 '전부 보기'의 부분집합이어야 한다. 끄면 늘어나야지 줄면 안 된다.
+  // 예전에는 켜면 first_seen(처음 발견일), 끄면 published(게재일)로 서로 다른 날짜를 봐서
+  // 오늘 잡힌 옛날 공고가 끄는 순간 사라졌다(실측: 16조합 중 12개에서 ON > OFF).
+  const inNew = it => (it.first_seen || it.published) >= from;
+  const inAll = it => inNew(it) || (it.published || '') >= from
+    || (it.kind === 'tender' && it.deadline && it.deadline >= today);  // 마감 전 기존 공고
+  out = out.filter(S.onlyNew ? inNew : inAll);
   if (q) out = out.filter(it => [it.title, it.org, it.country, it.country_ko, it.ref_no]
       .filter(Boolean).join(' ').toLowerCase().includes(q));
   const key = { score: it => -it.score, deadline: it => it.deadline || '9999',
