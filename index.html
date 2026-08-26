@@ -678,14 +678,18 @@ const moneyFull = b => (b && b.amount)
 function boardMeta(it) {
   const dl = it.deadline ? it.deadline + (it.deadline_time ? ' ' + it.deadline_time : '') : '';
   return [
-    ['일자', it.published || ''],
+    // 게시판의 '일자'는 공고일이 아니라 등록일이다(쿠네오 실물: 공고 8/13, 게시판 8/24).
+    // 복사본이 곧 등록글이 되므로 오늘로 채운다. 공고일은 '내용 4. 제안 일정'에 남는다.
+    ['일자', today],
     ['프로젝트명(영문)', it.title || ''],
     ['프로젝트명(국문)', ''],
     ['공고유형', [it.type, it.subtype].filter(Boolean).join(' / ')],
     ['국가', it.country_ko || it.country || ''],
     ['발주처', it.org || ''],
     ['예산처', it.funder || ''],
-    ['예산', moneyFull(it.budget) || ''],
+    ['예산', moneyFull(it.budget)
+              ? moneyFull(it.budget) + (it.budget.is_project_total ? ' (사업 총사업비)' : '')
+              : ''],
     ['기간', it.duration || ''],
     ['분류/분야', '교통, ITS'],
     ['마감일', dl],
@@ -702,13 +706,16 @@ function boardMeta(it) {
 function boardBody(it) {
   const T = it.terms || {};
   const pick = (...keys) => keys.filter(k => T[k]).map(k => [k, T[k]]);
+  // 금액은 정의가 다르면 라벨을 다르게 쓴다. 개별 계약 추정가와 사업 총사업비를
+  // 같은 칸에 섞으면 국가별 시장규모 추계가 통째로 틀어진다.
   const budgetLine = moneyFull(it.budget)
-    ? [['부가가치세 제외 추정 가치', moneyFull(it.budget)
-        + (it.budget && it.budget.is_project_total ? ' (사업 총액)' : '')]] : [];
+    ? [[it.budget && it.budget.is_project_total
+          ? '사업 총사업비(공동재원 포함)' : '부가가치세 제외 추정 가치(해당 계약)',
+        moneyFull(it.budget)]] : [];
   return [
     ['사업명', [['원문', it.title || ''], ['국문 번역', '']]
                  .concat(it.project_title ? [['상위 사업명', it.project_title]] : [])],
-    ['사업 규모', budgetLine.concat(pick('사업 총사업비'))],
+    ['사업 규모', budgetLine.concat(pick('사업 총사업비(공동재원 포함)'))],
     ['발주처', [['공식 명칭', it.org || '']].filter(r => r[1])
                  .concat(it.contact_email ? [['이메일', it.contact_email]] : [])
                  .concat(it.contact_phone ? [['연락처', it.contact_phone]] : [])

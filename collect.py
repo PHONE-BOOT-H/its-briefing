@@ -630,7 +630,7 @@ def fetch_worldbank(days=7):
                     'terms': {k: v for k, v in {
                         '차주': prj.get('borrower'),
                         '시행기관': prj.get('impagency'),
-                        '사업 총사업비': ('USD %s' % format(int(prj['total']), ',')) if prj.get('total') else None,
+                        '사업 총사업비(공동재원 포함)': ('USD %s' % format(int(prj['total']), ',')) if prj.get('total') else None,
                         '사업 종료 예정': prj.get('closing'),
                     }.items() if v} or None,
                     'published': nd, 'deadline': (n.get('submission_deadline_date') or '')[:10] or None,
@@ -675,7 +675,7 @@ def fetch_worldbank(days=7):
                 'duration': None, 'funder': prj.get('funder'),
                 'terms': {k: v for k, v in {
                     '차주': prj.get('borrower'),
-                    '사업 총사업비': ('USD %s' % format(int(prj['total']), ',')) if prj.get('total') else None,
+                    '사업 총사업비(공동재원 포함)': ('USD %s' % format(int(prj['total']), ',')) if prj.get('total') else None,
                     '사업 종료 예정': prj.get('closing'),
                 }.items() if v} or None,
                 'published': dt, 'deadline': None,
