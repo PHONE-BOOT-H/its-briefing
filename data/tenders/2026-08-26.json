@@ -1555,7 +1555,7 @@
   "funder": "무상원조(Grant)",
   "terms": {
    "차주": "Ukraine",
-   "사업 총사업비": "USD 598,636,740",
+   "사업 총사업비(공동재원 포함)": "USD 598,636,740",
    "사업 종료 예정": "2027-12-31"
   },
   "published": "2026-08-24",
@@ -1594,7 +1594,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "THE REPUBLIC OF COTE D’IVOIRE",
-   "사업 총사업비": "USD 540,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 540,000,000",
    "사업 종료 예정": "2028-10-15"
   },
   "published": "2026-08-20",
@@ -1692,7 +1692,7 @@
   "funder": "IBRD (세계은행)",
   "terms": {
    "차주": "Montenegro",
-   "사업 총사업비": "USD 15,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 15,000,000",
    "사업 종료 예정": "2028-04-30"
   },
   "published": "2026-08-25",
@@ -1729,7 +1729,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "DEMOCRATIC REPUBLIC OF CONGO",
-   "사업 총사업비": "USD 250,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 250,000,000",
    "사업 종료 예정": "2027-12-31"
   },
   "published": "2026-08-25",
@@ -1766,7 +1766,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Ministry of Finance, Budget and Economic Planification",
-   "사업 총사업비": "USD 120,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 120,000,000",
    "사업 종료 예정": "2027-12-31"
   },
   "published": "2026-08-24",
@@ -1803,7 +1803,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Republic of Cameroon,Republic of Chad",
-   "사업 총사업비": "USD 816,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 816,000,000",
    "사업 종료 예정": "2032-06-30"
   },
   "published": "2026-08-24",
@@ -1840,7 +1840,7 @@
   "funder": "IBRD (세계은행)",
   "terms": {
    "차주": "Republic of El Salvador",
-   "사업 총사업비": "USD 400,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 400,000,000",
    "사업 종료 예정": "2029-12-28"
   },
   "published": "2026-08-24",
@@ -1877,7 +1877,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "People's Republic of Bangladesh",
-   "사업 총사업비": "USD 350,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 350,000,000",
    "사업 종료 예정": "2028-06-30"
   },
   "published": "2026-08-24",
@@ -1914,7 +1914,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "The Republic of Djibouti",
-   "사업 총사업비": "USD 90,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 90,000,000",
    "사업 종료 예정": "2033-12-31"
   },
   "published": "2026-08-24",
@@ -1951,7 +1951,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Burkina Faso,Niger,Togo",
-   "사업 총사업비": "USD 470,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 470,000,000",
    "사업 종료 예정": "2027-09-30"
   },
   "published": "2026-08-24",
@@ -2024,7 +2024,7 @@
   "funder": "IBRD (세계은행)",
   "terms": {
    "차주": "Republic of El Salvador",
-   "사업 총사업비": "USD 400,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 400,000,000",
    "사업 종료 예정": "2029-12-28"
   },
   "published": "2026-08-20",
@@ -2061,7 +2061,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Ministry of Finance",
-   "사업 총사업비": "USD 200,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 200,000,000",
    "사업 종료 예정": "2026-12-31"
   },
   "published": "2026-08-20",
@@ -2098,7 +2098,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Republic of Cabo Verde",
-   "사업 총사업비": "USD 35,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 35,000,000",
    "사업 종료 예정": "2028-06-30"
   },
   "published": "2026-08-19",
@@ -2135,7 +2135,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "United Republic of Tanzania",
-   "사업 총사업비": "USD 150,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 150,000,000",
    "사업 종료 예정": "2027-12-31"
   },
   "published": "2026-08-19",
@@ -2256,7 +2256,7 @@
   "terms": {
    "차주": "REPUBLIC OF MADAGASCAR",
    "시행기관": " Ministry of Transport and Meteorology,Madagascar Railways",
-   "사업 총사업비": "USD 305,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 305,000,000",
    "사업 종료 예정": "2031-09-30"
   },
   "published": "2026-08-21",
@@ -2299,7 +2299,7 @@
   "terms": {
    "차주": "REPUBLIC OF MADAGASCAR",
    "시행기관": " Ministry of Transport and Meteorology,Madagascar Railways",
-   "사업 총사업비": "USD 305,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 305,000,000",
    "사업 종료 예정": "2031-09-30"
   },
   "published": "2026-08-21",
@@ -2342,7 +2342,7 @@
   "terms": {
    "차주": "People's Republic of Bangladesh",
    "시행기관": "Bangladesh Water Development Board (Ministry of Water Resources),Department of Agricultural Extension (Ministry of Agriculture),Department of Disaster Management (Ministry of Disaster Management and Relief),Local Government Engineering Department (Local Government Division, Ministry of Local Government, Rural Development and Co-operatives),Social Development Foundation (Financial Institutions Division, Ministry of Finance)",
-   "사업 총사업비": "USD 270,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 270,000,000",
    "사업 종료 예정": "2030-12-31"
   },
   "published": "2026-08-19",
@@ -2453,7 +2453,7 @@
   "terms": {
    "차주": "Democratic Republic of the Congo",
    "시행기관": "Ministry of Infrastructure and Public Works / Cellule Infrastructure ",
-   "사업 총사업비": "USD 440,200,000",
+   "사업 총사업비(공동재원 포함)": "USD 440,200,000",
    "사업 종료 예정": "2030-07-31"
   },
   "published": "2026-08-22",
@@ -2494,7 +2494,7 @@
   "terms": {
    "차주": "Democratic Republic of the Congo",
    "시행기관": "Ministry of Infrastructure and Public Works / Cellule Infrastructure ",
-   "사업 총사업비": "USD 440,200,000",
+   "사업 총사업비(공동재원 포함)": "USD 440,200,000",
    "사업 종료 예정": "2030-07-31"
   },
   "published": "2026-08-21",
@@ -2737,7 +2737,7 @@
   "terms": {
    "차주": "Democratic Socialist Republic of Sri Lanka,Ministry Finance",
    "시행기관": "Ministry of Transport, Highways, and Urban Development",
-   "사업 총사업비": "USD 558,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 558,000,000",
    "사업 종료 예정": "2026-10-31"
   },
   "published": "2026-08-24",
@@ -2778,7 +2778,7 @@
   "terms": {
    "차주": "Burkina Faso,Ministry of Economy and Finance, Islamic Republic of Mauritania,Ministry of Urban Planning, Housing, Estates, Territorial Planning and Population Mali ,Republic of Chad,Republic of Senegal,Republic of The Gambia,Republic of Togo",
    "시행기관": "Economic Community of Central African States (ECCAS),Economic Community of West African States (ECOWAS),Ministry of Development Planning and Cooperation Togo,Ministry of Economic Prospects and International Cooperation Chad,Ministry of Health Burkina Faso,Ministry of Health The Gambia,Ministry of Women, Family and Child Protection Senegal",
-   "사업 총사업비": "USD 589,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 589,000,000",
    "사업 종료 예정": "2028-12-31"
   },
   "published": "2026-08-24",
@@ -2819,7 +2819,7 @@
   "terms": {
    "차주": "CO-OPERATIVE REPUBLIC OF GUYANA",
    "시행기관": "Ministry of Public Works",
-   "사업 총사업비": "USD 156,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 156,000,000",
    "사업 종료 예정": "2031-04-30"
   },
   "published": "2026-08-21",
@@ -2891,7 +2891,7 @@
   "terms": {
    "차주": "Nepal",
    "시행기관": "Department of Local Infrastructure (DoLI),Ministry of Urban Development (MoUD)",
-   "사업 총사업비": "USD 120,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 120,000,000",
    "사업 종료 예정": "2029-07-15"
   },
   "published": "2026-08-19",
@@ -2932,7 +2932,7 @@
   "terms": {
    "차주": "Ministry of Finance BiH ,Ministry of Finance Federation BiH",
    "시행기관": "Public Company Roads of FBIH",
-   "사업 총사업비": "USD 90,956,648",
+   "사업 총사업비(공동재원 포함)": "USD 90,956,648",
    "사업 종료 예정": "2032-07-15"
   },
   "published": "2026-08-21",
@@ -3040,7 +3040,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Islamic Republic of Pakistan",
-   "사업 총사업비": "USD 510,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 510,000,000",
    "사업 종료 예정": "2028-06-30"
   },
   "published": "2026-08-24",
@@ -3079,7 +3079,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "People's Republic of Bangladesh",
-   "사업 총사업비": "USD 188,334,496",
+   "사업 총사업비(공동재원 포함)": "USD 188,334,496",
    "사업 종료 예정": "2028-12-31"
   },
   "published": "2026-08-23",
@@ -3121,7 +3121,7 @@
   "terms": {
    "차주": "Socialist Republic of Viet Nam",
    "시행기관": "Ministry of Construction",
-   "사업 총사업비": "USD 168,000,000",
+   "사업 총사업비(공동재원 포함)": "USD 168,000,000",
    "사업 종료 예정": "2030-09-24"
   },
   "published": "2026-08-21",
