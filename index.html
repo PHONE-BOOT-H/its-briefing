@@ -90,7 +90,21 @@
   .dh { padding:16px 20px 12px; border-bottom:1px solid var(--line); }
   .dh .title { font-size:16px; margin:6px 0 0; }
   .db { padding:14px 20px; }
-  .db dl { display:grid; grid-template-columns:100px 1fr; gap:7px 14px; margin:0; font-size:14px; }
+  .db { max-height:calc(85vh - 190px); overflow-y:auto; }
+  .db dl { display:grid; grid-template-columns:120px 1fr; gap:6px 14px; margin:0; font-size:13.5px; }
+  .db dl.board { display:block; }
+  .bmeta { padding-bottom:8px; border-bottom:1px solid var(--line); }
+  .mrow { display:grid; grid-template-columns:130px 1fr; gap:4px 12px; font-size:13.5px;
+          padding:3px 0; align-items:start; }
+  .mrow > span { color:var(--dim); }
+  .mrow a { color:var(--accent); word-break:break-all; }
+  .bhead { font-size:14px; margin:14px 0 8px; }
+  .bsec { margin-bottom:12px; }
+  .bsec h4 { font-size:13.5px; margin:0 0 4px; }
+  .brow { font-size:13px; padding:2px 0 2px 10px; border-left:2px solid var(--line); }
+  .brow span { color:var(--dim); margin-right:8px; }
+  .brow.none, .none { color:var(--dim); font-style:italic; }
+  dialog { max-height:85vh; }
   .db dt { color:var(--dim); }
   .db dd { margin:0; word-break:break-word; }
   .df { padding:12px 20px 18px; display:flex; gap:8px; flex-wrap:wrap; }
@@ -651,6 +665,74 @@ function render() {
 
 const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 
+// ── 게시판 양식
+//
+// 사내 게시판 등록글의 실제 구조를 그대로 따른다 — 상단 메타 1~17 + 18번 '내용'에 부서 10항목.
+// 화면과 등록문 복사가 같은 함수를 쓴다. 양쪽에 따로 적으면 반드시 어긋난다.
+// 값이 없으면 지어내지 않고 '내용 없음'으로 둔다. 국문 번역 칸은 비워둔다 — 사람 몫이다.
+const NONE = '내용 없음';
+// 게시판 양식에는 축약(185만)이 아니라 원 숫자를 쓴다. 목록 카드의 money()와 용도가 다르다.
+const moneyFull = b => (b && b.amount)
+  ? `${b.currency} ${Math.round(b.amount).toLocaleString('en-US')}` : null;
+
+function boardMeta(it) {
+  const dl = it.deadline ? it.deadline + (it.deadline_time ? ' ' + it.deadline_time : '') : '';
+  return [
+    ['일자', it.published || ''],
+    ['프로젝트명(영문)', it.title || ''],
+    ['프로젝트명(국문)', ''],
+    ['공고유형', [it.type, it.subtype].filter(Boolean).join(' / ')],
+    ['국가', it.country_ko || it.country || ''],
+    ['발주처', it.org || ''],
+    ['예산처', it.funder || ''],
+    ['예산', moneyFull(it.budget) || ''],
+    ['기간', it.duration || ''],
+    ['분류/분야', '교통, ITS'],
+    ['마감일', dl],
+    ['Ref.no', it.ref_no || ''],
+    ['담당자', it.contact_name || ''],
+    ['이메일', it.contact_email || ''],
+    ['연락처', it.contact_phone || ''],
+    ['링크', it.link || ''],
+    ['비고', it.source ? '※ 출처 : ' + it.source : ''],
+  ];
+}
+
+// 10항목. 각 항목은 [라벨, 값] 줄의 배열이고, 줄이 하나도 없으면 '내용 없음'이 된다.
+function boardBody(it) {
+  const T = it.terms || {};
+  const pick = (...keys) => keys.filter(k => T[k]).map(k => [k, T[k]]);
+  const budgetLine = moneyFull(it.budget)
+    ? [['부가가치세 제외 추정 가치', moneyFull(it.budget)
+        + (it.budget && it.budget.is_project_total ? ' (사업 총액)' : '')]] : [];
+  return [
+    ['사업명', [['원문', it.title || ''], ['국문 번역', '']]
+                 .concat(it.project_title ? [['상위 사업명', it.project_title]] : [])],
+    ['사업 규모', budgetLine.concat(pick('사업 총사업비'))],
+    ['발주처', [['공식 명칭', it.org || '']].filter(r => r[1])
+                 .concat(it.contact_email ? [['이메일', it.contact_email]] : [])
+                 .concat(it.contact_phone ? [['연락처', it.contact_phone]] : [])
+                 .concat(it.org_type ? [['구매자 법적 유형', it.org_type]] : [])
+                 .concat(pick('기관 주요활동', '차주', '시행기관'))],
+    ['제안 일정', [['공고일', it.published || '']].filter(r => r[1])
+                 .concat(it.deadline ? [['입찰 접수 마감일',
+                    it.deadline + (it.deadline_time ? ' ' + it.deadline_time : '')]] : [])
+                 .concat(pick('입찰 유효기간', '사업 종료 예정'))],
+    ['참가자격요건', pick('선정기준 출처', '참여 제한', 'EU 기금', 'GPA 적용')],
+    ['현지 요건 제한', pick('수행 지역(NUTS)')
+                 .concat(it.source_scope ? [['참가 범위', it.source_scope === 'National'
+                    ? '현지업체 한정 (National)' : '국제입찰 (International)']] : [])
+                 .concat(it.country ? [['국가', it.country_ko || it.country]] : [])],
+    ['공동수급 허용 여부', pick('프레임워크', '최대 참여자 수')],
+    ['과업 주요 내용', it.notes ? [['메모', it.notes]] : []],
+    ['핵심 기술 및 규격 요구사항',
+                 (it.nature ? [['주요 계약 성격', it.nature]] : [])
+                 .concat((it.cpv || []).length ? [['주요 분류(CPV)', (it.cpv || []).join(', ')]] : [])],
+    ['낙찰자 결정방식', (it.selection_method ? [['평가 방식', it.selection_method]] : [])
+                 .concat(pick('절차 유형', '낙찰 임계', '프레임워크'))],
+  ];
+}
+
 function openDetail(it) {
   const head = it.kind === 'tender'
     ? (it.country_ko || it.country || '-')
@@ -660,32 +742,36 @@ function openDetail(it) {
      <span class="badge">${esc(it.type || '')}</span>
      ${ddayBadge(it.deadline)}`;
   document.getElementById('dTitle').textContent = it.title || '';
-  const f = it.kind === 'news' ? [
-    ['분류', it.category], ['매체', it.media], ['구분', it.type], ['게재일', it.published],
-    ['처음 발견', it.first_seen],
-    ['관련', (it.score_hits || []).filter(h => !h.startsWith('-')).join(', ')],
-  ] : [
-    // 빈 값 원칙 — 채울 수 없는 항목은 지어내지 않고 '정보 없음'으로 둔다.
-    // 아래 KEEP 목록은 값이 없어도 줄을 지우지 않는다. 담당자가 원문을 열어보게 하려는 것이다.
-    ['사업명', it.project_title], ['발주처', it.org], ['기관유형', it.org_type],
-    ['공고종류', it.subtype], ['예산', money(it.budget)],
-    ['참가범위', it.source_scope === 'National' ? '현지업체 한정(National)'
-                : it.source_scope === 'International' ? '국제입찰(International)' : null],
-    ['낙찰방식', it.selection_method],
-    ['게시일', it.published],
-    ['마감일', it.deadline ? it.deadline + (it.deadline_time ? ' ' + it.deadline_time : '') : null],
-    ['참조번호', it.ref_no], ['출처', it.source],
-    ['CPV', (it.cpv || []).join(', ')],
-    ['처음 발견', it.first_seen],
-    ['관련', (it.score_hits || []).filter(h => !h.startsWith('-')).map(h => h.replace(/^cpv:/, 'CPV ')).join(', ')],
-    ['메모', it.notes],
-  ];
-  const KEEP = ['발주처', '예산', '참가범위', '낙찰방식', '마감일'];
-  document.getElementById('dFields').innerHTML = f
-    .filter(([k, v]) => v || KEEP.includes(k))
-    .map(([k, v]) => v
-      ? `<dt>${k}</dt><dd>${esc(v)}</dd>`
-      : `<dt>${k}</dt><dd class="none">정보 없음 — 원문 확인</dd>`).join('');
+  if (it.kind === 'tender') {
+    // 게시판 등록글과 같은 구조 — 메타 17줄 + '내용' 10항목.
+    // dFields는 dl(그리드)이라 블록을 그냥 넣으면 칸에 갇힌다. board 클래스로 그리드를 푼다.
+    const meta = boardMeta(it).map(([k, v], i) =>
+      `<div class="mrow"><span>${i + 1}. ${esc(k)}</span>${
+        v ? (k === '링크'
+              ? `<a href="${esc(v)}" target="_blank" rel="noopener">${esc(v)}</a>`
+              : esc(v))
+          : `<i class="none">${k.includes('국문') ? '비워 둠 — 사람이 채우는 칸' : NONE}</i>`
+      }</div>`).join('');
+    const body = boardBody(it).map(([title, rows], i) => `
+      <div class="bsec"><h4>${i + 1}. ${esc(title)}</h4>${
+        rows.length
+          ? rows.map(([k, v]) => `<div class="brow"><span>${esc(k)}</span>${
+              v ? esc(v) : '<i class="none">비워 둠 — 사람이 채우는 칸</i>'}</div>`).join('')
+          : `<div class="brow"><i class="none">${NONE}</i></div>`}</div>`).join('');
+    const el = document.getElementById('dFields');
+    el.className = 'board';
+    el.innerHTML = `<div class="bmeta">${meta}</div><h3 class="bhead">18. 내용</h3>${body}`;
+  } else {
+    const el = document.getElementById('dFields');
+    el.className = '';
+    const f = [
+      ['분류', it.category], ['매체', it.media], ['구분', it.type], ['게재일', it.published],
+      ['처음 발견', it.first_seen],
+      ['관련', (it.score_hits || []).filter(h => !h.startsWith('-')).join(', ')],
+    ];
+    el.innerHTML = f.filter(([, v]) => v)
+      .map(([k, v]) => `<dt>${k}</dt><dd>${esc(v)}</dd>`).join('');
+  }
   const safe = /^https?:\/\//i.test(it.link || '') ? it.link : '#';
   document.getElementById('dLink').href = safe;
   document.getElementById('dTrans').href =
@@ -695,47 +781,27 @@ function openDetail(it) {
 }
 
 function copyTemplate(it) {
-  const t = it.kind === 'news' ? [
-    `제목(원문)    : ${it.title || ''}`,
-    `제목(번역)    : `,
-    `매체          : ${it.media || ''}`,
-    `분류          : ${it.category || ''}`,
-    `게재일        : ${it.published || ''}`,
-    `원문링크      : ${it.link}`,
-    ``,
-    `본문 요약(2문장)`,
-    `- `,
-    `- `,
-  ] : [
-    `사업명(원문)  : ${it.title || ''}`,
-    `사업명(한글)  : `,
-    `위치          : ${it.country_ko || it.country || ''}`,
-    // 빈 값은 빈칸 그대로 둔다. 'N/A'나 추정치로 메우지 않는다 —
-    // 담당자가 원문을 열어 채우는 자리다.
-    `발주처        : ${it.org || ''}`,
-    `기관유형      : ${it.org_type || ''}`,
-    `예산          : ${money(it.budget) || ''}`,
-    `참가범위      : ${it.source_scope === 'National' ? '현지업체 한정'
-                     : it.source_scope === 'International' ? '국제입찰' : ''}`,
-    `낙찰방식      : ${it.selection_method || ''}`,
-    `마감일        : ${it.deadline || ''}${it.deadline_time ? ' ' + it.deadline_time : ''}`,
-    `공고유형      : ${it.type || ''}`,
-    `분류          : 교통, 지능형교통체계(ITS)`,
-    `참조번호      : ${it.ref_no || ''}`,
-    `원문링크      : ${it.link}`,
-    `출처          : ${it.source}`,
-    ``,
-    `□ 세부내용`,
-    ` ○ 기본정보`,
-    `  - 사업명 : ${it.title || ''}`,
-    `    * `,
-    `  - 위치 : ${it.country_ko || it.country || ''}`,
-    `  - 시행기관 : ${it.org || ''}`,
-    `  - 재원 : `,
-    `  - 상태 : ${it.type || ''}`,
-    `  - 예산 : ${money(it.budget) || 'N/A'}`,
-    `  - 분야 : 교통, 지능형교통체계(ITS)`,
-  ].join('\n');
+  // 게시판에 그대로 붙여넣을 형식. 화면 상세와 같은 함수(boardMeta/boardBody)를 쓴다.
+  // 빈 칸은 빈 칸대로 둔다 — 사람이 원문을 보고 채우는 자리다.
+  const t = it.kind === 'tender'
+    ? boardMeta(it).map(([k, v], i) => `${i + 1}. ${k} : ${v}`).join('\n')
+      + '\n18. 내용 :\n'
+      + boardBody(it).map(([title, rows], i) =>
+          `${i + 1}. ${title}\n` + (rows.length
+            ? rows.map(([k, v]) => `${k}: ${v}`).join('\n')
+            : NONE)).join('\n\n')
+    : [
+      `제목(원문)    : ${it.title || ''}`,
+      `제목(번역)    : `,
+      `매체          : ${it.media || ''}`,
+      `분류          : ${it.category || ''}`,
+      `게재일        : ${it.published || ''}`,
+      `원문링크      : ${it.link}`,
+      ``,
+      `본문 요약(2문장)`,
+      `- `,
+      `- `,
+    ].join('\n');
   const b = document.getElementById('dCopy');
   const done = ok => {
     b.textContent = ok ? '복사됨 ✓' : '복사 실패 — 직접 선택해 복사하세요';
