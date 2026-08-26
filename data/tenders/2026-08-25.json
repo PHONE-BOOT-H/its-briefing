@@ -43,7 +43,22 @@
   "already_posted": true,
   "collector": "ted",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "contact_email": "Paul.Farrelly@tii.ie",
+  "contact_phone": "00 353 1 6463600",
+  "duration": "4년",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "예",
+   "선정기준 출처": "ESPD로 제출",
+   "수행 지역(NUTS)": "IE061",
+   "프레임워크": "프레임워크 계약(경쟁 재개 있음)",
+   "최대 참여자 수": "5",
+   "입찰 유효기간": "180일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -81,7 +96,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "contact_email": "javna.nabava@zagreb.hr",
+  "contact_phone": "+385 16506578",
+  "duration": "4개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "HR050",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "120일",
+   "낙찰 임계": "80",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -131,7 +161,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "contact_email": "achizitii@primariasm.ro",
+  "contact_phone": "+40 261807520",
+  "duration": "28개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "RO115",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "6개월",
+   "낙찰 임계": "70",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -165,7 +210,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-21",
-  "notes": null
+  "notes": null,
+  "contact_email": "info@ljubljana.si",
+  "contact_phone": "+386 13061000",
+  "duration": "1년",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "SI041",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "4개월",
+   "낙찰 임계": "92.0000",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -199,7 +259,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "contact_email": "rdw.lublin@zdw.lublin.pl",
+  "contact_phone": "+48 815661393",
+  "duration": "70일",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "PL814",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "90일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -236,7 +310,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "contact_email": "aanbesteding.contracten.awv@mow.vlaanderen.be",
+  "contact_phone": "+32 25537922",
+  "duration": "12개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "BE100",
+   "프레임워크": "프레임워크 계약(경쟁 재개 없음)",
+   "최대 참여자 수": "1",
+   "입찰 유효기간": "120일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -270,7 +359,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "contact_email": "zamowienia@pomorskie.eu",
+  "contact_phone": "583268859",
+  "duration": "12개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "PL633",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "90일",
+   "낙찰 임계": "80",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -283,7 +387,7 @@
   "title": "Germany – Real-time passenger information system – Lieferung und Montage Fahrgastzählsystem (AFZS)",
   "project_title": null,
   "org": "Rheingau-Taunus Verkehrsgesellschaft mbH",
-  "org_type": "pub-undert-ra",
+  "org_type": "광역 공기업",
   "budget": null,
   "nature": "supplies",
   "selection_method": "최저가",
@@ -307,7 +411,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "contact_email": "frischknecht@hfk.de",
+  "contact_phone": "+49 711 91 43 59 36",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "DE71D",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "46일",
+   "낙찰 임계": "100.00",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -341,7 +459,18 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "contact_email": "stadtbus@stadtwerke-gt.de",
+  "contact_phone": "05241 822695",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "DEA42",
+   "프레임워크": "프레임워크 아님",
+   "낙찰 임계": "40",
+   "절차 유형": "공고 있는 협상"
+  }
  },
  {
   "schema_version": 2,
@@ -375,7 +504,20 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "contact_email": "Vergabe-Leistungen@stadtverwaltung.arnstadt.de",
+  "contact_phone": "000",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "DEG0T",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "36일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -410,7 +552,19 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "contact_email": "kilpailutus@kaupunkiliikenne.fi",
+  "contact_phone": "+358 951046000",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "ESPD로 제출",
+   "수행 지역(NUTS)": "FI1B1",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "3개월",
+   "낙찰 임계": "100",
+   "절차 유형": "일반경쟁"
+  }
  },
  {
   "schema_version": 2,
@@ -444,7 +598,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "contact_email": "zamowienia.publiczne@malopolska.uw.gov.pl",
+  "contact_phone": "+48 12 39 21 338",
+  "duration": "10주",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "PL213",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "90일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -484,7 +652,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "contact_email": "zamowienia.publiczne@malopolska.uw.gov.pl",
+  "contact_phone": "+48 12 39 21 338",
+  "duration": "7개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "PL213",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "90일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -497,7 +679,7 @@
   "title": "Malta – Traffic lights – SPD6/2026/049 - TENDER FOR THE DELIVERY, SUPPLY, INSTALLATION AND COMMISSIONING OF BICYCLE COUNTER TOTEMS FOR TRANSPORT MALTA (TM)",
   "project_title": null,
   "org": "Sectoral Procurement Directorate",
-  "org_type": "body-pl-cga",
+  "org_type": "중앙 공법인",
   "budget": {
    "currency": "EUR",
    "amount": 200000.0,
@@ -523,7 +705,20 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "contact_email": "john.l.degiorgio@gov.mt",
+  "contact_phone": "+356 23781501",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "예",
+   "선정기준 출처": "ESPD로 제출",
+   "수행 지역(NUTS)": "MT001",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "90일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -561,7 +756,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "contact_email": "info@siauliusviesa.lt",
+  "contact_phone": "+370 41 525659",
+  "duration": "12개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "ESPD로 제출",
+   "수행 지역(NUTS)": "LT026",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "90일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -600,7 +809,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-21",
-  "notes": null
+  "notes": null,
+  "contact_email": "aic@aicenter.eu",
+  "contact_phone": "+34 946569400",
+  "duration": "2년",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "ES213",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "6개월",
+   "낙찰 임계": "51",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -677,7 +901,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "contact_email": "przetargi@erzeszow.pl",
+  "contact_phone": "+48 17 875 46 36",
+  "duration": "12개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "PL823",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "90일",
+   "낙찰 임계": "60",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -719,7 +958,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "contact_email": "katarina.stasjakova@bratislava.sk",
+  "contact_phone": "+421903618654",
+  "duration": "4개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "예",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "SK010",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "12개월",
+   "낙찰 임계": "100",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -760,7 +1014,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "contact_email": "vychodil@dpmo.cz",
+  "contact_phone": "+420 777776531",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "예",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "CZ071",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "3개월",
+   "낙찰 임계": "100",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -804,7 +1072,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "contact_email": "kafre@dtu.dk",
+  "contact_phone": "+45 45252525",
+  "duration": "5년",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "DK012",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "6개월",
+   "낙찰 임계": "35",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "education"
+  }
  },
  {
   "schema_version": 2,
@@ -840,7 +1123,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "contact_email": "rdw.zamosc@zdw.lublin.pl",
+  "contact_phone": "+846386639",
+  "duration": "60일",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "PL814",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "90일",
+   "낙찰 임계": "100",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -853,7 +1151,7 @@
   "title": "Germany – Traffic-monitoring equipment – Langzeitanmietung eines Blitz-Anhängers für vier Jahre mit der Option auf zwei zusätzliche Vertragsjahre",
   "project_title": null,
   "org": "Stadt Würzburg",
-  "org_type": "body-pl-la",
+  "org_type": "지방 공법인",
   "budget": null,
   "nature": "supplies",
   "selection_method": "최저가",
@@ -873,7 +1171,20 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-21",
-  "notes": null
+  "notes": null,
+  "contact_email": "vergabe@stadt.wuerzburg.de",
+  "contact_phone": "+49931372611",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "DE263",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "73일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -918,7 +1229,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-21",
-  "notes": null
+  "notes": null,
+  "contact_email": "wydzial_d3_olsztyn@gddkia.gov.pl",
+  "contact_phone": "+48 89 521 28 08",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "PL622",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "90일",
+   "낙찰 임계": "100",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -961,7 +1286,23 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "contact_email": "Adriana.Hrivnacikova@region-bsk.sk",
+  "contact_phone": "+421248264303",
+  "duration": "48개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "예",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "SK010",
+   "프레임워크": "프레임워크 계약(경쟁 재개 없음)",
+   "최대 참여자 수": "1",
+   "입찰 유효기간": "12개월",
+   "낙찰 임계": "100",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -974,7 +1315,7 @@
   "title": "Switzerland – Repair and maintenance services of measuring, testing and checking apparatus – Ganzer Kanton, Instandhaltung / Störungsbehebung, Verkehszählstellen (MIV+Velo)",
   "project_title": null,
   "org": "Baudirektion Kanton Zürich, Tiefbauamt",
-  "org_type": "body-pl-ra",
+  "org_type": "광역 공법인",
   "budget": null,
   "nature": "services",
   "selection_method": "기술평가",
@@ -997,7 +1338,20 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "contact_email": "pr.tba@bd.zh.ch",
+  "contact_phone": "+41432595566",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "CH040",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "180일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -1010,7 +1364,7 @@
   "title": "Switzerland – Electrical wiring and fitting work – N09.48 MP-080010 - Upn.Vennes-Chexbres+PUN - Lot 400 - Signalisation pour les dosages de Chexbres - La Croix - Vennes - Lavaux (ID 11972)",
   "project_title": null,
   "org": "Office fédéral des routes OFROU, Division Infrastructure routière Ouest, filiale Estavayer-le-Lac",
-  "org_type": "body-pl-cga",
+  "org_type": "중앙 공법인",
   "budget": null,
   "nature": "works",
   "selection_method": "종합평가(가격+기술)",
@@ -1037,7 +1391,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-21",
-  "notes": null
+  "notes": null,
+  "contact_email": "marchespublics.estavayer@astra.admin.ch",
+  "contact_phone": "+41584618711",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "CH022",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "180일",
+   "낙찰 임계": "40",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -1064,7 +1432,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "funder": "무상원조(Grant)",
+  "terms": {
+   "차주": "Ukraine",
+   "시행기관": "State Agency for Restoration and Development of Infrastructure of Ukraine,Ukrainian State Ports Authority,Ukrzaliznytsia",
+   "사업 총사업비(공동재원 포함)": "USD 598,636,740",
+   "사업 종료 예정": "2027-12-31"
+  }
  },
  {
   "schema_version": 2,
@@ -1091,7 +1466,14 @@
   "already_posted": true,
   "collector": "worldbank",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "THE REPUBLIC OF COTE D’IVOIRE",
+   "시행기관": "Greater Abidjan Urban Mobility Authority (AMUGA),Ministry of Transport",
+   "사업 총사업비(공동재원 포함)": "USD 540,000,000",
+   "사업 종료 예정": "2028-10-15"
+  }
  },
  {
   "schema_version": 2,
@@ -1133,7 +1515,22 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "contact_email": "achizitii@primariabeclean.ro",
+  "contact_phone": "+40 0263343687",
+  "duration": "18개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "RO112",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "6개월",
+   "낙찰 임계": "40",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -1158,7 +1555,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Ministry of Finance, Budget and Economic Planification",
+   "시행기관": "Ministry of Infrastructure, Equipment and Housing,Ministry of Trade, Transport, Industry and Tourism",
+   "사업 총사업비(공동재원 포함)": "USD 120,000,000",
+   "사업 종료 예정": "2027-12-31"
+  }
  },
  {
   "schema_version": 2,
@@ -1183,7 +1587,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Republic of Cameroon,Republic of Chad",
+   "시행기관": "CAMRAIL,Ministère des Infrastructures et du Désenclavement (Ministry for Infrastructure and Opening-up),Ministère des Transports (Ministry of Transport)",
+   "사업 총사업비(공동재원 포함)": "USD 816,000,000",
+   "사업 종료 예정": "2032-06-30"
+  }
  },
  {
   "schema_version": 2,
@@ -1208,7 +1619,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "funder": "IBRD (세계은행)",
+  "terms": {
+   "차주": "Republic of El Salvador",
+   "시행기관": "MInistry of Public Works and Transport",
+   "사업 총사업비(공동재원 포함)": "USD 400,000,000",
+   "사업 종료 예정": "2029-12-28"
+  }
  },
  {
   "schema_version": 2,
@@ -1233,7 +1651,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "People's Republic of Bangladesh",
+   "시행기관": "Bangladesh Power Development Board (Ministry of Power, Energy and Mineral Resources),Department of Public Health Engineering (Ministry of Local Government, Rural Development and Co-operatives),Local Government Engineering Department (Ministry of Local Government, Rural Development and Co-operatives),Roads and Highways Department (Ministry of Road Transport and Bridges)",
+   "사업 총사업비(공동재원 포함)": "USD 350,000,000",
+   "사업 종료 예정": "2028-06-30"
+  }
  },
  {
   "schema_version": 2,
@@ -1258,7 +1683,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "The Republic of Djibouti",
+   "시행기관": "ADR",
+   "사업 총사업비(공동재원 포함)": "USD 90,000,000",
+   "사업 종료 예정": "2033-12-31"
+  }
  },
  {
   "schema_version": 2,
@@ -1283,7 +1715,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Burkina Faso,Niger,Togo",
+   "시행기관": "Ministry of Infrastructure and Accessibility, Burkina Faso,Ministry of Public Works and Infrastructure, Togo,Ministry of Transport and Equipment, Niger",
+   "사업 총사업비(공동재원 포함)": "USD 470,000,000",
+   "사업 종료 예정": "2027-09-30"
+  }
  },
  {
   "schema_version": 2,
@@ -1308,7 +1747,13 @@
   "already_posted": true,
   "collector": "worldbank",
   "first_seen": "2026-08-21",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "The Republic of Zambia",
+   "시행기관": "The National Road Fund Agency (NRFA)",
+   "사업 종료 예정": "2030-02-27"
+  }
  },
  {
   "schema_version": 2,
@@ -1333,7 +1778,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "funder": "IBRD (세계은행)",
+  "terms": {
+   "차주": "Republic of El Salvador",
+   "시행기관": "MInistry of Public Works and Transport",
+   "사업 총사업비(공동재원 포함)": "USD 400,000,000",
+   "사업 종료 예정": "2029-12-28"
+  }
  },
  {
   "schema_version": 2,
@@ -1358,7 +1810,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-21",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Ministry of Finance",
+   "시행기관": "National Road Fund Agency",
+   "사업 총사업비(공동재원 포함)": "USD 200,000,000",
+   "사업 종료 예정": "2026-12-31"
+  }
  },
  {
   "schema_version": 2,
@@ -1383,7 +1842,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Republic of Cabo Verde",
+   "시행기관": "Ministry of Culture and Creative Industries and Ministry of the Sea,Ministry of Finance and Business Development,Ministry of Infrastructure,Territorial Planning and Housing,Ministry of Tourism and Transports",
+   "사업 총사업비(공동재원 포함)": "USD 35,000,000",
+   "사업 종료 예정": "2028-06-30"
+  }
  },
  {
   "schema_version": 2,
@@ -1408,7 +1874,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "United Republic of Tanzania",
+   "시행기관": "President's Office - Finance and Planning, Zanzibar",
+   "사업 총사업비(공동재원 포함)": "USD 150,000,000",
+   "사업 종료 예정": "2027-12-31"
+  }
  },
  {
   "schema_version": 2,
@@ -1433,7 +1906,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "funder": "IBRD (세계은행)",
+  "terms": {
+   "차주": "Republic of Mauritius",
+   "시행기관": "Airport of Rodrigues Limited (ARL),Airports of Mauritius Co. Ltd (AML)",
+   "사업 총사업비(공동재원 포함)": "USD 140,000,000",
+   "사업 종료 예정": "2030-12-31"
+  }
  },
  {
   "schema_version": 2,
@@ -1458,7 +1938,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "funder": "IBRD (세계은행)",
+  "terms": {
+   "차주": "PJSC “Ukrhydroenergo\"",
+   "시행기관": "PJSC “Ukrhydroenergo\"",
+   "사업 총사업비(공동재원 포함)": "USD 250,000,000",
+   "사업 종료 예정": "2026-12-31"
+  }
  },
  {
   "schema_version": 2,
@@ -1521,7 +2008,23 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "contact_email": "felib@felib.es",
+  "contact_phone": "+34 971760911",
+  "duration": "2년",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "ES532",
+   "프레임워크": "프레임워크 계약(혼합)",
+   "최대 참여자 수": "8",
+   "입찰 유효기간": "3개월",
+   "낙찰 임계": "15",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "education"
+  }
  },
  {
   "schema_version": 2,
@@ -1553,7 +2056,17 @@
   "already_posted": true,
   "collector": "worldbank",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "REPUBLIC OF MADAGASCAR",
+   "시행기관": " Ministry of Transport and Meteorology,Madagascar Railways",
+   "사업 총사업비(공동재원 포함)": "USD 305,000,000",
+   "사업 종료 예정": "2031-09-30"
+  },
+  "contact_name": "RAKOTOMALALA  Vero",
+  "contact_email": "vero.rakotomalala@ptml.mg",
+  "contact_phone": "+261380527413"
  },
  {
   "schema_version": 2,
@@ -1585,7 +2098,17 @@
   "already_posted": true,
   "collector": "worldbank",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "REPUBLIC OF MADAGASCAR",
+   "시행기관": " Ministry of Transport and Meteorology,Madagascar Railways",
+   "사업 총사업비(공동재원 포함)": "USD 305,000,000",
+   "사업 종료 예정": "2031-09-30"
+  },
+  "contact_name": "RAKOTOMALALA  Vero",
+  "contact_email": "vero.rakotomalala@ptml.mg",
+  "contact_phone": "+261380527413"
  },
  {
   "schema_version": 2,
@@ -1645,7 +2168,17 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "funder": "무상원조(Grant)",
+  "terms": {
+   "차주": "Republic of Indonesia",
+   "시행기관": "Ministry of National Development Planning (BAPPENAS)",
+   "사업 총사업비(공동재원 포함)": "USD 15,870,200",
+   "사업 종료 예정": "2027-06-30"
+  },
+  "contact_name": "Handhi Adiputra",
+  "contact_email": "handhi.adiputra@bappenas.go.id",
+  "contact_phone": "085591629679"
  },
  {
   "schema_version": 2,
@@ -1745,7 +2278,17 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Democratic Republic of the Congo",
+   "시행기관": "Ministry of Infrastructure and Public Works / Cellule Infrastructure ",
+   "사업 총사업비(공동재원 포함)": "USD 440,200,000",
+   "사업 종료 예정": "2030-07-31"
+  },
+  "contact_name": "Tshibambe Billy",
+  "contact_email": "info@celluleinfra.org",
+  "contact_phone": "00243 986 411 225"
  },
  {
   "schema_version": 2,
@@ -1775,7 +2318,17 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Democratic Republic of the Congo",
+   "시행기관": "Ministry of Infrastructure and Public Works / Cellule Infrastructure ",
+   "사업 총사업비(공동재원 포함)": "USD 440,200,000",
+   "사업 종료 예정": "2030-07-31"
+  },
+  "contact_name": "Tshibambe Billy",
+  "contact_email": "info@celluleinfra.org",
+  "contact_phone": "00243 986 411 225"
  },
  {
   "schema_version": 2,
@@ -2007,7 +2560,17 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "CO-OPERATIVE REPUBLIC OF GUYANA",
+   "시행기관": "Ministry of Public Works",
+   "사업 총사업비(공동재원 포함)": "USD 156,000,000",
+   "사업 종료 예정": "2031-04-30"
+  },
+  "contact_name": "Kester Hinds",
+  "contact_email": "kesterhinds@gmail.com",
+  "contact_phone": "+592-624-0725"
  },
  {
   "schema_version": 2,
@@ -2068,7 +2631,17 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Nepal",
+   "시행기관": "Department of Local Infrastructure (DoLI),Ministry of Urban Development (MoUD)",
+   "사업 총사업비(공동재원 포함)": "USD 120,000,000",
+   "사업 종료 예정": "2029-07-15"
+  },
+  "contact_name": "Dipendra Kumar Chaudhary",
+  "contact_email": "coordinatorppmu.madhesh@gmail.com",
+  "contact_phone": "+9779851194467"
  },
  {
   "schema_version": 2,
@@ -2098,7 +2671,17 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "funder": "IBRD (세계은행)",
+  "terms": {
+   "차주": "Ministry of Finance BiH ,Ministry of Finance Federation BiH",
+   "시행기관": "Public Company Roads of FBIH",
+   "사업 총사업비(공동재원 포함)": "USD 90,956,648",
+   "사업 종료 예정": "2032-07-15"
+  },
+  "contact_name": "Project Implementation Team",
+  "contact_email": "pit@jpcfbih.ba",
+  "contact_phone": "+387 33 563 453"
  },
  {
   "schema_version": 2,
@@ -2125,7 +2708,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-25",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Islamic Republic of Pakistan",
+   "시행기관": "Province of Sindh, Irrigation Department,Province of Sindh, Planning and Development Department",
+   "사업 총사업비(공동재원 포함)": "USD 510,000,000",
+   "사업 종료 예정": "2028-06-30"
+  }
  },
  {
   "schema_version": 2,
@@ -2152,7 +2742,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "People's Republic of Bangladesh",
+   "시행기관": "Bangladesh Inland Water Transport Authority (BIWTA), Ministry of Shipping (MoS),Bangladesh Water Development Board (BWDB), Ministry of Water Resources (MoWR),Insurance Development and Regulatory Authority (IDRA), Ministry of Finance (MoF)",
+   "사업 총사업비(공동재원 포함)": "USD 188,334,496",
+   "사업 종료 예정": "2028-12-31"
+  }
  },
  {
   "schema_version": 2,
@@ -2179,7 +2776,14 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Islamic Republic of Pakistan",
+   "시행기관": "Irrigation Department, Province of Balochistan,Ministry of Planning, Development and Special Initiatives,Planning and Development Department, Province of Balochistan",
+   "사업 총사업비(공동재원 포함)": "USD 400,000,000",
+   "사업 종료 예정": "2028-12-31"
+  }
  },
  {
   "schema_version": 2,
@@ -2212,7 +2816,17 @@
   "already_posted": false,
   "collector": "worldbank",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Socialist Republic of Viet Nam",
+   "시행기관": "Ministry of Construction",
+   "사업 총사업비(공동재원 포함)": "USD 168,000,000",
+   "사업 종료 예정": "2030-09-24"
+  },
+  "contact_name": "Do Quang Minh",
+  "contact_email": "minh1276@gmail.com",
+  "contact_phone": "84 914373848"
  },
  {
   "schema_version": 2,
@@ -2337,7 +2951,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-21",
-  "notes": null
+  "notes": null,
+  "contact_email": "zentralereinkauf@lsbg.hamburg.de",
+  "contact_phone": "+49 40",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "DE600",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "59일",
+   "낙찰 임계": "100",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -2443,7 +3071,21 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-24",
-  "notes": null
+  "notes": null,
+  "contact_email": "zentralereinkauf@lsbg.hamburg.de",
+  "contact_phone": "+49 40",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "DE600",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "59일",
+   "낙찰 임계": "100",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -2519,7 +3161,20 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-19",
-  "notes": null
+  "notes": null,
+  "contact_email": "contratacion@lasgabias.es",
+  "contact_phone": "958580261",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "아니오",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "ES614",
+   "프레임워크": "프레임워크 아님",
+   "낙찰 임계": "100",
+   "절차 유형": "제한경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  },
  {
   "schema_version": 2,
@@ -2567,6 +3222,20 @@
   "already_posted": false,
   "collector": "ted",
   "first_seen": "2026-08-20",
-  "notes": null
+  "notes": null,
+  "contact_email": "sekretariatrzeszow@gddkia.gov.pl",
+  "contact_phone": "17 853-40-71",
+  "duration": "48개월",
+  "terms": {
+   "참여 제한": "제한 없음",
+   "EU 기금": "EU 기금 지원 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "공고에 명시",
+   "수행 지역(NUTS)": "PL823",
+   "프레임워크": "프레임워크 아님",
+   "입찰 유효기간": "120일",
+   "절차 유형": "일반경쟁",
+   "기관 주요활동": "일반 공공 서비스"
+  }
  }
 ]

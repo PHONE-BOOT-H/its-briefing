@@ -1555,6 +1555,7 @@
   "funder": "무상원조(Grant)",
   "terms": {
    "차주": "Ukraine",
+   "시행기관": "State Agency for Restoration and Development of Infrastructure of Ukraine,Ukrainian State Ports Authority,Ukrzaliznytsia",
    "사업 총사업비(공동재원 포함)": "USD 598,636,740",
    "사업 종료 예정": "2027-12-31"
   },
@@ -1594,6 +1595,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "THE REPUBLIC OF COTE D’IVOIRE",
+   "시행기관": "Greater Abidjan Urban Mobility Authority (AMUGA),Ministry of Transport",
    "사업 총사업비(공동재원 포함)": "USD 540,000,000",
    "사업 종료 예정": "2028-10-15"
   },
@@ -1766,6 +1768,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Ministry of Finance, Budget and Economic Planification",
+   "시행기관": "Ministry of Infrastructure, Equipment and Housing,Ministry of Trade, Transport, Industry and Tourism",
    "사업 총사업비(공동재원 포함)": "USD 120,000,000",
    "사업 종료 예정": "2027-12-31"
   },
@@ -1803,6 +1806,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Republic of Cameroon,Republic of Chad",
+   "시행기관": "CAMRAIL,Ministère des Infrastructures et du Désenclavement (Ministry for Infrastructure and Opening-up),Ministère des Transports (Ministry of Transport)",
    "사업 총사업비(공동재원 포함)": "USD 816,000,000",
    "사업 종료 예정": "2032-06-30"
   },
@@ -1840,6 +1844,7 @@
   "funder": "IBRD (세계은행)",
   "terms": {
    "차주": "Republic of El Salvador",
+   "시행기관": "MInistry of Public Works and Transport",
    "사업 총사업비(공동재원 포함)": "USD 400,000,000",
    "사업 종료 예정": "2029-12-28"
   },
@@ -1877,6 +1882,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "People's Republic of Bangladesh",
+   "시행기관": "Bangladesh Power Development Board (Ministry of Power, Energy and Mineral Resources),Department of Public Health Engineering (Ministry of Local Government, Rural Development and Co-operatives),Local Government Engineering Department (Ministry of Local Government, Rural Development and Co-operatives),Roads and Highways Department (Ministry of Road Transport and Bridges)",
    "사업 총사업비(공동재원 포함)": "USD 350,000,000",
    "사업 종료 예정": "2028-06-30"
   },
@@ -1914,6 +1920,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "The Republic of Djibouti",
+   "시행기관": "ADR",
    "사업 총사업비(공동재원 포함)": "USD 90,000,000",
    "사업 종료 예정": "2033-12-31"
   },
@@ -1951,6 +1958,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Burkina Faso,Niger,Togo",
+   "시행기관": "Ministry of Infrastructure and Accessibility, Burkina Faso,Ministry of Public Works and Infrastructure, Togo,Ministry of Transport and Equipment, Niger",
    "사업 총사업비(공동재원 포함)": "USD 470,000,000",
    "사업 종료 예정": "2027-09-30"
   },
@@ -1988,6 +1996,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "The Republic of Zambia",
+   "시행기관": "The National Road Fund Agency (NRFA)",
    "사업 종료 예정": "2030-02-27"
   },
   "published": "2026-08-20",
@@ -2024,6 +2033,7 @@
   "funder": "IBRD (세계은행)",
   "terms": {
    "차주": "Republic of El Salvador",
+   "시행기관": "MInistry of Public Works and Transport",
    "사업 총사업비(공동재원 포함)": "USD 400,000,000",
    "사업 종료 예정": "2029-12-28"
   },
@@ -2061,6 +2071,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Ministry of Finance",
+   "시행기관": "National Road Fund Agency",
    "사업 총사업비(공동재원 포함)": "USD 200,000,000",
    "사업 종료 예정": "2026-12-31"
   },
@@ -2098,6 +2109,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Republic of Cabo Verde",
+   "시행기관": "Ministry of Culture and Creative Industries and Ministry of the Sea,Ministry of Finance and Business Development,Ministry of Infrastructure,Territorial Planning and Housing,Ministry of Tourism and Transports",
    "사업 총사업비(공동재원 포함)": "USD 35,000,000",
    "사업 종료 예정": "2028-06-30"
   },
@@ -2135,6 +2147,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "United Republic of Tanzania",
+   "시행기관": "President's Office - Finance and Planning, Zanzibar",
    "사업 총사업비(공동재원 포함)": "USD 150,000,000",
    "사업 종료 예정": "2027-12-31"
   },
@@ -3040,6 +3053,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "Islamic Republic of Pakistan",
+   "시행기관": "Province of Sindh, Irrigation Department,Province of Sindh, Planning and Development Department",
    "사업 총사업비(공동재원 포함)": "USD 510,000,000",
    "사업 종료 예정": "2028-06-30"
   },
@@ -3079,6 +3093,7 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "terms": {
    "차주": "People's Republic of Bangladesh",
+   "시행기관": "Bangladesh Inland Water Transport Authority (BIWTA), Ministry of Shipping (MoS),Bangladesh Water Development Board (BWDB), Ministry of Water Resources (MoWR),Insurance Development and Regulatory Authority (IDRA), Ministry of Finance (MoF)",
    "사업 총사업비(공동재원 포함)": "USD 188,334,496",
    "사업 종료 예정": "2028-12-31"
   },

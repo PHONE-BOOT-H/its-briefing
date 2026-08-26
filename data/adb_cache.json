@@ -29,6 +29,16 @@
   "selection_method": "Quality and Cost-Based Selection (QCBS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=411BC7343AD39F9F1FEC46FD34272E4F4F4CC0C99E5A6EDDAB2681F91D2F2A26": {
+  "budget": {
+   "amount": 2088000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Azerbaijan Railways Closed Joint Stock Company Azerbaijan",
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "International"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=49F4FC61A5EF7C519321B4F6940FEAFFF4144C5051A44AC97EEB0230C8836D94": {
   "budget": {
    "amount": 50000.0,
