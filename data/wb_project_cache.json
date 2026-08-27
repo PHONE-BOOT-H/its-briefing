@@ -55,6 +55,13 @@
   "impagency": "Ministry of Construction, Transport and Infrastructure (Serbia),Ministry of Economy, Culture and Innovation (MoECI),Ministry of Transport and Communication (North Macedonia)",
   "total": 90000000.0
  },
+ "P163353": {
+  "borrower": "Federal Repulic of Nigeria",
+  "closing": "2027-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Federal Ministry of Agriculture and Rural Development",
+  "total": 575000000.0
+ },
  "P164920": {
   "borrower": "United Republic of Tanzania",
   "closing": "2027-06-30",
@@ -132,6 +139,13 @@
   "impagency": "Ministry of Transport and Infrastructure",
   "total": 350000000.0
  },
+ "P170860": {
+  "borrower": "Saint Lucia",
+  "closing": "2028-12-29",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Saint Lucia Air and Sea Ports Authority",
+  "total": 45000000.0
+ },
  "P171419": {
   "borrower": "Republic of the Philippines",
   "closing": "2026-12-31",
@@ -180,6 +194,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Ministry of Maritime and Air Transport",
   "total": 40000000.0
+ },
+ "P173391": {
+  "borrower": "Republic of Indonesia                                                                               ",
+  "closing": "2028-03-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Ministry of Marine Affairs and Fisheries                                                            ,Ministry of National Development Planning (Bappenas)                                                ",
+  "total": 205000000.0
  },
  "P173446": {
   "borrower": "Republic of Indonesia",
@@ -369,6 +390,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Metropolitan Municipality of Lima",
   "total": 169200000.0
+ },
+ "P178985": {
+  "borrower": "People’s Republic of Bangladesh",
+  "closing": "2030-10-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Local Government Engineering Department, Ministry of Local Government, Rural Development and Cooperatives",
+  "total": 600000000.0
  },
  "P179981": {
   "borrower": "Islamic Republic of Pakistan",
