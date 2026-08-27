@@ -106,6 +106,31 @@ for desc, title, cpv, base_extra, ok in LITMUS:
     if not good:
         reg_fail.append(desc)
 
+# ── 기사 채점기 회귀 테스트
+# 2026-08-27 실측에서 고친 것들이다. 되돌아가면 여기서 잡힌다.
+print('\n=== 기사 채점기 회귀 테스트 (국내)')
+NEWS_LITMUS = [
+    ('행사 홍보는 깎는다 — 산업전 개막 기사가 상위를 먹던 문제',
+     '자율주행 모빌리티 산업전 개막', '', lambda s: s <= 15),
+    ('단 행사장에서 나온 실제 계약은 안 깎는다',
+     '자율주행모빌리티산업전서 200억 규모 공급 계약 체결', '', lambda s: s >= 24),
+    ('사업 신호어 — 예타 통과가 무득점이던 문제',
+     '김포시, 태리IC 교통체계 확 바뀐다…530억 확장사업 예타 통과', '', lambda s: s >= 18),
+    ('본문 채점 — 제목에 없고 본문에만 있는 하이패스를 본다',
+     '튀르키예 고속도로 15년 굴리는 도로공사…해외수주 7495억 쌓았다',
+     '한국형 하이패스 첫 수출, 말레이시아 전국 유료도로 2286km 다차로 무정차톨링 구축',
+     lambda s: s >= 28),
+    ('본문의 흔한 말로는 안 오른다 — 무관한 보도자료가 오르던 문제',
+     '제273차 대외경제장관회의 개최', '원전 수주 지원 방안을 논의했다', lambda s: s <= 12),
+]
+news_fail = []
+for desc, title, body, ok in NEWS_LITMUS:
+    sc, _ = collect.score_news(title, True, body=body)
+    good = ok(sc)
+    print('  %s %3d점  %s' % ('OK ' if good else '실패', sc, desc))
+    if not good:
+        news_fail.append(desc)
+
 # ── CI 게이트: 아래는 데이터가 망가진 것이므로 실패로 끝낸다
 hard = []
 if miss:
@@ -120,6 +145,8 @@ if mismatch:
     hard.append('장부와 first_seen 불일치 %d건' % len(mismatch))
 if reg_fail:
     hard.append('채점기 회귀 %d건' % len(reg_fail))
+if news_fail:
+    hard.append('기사 채점기 회귀 %d건' % len(news_fail))
 
 print()
 if hard:

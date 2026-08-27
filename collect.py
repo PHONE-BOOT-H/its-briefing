@@ -1083,11 +1083,39 @@ KO_BONUS = [
     (20, ['지능형교통체계', 'c-its', '자율주행', '교통관제', '교통 관제', 'v2x']),
     (12, ['신호', '스마트교통', '스마트 교통', '교통정보', '요금징수', '하이패스',
           '단속', '과속', '교통량', '버스정보', '주차', 'brt', '수요응답',
-          '레벨4', '모빌리티', '차량통신', '입법예고', '시행령', '개정']),
+          '레벨4', '모빌리티', '차량통신', '입법예고', '시행령', '개정',
+          # 사업이 실제로 움직인 신호. 분류표(CAT_KO)에는 있었는데 점수표에 빠져 있었다 —
+          # 그래서 '하이패스 첫 수출' 기사가 79건 중 43위였다(실측 2026-08-27).
+          '수주', '수출', '발주', '예타', '예비타당성', '착공', '개통', '준공',
+          '실증', '무정차', '다차로']),
     (6, ['교통', '도로', '철도', '물류', '대중교통', '스마트시티', '국토교통부',
          '자동차', '고속도로', '지하철', 'ktx', '버스', '택시', '화물', '운전',
          'npu', '반도체', '카메라', '관제', '통신']),   # '단속'은 12점 등급에만 둔다
 ]
+# 행사 참가·수상 홍보 기사. 지우지 않고 순위만 낮춘다 — 실제 사업 뉴스를 밀어내는 게 문제다.
+# 실측(2026-08-27): 국내 점수 상위 10건 중 5건이 같은 행사(AME 2026) 기사였다.
+KO_EVENT = ['참가', '개막', '부스', '전시회', '시연회', '선봬', '선보여', '참관',
+            '간담회', '기념식', '수상', '인증 획득', '포럼 개최', '세미나 개최',
+            '설명회', '체험행사', '출범', '개관',
+            # 행사 이름 자체가 제목에 박힌 기사. 1차 시도에서 이것들이 그대로 상위에 남았다
+            # ('[포토] 2026 자율주행모빌리티산업전' 32점).
+            '산업전', '박람회', '엑스포', '[포토]', '컨퍼런스', '시상식', '모빌리티 위크']
+# 위 말이 있어도 이게 같이 있으면 안 깎는다. 행사장에서 발표된 실제 계약이 있다.
+KO_BIZ = ['수주', '수출', '계약', '착공', '개통', '준공', '예타', '예비타당성',
+          '발주', '협약', 'mou', '통과', '지정', '승인']
+EVENT_PENALTY = 20
+BODY_CAP = 12        # 본문 가산 상한. 본문은 길어서 상한이 없으면 제목을 압도한다
+BODY_LEAD = 500      # 본문 앞부분만 본다. 뒤로 갈수록 관련기사·홍보문구가 섞인다
+# 본문에서는 이 말들만 센다. 전체 키워드표를 본문에 그대로 돌리면 엉뚱한 기사가 오른다 —
+# 의료로봇 MOU 기사가 관련기사 링크의 '수주' 때문에 +12를 받았다(실측 1차 시도).
+# 제목에 안 실리기 쉬운데 실체를 정하는 말만 남긴다.
+# '수주'·'발주'·'실증'은 본문에서 뺐다. 너무 흔해서 무관한 보도자료가 올라온다 —
+# '제273차 대외경제장관회의'가 본문의 '수주' 한 마디로 +12를 받았다(실측 2차 시도).
+# 제목에 있을 때만 센다.
+BODY_WORDS = [(12, ['하이패스', '무정차', '다차로', '스마트톨링', '통행료', '요금징수',
+                    '지능형교통체계', 'c-its', '교통관제', '관제센터', '교통정보센터',
+                    '예비타당성', '예타', '착공', '준공', '개통', '수출'])]
+
 KO_NEGATIVE = ['부고', '인사이동', '주가', '증시', '코스피', '분양', '아파트값', '날씨', '부동산',
                '시장 규모', '시장규모', '점유율', '시장 전망', '리포트 발간', '보고서 발간',
                # 항공교통관제는 ITS가 아니다. 영어 쪽 'air traffic' 차단어의 한국어 짝이
@@ -1219,17 +1247,37 @@ def is_english(title):
     return latin / len(t) > 0.7
 
 
-def score_news(title, korean=False):
+def score_news(title, korean=False, body=''):
+    """제목으로 채점하고, 원문 본문이 있으면 제목에 없던 말만 상한 내에서 더한다.
+
+    제목만 보면 놓친다. '튀르키예 고속도로 15년 굴리는 도로공사…해외수주 7495억'의
+    실체는 '한국형 하이패스 말레이시아 첫 수출'인데 그 말이 전부 본문에만 있었다(6점).
+    본문을 그냥 다 세면 반대로 본문이 제목을 압도하므로 BODY_CAP으로 묶는다.
+    """
     # 한국어 소스라도 제목이 영어면 영어 채점기를 태운다
     if korean and is_english(title):
         korean = False
     t = (title or '').lower()
-    total, hits = keyword_bonus(t, KO_BONUS if korean else KEYWORD_BONUS)
+    rules = KO_BONUS if korean else KEYWORD_BONUS
+    total, hits = keyword_bonus(t, rules)
+    event = korean and any(w in t for w in KO_EVENT) and not any(w in t for w in KO_BIZ)
+    # 행사 기사에는 본문 가산을 주지 않는다. 행사 소개문이라 더할 값이 없고,
+    # 주면 감점을 그대로 상쇄한다(실측 1차: 산업전 개막 기사가 44→41에 그쳤다).
+    if body and not event:
+        # 제목에서 이미 센 말은 뺀다. 같은 말이 본문에 반복될 뿐인 기사가 두 배로 오른다.
+        rest = [(w, [x for x in words if x not in t]) for w, words in BODY_WORDS]
+        btotal, bhits = keyword_bonus(body[:BODY_LEAD].lower(), rest)
+        if btotal > 0:
+            total += min(BODY_CAP, btotal)
+            hits += ['본문:' + w for w in bhits[:2]]
     stop = KO_NEGATIVE if korean else (NEGATIVE + EN_NEWS_NEGATIVE)
     for w in stop:
         if w in t:
             total -= 25   # 기사에서는 차단어가 걸리면 사실상 탈락시킨다
             hits.append('-' + w)
+    if event:
+        total -= EVENT_PENALTY
+        hits.append('-행사홍보')
     return max(0, min(100, total)), hits
 
 
@@ -1355,11 +1403,29 @@ def article_date(page):
     return max(d) if d else None
 
 
+def article_body(page, limit=900):
+    """페이지에서 본문 앞부분. 채점용이라 완벽할 필요 없다.
+
+    긴 <p>만 모은다. 통째로 태그를 벗기면 사이트 메뉴가 섞여 엉뚱한 가산점이 붙고
+    (실측: itsinternational 본문이 'News Products Features Categories…'로 시작),
+    짧은 <p>는 대개 내비게이션·캡션이다.
+    """
+    page = re.sub(r'<(script|style)[^>]*>.*?</>', ' ', page, flags=re.S | re.I)
+    ps = [strip_tags(x) for x in re.findall(r'<p[^>]*>(.*?)</p>', page, re.S | re.I)]
+    ps = [x for x in ps if len(x) >= 40 and '출처' not in x[:20]]
+    text = ' '.join(ps)
+    if len(text) < 120:                      # <p>를 안 쓰는 사이트
+        text = strip_tags(page)
+    return re.sub(r'\s+', ' ', text)[:limit]
+
+
 def orig_pub(board_url, cache):
     """협회 게시글 -> {원문 링크, 원문 게재일}. 실패하면 빈 값을 남긴다(빈 값 원칙)."""
-    if board_url in cache:
+    # 'body'가 없으면 본문 채점을 붙이기 전에 받은 캐시다. 다시 받는다.
+    if board_url in cache and 'body' in cache[board_url]:
         return cache[board_url]
-    rec = {'link': None, 'date': None}
+    rec = {'link': None, 'date': None, 'body': ''}
+    ok = False
     try:
         # 엔티티를 먼저 푼다. 게시판 HTML은 링크를 &#034; 로 감싸 놓아서,
         # 푸는 순서를 뒤집으면 URL 꼬리에 따옴표가 붙어 원문이 404가 난다(실측 3/5 실패).
@@ -1377,12 +1443,70 @@ def orig_pub(board_url, cache):
                 spare = u
         # 원문 표시가 없는 글도 있다. 그때만 '고정 링크가 아닌 첫 외부 링크'로 물러선다.
         rec['link'] = rec['link'] or spare
+        # 게시글 본문이 원문 발췌를 담고 있다. 외부 사이트가 막혀도 이건 늘 읽힌다.
+        rec['body'] = article_body(h)
+        ok = True
         if rec['link']:
-            rec['date'] = article_date(http_text(rec['link'], timeout=25))
+            page = http_text(rec['link'], timeout=25)
+            rec['date'] = article_date(page)
+            rec['body'] = rec['body'] or article_body(page)
     except Exception as e:
         print('  원문조회 실패 %s: %s' % (board_url[-12:], e), file=sys.stderr)
-    cache[board_url] = rec
+    # 실패는 캐시에 남기지 않는다. 남기면 그날의 일시적 오류가 영구 빈 값이 된다
+    # (실측: 307 한 번 난 게시글 2건이 링크·본문 없이 굳었다).
+    if ok:
+        cache[board_url] = rec
     return rec
+
+
+def enrich_assoc(items):
+    """협회 글에 원문 링크·게재일·본문을 채우고, 본문까지 넣어 다시 채점한다.
+
+    ⚠ 반드시 근접중복 묶기와 상한 계산 '앞'에서 돌아야 한다. 점수가 바뀌므로,
+    뒤에서 돌리면 옛 점수로 자른 결과 위에 새 점수를 덮어쓰게 된다.
+    한 건에 요청 2회(게시글 + 원문)라 첫 실행만 무겁고 그 뒤로는 캐시가 받는다.
+    """
+    cache = {}
+    if os.path.exists(NEWS_ORIG_CACHE_PATH):
+        try:
+            with open(NEWS_ORIG_CACHE_PATH, encoding='utf-8') as f:
+                cache = json.load(f)
+        except Exception:
+            cache = {}
+    before, looked, today = len(cache), 0, today_kst()
+    for it in items:
+        if it['source'] != 'ITS Korea':
+            continue
+        fresh = it['link'] not in cache or 'body' not in cache[it['link']]
+        if fresh and looked >= 150:
+            continue   # ponytail: 실행당 신규 조회 150건. 폭주만 막는다 — 평시 신규는 하루 11건 안팎
+        looked += fresh
+        rec = orig_pub(it['link'], cache)
+        it['orig_link'] = rec.get('link')
+        it['orig_published'] = rec.get('date')
+        if rec.get('date'):
+            try:
+                gap = (today - date.fromisoformat(rec['date'])).days
+                it['stale'] = gap if gap >= STALE_DAYS else None
+            except ValueError:
+                pass
+        # 본문을 얻었으면 다시 채점한다. add()에서 매긴 점수는 제목만 본 것이다.
+        if rec.get('body'):
+            korean = it['board'] in ('B', 'P')
+            sc, hits = score_news(it['title'], korean, body=rec['body'])
+            sc = min(100, sc + ASSOC_BASE)
+            hits = hits + ['협회게시판']
+            penalty, flag, hit = news_flags(it['title'], it.get('media'), it['link'])
+            if penalty:
+                sc = max(0, sc - penalty)
+                hits = hits + [hit]
+            it['score'], it['score_hits'], it['flag'] = sc, hits, flag
+    if len(cache) != before:
+        with open(NEWS_ORIG_CACHE_PATH, 'w', encoding='utf-8') as f:
+            json.dump(cache, f, ensure_ascii=False, indent=1, sort_keys=True)
+        print('  협회 원문조회: 캐시 %d건, 신규 %d건' % (before, len(cache) - before),
+              file=sys.stderr)
+    return items
 
 
 def fetch_news(days=7):
@@ -1534,6 +1658,8 @@ def fetch_news(days=7):
     except Exception as e:
         print('  법제처 실패: %s' % e, file=sys.stderr)
 
+    enrich_assoc(out)
+
     # 근접중복 묶기 — 같은 사안을 여러 매체가 쓴다.
     # URL·제목 완전일치만으로는 못 잡는다(실측: 천안 자율주행버스 4건, 강남 심야택시 5건).
     # 상한이 하루 5건이라 한 사안이 상한을 통째로 먹는 게 실질 문제여서 여기서 묶는다.
@@ -1587,39 +1713,6 @@ def fetch_news(days=7):
         per[k] += 1
         capped.append(it)
 
-    # 협회 글의 원문 게재일 채우기.
-    # 상한을 통과한 것만 조회한다 — 버릴 글까지 두 번씩 긁을 이유가 없다.
-    # 한 건에 요청 2회(상세 페이지 + 원문)라 첫 실행만 무겁고, 그 뒤로는 캐시가 받는다.
-    cache = {}
-    if os.path.exists(NEWS_ORIG_CACHE_PATH):
-        try:
-            with open(NEWS_ORIG_CACHE_PATH, encoding='utf-8') as f:
-                cache = json.load(f)
-        except Exception:
-            cache = {}
-    before, looked = len(cache), 0
-    today = today_kst()
-    for it in capped:
-        if it['source'] != 'ITS Korea':
-            continue
-        if it['link'] not in cache and looked >= 150:
-            continue      # ponytail: 실행당 신규 조회 150건 상한. 폭주만 막는다 — 평시 신규는 하루 11건 안팎
-        if it['link'] not in cache:
-            looked += 1
-        rec = orig_pub(it['link'], cache)
-        it['orig_link'] = rec.get('link')
-        it['orig_published'] = rec.get('date')
-        if rec.get('date'):
-            try:
-                gap = (today - date.fromisoformat(rec['date'])).days
-                it['stale'] = gap if gap >= STALE_DAYS else None
-            except ValueError:
-                pass
-    if len(cache) != before:
-        with open(NEWS_ORIG_CACHE_PATH, 'w', encoding='utf-8') as f:
-            json.dump(cache, f, ensure_ascii=False, indent=1, sort_keys=True)
-        print('  협회 원문조회: 캐시 %d건, 신규 %d건' % (before, len(cache) - before),
-              file=sys.stderr)
     return capped
 
 
