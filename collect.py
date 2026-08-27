@@ -819,6 +819,72 @@ def apply_first_seen(items, seen, today):
     return new_count
 
 
+# ── today.md — 다른 사람의 도구(예: Claude)가 한 번에 읽어 가는 진입점
+#
+# 화면은 사람이 보는 것이고, JSON은 경로가 여러 개다. 남이 쓰려면 '주소 하나 = 오늘치 전부'가
+# 있어야 한다. 여기서 이미 올린 것·접힌 것·오래된 것을 빼서 '후보만' 남긴다 —
+# 고르는 판단은 여전히 사람(또는 그 사람의 도구)이 한다.
+DIGEST_DAYS = 7
+
+
+def digest_md(items, today):
+    def fresh(it):
+        if it.get('already_posted') or it.get('flag') or it.get('stale'):
+            return False
+        if it['source'] == 'ITS Korea' and it.get('category') == '기타':
+            return False
+        d = it.get('orig_published') or it.get('published') or ''
+        return d >= (date.fromisoformat(today) - timedelta(days=DIGEST_DAYS)).isoformat()
+
+    def block(title, where, rows):
+        out = ['## %s' % title, '', '등록 게시판: %s' % where, '']
+        if not rows:
+            out += ['(오늘은 후보 없음)', '']
+            return out
+        for i, it in enumerate(sorted(rows, key=lambda x: -x['score'])[:20], 1):
+            out.append('%d. %s' % (i, it['title']))
+            out.append('   - 분야: %s / 게재일: %s / 매체: %s'
+                       % (it.get('category') or '-',
+                          it.get('orig_published') or it.get('published'),
+                          it.get('media') or it.get('source') or '-'))
+            link = it.get('orig_link') or it['link']
+            out.append('   - 원문: %s%s' % (link,
+                       '  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)'
+                       if 'news.google.com' in link else ''))
+            out.append('')
+        return out
+
+    news = [i for i in items if i['kind'] == 'news' and fresh(i)]
+    L = ['# ITS 브리핑 %s' % today, '',
+         '해외 ITS 기사·국내 ITS 기사·해외 발주 공고를 매일 06시에 모은 것입니다.',
+         '이미 게시판에 올린 건, 관련도가 낮은 건, 원문이 오래된 건은 빼고 후보만 남겼습니다.',
+         '무엇을 올릴지 고르는 것은 사람이 합니다.', '',
+         '주소가 news.google.com 으로 시작하는 것은 구글뉴스 경유 링크입니다.',
+         '브라우저로 열면 원문으로 이동하지만, 자동으로 내용을 읽어오지는 못합니다.',
+         '그런 건은 제목으로 원문을 다시 검색해 확인해 주십시오.', '',
+         '전체 화면: https://phone-boot-h.github.io/its-briefing/', '', '---', '']
+    L += block('해외 기사 (한국어로 요약해 올림)',
+               'ITS국제협력센터 > 수출정보 > 국가별 ITS 시장정보',
+               [i for i in news if i['board'] == 'A'])
+    L += ['---', '']
+    L += block('국내 기사 (영어로 요약해 올림)',
+               'ITS국제협력센터 > 소통창구 > 공지사항(영어)',
+               [i for i in news if i['board'] == 'B'])
+    L += ['---', '']
+    live = [i for i in items if i['kind'] == 'tender'
+            and not i.get('already_posted')
+            and (i.get('deadline') or '9999') >= today and i['score'] >= 25]
+    L += ['## 진행 중 해외 발주 (마감 전)', '']
+    if not live:
+        L += ['(해당 없음)', '']
+    for it in sorted(live, key=lambda x: (x.get('deadline') or '9999'))[:15]:
+        L.append('- [%s] %s' % (it.get('country_ko') or it.get('country') or '-', it['title']))
+        L.append('  - 마감 %s / 발주처 %s' % (it.get('deadline') or '-', it.get('org') or '-'))
+        L.append('  - 원문: %s' % it['link'])
+        L.append('')
+    return chr(10).join(L)
+
+
 def main():
     os.makedirs(os.path.join(DATA, 'tenders'), exist_ok=True)
     now = datetime.now(KST)
@@ -917,6 +983,9 @@ def main():
                      if os.path.isdir(os.path.join(DATA, 'news')) else []}
     with open(os.path.join(DATA, 'index.json'), 'w', encoding='utf-8') as f:
         json.dump(index, f, ensure_ascii=False, indent=1)
+
+    with open(os.path.join(ROOT, 'today.md'), 'w', encoding='utf-8') as f:
+        f.write(digest_md(items, today))
 
     print('총 %d건 (발주 %d / 기사 %d, 신규 %d건)'
           % (len(items), len(tenders), len(news), new_count), file=sys.stderr)
