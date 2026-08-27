@@ -4,6 +4,10 @@ on:
   schedule:
     # 06:00 KST = 21:00 UTC (전날). 크론은 UTC 기준이다.
     - cron: '0 21 * * *'
+    # 예비. GitHub 스케줄러는 보장이 아니라 best-effort라 장애·고부하 때 이벤트가 통째로
+    # 유실된다(2026-08-26 Actions 크리티컬 장애 때 21:00 UTC 실행이 발화하지 않았다).
+    # 첫 실행이 정상이면 두 번째는 같은 결과라 '변경 없음'으로 끝난다.
+    - cron: '0 23 * * *'   # 08:00 KST
   workflow_dispatch:
 
 permissions:
