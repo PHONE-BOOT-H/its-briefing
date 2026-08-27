@@ -16,14 +16,15 @@ import collections
 import hashlib
 import time
 import html as html_mod
-from datetime import datetime, timezone, timedelta
+from datetime import datetime, date, timezone, timedelta
 
-SCHEMA_VERSION = 2
+SCHEMA_VERSION = 3
 ROOT = os.path.dirname(os.path.abspath(__file__))
 DATA = os.path.join(ROOT, 'data')
 SEEN_PATH = os.path.join(DATA, 'seen.json')
 BOARD_CACHE_PATH = os.path.join(DATA, 'board_cache.json')
 ADB_CACHE_PATH = os.path.join(DATA, 'adb_cache.json')
+NEWS_ORIG_CACHE_PATH = os.path.join(DATA, 'news_orig_cache.json')
 NOTES_PATH = os.path.join(DATA, 'notes.json')
 FLAGS_PATH = os.path.join(DATA, 'flags.json')
 
@@ -1306,6 +1307,84 @@ GNEWS_POL = ['자율주행 법안 OR 개정 when:7d', '도로교통법 개정 wh
 BOARD_TYPE = {'A': '해외기사', 'B': '국내기사', 'P': '국내동향'}
 
 
+# ── 협회 게시글의 원문 게재일
+#
+# 협회 게시판은 '올린 날'만 준다. 그 기사가 언제 나온 것인지는 안 준다.
+# 실측(2026-08-27, 협회 해외기사 15건): 3건(20%)이 원문 기준 3일 이상 지난 것이었고
+# 그중 하나는 516일 전 기사였다(SHIFFT, 원문 2025-03-28을 8/26에 게시).
+# 게시일만 보고 고르면 '이번 주 기사'가 아닌 걸 올리게 된다 — 실제로 한 번 그랬다.
+# 게시글 아래에는 관련기관 링크 14개가 모든 글에 똑같이 붙는다.
+# 그냥 '첫 외부 링크'를 집으면 원문이 없는 글에서 국토교통부 대문을 원문이라고 집는다(실측).
+BOARD_FOOTER = ('molit.go.kr', 'its.go.kr', 'roadplus.co.kr', 'kaia.re.kr', 'koti.re.kr',
+                'krihs.re.kr', 'kict.re.kr', 'kor-kst.or.kr', 'kits.or.kr', 'itsa.org',
+                'its-jp.org', 'its.dot.gov', 'ertico.com', 'itsasia-pacific.com')
+BOARD_SKIP = ('itskorea', 'cdnjs', 'jsdelivr', 'w3.org', 'jquery', 'google',
+              'facebook', 'twitter', 'linkedin', 'youtube')
+# 원문 앵커는 글 안에 '출처 : … (원문보기)' 형태로 들어간다. 이게 있는 줄을 먼저 본다.
+ORIG_A = re.compile(r'<a[^>]+href="(https?://[^"]+)"[^>]*>(.{0,120}?)</a>', re.S)
+STALE_DAYS = 7          # 이보다 오래된 원문은 화면에서 '지연'으로 표시한다
+
+
+def article_date(page):
+    """기사 페이지에서 원문 게재일(YYYY-MM-DD).
+
+    사이드바 '관련 기사'의 날짜를 집지 않도록 headline이 붙은 JSON-LD 노드를 먼저 본다.
+    제목 없이 datePublished만 긁으면 실측에서 Kapsch 건이 2026-02-25(사이드바)로 나왔다.
+    """
+    for blk in re.findall(r'<script type="application/ld\+json"[^>]*>(.*?)</script>',
+                          page, re.S):
+        try:
+            data = json.loads(blk)
+        except Exception:
+            continue
+        stack = data if isinstance(data, list) else [data]
+        while stack:
+            n = stack.pop()
+            if not isinstance(n, dict):
+                continue
+            if isinstance(n.get('@graph'), list):
+                stack.extend(n['@graph'])
+            if n.get('headline') and n.get('datePublished'):
+                d = str(n['datePublished'])[:10]
+                if re.match(r'20\d\d-\d\d-\d\d$', d):
+                    return d
+    m = re.search(r'property="article:published_time"[^>]*content="(20\d\d-\d\d-\d\d)', page)
+    if m:
+        return m.group(1)
+    d = re.findall(r'"datePublished"\s*:\s*"(20\d\d-\d\d-\d\d)', page)
+    return max(d) if d else None
+
+
+def orig_pub(board_url, cache):
+    """협회 게시글 -> {원문 링크, 원문 게재일}. 실패하면 빈 값을 남긴다(빈 값 원칙)."""
+    if board_url in cache:
+        return cache[board_url]
+    rec = {'link': None, 'date': None}
+    try:
+        # 엔티티를 먼저 푼다. 게시판 HTML은 링크를 &#034; 로 감싸 놓아서,
+        # 푸는 순서를 뒤집으면 URL 꼬리에 따옴표가 붙어 원문이 404가 난다(실측 3/5 실패).
+        h = html_mod.unescape(http_text(board_url, timeout=25))
+        spare = None
+        for m in ORIG_A.finditer(h):
+            u = m.group(1).rstrip('.,)')
+            if any(k in u for k in BOARD_SKIP):
+                continue
+            label = re.sub(r'<[^>]+>', '', m.group(2))
+            if '원문' in label or '출처' in label:
+                rec['link'] = u
+                break
+            if spare is None and not any(k in u for k in BOARD_FOOTER):
+                spare = u
+        # 원문 표시가 없는 글도 있다. 그때만 '고정 링크가 아닌 첫 외부 링크'로 물러선다.
+        rec['link'] = rec['link'] or spare
+        if rec['link']:
+            rec['date'] = article_date(http_text(rec['link'], timeout=25))
+    except Exception as e:
+        print('  원문조회 실패 %s: %s' % (board_url[-12:], e), file=sys.stderr)
+    cache[board_url] = rec
+    return rec
+
+
 def fetch_news(days=7):
     start = (today_kst() - timedelta(days=days)).isoformat()
     out, seen_url, seen_title = [], set(), set()
@@ -1372,6 +1451,8 @@ def fetch_news(days=7):
                 'published': x.get('date') or today_kst().isoformat(),
                 'deadline': None, 'budget': None, 'ref_no': None,
                 'link': x['link'], 'cpv': [],
+                # 협회 글은 게시일과 원문 게재일이 다르다. 아래에서 채운다(orig_pub).
+                'orig_link': None, 'orig_published': None, 'stale': None,
                 'score': sc, 'score_hits': hits, 'already_posted': False,
             })
 
@@ -1505,6 +1586,40 @@ def fetch_news(days=7):
             continue
         per[k] += 1
         capped.append(it)
+
+    # 협회 글의 원문 게재일 채우기.
+    # 상한을 통과한 것만 조회한다 — 버릴 글까지 두 번씩 긁을 이유가 없다.
+    # 한 건에 요청 2회(상세 페이지 + 원문)라 첫 실행만 무겁고, 그 뒤로는 캐시가 받는다.
+    cache = {}
+    if os.path.exists(NEWS_ORIG_CACHE_PATH):
+        try:
+            with open(NEWS_ORIG_CACHE_PATH, encoding='utf-8') as f:
+                cache = json.load(f)
+        except Exception:
+            cache = {}
+    before, looked = len(cache), 0
+    today = today_kst()
+    for it in capped:
+        if it['source'] != 'ITS Korea':
+            continue
+        if it['link'] not in cache and looked >= 150:
+            continue      # ponytail: 실행당 신규 조회 150건 상한. 폭주만 막는다 — 평시 신규는 하루 11건 안팎
+        if it['link'] not in cache:
+            looked += 1
+        rec = orig_pub(it['link'], cache)
+        it['orig_link'] = rec.get('link')
+        it['orig_published'] = rec.get('date')
+        if rec.get('date'):
+            try:
+                gap = (today - date.fromisoformat(rec['date'])).days
+                it['stale'] = gap if gap >= STALE_DAYS else None
+            except ValueError:
+                pass
+    if len(cache) != before:
+        with open(NEWS_ORIG_CACHE_PATH, 'w', encoding='utf-8') as f:
+            json.dump(cache, f, ensure_ascii=False, indent=1, sort_keys=True)
+        print('  협회 원문조회: 캐시 %d건, 신규 %d건' % (before, len(cache) - before),
+              file=sys.stderr)
     return capped
 
 
