@@ -12,7 +12,7 @@
  "https://itskorea.kr/boardDetail.do?type=8&idx=23111": {
   "body": "- 국민에게 친절하고, 국민과 함께하는, 국민의 유능한 AI정부로 대전환 - 5대 분야 AI 상담, AI국민비서, AI 챔피언 2만 명 양성 등 추진 행정안전부(장관 윤호중)는 8월 25일(화) 국무회의에서 ‘세계 최고의 AI민주정부 실현 전략’을 보고했다. 이번 전략은 국민과 소통하고 정책을 수립·집행하는 국정 전반에 국민주권의 가치를 구현하고, 이를 인공지능(AI) 시대에 맞는 정부 운영 방식으로 전환하기 위해 마련됐다. 링컨의 게티스버그 연설에 담긴 국민주권 정신(Government of the people, by the people, for the people)을 인공지능(AI) 시대에 맞게 재해석하여 ▴국민에게 친절한 정부, ▴국민과 함께하는 정부, ▴국민의 유능한 정부의 3대 추진 방향을 정립했다. 정부는 인공지능(AI)을 활용해 국민에게 필요한 서비스를 먼저 찾아 제공하고, 국민의 다양한 의견이 정책에 실질적으로 반영되도록 하며, 공직사회의 일하는 방식도 혁신해 국민의 삶에 실질적인 변화를 만들어내는 인공지능(AI) 정부 모델을 구현할 계획이다. >> 국민에게 친절한 정부 : 대민서비스 대폭 혁신 및 24시간 밀착형 상담 구현 먼저, 국민이 일상에서 정부의 변화를 체감하고 취약계층에 대한 포용이 강화될 수 있도록 대민서비스를 대폭 혁신한다. 국민 체감도가 높은 5대 분야(복지·안전·세금·농업·식약)에 인공지능(AI) 대민 상담 체계를 구축하여, 시·공간의 제약 없는 24시간 밀착형 상담 서비스를 구현한다. 이에 따라 돌봄서비스, 납세 서비스, 감염병 증상·예방 안내, 식생활 정보까지 누구나 인공지능(AI)을 통한 상담을 받을 수 있게 된다. 이와 함께, ‘AI국민비서’ 서비스​도 한층 고도화한다. 정부24, 혜택알리미 등 주요 대민서비스를 연계‧통합해 국민 맞춤형 통합 인",
   "date": null,
-  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do;jsessionid=sPVJfIdeDw2gmLLEuGFTwKYLWAnt7I9MEXBWnRvB.node10?bbsId=BBSMSTR_000000000008&amp;nttId=128980"
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=128980"
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23112": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -47,52 +47,57 @@
  "https://itskorea.kr/boardDetail.do?type=8&idx=23119": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
-  "link": "https://www.mcee.go.kr/home/web/board/read.do;jsessionid=nJUp0bJ5zLRbBRMocX1YWw_z2WhLhxvar7f26bkn.mehome2?pagerOffset=0&amp;maxPageItems=10&amp;maxIndexPages=10&amp;searchKey=&amp;searchValue=&amp;menuId=10598&amp;orgCd=&amp;boardId=1885710&amp;boardMasterId=939&amp;boardCategoryId=&amp;decorator="
+  "link": "https://www.mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1885710&boardMasterId=939&boardCategoryId=&decorator="
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23129": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-08-25",
-  "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005951&amp;code=61122014&amp;sid1=pol%EF%BF%BD"
+  "link": "https://www.kmib.co.kr/article/view.asp?arcid=9000005951&code=61122014&sid1=pol%EF%BF%BD"
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23130": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-08-26",
-  "link": "https://www.edaily.co.kr/News/Read?newsId=02115606645551256&amp;mediaCodeNo=257"
+  "link": "https://www.edaily.co.kr/News/Read?newsId=02115606645551256&mediaCodeNo=257"
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23132": {
   "body": "닥터헬기 조종사 모의비행훈련장치로 역량 강화 국토부‧복지부‧경찰청 업무협약 체결 - 국토부-복지부-경찰청, 응급의료 전용헬기 운항 안전성 향상을 위한 업무협약 체결 - 모의비행훈련 활용 위기대처 훈련 지원 및 항공안전정보·EMS Kit 유지관리 기술 교류 - 중증응급환자 이송 시 항공사고 예방 및 헬기 안전운항으로 국민 생명 보호 기여 - 국토교통부 서울지방항공청(청장 전형필), 보건복지부(장관 정은경)와 경찰청 경찰인재개발원(원장 박현수)은 2026년 8월 26일(수) 경찰인재개발원에서 「항공운항 안전성 향상을 위한 업무협약」을 체결하였다고 밝혔다. 이번 협약은 세 기관이 항공 안전 정보 공유 등 상호 협력을 통해 항공사고를 예방하고, 헬기의 안전운항을 지원하기 위해 체결된다. 특히, 응급의료 전용헬기(이하 ‘닥터헬기’) 조종사들이 경찰청의 모의비행훈련장치로 훈련하여 비상·위기상황 대응 역량을 높일 수 있게 된다. 협약에 따라 세 기관은 ▲모의비행훈련장치를 활용한 닥터헬기 조종사 훈련 지원(국토부-복지부-경찰청), ▲헬기 안전운항을 위한 항공안전정보 및 감항성 기술자료 공유(국토부), ▲경찰청 모의비행훈련비행장치 지정 및 유효기간 연장 협조(국토부-경찰청), ▲경찰청 헬기 탑재용 응급의료장비(EMS Kit)의 유지관리를 위한 기술 자문 및 교육(복지부-경찰청) 등을 협력할 예정이다. 전형필 국토교통부 서울지방항공청장은 “이번 업무협약을 통해 닥터헬기 조종사의 악기상 등 비정상 상황에서의 대응 능력을 강화하고 복지부와의 합동 안전점검을 실시하여 비행 안전성을 높이는 계기를 마련하게 되었으며 항공 안전정보 공유, 감항기술 자료* 제공 등을 통해 닥터헬기가 안전하게 운항될 수 있도록 기술적 지원도 아끼지 않겠다”라고 밝혔다. * 감항기술자료(Airworthiness Technical Da",
   "date": null,
-  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&amp;id=95092339"
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092339"
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23133": {
   "body": "- 26일 강릉 컨벤션센터 개관식 참석 … 주요 행사장 점검하며 빈틈없는 준비 강조 □ 홍지선 국토교통부 제2차관은 8월 26일 전일 강릉시를 방문하여 2026 강릉 ITS 세계총회 준비상황을 점검하고, 강릉 컨벤션센터 개관식에 참석했다. ㅇ 이번 방문은 세계 각국의 정부·기업·전문가 등이 참여하는 ITS 세계총회*를 앞두고 행사 준비상황을 직접 점검하고, 정부 차원의 적극적인 지원 의지를 전달하기 위해 마련됐다. * (시간/장소/참석규모) ’26.10.19.(월)~23.(금) / 강릉시 / 약 90개국 6만명예상 (주최) 국토부·강릉시 / (주요내용) 장관회의, 양자면담, 학술회의, 전시 및 기술시연 등 □ 홍 차관은 먼저 강릉 ITS 세계총회 조직위원회 사무국으로부터 행사 준비 상황을 보고받고, 준비 과정에서의 현안과 향후 보완 사항 등을 점검했다. ㅇ 이어 강릉 컨벤션센터 개관식에 참석하여 관계자들을 격려하고, “새롭게 조성된 컨벤션센터가 ITS 세계총회의 주요 행사공간으로 차질 없이 활용될 수 있도록 준비해 줄 것”을 강조했다. □ 이후, 강릉 올림픽파크 일대(전시장, 야외광장, 하키센터)와 선교장 등 주요 행사 장소를 직접 둘러보며 총회 기간 동안의 운영계획을 점검했다. ㅇ 특히, “세계 각국에서 많은 인원이 참여하는 만큼 행사장 운영부터 안전, 숙박·관광, 통역·안내 등 참가자 편의에 이르기까지 전 분야를 빈틈없이 준비하여 국제행사로서의 품격을 높일 것”을 당부했다. □ 홍 차관은 “곧 개최될 강릉 ITS 세계총회는 AI, 자율주행 등 미래교통 혁신을 세계에 선보이고, 우리 ITS 기술과 기업의 글로벌 진출을 확대할 수 있는 중요한 기회”라며, ㅇ “세계 각국의 정부·산업계·전문가들이 강릉을 찾는 만큼 행사 준비에 한 치의 빈틈이 없도록 관계기관이 긴밀히 협력해 달라”고 밝",
   "date": null,
-  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&amp;id=95092350"
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092350"
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23134": {
   "body": "- 인적 교류 및 스마트시티·ITS 분야 한-베트남 미래 인프라 협력 확대 □ 김윤덕 국토교통부 장관은 8월 26일 오후 국토발전전시관에서 쩐 홍 민(Tran Hong Minh) 베트남 건설부 장관과 만나 북남고속철도 건설사업 타당성조사에 우리 기업 참여를 지원하고, 스마트시티·ITS 및 양국 간 인적 교류 등 주요 국토‧교통 현안에 대해 의견을 나눴다. □ 김 장관은 지난 7월 양국 장관 간 면담 이후 제1회 한-베 철도협력회의 개최 등 양국 간 철도협력이 실질적인 성과를 내고 있음을 설명하고, “북남 고속철도 사업에서도 양국이 더욱 구체적인 협력을 이어가기를 희망한다”고 밝혔다. ㅇ 특히, 한국이 고속철도 설계·건설·운영 및 기술자립 과정에서 축적한 경험을 보유한 한국의 공공기관과 기업이 북남 고속철도의 타당성조사 단계부터 적극적으로 참여할 수 있도록 베트남 정부의 관심과 협조를 요청했다. ㅇ 또한, 김 장관은 “한국은 도시 성장과 교통 수요 변화에 대응하는 과정에서 스마트시티를 발전시켜 왔다”고 평가하며, “K-City 네트워크 협력사업* 등을 통해 한국의 정책 경험이 빠르게 성장하고 있는 베트남의 도시‧교통 분야 발전을 뒷받침하는 데 도움이 되기를 바란다”고 밝혔다. * K-City 네트워크는 정부 간 협력을 기반으로 해외도시에 한국형 스마트도시 모델을 적용하는 사업으로, 스마트시티 계획수립과 국내 스마트 솔루션의 해외실증을 지원 ㅇ 아울러, 베트남 측에서 관심을 보이고 있는 ‘인프라개발정책 역량강화 석사과정*’ 프로그램을 소개하며, 양국 간 인적 교류 확대를 기대한다고 덧붙였다. * 우리 기업의 해외건설 진출 기반 조성을 위해 대상국 공무원을 초청하여 교육하고, 졸업생은 본국 복귀 후 인프라 분야 부서에서 근무하며 현지 정보 공유·국내 기업과 네트워크 역할 수행 □ 베트남 측",
   "date": null,
-  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&amp;id=95092353"
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092353",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23135": {
   "body": "- 기존 운행차에 튜닝부품으로 인증(확인)받은 페달 오조작 방지장치 설치 가능 □ 국토교통부(장관 김윤덕)는 페달 오조작으로 인한 교통사고를 예방하고 자동차 운행 안전성을 강화하기 위해 오는 8월 27일부터 '페달 오조작 방지장치'에 대해 튜닝부품 인증기준을 마련하여 시행한다. ㅇ ‘페달 오조작 방지장치’란 운전자가 브레이크 페달을 밟아야 하는 상황에서 혼동하여 가속 페달을 밟은 상황이 발생할 때, 가속이 되지 않도록 제어할 수 있는 첨단안전장치를 말한다. □ 기존에는 운행 중인 자동차에 ‘페달 오조작 방지장치’를 설치할 경우 튜닝 승인을 받아야 했으며, 별도의 튜닝부품 인증기준이 없어 규제샌드박스 실증특례를 통해 제한적으로 설치해 왔다. ㅇ ‘페달 오조작 방지장치’ 보급과 설치를 활성화하면서 필요한 안전성도 확보할 수 있도록 관련 업계와 전문가 논의를 통해서 금번 기준을 마련하였다. □ 이번 기준에서 ‘페달 오조작 방지장치’는 정지 또는 30km/h 이내 운행하는 자동차에서 페달 오조작* 감지 시 해당 장치의 작동으로 속도의 30% 이상 감속하는 성능을 확보하여야 하며, * 오조작은 가속 페달 변위량을 100%로 할 때, 0.25초 내에 변위량 100%로 도달하는 속도로 페달 변위량이 90% 이상에 해당하는 위치에 도달하는 경우로 규정 ㅇ 오조작을 운전자가 시각과 청각으로 인지할 수 있는 기능을 갖추도록 하였다. 또한, 이를 확인 할 수 있는 시험방법 등도 규정하였다. ㅇ 자세한 기준 내용에 대해서는 튜닝부품 누리집( www.cartuning.kr )의 “TS 자동차튜닝부품인증센터-튜닝부품인증제도-인증기준” 또는 “TS 튜닝안전확인부품관리시스템-튜닝안전확인부품제도-안전확인기준”에서 확인할 수 있다. □ ‘페달 오조작 방지장치’를 제작하는 업체에서는 한국교통안전공단에서 실시하는 시험 ",
   "date": null,
-  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&amp;id=95092345"
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092345",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23136": {
   "body": "□ 국토교통부(장관 김윤덕)는「자율주행자동차 상용화 촉진 및 지원에 관한 법률 」(이하 ｢자율주행자동차법｣) ·「화물자동차 운수사업법」(이하 ｢화물자동차법｣) ·「도로법」·「철도지하화 및 철도부지 통합개발에 관한 특별법」(이하 ｢철도지하화통합개발법｣) 개정안이 8월 26일 국회 본회의를 통과하였다고 밝혔다. 개정안 주요 내용은 다음과 같다. □ 「자율주행자동차법」개정안은 지방정부도 관할 구역의 일부를 자율주행자동차 시범운행지구로 지정할 수 있도록 권한을 확대하는 법안이다. ㅇ 그간 자율주행자동차 시범운행지구는 지방정부의 신청을 받아 국토부장관이 지정해 기업 수요에 신속하게 대응하는데 한계가 있었으나, 이번 개정으로 지방정부가 상시 지정할 수 있게 되어 신속하고 유연한 시범운행지구 운영이 가능해진다. ㅇ 또한, 지방정부가 자체적으로 시범운행지구에 관한 정책 및 중요 사항을 심의·의결할 수 있는 지방위원회를 구성하고 운영할 수 있는 근거를 마련하여, 지역 특성을 반영한 다양한 자율주행자동차 실증이 확대될 것으로 기대된다. □ 이번 ｢자율주행자동차법｣ 개정안은 하위법령 마련 및 지방정부의 행정적 준비 기간 등을 고려하여, 공포 후 3개월이 경과한 날부터 시행될 예정이다. □ 「화물자동차법」개정안은 화물운송 플랫폼 사업을 법제화하여 플랫폼 내 불법·부당 행위로부터 화물차주 등 플랫폼 이용자 보호를 강화하는 법안으로 주요 내용은 다음과 같다. □ 그간 자유업으로 운영되던 화물운송 플랫폼 사업의 법적 근거를 신설하고 사업 등록제를 통해 화물운송 시장의 관리를 강화한다. ㅇ 플랫폼을 통해 화물운송 계약 관련 정보를 제공하는 사업을 ‘화물운송 플랫폼사업’으로 정의하고, 사업자는 요건*을 갖춰 국토부장관에게 등록하도록 하였다. * (등록요건) 플랫폼·사무실 등 구비, 이용요금 및 부가서비스 운영계획 ",
   "date": null,
-  "link": "https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&amp;id=95092352"
+  "link": "https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95092352",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23137": {
   "body": "- ‘국토대전환 추진전략’ 발표, 5극3특 권역별 성장거점 중심 균형성장 추진 - ‘권역별 성장엔진 육성방안’ 발표, 지방을 중심으로 대한민국의 산업 성장지도 대전환 □ 정부는 8월 26일, 대통령 주재로 열린 제10회 중앙지방협력회의에서 ‘지방 주도 성장 추진방안’과 ‘권역별 성장엔진’을 발표하고, 지방 주도의 새로운 균형성장 전략을 추진하기로 했다. □ 임기근 국무조정실장은 ｢지방주도 성장 추진방안｣을 발표하고, 지방정부 주도로 지역산업과 각종 제도를 재설계하는 ‘국토대전환 추진전략’ 3대 전략 8대 과제를 제시했다. ㅇ (세종시 행정수도 기능 완성) 대통령 세종집무실을 ’29년 8월까지 건립하고, 국회세종의사당은 ‘33년 하반기까지 건립할 계획이다. 또한, 행정수도의 실질적 완성을 위한 제도적 기반을 마련해 나갈 예정이다. ㅇ (권역별 거점도시 조성) 산단･연구개발･정주를 복합한 기업형첨단도시를 조성하고, 지역별 특화 산업과 연계한 재생에너지 자립도시(RE100 산단 등), 기업 투자와 연계한 새만금 미래산업 거점 육성도 추진한다. ㅇ (전국 연결 교통망 확충) 광역철도, 광역급행버스 확충 등 권역별 교통수요를 반영하여 거점도시 간 교통체계를 정비하고 고속철도망 구축, 주요 고속도로 적기 개통 등 초광역권 간 교통망 연결도 강화한다. ㅇ (5극3특 성장엔진 중심 특화성장) 권역별로 성장엔진을 선정하고 집중 지원한다. 또한 반도체, AI 등 3대 메가프로젝트도 범정부 지원체계를 가동하여 속도감 있는 사업 추진을 지원해 나가기로 했다. ㅇ (메가특구 도입) 성장엔진과 연계하여 기업과 지역의 참여하에 광범위한 규제특례(메뉴판식 규제특례, 수요응답형 규제유예, Upgrade 규제샌드박스)를 부여하고, 정책 패키지 지원을 통해 지역 성장을 견인한다. ㅇ (성장엔진 연계 지역인재 양성) 거",
   "date": null,
-  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172132/view?mno=&amp;pageIndex=1&amp;rowPageC=0&amp;displayAuthor=&amp;searchCategory=0&amp;schClear=on&amp;startDtD=&amp;endDtD=&amp;searchCondition=1&amp;searchKeyword="
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172132/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23138": {
   "body": "중앙아시아·아프리카·환태평양 경제권 등 대외경제 네트워크를 확대하고 우리 기업의 해외 진출을 지원하겠습니다. - 포괄적·점진적 환태평양경제동반자협정(CPTPP) 가입 관련 사회적 논의 본격 착수, 국익·민생에 실질적 도움이 되는지 면밀히 살펴 가입 추진 여부 판단하고, 진정성 있게 소통 추진 - 중앙아시아·아프리카와의 전략적 경제협력 및 해외수주 지원을 통해 새로운 성장기회 창출 구윤철 부총리 겸 재정경제부 장관은 8.27일(목) 08:30 정부서울청사에서 제273차 대외경제장관회의를 주재하고, 「CPTPP 가입 관련 향후 대응방향」, 「한-중앙아시아 전략적 경제협력 확대방안」, 「제8차 한-아프리카 경제협력(KOAFEC) 장관회의 개최계획 및 예상성과」,「해외수주 실적 및 향후 지원방안」 등 4개 안건을 논의하였다. * 참석 : 경제부총리(주재), 외교부, 농식품부, 산업부, 국토부, 해수부, 중기부, 국조실 등 관계부처 장차관 구 부총리는 그간 정부는 미국·중동 등 주요국과의 양자 통상·경제협력을 통해 우리 기업의 시장 진출 기반을 넓혀 왔으며, 앞으로는 이를 지역·다자 차원의 통상·경제협력으로 확장하여 우리 경제의 대외 네트워크를 더욱 촘촘하고 폭넓게 구축해 나가겠다고 강조하였다. 이를 위해 정부는 ❶다자 통상 네트워크를 확대하고, ❷중앙아시아, 아프리카 등 유망 지역과의 경제협력 기반을 다지는 한편, ❸이러한 협력이 기업의 수출·수주 성과로 이어지도록 뒷받침할 계획이다. 이러한 차원에서 정부는 먼저 우리와 입장을 같이하는 중견국 간 연대를 강화하고 핵심 공급망을 안정화하는 한편, 수출시장을 확대하기 위해 CPTPP 가입과 관련한 여론 수렴과 사회적 논의에 본격 착수한다. 정부는 이 과정에서 국익과 민생에 실질적 도움이 되는지 면밀히 살펴 가입 추진 여부를 판단하고, 진정성 있게",
   "date": null,
-  "link": "https://mofe.go.kr/nw/nes/detailNesDtaView.do;jsessionid=ZZPjvoNfNfAtoyO4EpkxjQfO7BA_2esDm_ivrqTG.node40?searchBbsId1=MOSFBBS_000000000028&amp;searchNttId1=MOSF_000000000079137&amp;menuNo=4010100"
+  "link": "https://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000079137&menuNo=4010100",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23139": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -102,7 +107,8 @@
  "https://itskorea.kr/boardDetail.do?type=8&idx=23140": {
   "body": "정부 부처 인공지능 전환 흐름 한눈에, 지식재산 AX 전략 수립에 활용! - 정부 부처 AI 보도자료 분석 플랫폼(Gov.AX Insight) 시범 운영 - - 인공지능 전환 정책을 데이터로 관리하고, 지식재산 정책 기획에 적극 반영 - 지식재산처(처장 김용선)는 정부 부처 인공지능 전환(AX, AI Transformation) 동향을 체계적으로 파악하고 이를 지식재산 인공지능 전환(IP-AX*) 전략 수립에 활용하기 위하여 개발한 ‘정부 부처 AI 보도자료 분석 플랫폼(Gov.AX Insight)**’을 시범 운영한다고 밝혔다. * IP-AX : 지식재산(Intellectual Property) 분야의 인공지능 전환(AX)을 뜻하는 영문 줄임말 이 플랫폼은 대한민국 정책브리핑에서 발표되는 인공지능 관련 보도자료를 자동으로 수집-요약-분석하고 분기별 동향보고서까지 생성하는 등 인공지능에 의해 자율적으로 관리되는 분석 플랫폼이다. [붙임 1] 이는 지식재산처가 여러 정부 부처들의 인공지능 관련 주요 정책을 실시간으로 파악하고 우수 정책사례를 지식재산 행정에도 확산·적용하기 위하여 지식재산인공지능전환 추진단(이하, ‘IP-AX 추진단’) 내에서 대화형(바이브) 코딩 방식으로 별도 예산투입 없이 자체 개발되었다. 보도자료들의 단순 모음을 넘어 ▲주요 정책의 주제별 흐름과 월별 추이 ▲부처별 AX 정책 분포도 ▲증가하는 주요 단어 관계망 등 인공지능 전환을 위한 정부 정책의 흐름을 데이터에 기반하여 파악할 수 있도록 시각화한 것이 특징이다. 아울러, 축적된 보도자료를 기반으로 핵심 정책들을 분류하고 지식재산처 관점에서 필요한 정보들을 분석·정리해주는 ‘AI 동향보고서’도 인공지능이 생성하여 분기별로 제공한다. 이를 통해 정책담당자는 여러 정부 부처들이 업무혁신을 위해 어떠한 정책들을 추진하고",
   "date": null,
-  "link": "https://www.moip.go.kr/ko/kpoBultnDetail.do?menuCd=SCD0200618&amp;ntatcSeq=21012&amp;sysCd=SCD02&amp;aprchId=BUT0000029"
+  "link": "https://www.moip.go.kr/ko/kpoBultnDetail.do?menuCd=SCD0200618&ntatcSeq=21012&sysCd=SCD02&aprchId=BUT0000029",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23141": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -117,7 +123,8 @@
  "https://itskorea.kr/boardDetail.do?type=8&idx=23144": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
-  "link": "https://pharm.edaily.co.kr/News/Read?newsId=03207846645551256"
+  "link": "https://pharm.edaily.co.kr/News/Read?newsId=03207846645551256",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23145": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -142,7 +149,8 @@
  "https://itskorea.kr/boardDetail.do?type=8&idx=23153": {
   "body": "- 총리실, 중앙부처‧지자체‧교육청 민원담당 200명과 ‘민원행정 혁신을 위한 공공AX 포럼’ 개최 - 비예산으로 현장에서 직접 개발한 ‘AI민원서포터’ 전국 확산과 함께 향후 행정심판답변서 작성‧토론형 AI를 통하여 민원해결 가속화 □ 국무조정실 및 국무총리비서실(이하 국무총리실)은 8월25일 오후 정부세종청사 6동 대강당에서 전국 중앙부처·지방자치단체·교육청의 민원담당자 200여명이 참석한 가운데 ‘민원행정 혁신을 위한 공공AX 포럼’을 개최했다. ㅇ 이번 포럼은 국민이 제기한 민원을 단순히 안내·종결하는 데 그치지 않고 민원을 실제 해결하고 신속하게 답변하는 방안을 모색하기 위해 마련됐다. 참석자들은 민원합리성 검토위원회 운영 성과, AI 민원서포터의 기능과 발전방향, AI 챔피언의 현장혁신 사례를 공유하고 민원업무 공공AX 전환에 대해 논의하였다. ㅇ 첫 번째 발표에서는 국무총리비서실 이용하 민정민원팀장이 민원합리성 검토위원회의 운영 성과를 소개했다. 민원합리성검토위원회는 다수 국민에게 영향을 미치지만 법규·관행 또는 기관 간 칸막이로 해결되지 못한 민원을 외부 전문가와 시민의 시각에서 다시 검토하고, 관계기관과 함께 개선 방안을 마련하여 민원해결 방안을 검토하는 위원회다. ㅇ 총리실은 2025년 11월 첫 회의를 시작으로 2026년 5월까지 네 차례의 위원회를 열어 총 14건의 장기 미해결 민원을 해결했다. 주택연금 가입자의 실거주 요건 폐지, 자동차 차대번호 타각 수수료 인하, 관람권의 차별표기 폐지, 기초생활수급자 전입 시 도시가스 감면 신청 지원, 외국인 계절근로자의 국민연금 반환일시금 지급, 산업안전·보건지도사 응시료 개선, 휴대전화가 없는 청소년의 온라인 본인확인 절차 마련 등이 대표 사례다. ㅇ 위원회는 민원 접수와 주요민원 식별, 소관기관 실무협의, 합리성 검토,",
   "date": null,
-  "link": "https://www.opm.go.kr/opm/news/press-release.do?mode=view&amp;articleNo=163211&amp;article.offset=0&amp;articleLimit=10"
+  "link": "https://www.opm.go.kr/opm/news/press-release.do?mode=view&articleNo=163211&article.offset=0&articleLimit=10",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23155": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -152,12 +160,86 @@
  "https://itskorea.kr/boardDetail.do?type=8&idx=23157": {
   "body": "□국토교통부(장관 김윤덕) 대도시권 광역교통위원회(위원장 김용석, 이하 대광위)는 8월 27일 오후 서울에서 갈등조정위원회를 열어 위례선 트램 건설사업 관련 갈등조정안을 의결하였다. ㅇ 이번 갈등조정위원회는 위례선 트램 건설사업의 교차로·횡단부 내 교통안전시설 설치와 교통안전심의에 관한 서울특별시(이하 서울시)와 서울특별시경찰청(이하 서울시경)의 이견을 조정하고자 개최하였다. □위례선 트램은 국내 최초로 도입되는 트램으로, 서울시에서 건설공사를 추진 중에 있으나, 트램 선로의 도로 해당 여부 및 교통안전심의 대상 범위를 둘러싼 관계기관 간 이견으로 사업추진이 지연될 우려가 있었다. ㅇ 이에 대광위는 서울시의 갈등조정 요청을 받아 관계기관의 의견과 ｢도로교통법｣ 등의 관련 규정을 면밀히 검토하고 2차례의 실무위원회와 갈등조정위원회를 거쳐, 최종 조정안을 마련하여 심의·의결하였다. ➊ 서울시는 트램선로를 ‘구도(區道)’로 지정하여 교통안전심의 요건을 갖추고, 안전확보를 위해 교통안전법상 교통시설안전진단*을 조속히 수행한 후, 그 결과를 반영한 안전대책을 마련하여 서울시경에 교통안전심의를 요청한다. * ｢교통안전법｣에 따라 교통시설 개통 전, 이용자 관점에서 잠재적 교통사고 유발 요인을 사전에 조사·검토하여 개선대책을 마련하는 안전관리 제도 ➋ 경기도와 성남시는 교통안전심의 추진을 위해 성남시 구간의 트램선로를 성남시의 ‘시도(市道)’로 지정한다. ➌ 서울시경은 서울시에서 위의 사항을 모두 이행한 후 교통안전심의를 요청하면 심의를 이행하여, 트램이 보행자·자동차에 미치는 안전문제를 검토한다. ➍ 위례선 트램의 신속한 추진을 위해 향후 추가적인 관계기관 간 이견 발생 시 대광위가 이를 조정하고, 관계기관들이 위례선 트램 적기 개통에 긴밀히 협력한다. □김용석 대광위원장은 “위례선 트램은 국내",
   "date": null,
-  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&amp;id=95092355"
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092355",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23158": {
   "body": "- 한 총리, 데이터관계장관회의 주재…“공공데이터가 정부에서만 활용되서는 안 돼” - ▴공공데이터 Top 100 개방시기 1년 단축(’28년→’27년) ▴공공저작물 37종 AI 학습 허용 □ 한성숙 국무총리는 8월 27일(목) 14시 정부서울청사에서 ‘데이터 관계장관회의’를 주재하였다. * (참석) 국무총리(주재), 과기정통부·행안부·문체부·복지부·국토부·기획처·데이터처·개인정보위 장·차관, 국가AI전략위 데이터분과장 등 ㅇ 금일 회의는 지난 5월 범정부 데이터 총괄기구로 신설한 데이터 관계장관회의의 두 번째 회의로서, 정부‧공공기관 등이 보유한 공공데이터 개방 확대를 주제로 개최되었다. □ 한 총리는 회의에 앞서 “최근 공무원들이 개발한 AI서비스가 현장의 문제를 해결하는 등 공공 AI전환이 가속화되고 있는 기반은 공공데이터”라며, “공공데이터는 오랜 기간 경제‧사회 전 분야에 걸쳐 축적된 대체불가 국가자산으로, 양질의 공공데이터가 적극 개방되고 얼마나 잘 활용하느냐에 글로벌 AI 경쟁력이 좌우된다.”고 하였다. ㅇ 또한, “공공데이터는 국민의 소중한 세금으로 구축된 것으로 개방하는 것이 당연한 원칙이며, 그동안 관행 등을 이유로 소극적으로 개방한 부분은 없었는지 되짚어볼 것”을 관계부처에 당부했다. □ 먼저, 첫번째 안건으로 ｢AI‧고가치 공공데이터 Top 100 조기 개방 추진방안｣에 대해 논의하였다. ㅇ 행안부는 AI 개발 수요가 높고 사회적·경제적 파급효과가 큰 100종의 공공데이터를 선정해 개방 중인 ｢AI·고가치 공공데이터 Top 100｣을 데이터 보유기관과의 협의를 통해 당초 계획보다 앞당겨 ’27년까지 추진하겠다고 밝혔다. ㅇ 기존에는 ’28년까지 단계적으로 개방할 계획이었으나, 지난해 개방된 10종의 TOP 100 데이터가 구체적인 성과를 내면서 개방 시점을 앞당겨 ",
   "date": null,
-  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&amp;mId=307&amp;mPid=208&amp;pageIndex=&amp;bbsSeqNo=94&amp;nttSeqNo=3187708&amp;searchOpt=ALL&amp;searchTxt="
+  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187708&searchOpt=ALL&searchTxt=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23159": {
+  "body": "- 행안부, 8월 26일 등급심의위원회 통해 15,033개 시스템 새로운 등급 확정 - 국가핵심(A1) 시스템 73개 지정, 정부24 등 국민 안전·일상 직결 서비스 행정안전부(장관 윤호중)는 지난 4월부터 추진해 온 공공 정보시스템 등급 전면 재분류를 마무리하고, 1만 5,033개에 대한 새로운 등급을 확정했다고 밝혔다. 이번 재분류는 지난해 9월 발생한 국가정보자원관리원 화재 당시, 사용자 수가 적다는 이유로 낮은 등급을 받아 국민 생활에 미치는 영향이 큼에도 복구가 늦어졌던 문제를 근본적으로 바꾸기 위해 추진됐다. 이에 따라, 기관이나 사용자 수가 아닌 국민 관점에서 서비스 중요도를 중심으로 A1에서 A4 단계로 등급 체계를 개편하고, 모든 공공 정보시스템에 대한 등급 전면 재분류를 진행했다. 특히, 행정안전부는 등급 부여 대상인 15,033개의 정보시스템에 대해 민간 전문가 자문 등 실무 검토와 5개 분과위원회(일반행정, 지방행정, 안전, 경제, 사회) 의 심사를 거쳤으며, 지난 8월 26일 정보시스템 등급심의위원회 제2차 전체 회의에서 최종적으로 결정했다. >> 국가핵심(A1) 등급 73개 등 총 15,033개 정보시스템 재분류 완료 심의 결과, A1 등급 73개(0.5%), A2 등급 157개(1.0%), A3 등급 671개(4.5%), A4 14,132개(94.0%)로 결정됐다. 정보시스템 등급심의위원회에서는 각 기관이 신청한 내용에 대해 국민의 생명‧안전 및 일상생활과 직결되는 정보시스템은 등급을 상향하는 한편, 시스템의 중요도에 비해 높게 신청되었으면 등급을 하향 조정했다. 이 중 국가핵심(A1) 등급 73개는 국민 안전 22개, 관세행정 15개, 재정금융 11개, 보건복지 11개, 행정 기반 8개, 국토교통 6개 순으로 나타나, 국민 안전 분야의 비중이 가장 높았으며",
+  "date": null,
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129047",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23160": {
+  "body": "- 어린이 보호구역의 어린이 교통안전을 최우선으로 하여 안전한 범위 내에서 최소한의 국민 편의 확보를 위한 합리적 운영 확대 - 모든 어린이 보호구역에 일률 적용하는 것은 아니고, 시간제 속도제한 표지 등 교통안전시설이 갖춰진 장소부터 순차적으로 확대 운영 예정 경찰청(청장 직무대행 유재성)은 교통안전과 소통 편의를 확보하기 위해 어린이 보호구역 시간제 속도제한 운영 기준을 합리적으로 개선, 시간제 속도제한을 운영하는 장소 확대를 추진한다. ‘어린이 보호구역 시간제 속도제한’이란 제한속도를 평상시 시속 30km로 운영하는 어린이 보호구역에서 심야시간 등 어린이 통행이 없거나 적은 시간에 일시적으로 제한속도를 상향하는 제도를 말한다. 그간 어린이 보호구역 제한속도는 보행자 교통안전을 위해 대부분 전일 시속 30km로 운영해 왔다. 다만 보행자 통행이 거의 없는 심야시간까지 이러한 규제를 적용하는 것은 과도하다는 지적이 이어져 왔고, ’23.9월부터 시범운영을 거쳐 일정 요건을 갖춘 곳에 시간제 속도제한을 도입하는 방안을 시행하였다. 그러나 ’26.4월을 기준으로 전국 어린이 보호구역 15,856개소 중 단 84개소에서만 운영 중으로, 전체 대비 0.5% 수준에 불과하다. 어린이 보호구역 시간제 속도제한은 △지방정부의 예산부담 △제한된 대상 기준 등 현실의 벽에 부딪혀 확대하기 어려웠던 것이 사실이다. 최근 5년, 어린이 보호구역 내 심야00~06시 어린이 보행 교통사고 발생 ‘0건’ 국내 어린이 보호구역의 교통안전은 우수한 수준이다. 통계를 분석해 보면, 지난 ’25년에 발생한 어린이 보호구역 내 어린이 보행 사망사고는 1건으로, 10년 전인 ’15년(8건)에 비해 크게 감소하였으며, 특히 최근 5년간 심야(00~06시)에는 어린이 보호구역 내 어린이 보행 교통사고가 단 한 건도 발생하",
+  "date": null,
+  "link": "https://www.police.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1002&q_bbscttSn=20260827153148546&q_tab=&q_searchKeyTy=&q_searchVal=&q_rowPerPage=10&q_currPage=1&q_sortName=&q_sortOrder=&",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23161": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-28",
+  "link": "https://www.news1.kr/industry/sb-founded/6271707",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23162": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-27",
+  "link": "https://www.yna.co.kr/amp/view/AKR20260827125800061",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23163": {
+  "body": "안산시와 현대오토에버는 중앙역과 고잔역 공영주차장에서 내비게이션 시연회를 가졌습니다. 현대오토에버는 이번 시연회를 시작으로 내년 상반기까지 이용자들이 실제로 이용할 수 있도록 적용한다는 계획입니다. 안산시와 현대오토에버는 중앙역과 고잔역 공영주차장에서 내비게이션 시연회를 가졌습니다. 현대오토에버는 이번 시연회를 시작으로 내년 상반기까지 이용자들이 실제로 이용할 수 있도록 적용한다는 계획입니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-08-27",
+  "link": "https://news.skbroadband.com/news/articleView.html?idxno=236230",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23166": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-27",
+  "link": "https://www.boannews.com/news/articleView.html?idxno=145487",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23167": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-27",
+  "link": "https://www.inews24.com/view/1999054",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23168": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-27",
+  "link": "https://kidd.co.kr/news/247190",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23170": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-27",
+  "link": "https://www.mssnews.com/news/articleView.html?idxno=2883",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23172": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-27",
+  "link": "https://www.newscj.com/news/articleView.html?idxno=3428343",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23173": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-28",
+  "link": "https://www.edaily.co.kr/News/Read?newsId=02676486645551912&mediaCodeNo=257",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23174": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-27",
+  "link": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217666",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23159": {
   "body": "- 행안부, 8월 26일 등급심의위원회 통해 15,033개 시스템 새로운 등급 확정 - 국가핵심(A1) 시스템 73개 지정, 정부24 등 국민 안전·일상 직결 서비스 행정안전부(장관 윤호중)는 지난 4월부터 추진해 온 공공 정보시스템 등급 전면 재분류를 마무리하고, 1만 5,033개에 대한 새로운 등급을 확정했다고 밝혔다. 이번 재분류는 지난해 9월 발생한 국가정보자원관리원 화재 당시, 사용자 수가 적다는 이유로 낮은 등급을 받아 국민 생활에 미치는 영향이 큼에도 복구가 늦어졌던 문제를 근본적으로 바꾸기 위해 추진됐다. 이에 따라, 기관이나 사용자 수가 아닌 국민 관점에서 서비스 중요도를 중심으로 A1에서 A4 단계로 등급 체계를 개편하고, 모든 공공 정보시스템에 대한 등급 전면 재분류를 진행했다. 특히, 행정안전부는 등급 부여 대상인 15,033개의 정보시스템에 대해 민간 전문가 자문 등 실무 검토와 5개 분과위원회(일반행정, 지방행정, 안전, 경제, 사회) 의 심사를 거쳤으며, 지난 8월 26일 정보시스템 등급심의위원회 제2차 전체 회의에서 최종적으로 결정했다. >> 국가핵심(A1) 등급 73개 등 총 15,033개 정보시스템 재분류 완료 심의 결과, A1 등급 73개(0.5%), A2 등급 157개(1.0%), A3 등급 671개(4.5%), A4 14,132개(94.0%)로 결정됐다. 정보시스템 등급심의위원회에서는 각 기관이 신청한 내용에 대해 국민의 생명‧안전 및 일상생활과 직결되는 정보시스템은 등급을 상향하는 한편, 시스템의 중요도에 비해 높게 신청되었으면 등급을 하향 조정했다. 이 중 국가핵심(A1) 등급 73개는 국민 안전 22개, 관세행정 15개, 재정금융 11개, 보건복지 11개, 행정 기반 8개, 국토교통 6개 순으로 나타나, 국민 안전 분야의 비중이 가장 높았으며",
@@ -197,12 +279,14 @@
  "https://itskorea.kr/boardDetail.do?type=9&idx=23085": {
   "body": "[커넥티드 카 뉴스: Verra Mobility, CardinaleWay, Hyundai, Genesis, AWS, Cinemo, AUTOCRYPT, LG, Cedar, TomTom, Dolby 및 SmashLabs 마운틴뷰에 위치한 카디날웨이 현대 & 제네시스는 정비 부서 전반에 걸쳐 Meta AI 스마트 안경을 도입하여, 웨어러블 하드웨어를 실시간 다중 점검(MPI) 워크플로에 통합한 최초의 자동차 판매 대리점이 되었습니다. Meta Wearables Device Access SDK 툴킷을 통해 개발된 이 하드웨어는 UpdatePromise의 Symphony 정비 운영 소프트웨어 플랫폼과 직접 연동되어 핸즈프리 디지털 점검 및 서비스 문서화를 지원합니다...중략... [커넥티드 카 뉴스: Verra Mobility, CardinaleWay, Hyundai, Genesis, AWS, Cinemo, AUTOCRYPT, LG, Cedar, TomTom, Dolby 및 SmashLabs 마운틴뷰에 위치한 카디날웨이 현대 & 제네시스는 정비 부서 전반에 걸쳐 Meta AI 스마트 안경을 도입하여, 웨어러블 하드웨어를 실시간 다중 점검(MPI) 워크플로에 통합한 최초의 자동차 판매 대리점이 되었습니다. Meta Wearables Device Access SDK 툴킷을 통해 개발된 이 하드웨어는 UpdatePromise의 Symphony 정비 운영 소프트웨어 플랫폼과 직접 연동되어 핸즈프리 디지털 점검 및 서비스 문서화를 지원합니다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
-  "link": null
+  "link": null,
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23086": {
   "body": "Walking along Phnom Penh’s boulevards and streets, one cannot help but be overwhelmed by the sheer number of parked cars and motorcycles on and off the streets. Recently, City Hall undertook the demanding task of restoring sidewalks in the Phsar Dem Kor area, along Mao Tse Toung and Samdech Monireth Boulevards and smaller inner streets...중략... [프놈펜에서 노상 주차를 허용하면 도시 교통 흐름 개선에 도움이 됩니다.] 프놈펜의 대로와 거리를 걷다 보면, 도로 안팎에 주차된 수많은 자동차와 오토바이에 압도당하지 않을 수 없습니다. 최근 시청은 마오쩌둥 대로와 삼데치 모니레트 대로를 비롯한 프사르 뎀 코르 지역과 그 주변 작은 골목길의 보도를 복원하는 어려운 사업에 착수했습니다. 보도를 침범했던 노점상과 주차된 차량들을 되찾았습니다. 동시에 시는 보도 재포장, 가로수 재식재, 그리고 절실히 필요한 보행자 기반 시설 확충에 투자하고 있습니다. Walking along Phnom Penh’s boulevards and streets, one cannot help but be overwhelmed by the sheer number of parked cars and motorcycles on and off the streets. Recently, City Hall undertook the demanding task of restoring sidewalks in the Phsar Dem Kor area, along Mao Tse",
-  "date": null,
-  "link": "https://kiripost.com/stories/enabling-on-street-parking-helps-urban-mobility-in-phnom-penh"
+  "date": "2026-08-23",
+  "link": "https://kiripost.com/stories/enabling-on-street-parking-helps-urban-mobility-in-phnom-penh",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23096": {
   "body": "미국 네바다주가 라스베이거스를 중심으로 한 자율주행차 상용화에 속도를 내고 있다. 네바다주 교통당국은 테슬라와 우버, 웨이모의 상업용 로보택시 운행을 승인하면서 앞으로 1년간 라스베이거스가 위치한 클라크 카운티에 최대 8000대의 자율주행 차량이 운행할 수 있는 길을 열었다...중략... 미국 네바다주가 라스베이거스를 중심으로 한 자율주행차 상용화에 속도를 내고 있다. 네바다주 교통당국은 테슬라와 우버, 웨이모의 상업용 로보택시 운행을 승인하면서 앞으로 1년간 라스베이거스가 위치한 클라크 카운티에 최대 8000대의 자율주행 차량이 운행할 수 있는 길을 열었다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
@@ -252,7 +336,8 @@
  "https://itskorea.kr/boardDetail.do?type=9&idx=23123": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
-  "link": "https://www.globenewswire.com/news-release/2026/08/25/3350362/0/en/advanced-smart-mobility-deploys-cerence-emergency-vehicle-detection-in-autonomous-buses-across-japan.html"
+  "link": "https://www.globenewswire.com/news-release/2026/08/25/3350362/0/en/advanced-smart-mobility-deploys-cerence-emergency-vehicle-detection-in-autonomous-buses-across-japan.html",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23124": {
   "body": "Pennsylvania Department of Transportation (PennDoT) has brought Quarterhill on board to run statewide Weigh in Motion (WiM) operations. The three-year, $4.6 million contract will see Quarterhill delivering scheduled maintenance, emergency repair services, and system calibration for PennDoT’s network of planning and compliance WIM sites...중략... [Quarterhill, 펜실베이니아주 교통부 WiM 계약 460만 달러 수주] 펜실베이니아 교통부(PennDoT)는 쿼터힐(Quarterhill)을 선정하여 주 전역의 이동식 계량 시스템(Weigh in Motion, WiM) 운영을 맡겼습니다. 3년 동안 460만 달러에 달하는 이 계약을 통해 Quarterhill은 PennDoT의 계획 및 규정 준수 WIM 사이트 네트워크에 대한 정기 유지 보수, 긴급 수리 서비스 및 시스템 보정을 제공할 예정입니다. Pennsylvania Department of Transportation (PennDoT) has brought Quarterhill on board to run statewide Weigh in Motion (WiM) operations. The three-year, $4.6 million contract will see Quarterhill delivering scheduled maintenance, emergency repair services, and system calibration for PennDoT’s net",
@@ -287,7 +372,8 @@
  "https://itskorea.kr/boardDetail.do?type=9&idx=23149": {
   "body": "U.S. Transportation Secretary Sean P. Duffy today unveiled America’s Great Corridors of Commerce (AGCC) – a first-of-its-kind, voluntary nationwide opportunity to transform highway and rail corridors into multi-use arteries for transmission wires, fiber optic lines, water pipelines, and other vital utilities. Expanding energy and telecommunications capacity are needed to:..중략... [트럼프 행정부의 숀 P. 더피 교통부 장관은 미래 경제를 이끌어갈 다목적 동맥으로 고속도로와 철도를 탈바꿈시키기 위한 '미국의 위대한 상업 회랑' 계획을 발표했습니다.] 션 P. 더피 미국 교통부 장관은 오늘 ‘ 미국 주요 상업 회랑(AGCC)’을 발표했습니다 . 이는 고속도로와 철도 회랑을 송전선, 광섬유 케이블, 상수도관 및 기타 필수 시설을 위한 다목적 동맥으로 전환할 수 있는 최초의 전국적인 자발적 참여 프로그램입니다. 에너지 및 통신 용량 확장은 다음과 같은 이유로 필요합니다. U.S. Transportation Secretary Sean P. Duffy today unveiled America’s Great Corridors of Commerce (AGCC) – a first-of-its-kind, voluntary nationwide opportunity to transform highway and rail corridors into multi-use arteries for transmission w",
   "date": null,
-  "link": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-americas-great-corridors"
+  "link": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-americas-great-corridors",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23150": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -302,11 +388,54 @@
  "https://itskorea.kr/boardDetail.do?type=9&idx=23152": {
   "body": "5GAA would like to thank MoRTH for the opportunity to comment on the draft notification introducing V2V requirements for type approval of L, M, N category vehicles in India. 5GAA applauds the Government of India’s commitment to improving road safety and accelerating the deployment of connected vehicle technologies. 5GAA welcomes the objective to establish a regulatory framework that enables interoperable V2X services and contributes to safer and more efficient transport systems...중략... [5GAA는 인도에서 L, M, N 카테고리 차량의 형식 승인을 위한 V2V 요건을 도입하는 MoRTH 초안 고시에 대한 답변을 발표] 5GAA는 인도에서 L, M, N 카테고리 차량의 형식 승인을 위한 V2V 요건 도입에 관한 초안 고시에 대해 의견을 제시할 기회를 주신 교통부에 감사드립니다. 5GAA는 인도 정부의 도로 안전 개선 및 커넥티드 차량 기술 도입 가속화에 대한 노력을 높이 평가합니다. 5GAA는 상호 운용 가능한 V2X 서비스를 가능하게 하고 보다 안전하고 효율적인 교통 시스템 구축에 기여하는 규제 프레임워크 마련이라는 목표를 환영합니다. 5GAA would like to thank MoRTH for the opportunity to comment on the draft notification introdu",
   "date": null,
-  "link": "https://5gaa.org/5gaa-response-to-the-morth-draft-notification-introducing-v2v-requirements-for-type-approval-of-l-m-n-category-vehicles-in-india/"
+  "link": "https://5gaa.org/5gaa-response-to-the-morth-draft-notification-introducing-v2v-requirements-for-type-approval-of-l-m-n-category-vehicles-in-india/",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23156": {
   "body": "...중략...우크라이나가 35주년 독립기념일을 맞아 24일 수도 키이우에서 벌인 열병식엔 통상 등장하는 병사들의 행진이나 전차의 주행 등을 찾아볼 수 없었다. 대신 대규모 첨단 드론, 로봇 부대 퍼레이드 등이 그 자리를 채우며, 현대 전쟁의 새로운 양상을 상징적으로 보여줬다...중략... ...중략...우크라이나가 35주년 독립기념일을 맞아 24일 수도 키이우에서 벌인 열병식엔 통상 등장하는 병사들의 행진이나 전차의 주행 등을 찾아볼 수 없었다. 대신 대규모 첨단 드론, 로봇 부대 퍼레이드 등이 그 자리를 채우며, 현대 전쟁의 새로운 양상을 상징적으로 보여줬다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": "2026-08-26",
   "link": "https://www.donga.com/news/Inter/article/all/20260826/134544085/2"
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23164": {
+  "body": "The Integrated Transport Centre (Abu Dhabi Mobility), an affiliate of the Department of Municipalities and Transport, has launched 30 advanced public transport bus shelters across Abu Dhabi, developed in collaboration with the Authority of Social Contribution – Ma’an...중략... 아부다비 교통부 산하 통합 교통 센터(아부다비 모빌리티)는 사회 공헌청(마안)과 협력하여 개발한 첨단 대중교통 버스 정류장 30곳을 아부다비 전역에 설치했습니다. The Integrated Transport Centre (Abu Dhabi Mobility), an affiliate of the Department of Municipalities and Transport, has launched 30 advanced public transport bus shelters across Abu Dhabi, developed in collaboration with the Authority of Social Contribution – Ma’an...중략... 아부다비 교통부 산하 통합 교통 센터(아부다비 모빌리티)는 사회 공헌청(마안)과 협력하여 개발한 첨단 대중교통 버스 정류장 30곳을 아부다비 전역에 설치했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-08-27",
+  "link": "https://www.traffictechnologytoday.com/uncategorized/abu-dhabi-launches-30-solar-powered-bus-shelters.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23165": {
+  "body": "The Traffic Group Inc. (TTG), based in Baltimore, Maryland, has been selected by the New Mexico Department of Transportation (NMDOT) to conduct statewide traffic data collection, marking the firm’s first project in New Mexico...중략... [Traffic Group이 뉴멕시코 데이터 수집 계약을 수주했습니다.] 메릴랜드주 볼티모어에 본사를 둔 트래픽 그룹(TTG)이 뉴멕시코주 교통부(NMDOT)로부터 주 전체 교통 데이터 수집 사업자로 선정되었으며, 이는 TTG가 뉴멕시코주에서 수행하는 첫 번째 프로젝트입니다. The Traffic Group Inc. (TTG), based in Baltimore, Maryland, has been selected by the New Mexico Department of Transportation (NMDOT) to conduct statewide traffic data collection, marking the firm’s first project in New Mexico...중략... [Traffic Group이 뉴멕시코 데이터 수집 계약을 수주했습니다.] 메릴랜드주 볼티모어에 본사를 둔 트래픽 그룹(TTG)이 뉴멕시코주 교통부(NMDOT)로부터 주 전체 교통 데이터 수집 사업자로 선정되었으며, 이는 TTG가 뉴멕시코주에서 수행하는 첫 번째 프로젝트입니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-08-27",
+  "link": "https://www.traffictechnologytoday.com/news/traffic-counting-categorization/the-traffic-group-wins-new-mexico-data-collection-deal.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23169": {
+  "body": "...중략...The state’s Transportation Modernization Board approved DriveTN as the Tennessee Department of Transportation (TDoT)’s partner. “When we set out to modernise transportation infrastructure in Tennessee, we knew incremental change would not be enough to meet the demands of one of the fastest-growing states in America,” said Tennessee governor Bill Lee...중략... 테네시주 교통 현대화 위원회는 DriveTN을 테네시주 교통부(TDoT)의 파트너로 승인했습니다. 테네시 주지사 빌 리는 \"테네시주의 교통 인프라 현대화 사업을 시작했을 때, 점진적인 변화만으로는 미국에서 가장 빠르게 성장하는 주 중 하나인 테네시의 수요를 충족시키기에 충분하지 않다는 것을 알고 있었다\"고 말했다. ...중략...The state’s Transportation Modernization Board approved DriveTN as the Tennessee Department of Transportation (TDoT)’s partner. “When we set out to modernise transportation infrastructure in Tennessee, we knew incremental change would not be enough to meet the demands of one of the fastest-growing states in America,” said Tennessee governor Bill",
+  "date": "2026-08-27",
+  "link": "https://www.itsinternational.com/tennessee-announces-partners-for-9-2bn-toll-lanes-project/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23171": {
+  "body": "U.S. Transportation Secretary Sean P. Duffy today announced the Federal Aviation Administration (FAA) is launching Phase 2 of the BEYOND program to expand the agency's efforts to integrate drones into the national airspace system (NAS) and secure America’s leadership in aviation innovation...중략... [트럼프 행정부의 숀 P. 더피 교통부 장관은 드론 혁신을 촉진하기 위해 FAA의 BEYOND 프로그램을 대폭 확대한다고 발표했습니다.] 미국 교통부 장관은 오늘 연방항공청(FAA)이 드론을 국가 영공 시스템(NAS)에 통합하고 항공 혁신 분야에서 미국의 리더십을 확보하기 위한 노력을 확대하기 위해 BEYOND 프로그램 2단계에 착수 한다고 발표했습니다. U.S. Transportation Secretary Sean P. Duffy today announced the Federal Aviation Administration (FAA) is launching Phase 2 of the BEYOND program to expand the agency's efforts to integrate drones into the national airspace system (NAS) and secure America’s leadership in aviation innovation...중략... [트럼프 행정부의 숀 P. 더피 교통부 장관은 드론 혁신을 촉진하기 위해 FAA의 BEYOND 프로그램을 대폭 확대한다고 발표했습니다.] 미국 교통부 장관은 오늘 연방항공청(FAA)이",
+  "date": null,
+  "link": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-announces-major-expansion-faa-beyond",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23175": {
+  "body": "he achievement means London's Cycleway network is now five times larger than it was in 2016, when there were 90km of Cycleways. Since then, Transport for London (TfL) and London's boroughs have worked closely to create a connected network of high-quality cycling routes that make it safer and easier for people of all ages and abilities to travel by bike. Data published last year by Transport for London (TfL) revealed that London's cycling boom shows no sign of slowing, with an estimated 43 per cent increase in cycling journeys since 2016, and a massive 1.5 million daily journeys taking place in 2025...중략... 이번 성과로 런던의 자전거 도로망은 2016년 90km에서 5배로 확장되었습니다. 그 이후로 런던 교통국(TfL)과 런던 자치구들은 모든 연령과 능력을 가진 사람들이 자전거를 더욱 안전하고 편리하게 이용할 수 있도록 고품질 자전거 도로망을 구축하기 위해 긴밀히 협력해 왔습니다. 런던 교통국(TfL)이 작년에 발표한 자료에 따르면 런던의 자전거 이용 증가세는 둔화될 기미를 보이지 않고 있으며, 2016년 이후 자전거 이용량이 약 43% 증가하여 2025년에는 하루 150만 건의 자전거 이용이 이루어질 것으로 ",
+  "date": "2026-08-27",
+  "link": "https://ertico.com/londons-cycleway-network-grows-fivefold-in-a-decade",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23176": {
+  "body": "Founded in 1988 by universities, companies and local government bodies, Cefriel has built extensive expertise in data, artificial intelligence, digital ecosystems, cybersecurity and applied research. Within the intelligent transport and mobility sector, the organisation plays a key role in advancing data digitisation, interoperability, governance and trusted data sharing, helping to create more efficient, sustainable and connected mobility systems aligned with European standards and initiatives...중략... [세프리엘, 데이터 기반 및 상호 운용 가능한 모빌리티를 위한 디지털 혁신 주도] 1988년 대학, 기업 및 지방 정부 기관의 참여로 설립된 세프리엘(Cefriel)은 데이터, 인공지능, 디지털 생태계, 사이버 보안 및 응용 연구 분야에서 폭넓은 전문성을 축적해 왔습니다. 지능형 교통 및 모빌리티 분야에서 세프리엘은 데이터 디지털화, 상호 운용성, 거버넌스 및 신뢰할 수 있는 데이터 공유를 발전시키는 데 핵심적인 역할을 수행하며, 유럽 표준 및 이니셔티브에 부합하는 보다 효율적이고 지속 가능하며 연결된 모빌리티 시스템 구축을 지원합니다. Founded in 1988 by universities, companies and local government bodies, Cefriel has buil",
+  "date": "2026-08-26",
+  "link": "https://ertico.com/partner-in-the-spotlight-cefriel-driving-digital-innovation-for-data-driven-and-interoperable",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23177": {
+  "body": "Cerence Inc. (NASDAQ: CRNC) (“Cerence AI”), a global leader in conversational AI-powered user experiences, today announced that Advanced Smart Mobility Co., Ltd. (AS Mobi) is deploying Cerence Emergency Vehicle Detection (EVD) to support its autonomous bus platform field trials in Japan. The collaboration supports safer transportation journeys, helping autonomous vehicles recognize approaching emergency vehicles and respond appropriately in complex, real-world environments...중략... [첨단 스마트 모빌리티, 일본 전역 자율주행 버스에 세렌스 긴급 차량 감지 시스템 도입] 대화형 AI 기반 사용자 경험 분야의 글로벌 리더인 세렌스( Cerence Inc. , NASDAQ: CRNC, 이하 \"세렌스 AI\")는 어드밴스드 스마트 모빌리티(Advanced Smart Mobility Co., Ltd., AS Mobi)가 일본에서 진행 중인 자율주행 버스 플랫폼 현장 시험에 세렌스의 긴급 차량 감지 (EVD) 솔루션을 도입한다고 발표했습니다. 이번 협력을 통해 자율주행 차량이 접근하는 긴급 차량을 인식하고 복잡한 실제 환경에서 적절하게 대응할 수 있도록 지원함으로써 더욱 안전한 교통 환경을 조성할 수 있게 되었습니다. Cerence Inc. (NASDAQ: CRNC) (“Cerence AI”), a global leade",
+  "date": null,
+  "link": "https://www.globenewswire.com/news-release/2026/08/25/3350362/0/en/advanced-smart-mobility-deploys-cerence-emergency-vehicle-detection-in-autonomous-buses-across-japan.html",
+  "tries": 1
  }
 }
