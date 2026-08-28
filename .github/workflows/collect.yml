@@ -49,5 +49,7 @@ jobs:
             echo "변경 없음 — 커밋 건너뜀"
           else
             git commit -m "chore: 수집 결과 갱신 $(TZ=Asia/Seoul date +%Y-%m-%d)"
+            # 크론이 도는 사이 사람이 푸시하면 여기서 충돌해 실행 전체가 실패한다
+            git pull --rebase origin main
             git push
           fi
