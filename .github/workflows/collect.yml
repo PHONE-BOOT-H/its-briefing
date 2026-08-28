@@ -42,7 +42,9 @@ jobs:
         run: |
           git config user.name  "its-briefing-bot"
           git config user.email "its-briefing-bot@users.noreply.github.com"
-          git add data
+          # today.md는 저장소 루트에 있다. 'data'만 담으면 크론이 이 파일을
+          # 영영 갱신하지 않아 남이 읽는 진입점이 어제 것으로 굳는다.
+          git add data today.md
           if git diff --cached --quiet; then
             echo "변경 없음 — 커밋 건너뜀"
           else
