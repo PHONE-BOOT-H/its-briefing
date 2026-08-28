@@ -131,6 +131,39 @@ for desc, title, body, ok in NEWS_LITMUS:
     if not good:
         news_fail.append(desc)
 
+# ── 링크 정리·언어 판별 회귀 테스트 (2026-08-28 실측에서 고친 것)
+print()
+print('=== 링크·언어 회귀 테스트')
+link_fail = []
+LINK_LITMUS = [
+    ('이중 이스케이프 — &amp;가 남으면 브라우저에서 404',
+     'https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&amp;id=95092355',
+     'https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092355'),
+    ('세션 토큰 — 세션 끝나면 죽는 주소',
+     'https://www.mcee.go.kr/home/web/board/read.do;jsessionid=AbC123?id=9',
+     'https://www.mcee.go.kr/home/web/board/read.do?id=9'),
+]
+for desc, raw, want in LINK_LITMUS:
+    got = collect.clean_url(raw)
+    good = got == want
+    print('  %s %s' % ('OK ' if good else '실패', desc))
+    if not good:
+        link_fail.append(desc + ' → ' + got)
+LANG_LITMUS = [
+    ('해외보드 한국어 제목은 한국어 표로 — 12점 바닥에 깔리던 문제',
+     '[일본] AS모비의 자율주행 버스 플랫폼에 세렌스 AI 긴급차량 감지 솔루션 실증 도입',
+     False, lambda sc: sc >= 25),
+    ('한글 국가명만으로는 뒤집히지 않는다',
+     '[인도네시아] Jakarta launches smart traffic management system',
+     False, lambda sc: sc >= 12),
+]
+for desc, title, korean, ok in LANG_LITMUS:
+    sc, _ = collect.score_news(title, korean)
+    good = ok(sc)
+    print('  %s %3d점  %s' % ('OK ' if good else '실패', sc, desc))
+    if not good:
+        link_fail.append(desc)
+
 # ── CI 게이트: 아래는 데이터가 망가진 것이므로 실패로 끝낸다
 hard = []
 if miss:
@@ -147,6 +180,8 @@ if reg_fail:
     hard.append('채점기 회귀 %d건' % len(reg_fail))
 if news_fail:
     hard.append('기사 채점기 회귀 %d건' % len(news_fail))
+if link_fail:
+    hard.append('링크·언어 회귀 %d건' % len(link_fail))
 
 print()
 if hard:

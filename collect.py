@@ -831,7 +831,11 @@ def digest_md(items, today):
     def fresh(it):
         if it.get('already_posted') or it.get('flag') or it.get('stale'):
             return False
-        if it['source'] == 'ITS Korea' and it.get('category') == '기타':
+        # '기타'는 64%가 비ITS라 빼지만, 사업 신호로 점수가 오른 건은 남긴다.
+        # 김포 태리IC(예타 통과, 30점)가 기타라는 이유로 빠져 있었다.
+        # 분류표(CAT_KO)를 고치지 않는 이유: held-out 측정 시계가 리셋된다.
+        if (it['source'] == 'ITS Korea' and it.get('category') == '기타'
+                and it['score'] < 25):
             return False
         d = it.get('orig_published') or it.get('published') or ''
         return d >= (date.fromisoformat(today) - timedelta(days=DIGEST_DAYS)).isoformat()
@@ -1172,6 +1176,8 @@ KO_EVENT = ['참가', '개막', '부스', '전시회', '시연회', '선봬', '�
 # 위 말이 있어도 이게 같이 있으면 안 깎는다. 행사장에서 발표된 실제 계약이 있다.
 KO_BIZ = ['수주', '수출', '계약', '착공', '개통', '준공', '예타', '예비타당성',
           '발주', '협약', 'mou', '통과', '지정', '승인']
+# '수상'은 시상식이지만 수상택시(水上)도 걸린다. 현재 데이터엔 오탐 0건, 예방용.
+KO_EVENT_NOT = ('수상택시', '수상교통', '수상버스', '수상레저', '수상비행')
 EVENT_PENALTY = 20
 BODY_CAP = 12        # 본문 가산 상한. 본문은 길어서 상한이 없으면 제목을 압도한다
 BODY_LEAD = 500      # 본문 앞부분만 본다. 뒤로 갈수록 관련기사·홍보문구가 섞인다
@@ -1307,6 +1313,15 @@ NEWS_DAILY_CAP = 5   # 보드별 하루 노출 상한
 ASSOC_BASE = 12      # ITS Korea 게시판 기본점 — 협회가 ITS 관점에서 이미 고른 목록이다
 
 
+def is_korean(title):
+    """제목이 한국어인지. 협회가 해외기사를 한국어 제목으로 올리는 경우가 있다 —
+    영어 채점표에 물리면 '자율주행'도 0점이라 전부 바닥(12점)에 깔린다(실측 12건).
+    [인도네시아] 같은 한글 국가명만으로 뒤집히지 않게 한글이 라틴보다 많아야 한다."""
+    h = sum(1 for c in (title or '') if '가' <= c <= '힣')
+    a = sum(1 for c in (title or '') if c.isascii() and c.isalpha())
+    return h >= 5 and h > a
+
+
 def is_english(title):
     """제목이 영어인지. 라틴 문자 비율만 봐도 충분하다."""
     t = re.sub(r'[^0-9A-Za-z가-힣]', '', title or '')
@@ -1323,13 +1338,17 @@ def score_news(title, korean=False, body=''):
     실체는 '한국형 하이패스 말레이시아 첫 수출'인데 그 말이 전부 본문에만 있었다(6점).
     본문을 그냥 다 세면 반대로 본문이 제목을 압도하므로 BODY_CAP으로 묶는다.
     """
-    # 한국어 소스라도 제목이 영어면 영어 채점기를 태운다
+    # 한국어 소스라도 제목이 영어면 영어 채점기를, 그 반대도 마찬가지로 태운다
     if korean and is_english(title):
         korean = False
+    elif not korean and is_korean(title):
+        korean = True
     t = (title or '').lower()
     rules = KO_BONUS if korean else KEYWORD_BONUS
     total, hits = keyword_bonus(t, rules)
-    event = korean and any(w in t for w in KO_EVENT) and not any(w in t for w in KO_BIZ)
+    event = (korean and any(w in t for w in KO_EVENT)
+             and not any(w in t for w in KO_BIZ)
+             and not any(w in t for w in KO_EVENT_NOT))
     # 행사 기사에는 본문 가산을 주지 않는다. 행사 소개문이라 더할 값이 없고,
     # 주면 감점을 그대로 상쇄한다(실측 1차: 산업전 개막 기사가 44→41에 그쳤다).
     if body and not event:
@@ -1468,8 +1487,10 @@ def article_date(page):
     m = re.search(r'property="article:published_time"[^>]*content="(20\d\d-\d\d-\d\d)', page)
     if m:
         return m.group(1)
-    d = re.findall(r'"datePublished"\s*:\s*"(20\d\d-\d\d-\d\d)', page)
-    return max(d) if d else None
+    # 폴백은 페이지의 날짜가 하나로 일치할 때만 믿는다. max()로 아무거나 집으면
+    # 사이드바의 새 기사 날짜가 잡혀 옛 기사가 최신으로 위장한다 — 지연 감지가 뚫리는 방향.
+    d = set(re.findall(r'"datePublished"\s*:\s*"(20\d\d-\d\d-\d\d)', page))
+    return d.pop() if len(d) == 1 else None
 
 
 def article_body(page, limit=900):
@@ -1488,12 +1509,32 @@ def article_body(page, limit=900):
     return re.sub(r'\s+', ' ', text)[:limit]
 
 
+def clean_url(u):
+    """게시판에서 뽑은 URL 정리.
+
+    게시판 HTML은 링크를 이중 이스케이프해 담는다(&amp;amp; — 실측 15건). unescape를
+    한 번만 하면 &amp;가 남아 브라우저에서 그대로 404가 난다. 정부 사이트 링크에는
+    ;jsessionid= 세션 토큰이 붙어 오는데(실측 3건) 세션이 끝나면 죽는 주소다.
+    """
+    for _ in range(3):
+        if '&amp;' not in u:
+            break
+        u = u.replace('&amp;', '&')
+    u = re.sub(r';jsessionid=[^?#]*', '', u, flags=re.I)
+    return u.rstrip('.,)')
+
+
 def orig_pub(board_url, cache):
     """협회 게시글 -> {원문 링크, 원문 게재일}. 실패하면 빈 값을 남긴다(빈 값 원칙)."""
+    hit = cache.get(board_url)
     # 'body'가 없으면 본문 채점을 붙이기 전에 받은 캐시다. 다시 받는다.
-    if board_url in cache and 'body' in cache[board_url]:
-        return cache[board_url]
-    rec = {'link': None, 'date': None, 'body': ''}
+    # 게재일이 없는 항목은 세 번까지 다시 시도한다 — 일시 타임아웃 한 번에 date가
+    # 영구 None으로 굳어 있었다(실측 21/61건). 지연 감지가 이 구멍으로 뚫린다.
+    # 세 번 다 없으면 메타를 안 주는 사이트(부처 페이지 등)로 보고 멈춘다.
+    if hit and 'body' in hit and (hit.get('date') or hit.get('tries', 0) >= 3):
+        return hit
+    rec = {'link': None, 'date': None, 'body': '',
+           'tries': (hit or {}).get('tries', 0) + 1}
     ok = False
     try:
         # 엔티티를 먼저 푼다. 게시판 HTML은 링크를 &#034; 로 감싸 놓아서,
@@ -1501,7 +1542,7 @@ def orig_pub(board_url, cache):
         h = html_mod.unescape(http_text(board_url, timeout=25))
         spare = None
         for m in ORIG_A.finditer(h):
-            u = m.group(1).rstrip('.,)')
+            u = clean_url(m.group(1))
             if any(k in u for k in BOARD_SKIP):
                 continue
             label = re.sub(r'<[^>]+>', '', m.group(2))
