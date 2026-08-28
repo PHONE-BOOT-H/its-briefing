@@ -132,6 +132,13 @@
   "impagency": "Ministry of Construction",
   "total": 168000000.0
  },
+ "P170409": {
+  "borrower": "Nepal",
+  "closing": "2029-01-15",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Industry, Commerce and Supplies,Ministry of Physical Infrastructure and Transport",
+  "total": 801500030.0
+ },
  "P170532": {
   "borrower": "Republic of Turkey",
   "closing": "2027-12-31",
@@ -637,6 +644,13 @@
   "total": 655671810.0
  },
  "P514903": {
+  "borrower": null,
+  "closing": null,
+  "funder": null,
+  "impagency": null,
+  "total": null
+ },
+ "P514972": {
   "borrower": null,
   "closing": null,
   "funder": null,

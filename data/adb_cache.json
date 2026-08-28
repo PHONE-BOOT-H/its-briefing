@@ -68,5 +68,15 @@
   "org": "Ministry of Transport Tajikistan",
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "International"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=C968BED43258BCAC78131BC9799316FFEE56C6EBD1DBB15FF1A55A1B41891A82": {
+  "budget": {
+   "amount": 8500.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Ministry of Territorial Administration and Infrastructure Armenia",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National"
  }
 }
