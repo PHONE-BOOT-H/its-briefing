@@ -686,8 +686,10 @@ function foldable(it) {
   //    전기차 화재 감지, 공공조달 조직개편 …). 지우지 않고 가라앉힌다.
   //  - 원문 게재일이 오래된 글(stale): 게시판에 올리면 '이번 주 기사'가 아니다.
   //    배지만 달아두면 결국 사람이 매번 걸러야 해서, 아예 가라앉힌다.
+  //  - 단 '기타'라도 사업 신호로 25점 이상 받은 건은 접지 않는다. 어제 고른
+  //    김포 태리IC(예타 통과, 30점)가 기타라는 이유로 접혀 있었다(실측 4건).
   if (it.kind !== 'tender') return !!it.flag || !!it.stale
-    || (it.source === 'ITS Korea' && it.category === '기타');
+    || (it.source === 'ITS Korea' && it.category === '기타' && it.score < 25);
   if (it.deadline && days(today, it.deadline) < 0) return true;
   return (it.score || 0) < FOLD_SCORE;
 }
