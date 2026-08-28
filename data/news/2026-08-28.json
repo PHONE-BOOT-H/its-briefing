@@ -28,7 +28,7 @@
    "자율주행",
    "개정",
    "자동차",
-   "철도",
+   "화물",
    "협회게시판"
   ],
   "already_posted": false,
@@ -837,40 +837,6 @@
  },
  {
   "schema_version": 3,
-  "id": "news-b9d3fae254cf",
-  "kind": "news",
-  "board": "B",
-  "source": "Google News",
-  "type": "국내기사",
-  "country": null,
-  "country_ko": null,
-  "title": "LG이노텍, 아마존 자율주행차에 카메라 모듈 공급",
-  "media": "직썰",
-  "org": "직썰",
-  "category": "자율주행",
-  "flag": null,
-  "pinned": null,
-  "published": "2026-08-27",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVQ25DYndwbE0tQUxhb2pMRzVaSjg0UF9hVkJEeFpRVjhfZ2FqUW5fUVV2T01HaDFnTXZ3UW5UbDVNeXpUZnd0NVlYbzk2emRzQmJEWWxuU0pVMXJqcjk2N2pOZkdQM09X0gFsQVVfeXFMTlpldU5hX2paTHlMSUxZeHpkTTZNdXFhcWhGZFBsZ3UtZVVjaXg0LXJicWFnV25xcWVOQVE3OWNndy11M3lwSXVIR2p4amRqbV8zYTUwVFh4ZE9FV1N2OVpwaWZINFF0R3hrUEto?oc=5",
-  "cpv": [],
-  "orig_link": null,
-  "orig_published": null,
-  "stale": null,
-  "score": 26,
-  "score_hits": [
-   "자율주행",
-   "카메라"
-  ],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-08-28",
-  "notes": null
- },
- {
-  "schema_version": 3,
   "id": "news-d44b105d7b1e",
   "kind": "news",
   "board": "B",
@@ -897,6 +863,40 @@
   "score_hits": [
    "자율주행",
    "화물"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-08-28",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
+  "id": "news-b9d3fae254cf",
+  "kind": "news",
+  "board": "B",
+  "source": "Google News",
+  "type": "국내기사",
+  "country": null,
+  "country_ko": null,
+  "title": "LG이노텍, 아마존 자율주행차에 카메라 모듈 공급",
+  "media": "직썰",
+  "org": "직썰",
+  "category": "자율주행",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-08-27",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5aZXVOYV9qWkx5TElMWXh6ZE02TXVxYXFoRmRQbGd1LWVVY2l4NC1yYnFhZ1ducXFlTkFRNzljZ3ctdTN5cEl1SEdqeGpkam1fM2E1MFRYeGRPRVdTdjlacGlmSDRRdEd4a1BLaNIBbEFVX3lxTE5aZXVOYV9qWkx5TElMWXh6ZE02TXVxYXFoRmRQbGd1LWVVY2l4NC1yYnFhZ1ducXFlTkFRNzljZ3ctdTN5cEl1SEdqeGpkam1fM2E1MFRYeGRPRVdTdjlacGlmSDRRdEd4a1BLaA?oc=5",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 26,
+  "score_hits": [
+   "자율주행",
+   "카메라"
   ],
   "already_posted": false,
   "collector": "news",
@@ -967,8 +967,8 @@
   "score": 21,
   "score_hits": [
    "단속",
-   "버스",
-   "교통"
+   "교통",
+   "버스"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1037,8 +1037,8 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "도로",
-   "교통"
+   "교통",
+   "도로"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1072,8 +1072,8 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "도로",
-   "교통"
+   "교통",
+   "도로"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1107,8 +1107,8 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "도로",
-   "교통"
+   "교통",
+   "도로"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1142,8 +1142,8 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "도로",
-   "교통"
+   "교통",
+   "도로"
   ],
   "already_posted": false,
   "collector": "news",
@@ -3222,39 +3222,6 @@
  },
  {
   "schema_version": 3,
-  "id": "news-d3cdf3fb27b4",
-  "kind": "news",
-  "board": "B",
-  "source": "ITS Korea",
-  "type": "국내기사",
-  "country": null,
-  "country_ko": null,
-  "title": "[행안부/보도자료] 국민이 주인 되는 정부, AI로 만든다 「AI 민주정부」 실현 본격 추진",
-  "media": "ITS Korea",
-  "org": "ITS Korea",
-  "category": "기타",
-  "flag": null,
-  "pinned": null,
-  "published": "2026-08-26",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://itskorea.kr/boardDetail.do?type=8&idx=23111",
-  "cpv": [],
-  "orig_link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do;jsessionid=sPVJfIdeDw2gmLLEuGFTwKYLWAnt7I9MEXBWnRvB.node10?bbsId=BBSMSTR_000000000008&amp;nttId=128980",
-  "orig_published": null,
-  "stale": null,
-  "score": 12,
-  "score_hits": [
-   "협회게시판"
-  ],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-08-26",
-  "notes": null
- },
- {
-  "schema_version": 3,
   "id": "news-09448fedaf24",
   "kind": "news",
   "board": "A",
@@ -4118,6 +4085,39 @@
  },
  {
   "schema_version": 3,
+  "id": "news-368b3551c0ac",
+  "kind": "news",
+  "board": "B",
+  "source": "ITS Korea",
+  "type": "국내기사",
+  "country": null,
+  "country_ko": null,
+  "title": "[행안부/보도자료] 공공 정보시스템 1만 5천여 개 등급 전면 재조정, 국민 영향 중심으로 개편",
+  "media": "ITS Korea",
+  "org": "ITS Korea",
+  "category": "기타",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-08-28",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://itskorea.kr/boardDetail.do?type=8&idx=23159",
+  "cpv": [],
+  "orig_link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do;jsessionid=3AB5npZAW7MCi0GxUV4zEi4fVTTRb6XH7jIpvO4u.node30?bbsId=BBSMSTR_000000000008&amp;nttId=129047",
+  "orig_published": null,
+  "stale": null,
+  "score": 12,
+  "score_hits": [
+   "협회게시판"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-08-28",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
   "id": "news-83a2626ece7e",
   "kind": "news",
   "board": "B",
@@ -4211,6 +4211,40 @@
    "수주",
    "협회게시판",
    "-기고문"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-08-27",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
+  "id": "news-ac66aae74c39",
+  "kind": "news",
+  "board": "P",
+  "source": "국토교통부",
+  "type": "국내동향",
+  "country": null,
+  "country_ko": null,
+  "title": "“KTX·SRT 고속철도 통합, 안전하고 빈틈없이 준비한다”",
+  "media": "국토교통부",
+  "org": "국토교통부",
+  "category": "대중교통·물류",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-08-28",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092354",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 9,
+  "score_hits": [
+   "ktx",
+   "철도"
   ],
   "already_posted": false,
   "collector": "news",

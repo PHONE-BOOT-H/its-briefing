@@ -2447,8 +2447,8 @@
   "org_type": null,
   "project_title": "Preparing the Resilient and Inclusive Economic Corridor Improvement Project",
   "budget": {
-   "currency": "USD",
    "amount": 8500.0,
+   "currency": "USD",
    "is_project_total": false
   },
   "selection_method": "Individual Consultant Selection (ICS)",
