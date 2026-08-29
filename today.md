@@ -1,4 +1,4 @@
-# ITS 브리핑 2026-08-28
+# ITS 브리핑 2026-08-29
 
 해외 ITS 기사·국내 ITS 기사·해외 발주 공고를 매일 06시에 모은 것입니다.
 이미 게시판에 올린 건, 관련도가 낮은 건, 원문이 오래된 건은 빼고 후보만 남겼습니다.
@@ -53,40 +53,40 @@
    - 원문: https://news.google.com/rss/articles/CBMilwFBVV95cUxOV1UySWMtUHNIUzVmWk0yRWJVbF9Ea0FzQ3J0dUZ0aGxyaVVYbnExanRzX3Y0TF85YnVHVV8yLVNVdEtOUVVVVzBpZDlqYW4wZHlyVEhxbDFLNlVKbUVUNTVKRmRNQWlVN0FFVWxzT29FM09OTWk4N1Y3RzBCaGtrS3M5TjhXdW8zVkJIUHNaRXhjWlIzZDkw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 10. Installation of traffic control equipment on Gore begins
-   - 분야: 신호·관제 / 게재일: 2026-08-28 / 매체: The Lawton Constitution
+   - 분야: 신호·관제 / 게재일: 2026-08-27 / 매체: The Lawton Constitution
    - 원문: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPa0oxSVJJWjVOcHhYbTdHOGoyVU1RTlhxeF9jNjJOTU53dUswdXN5bGo4aXJEVlVRYndOa1ktSWVNT2hUVFNBTWJtcmIxUW5hWjBRbmFGNHNZQ2NMb3JtVm5YeXhrS3ViRmVaR3FGSkl3UmwzeXIxY3NiS0pwVGhDMGZGVm9EajhTVEpBc0lMdFAtVTItRlkycGVjZ3d3Q1lSbHZXTHRValpBRE02QjdwZ3ktN1F1bnVvanhQeXhsSGktR2VqNWJkR3Bhbm4yeEVTYXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. Connected Car News: Verra Mobility, CardinaleWay, Hyundai, Genesis, AWS, Cinemo, AUTOCRYPT, LG, Cedar, TomTom, Dolby & SmashLabs
+11. THE City Transport and Traffic Management Office (CTTMO) is looking into upgrading Davao City’s traffic management system, including modern signalization integrated with the upcoming Davao Bus Project and the recruitment of 150 additional field enforcer
+   - 분야: 신호·관제 / 게재일: 2026-08-28 / 매체: facebook.com
+   - 원문: https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMnVSakhFUUdvRmFLT1ZwVE1tY0ZZdUQzeWJtMnFPQVF2SnVYYVRyR0ZDTUlsQnZ0a0hIUko0OUF6ZGZRRE5WR1B1dUwxT1BPWGpJdWpPelVKRnFhRkN2QS1pMXM3cUQtUDNKazQtQWh0WEFZTzBFYlg2ODdqRWhTTllyQ0p1elY1cWdzSGtoLVphRWlmdUh6azE0MWMzMzVqeHhxR2NMVGtJaEdHQUQ4N0hONFhYNms3SUYxZGtvWHFFVmhpanNFVFBwTjFOUEhoZm5UU1Zvb2tOcE8zMExvRA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+12. Connected Car News: Verra Mobility, CardinaleWay, Hyundai, Genesis, AWS, Cinemo, AUTOCRYPT, LG, Cedar, TomTom, Dolby & SmashLabs
    - 분야: C-ITS·V2X / 게재일: 2026-08-24 / 매체: ITS Korea
    - 원문: https://itskorea.kr/boardDetail.do?type=9&idx=23085
 
-12. 테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득
+13. 테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득
    - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: ITS Korea
    - 원문: https://www.aitimes.com/news/articleView.html?idxno=214306
 
-13. TransCore Selected to Modernize Roadside Toll Collection System for Tampa-Hillsborough Expressway Authority
+14. TransCore Selected to Modernize Roadside Toll Collection System for Tampa-Hillsborough Expressway Authority
    - 분야: 요금·통행료 / 게재일: 2026-08-26 / 매체: ST Engineering
    - 원문: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUEJBS0JWVmRaT2FXUVlORkdzeDl4VmJqUVVuZTR6MnU1ekxoWmEtT3dwVGlEb2NiNkxNQkJZRVhWMVo4SThFLVhkUDlqNXB4R2U0SU10LVRyR2I4Wm9SbXVUQ1hzSnRacTFGckgybnM1YWRuS3VVSlFvRVdVMVFiNzhGb1U4ZXVMU2VlbEhjOG9HaGlHRDBWYUxYR1ZmcldqU0NhNnNiTEtEdEU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. [스페인] Kapsch TrafficCom launches smart parking project in Tenerife
+15. [스페인] Kapsch TrafficCom launches smart parking project in Tenerife
    - 분야: 대중교통·물류 / 게재일: 2026-08-25 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/news/smart-parking/kapsch-trafficcom-launches-smart-parking-project-in-tenerife.html
 
-15. [미국] CASE STUDY: How I-70 freight corridor has benefited from $305m federal funding
+16. [미국] CASE STUDY: How I-70 freight corridor has benefited from $305m federal funding
    - 분야: 대중교통·물류 / 게재일: 2026-08-25 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/features/case-study-how-i-70-freight-corridor-has-benefited-from-305m-federal-funding.html
 
-16. 웨이모, 2027년 독일 뮌헨서 로보택시 개시… EU 시장 첫 진출
+17. 웨이모, 2027년 독일 뮌헨서 로보택시 개시… EU 시장 첫 진출
    - 분야: 자율주행 / 게재일: 2026-08-26 / 매체: ITS Korea
    - 원문: https://www.g-enews.com/view.php?ud=2026082605463514722bd56fbc3c_1
 
-17. Laos Ministries Seek Solutions on Freight Fees and Lao-Thai Bridge Tolls
+18. Laos Ministries Seek Solutions on Freight Fees and Lao-Thai Bridge Tolls
    - 분야: 요금·통행료 / 게재일: 2026-08-27 / 매체: ຂ່າວສານປະເທດລາວ
-   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5sd0F3MVVZZ1ZLdVRwZmFYbnNOYWVJVnFRVXNrZVNWQ05oejE4LWZhbkdPeGtzWkxBX09CN1lrcWRfMWMwSVRfejdOa0xpZmE5NHEwSWZR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-18. Govt amends National Highways Fee Rules, 2026 to strengthen toll compliance and digital enforcement
-   - 분야: 요금·통행료 / 게재일: 2026-08-27 / 매체: News On AIR
-   - 원문: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDM3V1YyR1Z2aHNES1JuQkUtWW5kR3FSRjZYR1dvc3pMaWh3VHMtYzBvelVrdkRiZzZXcmoxTklXOV85ZG40UWFEV3FwWlN1VFdEeGFSM2dmb0I0RHdWaDFtcGk4cHdSbHBkUXJ1OUxTY2tUdGFXd0d4WHlpbHpLMmFiZ2IwYXNJZHE5d19nOTROa0xTV05mLThHWU01djZhankzVE9QME9xemxoc0VKTlh0dWJMa3NfalY5eFFVV2hoUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTTmd2ZmZSemNEU2NiMnM3b1Ntc1pYclBQMlFUSzR5LVR0Y0l1NTVxSkVQNnBmTG9yaW9vLWJhcEVzdDFJN1dwNS0yZVB3QjNvM0pGclhhaHVuSkZBRWc1ZGRsblNYUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 19. [회원사/동향] [아랍에미리트] UAE robo-shuttle agreement for Space42 and Autonomous A2Z
    - 분야: 자율주행 / 게재일: 2026-08-26 / 매체: ITS Korea
@@ -104,7 +104,7 @@
 
 1. [국토부/참고자료] 「자율주행차법」 · 「화물자동차법」 · 「도로법」 · 「철도지하화통합개발법」 개정안 국회 본회의 통과
    - 분야: 정책·법제도 / 게재일: 2026-08-27 / 매체: ITS Korea
-   - 원문: https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95092352
+   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=23136
 
 2. [회원사/동향] 카카오모빌리티 "美·中 빠르게 자율주행 상용화⋯韓도 속도전 필요"
    - 분야: 자율주행 / 게재일: 2026-08-27 / 매체: ITS Korea
@@ -130,57 +130,57 @@
    - 분야: 기타 / 게재일: 2026-08-27 / 매체: ITS Korea
    - 원문: https://www.asiae.co.kr/article/2026082707553223120
 
-8. 서울시, 자율주행버스 500대로 늘리고 사각지대 없는 교통망 구축…글로벌 TOP3 대중교통 혁신
-   - 분야: 자율주행 / 게재일: 2026-08-21 / 매체: 세계환경신문
-   - 원문: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9IZFhOZDN6Sjc2TEVOVU5Qc1V4VFU1RjlDUFF5cHB4azJ4S0hCZzNyWmx4a0RVLThrRlZySHhMYnNncWhPWFgtakU3cUJKS3Y0cEFKU2t4Skc3d1RCV1kw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-9. 운전대 없는 롯데 자율주행 셔틀, 관광지 누비며 10만km 질주
-   - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 뉴스락
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE9NMkJ1aXhzWnM4UDVKQ2ZaMlk2b3VpUHZUX3ZJalNEWU9UMFFub1g1MlloLXc5akRoMVpHYmszaE5jcF9paEdvMnRQd0ttbEgzZjNyVnhweF9KaHI4UW1QWGdnVy1McDhSMTFpNg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-10. 롯데이노베이트, 자율주행 버스 'MUVU' 누적 주행 10만㎞ 돌파
+8. 롯데이노베이트, 자율주행 버스 'MUVU' 누적 주행 10만㎞ 돌파
    - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE85Tm94S2lTQ2ozZXVxb2tkbTl5LXBkVWN0dGhWWVFYN2NEUUFtcDJ0c3NoZkFGeXVueEhxR3AyYm5tNUVGS2pLUEhpQS1uZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. 자율주행 택시
-   - 분야: 자율주행 / 게재일: 2026-08-25 / 매체: 연합뉴스
-   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLUU1WazY2Y2dkdFdWcXFfX0xYbDlqY0NvMGlSbllqZ2pUeEI2eFJlSkd6RGhpWDF2ZVI4c2FjVW1GTmJVSVpmakRWcHBReHFjVGhXaWYzaXJ2UVdwaS1ncdIBYEFVX3lxTFBLUU1WazY2Y2dkdFdWcXFfX0xYbDlqY0NvMGlSbllqZ2pUeEI2eFJlSkd6RGhpWDF2ZVI4c2FjVW1GTmJVSVpmakRWcHBReHFjVGhXaWYzaXJ2UVdwaS1ncQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-12. 청주시의회 도시건설위, 자율주행 기술 현장 찾아 미래 교통정책 모색
+9. 청주시의회 도시건설위, 자율주행 기술 현장 찾아 미래 교통정책 모색
    - 분야: 자율주행 / 게재일: 2026-08-26 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE54WVF0bkI2U1JENEFjZ0d3Tk1pZTJvdVZwREpISHZyMjFKOVNhRldxVE5VNm1MUTNTWFFaamFCWTJvNWttQVVQQWh6UC1CcGF4bkJVbm5XVWVnZXZM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. LG이노텍, 아마존 자율주행차에 카메라 모듈 공급
+10. LG이노텍, 아마존 자율주행차에 카메라 모듈 공급
    - 분야: 자율주행 / 게재일: 2026-08-27 / 매체: 직썰
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVQ25DYndwbE0tQUxhb2pMRzVaSjg0UF9hVkJEeFpRVjhfZ2FqUW5fUVV2T01HaDFnTXZ3UW5UbDVNeXpUZnd0NVlYbzk2emRzQmJEWWxuU0pVMXJqcjk2N2pOZkdQM09X0gFsQVVfeXFMTlpldU5hX2paTHlMSUxZeHpkTTZNdXFhcWhGZFBsZ3UtZVVjaXg0LXJicWFnV25xcWVOQVE3OWNndy11M3lwSXVIR2p4amRqbV8zYTUwVFh4ZE9FV1N2OVpwaWZINFF0R3hrUEto?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 가틱, 2억 달러 투자 유치…자율주행 화물 운송 '속도'
+11. 가틱, 2억 달러 투자 유치…자율주행 화물 운송 '속도'
    - 분야: 산업·투자 / 게재일: 2026-08-27 / 매체: 글로벌이코노믹
    - 원문: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFN0WnFzQXRfZkNuZVVjOGhpWnFwS094RkFiWHBWaFExdlV0Ti12dmI3T1BFRTd0NlhqVWU5djU2ZXY1ZHgta3ozREFXMEFFcUtseXFHQnNHYUlPd2hCczBhQWRSTmEweEozc05TY19VWlM4NFF3Ukp4a3NDRFBSVGdnc2xERWo4?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. [지자체] 내비게이션이 공영주차장 빈자리 안내…안산시, 현대오토에버와 협업
+12. [지자체] 내비게이션이 공영주차장 빈자리 안내…안산시, 현대오토에버와 협업
    - 분야: 대중교통·물류 / 게재일: 2026-08-27 / 매체: ITS Korea
    - 원문: https://news.skbroadband.com/news/articleView.html?idxno=236230
 
-16. 총리는 야간 교통 관리를 철저히 하고 불법 버스 정류장을 단속할 것을 요청했습니다.
-   - 분야: 단속·집행 / 게재일: 2026-08-21 / 매체: Vietnam.vn
-   - 원문: https://news.google.com/rss/articles/CBMizwFBVV95cUxOUFkyLU5XOWNEdlh5cXdoZjd5TkxvdkpuWmdaU24yMUZ5M2Y0VmIxZVJJZFBhZUc0OGh2NU5SNVNUM1lsRGI5am8yZFg0cmE4MVN2M1ZNaDFrYm83ZjAybGU0Mnh0T09oVVJhdGFzbllualJSc2NrYURIUmt5dGRBLXlUay1CLW9Id194Y1JDSTZFd0E4c0x1T3AtWXBPcDZKN0k3X0N4cWNzUUdxN2s0R2MySU83TXBhcUZPNWZFVzhzQVpjVE1xaWUzZ0cyQWs?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-17. 배민 품은 우버, 자율주행 파트너 '오로라' 지분 매각…6500억원 현금
-   - 분야: 산업·투자 / 게재일: 2026-08-21 / 매체: 더구루
-   - 원문: https://news.google.com/rss/articles/CBMiY0FVX3lxTE9taHo0SVQ0bjQxS09JMm5JaElBVmRONEhVbWU5YWY5SUpmZGJnRm9FRVJucWFTcDhCa1J4YkdLYlREd0VoM00tSEIzbUtpaEhCSG9tazBKYzZzNDdRZmJhWWxCbw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-18. ITS 세계총회 앞둔 강릉, 자율주행차 새 관광명물 ‘우뚝’
+13. ITS 세계총회 앞둔 강릉, 자율주행차 새 관광명물 ‘우뚝’
    - 분야: 자율주행 / 게재일: 2026-08-22 / 매체: 강원일보
    - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeUNCdF9iS19ybkIwNDc3NUhEYkhVY2xIaE5LazZRanRGdmVpT3VyN1hJLXdCaEo2N1NibjlOY0gyNlJwV0w3MnIwSTNfUDNkQW11VEprWS1NWUxUOFh2bEVSOGFuLTRkMklteVVNS2xzUFlnYnhn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. 삼성 차량용 메모리, 구글 웨이모 차세대 자율주행차에 들어간다
+14. 삼성 차량용 메모리, 구글 웨이모 차세대 자율주행차에 들어간다
    - 분야: 자율주행 / 게재일: 2026-08-23 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hc1RSc2gtRS1FWmh2SHliRW8wNG1NVmd0eXBxS2FjenBjU0Y5RUF2NUtaOFhsZTJNT0l3WDNXNXdrc0d3QmpMR05SQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. 롯데이노베이트, 강릉·제주·경주 등서 자율주행 확대
+15. 롯데이노베이트, 관광지 자율주행 셔틀 확대…10만㎞ 달렸다
+   - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 매일경제 마켓
+   - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zd3RfNXZhNEJsOGJKOGJ4LVByeDNpbWQ0dnZTZTlSVGtDZmVxWFRyYXNYOURZbl8ydmlSMGk5YXZrTEpmeDd1dXJIMVc3NmJHWnc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+16. 롯데이노베이트, 강릉·제주·경주 등서 자율주행 확대
    - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 매일일보
    - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QN2hWY0N0Ul9KM0lyYzAzTnlJVGd1Y3E2Q2I2Q0lYc3hWbHhYVl9hZnE5dDY0amhiTFFWN294OG5oclVYajNuNWs1dEJ2TUJaUmR0TGpSWUFuUl9LQVhYOVhic3M?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. 美 애브라이드, 우버플랫폼 통해 10여만 건 자율주행 탑승 기록
+   - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 티스토리
+   - 원문: https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUTNRZ04yYW1UNldlLW93dzAzekhMU3dlVE8xbThYVF81UVhpTkp0QjdfVHNIRXdLc2NWVVpiUW9mbWYxcy1jVTUxTQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+18. 한라캐스트, 로봇·자율주행 부품 앞세워 매출 1559억 달성
+   - 분야: 자율주행 / 게재일: 2026-08-25 / 매체: 리드경제
+   - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE9CSG1fc3BqNDFtVDBwMzgtZzFremJYaW9QM2pRbzI1eGp3TFJjS1hIcmQ3VWhqMFUxNVpJdHlKX3o1THVmMTduRVBDdDR6VnBqYXE2SV9vMTVSRmx1N3hRLUgtOTh3QkhfeHpZTUlSbw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. 자율주행의 ‘두뇌’ 경쟁 본격화… AI·SW·데이터가 핵심 [FMW 2026]
+   - 분야: 자율주행 / 게재일: 2026-08-25 / 매체: IT조선
+   - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE5qX2FMSnFMOURyelFXRXM2Z0JidUJPd1NBWHp4SjZQVF9FMXZfcW82TVBDX0syeHgxYjB5UkZPMVE5a3RBYU5BN090YjIySDE2U3VYM290clZPT3IwWmdSU05FaU0tTGFuSldDeEQweE3SAXRBVV95cUxQRU9kc0RqeTBQcGxLTVJzb29yZ2pnYXBHS3FLd0psY25FTk5US3ZYSlZtMTJyTFBKRjBnNl91MVNTWXpZSGhjYnpSVzhoWmMzUzE1bGtpdXpfVnQ4U0lwZ2ZDWEJXNl84TVExcERTbnhRUDlnRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 구글 웨이모, 獨 뮌헨서 자율주행차 시험 주행…글로벌 서비스 론칭 속도
+   - 분야: 자율주행 / 게재일: 2026-08-26 / 매체: 더구루
+   - 원문: https://news.google.com/rss/articles/CBMiXkFVX3lxTE40aC1KNHVLa3dhdFd5ZVdsUnFYZW1mQzhkRHNFTkNrX1FQcjlNdFRwdVhTX2NBdHhwWUFSYVJGY2h6dndBRlVRM2Z6UDZ3cnk0Q280bURWajI4YmZBb1E?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -210,10 +210,6 @@
   - 마감 2026-09-04 / 발주처 Hlavné mesto Slovenskej republiky Bratislava
   - 원문: https://ted.europa.eu/en/notice/-/detail/586017-2026
 
-- [타지키스탄] Transport Sector Institutional Capacity Development Specialist (International)
-  - 마감 2026-09-04 / 발주처 Ministry of Transport
-  - 원문: https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=894AE428CE8D7FA6EEDD07FD7F0D7A93BE53BDF809D8C6473A0D4AC54EAF3698
-
 - [체코] Czechia – Traffic-monitoring equipment – Modernizace systému preference vozidel MHD
   - 마감 2026-09-06 / 발주처 Dopravní podnik města Olomouce, a.s.
   - 원문: https://ted.europa.eu/en/notice/-/detail/586187-2026
@@ -225,10 +221,6 @@
 - [콩고민주공화국] Recrutement d'un Consultant (firme) Chargé de  la redéfinition de la classification routière de la RDC
   - 마감 2026-09-07 / 발주처 Cellule Infrastructures
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464184
-
-- [콩고민주공화국] Consultant firme chargé de la réalisation d’un Plan en faveur des Populations Autochtones (PPA) pour les travaux de bitumage de la route nationale numéro 2 (rn2), tronçon Mbanga – Riviere Lualaba (200 km) dans les provinces de Lomami et du Maniema
-  - 마감 2026-09-07 / 발주처 Cellule Infrastructures
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00463963
 
 - [벨기에] Belgium – Installation of signalling equipment – AWV/VW/2026/2_Nieuwbouw, aanpassingen, wegname en onderhoud van biflashes en verkeersborden met veranderlijke informatie (zone 30) in schoolomgevingen langs gewestwegen in Vlaanderen
   - 마감 2026-09-08 / 발주처 Vlaamse Overheid
@@ -245,3 +237,11 @@
 - [몽골] Feasibility study for Mandalgobi Road
   - 마감 2026-09-09 / 발주처 Ministry of Road and Transport
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464527
+
+- [방글라데시] Improvement of Road, Drain, Footpath & Street Light at Doriya Bishnupur Pucca Road via Councilor House at Kundra, Improvemen of Road, Drain, Footpath & Street Light at Uttar Binai Modina Mosque via Gopalpur Madrasha under Laksham Pourashava.
+  - 마감 2026-09-09 / 발주처 Local Government Engineering Department
+  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00464599
+
+- [폴란드] Poland – Snow-clearing services – Całoroczne (bieżące i zimowe) utrzymanie dróg krajowych administrowanych przez GDDKiA O/Olsztyn, Rejon w Ełku, Obwód Drogowy w Piszu
+  - 마감 2026-09-10 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Olsztynie
+  - 원문: https://ted.europa.eu/en/notice/-/detail/593316-2026
