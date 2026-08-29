@@ -615,6 +615,13 @@
   "impagency": "Bangladesh Water Development Board (Ministry of Water Resources),Department of Agricultural Extension (Ministry of Agriculture),Department of Disaster Management (Ministry of Disaster Management and Relief),Local Government Engineering Department (Local Government Division, Ministry of Local Government, Rural Development and Co-operatives),Social Development Foundation (Financial Institutions Division, Ministry of Finance)",
   "total": 270000000.0
  },
+ "P508837": {
+  "borrower": "Central African Republic,Republic of Cameroon,Republic of Chad,Republic of Congo,The Economic and Monetary Community of Central Africa (CEMAC)",
+  "closing": "2030-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Cameroon Ministry of Public Health,Central African Republic Ministry of Health and Population,Chad Ministry of Public Health and Prevention,Economic and Monetary Community of Central Africa (CEMAC),Republic of Congo Ministry of Health and Population",
+  "total": 280000000.0
+ },
  "P508910": {
   "borrower": "Ministry of Finance",
   "closing": "2030-10-17",
