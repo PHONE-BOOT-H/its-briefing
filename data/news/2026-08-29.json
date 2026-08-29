@@ -20,7 +20,7 @@
   "ref_no": null,
   "link": "https://itskorea.kr/boardDetail.do?type=8&idx=23136",
   "cpv": [],
-  "orig_link": null,
+  "orig_link": "https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95092352",
   "orig_published": null,
   "stale": null,
   "score": 53,
@@ -28,7 +28,7 @@
    "자율주행",
    "개정",
    "자동차",
-   "도로",
+   "화물",
    "협회게시판"
   ],
   "already_posted": false,
@@ -64,8 +64,8 @@
   "score_hits": [
    "자율주행",
    "개정",
-   "도로",
    "교통",
+   "도로",
    "협회게시판"
   ],
   "already_posted": false,
@@ -210,7 +210,7 @@
    "자율주행",
    "개정",
    "자동차",
-   "도로"
+   "화물"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1114,6 +1114,41 @@
  },
  {
   "schema_version": 3,
+  "id": "news-9107f2257fc3",
+  "kind": "news",
+  "board": "P",
+  "source": "법제처",
+  "type": "국내동향",
+  "country": null,
+  "country_ko": null,
+  "title": "물류시설의 개발 및 운영에 관한 법률 시행령 일부개정령안 입법예고 일부",
+  "media": "법제처 입법예고",
+  "org": "법제처 입법예고",
+  "category": "정책·법제도",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-08-29",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://opinion.lawmaking.go.kr/gcom/ogLmPp/88306",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 24,
+  "score_hits": [
+   "입법예고",
+   "시행령",
+   "물류"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-08-29",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
   "id": "news-8804824bb353",
   "kind": "news",
   "board": "P",
@@ -1139,8 +1174,8 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "도로",
-   "교통"
+   "교통",
+   "도로"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1174,8 +1209,8 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "도로",
-   "교통"
+   "교통",
+   "도로"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1209,8 +1244,8 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "도로",
-   "교통"
+   "교통",
+   "도로"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1243,8 +1278,8 @@
   "stale": null,
   "score": 21,
   "score_hits": [
-   "도로",
    "교통",
+   "도로",
    "협회게시판"
   ],
   "already_posted": false,
@@ -1649,6 +1684,39 @@
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-08-26",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
+  "id": "news-b8558e2198a3",
+  "kind": "news",
+  "board": "B",
+  "source": "Google News",
+  "type": "국내기사",
+  "country": null,
+  "country_ko": null,
+  "title": "2026 AME, 자율주행 해커톤 경진대회서 미래 자율주행 인재 키운다",
+  "media": "시선뉴스",
+  "org": "시선뉴스",
+  "category": "자율주행",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-08-25",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwR2VjTzBNcld3Vk5IcWtDenN2cjBDZzFxR3lpMlp2SkhjMjdldmdxT1h0MTJTZFJKbFQxUDRsR2xqZUVUa2ZzOUJpaE5pLTFwRkZ1bkZHS1F4MDFfVGNTYm04Sjc1QWI1SkthckVpWXdkZ9IBckFVX3lxTFBwR2VjTzBNcld3Vk5IcWtDenN2cjBDZzFxR3lpMlp2SkhjMjdldmdxT1h0MTJTZFJKbFQxUDRsR2xqZUVUa2ZzOUJpaE5pLTFwRkZ1bkZHS1F4MDFfVGNTYm04Sjc1QWI1SkthckVpWXdkZw?oc=5",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 20,
+  "score_hits": [
+   "자율주행"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-08-27",
   "notes": null
  },
  {
@@ -4037,7 +4105,7 @@
   "ref_no": null,
   "link": "https://itskorea.kr/boardDetail.do?type=9&idx=23171",
   "cpv": [],
-  "orig_link": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-announces-major-expansion-faa-beyond",
+  "orig_link": null,
   "orig_published": null,
   "stale": null,
   "score": 12,
@@ -4144,6 +4212,40 @@
    "수주",
    "협회게시판",
    "-기고문"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-08-27",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
+  "id": "news-ac66aae74c39",
+  "kind": "news",
+  "board": "P",
+  "source": "국토교통부",
+  "type": "국내동향",
+  "country": null,
+  "country_ko": null,
+  "title": "“KTX·SRT 고속철도 통합, 안전하고 빈틈없이 준비한다”",
+  "media": "국토교통부",
+  "org": "국토교통부",
+  "category": "대중교통·물류",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-08-29",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092354",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 9,
+  "score_hits": [
+   "ktx",
+   "철도"
   ],
   "already_posted": false,
   "collector": "news",

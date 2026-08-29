@@ -104,7 +104,7 @@
 
 1. [국토부/참고자료] 「자율주행차법」 · 「화물자동차법」 · 「도로법」 · 「철도지하화통합개발법」 개정안 국회 본회의 통과
    - 분야: 정책·법제도 / 게재일: 2026-08-27 / 매체: ITS Korea
-   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=23136
+   - 원문: https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95092352
 
 2. [회원사/동향] 카카오모빌리티 "美·中 빠르게 자율주행 상용화⋯韓도 속도전 필요"
    - 분야: 자율주행 / 게재일: 2026-08-27 / 매체: ITS Korea
@@ -178,9 +178,9 @@
    - 분야: 자율주행 / 게재일: 2026-08-25 / 매체: IT조선
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE5qX2FMSnFMOURyelFXRXM2Z0JidUJPd1NBWHp4SjZQVF9FMXZfcW82TVBDX0syeHgxYjB5UkZPMVE5a3RBYU5BN090YjIySDE2U3VYM290clZPT3IwWmdSU05FaU0tTGFuSldDeEQweE3SAXRBVV95cUxQRU9kc0RqeTBQcGxLTVJzb29yZ2pnYXBHS3FLd0psY25FTk5US3ZYSlZtMTJyTFBKRjBnNl91MVNTWXpZSGhjYnpSVzhoWmMzUzE1bGtpdXpfVnQ4U0lwZ2ZDWEJXNl84TVExcERTbnhRUDlnRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. 구글 웨이모, 獨 뮌헨서 자율주행차 시험 주행…글로벌 서비스 론칭 속도
-   - 분야: 자율주행 / 게재일: 2026-08-26 / 매체: 더구루
-   - 원문: https://news.google.com/rss/articles/CBMiXkFVX3lxTE40aC1KNHVLa3dhdFd5ZVdsUnFYZW1mQzhkRHNFTkNrX1FQcjlNdFRwdVhTX2NBdHhwWUFSYVJGY2h6dndBRlVRM2Z6UDZ3cnk0Q280bURWajI4YmZBb1E?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+20. 2026 AME, 자율주행 해커톤 경진대회서 미래 자율주행 인재 키운다
+   - 분야: 자율주행 / 게재일: 2026-08-25 / 매체: 시선뉴스
+   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTFBwR2VjTzBNcld3Vk5IcWtDenN2cjBDZzFxR3lpMlp2SkhjMjdldmdxT1h0MTJTZFJKbFQxUDRsR2xqZUVUa2ZzOUJpaE5pLTFwRkZ1bkZHS1F4MDFfVGNTYm04Sjc1QWI1SkthckVpWXdkZ9IBckFVX3lxTFBwR2VjTzBNcld3Vk5IcWtDenN2cjBDZzFxR3lpMlp2SkhjMjdldmdxT1h0MTJTZFJKbFQxUDRsR2xqZUVUa2ZzOUJpaE5pLTFwRkZ1bkZHS1F4MDFfVGNTYm04Sjc1QWI1SkthckVpWXdkZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -202,10 +202,6 @@
   - 마감 2026-09-04 / 발주처 Rhein-Neckar-Verkehr GmbH
   - 원문: https://ted.europa.eu/en/notice/-/detail/590754-2026
 
-- [슬로베니아] Slovenia – Control, safety or signalling equipment for roads – Nadgradnja sistema za upravljanje prometa na občinskih cestah
-  - 마감 2026-09-04 / 발주처 MESTNA OBČINA LJUBLJANA
-  - 원문: https://ted.europa.eu/en/notice/-/detail/580620-2026
-
 - [슬로바키아] Slovakia – Transport systems consultancy services – Dopravné prieskumy a rozbory, zhotovenie a kalibrácia dopravného modelu
   - 마감 2026-09-04 / 발주처 Hlavné mesto Slovenskej republiky Bratislava
   - 원문: https://ted.europa.eu/en/notice/-/detail/586017-2026
@@ -213,10 +209,6 @@
 - [체코] Czechia – Traffic-monitoring equipment – Modernizace systému preference vozidel MHD
   - 마감 2026-09-06 / 발주처 Dopravní podnik města Olomouce, a.s.
   - 원문: https://ted.europa.eu/en/notice/-/detail/586187-2026
-
-- [스페인] Spain – Road traffic-control equipment – Contrato de suministro, implantación, puesta en marcha y mantenimiento del Living Lab AIC-AMOREBIETA
-  - 마감 2026-09-07 / 발주처 Fundación AIC Automotive Intelligence Center - Fundación AIC
-  - 원문: https://ted.europa.eu/en/notice/-/detail/579520-2026
 
 - [콩고민주공화국] Recrutement d'un Consultant (firme) Chargé de  la redéfinition de la classification routière de la RDC
   - 마감 2026-09-07 / 발주처 Cellule Infrastructures
@@ -245,3 +237,11 @@
 - [폴란드] Poland – Snow-clearing services – Całoroczne (bieżące i zimowe) utrzymanie dróg krajowych administrowanych przez GDDKiA O/Olsztyn, Rejon w Ełku, Obwód Drogowy w Piszu
   - 마감 2026-09-10 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Olsztynie
   - 원문: https://ted.europa.eu/en/notice/-/detail/593316-2026
+
+- [노르웨이] Norway – Vehicle-counting machines – Framework agreement for the purchase of traffic registration equipment for motor vehicles at fixed stations.
+  - 마감 2026-09-10 / 발주처 Statens vegvesen
+  - 원문: https://ted.europa.eu/en/notice/-/detail/590948-2026
+
+- [폴란드] Poland – Software package and information systems – Rozbudowa SOSRD o udostępnianie w czasie rzeczywistym danych o natężeniu ruchu wraz z ich klasyfikacją
+  - 마감 2026-09-11 / 발주처 Gmina Miasto Rzeszów - Urząd Miasta Rzeszowa
+  - 원문: https://ted.europa.eu/en/notice/-/detail/590963-2026
