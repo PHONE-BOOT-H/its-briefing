@@ -110,75 +110,71 @@
    - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 테크데일리
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE5ldUpsWTBWWDkxRkZodmJ2dkpSWFJjYWowZnk3MEY2eXM5ZjZsSkVhUFBJaUNjblFtMUlQdWJrOFJpWEs0QlFoc1hkNFNlQnkwb3RvUDJDaUFoakZ3MVRhRm1Ya00wblRVZVc1d2530gFyQVVfeXFMTUJpRlBEd2JfdGQtY2RGNHlRYjhrVk5xb016TWR5N3dVelhIWWFVQnJwaG5aYzNvWDBnYm83YV9zSml6a2tvZEJ4YXZ4S0NmNm5teTdmMnpMTjZIc3ZkR1hEeXF4Ym0weXNkTUl2dE1oanZB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-3. 에이펙스모빌리티 "자율주행 골든타임 3년"…데이터 확보부터 나선다
-   - 분야: 자율주행 / 게재일: 2026-08-28 / 매체: 디지틀조선일보
-   - 원문: https://news.google.com/rss/articles/CBMihwFBVV95cUxQSFF4bUREV2o4V1h2MjNQOUptVTR3ODg0OHc1V3dXT3p4dTR3MTYxd0NkMWdJN1BWU1FtbE5NMTlwa2xscHo1d0VHaTdwU2U0aVR2Vk15Y09LeTMtNGg3SnZkVUxMZGFpODNFUXZOanVTYURudnNXWTV6SlhsTEprUjNqUTlueEXSAXtBVV95cUxQdWZieWk4cmFvUTVFQmlNUkNkVDBrd1BVOGJxRlhHNG9ub05aa2FlVFcwaWp5WU40UlVRN2d3enVfR1RPOTJRSnQtQVBOVHZYYXA4M0o5dkNmYXNFUUJaMUk5OVpHOWJDTVpJQ1Q0V2pSb0RUeVBLUERkWEE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-4. 롯데이노베이트, 자율주행 버스 'MUVU' 누적 주행 10만㎞ 돌파
+3. 롯데이노베이트, 자율주행 버스 'MUVU' 누적 주행 10만㎞ 돌파
    - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE85Tm94S2lTQ2ozZXVxb2tkbTl5LXBkVWN0dGhWWVFYN2NEUUFtcDJ0c3NoZkFGeXVueEhxR3AyYm5tNUVGS2pLUEhpQS1uZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. 청주시의회 도시건설위, 자율주행 기술 현장 찾아 미래 교통정책 모색
+4. 청주시의회 도시건설위, 자율주행 기술 현장 찾아 미래 교통정책 모색
    - 분야: 자율주행 / 게재일: 2026-08-26 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE54WVF0bkI2U1JENEFjZ0d3Tk1pZTJvdVZwREpISHZyMjFKOVNhRldxVE5VNm1MUTNTWFFaamFCWTJvNWttQVVQQWh6UC1CcGF4bkJVbm5XVWVnZXZM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. LG이노텍, 아마존 자율주행차에 카메라 모듈 공급
+5. LG이노텍, 아마존 자율주행차에 카메라 모듈 공급
    - 분야: 자율주행 / 게재일: 2026-08-27 / 매체: 직썰
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVQ25DYndwbE0tQUxhb2pMRzVaSjg0UF9hVkJEeFpRVjhfZ2FqUW5fUVV2T01HaDFnTXZ3UW5UbDVNeXpUZnd0NVlYbzk2emRzQmJEWWxuU0pVMXJqcjk2N2pOZkdQM09X0gFsQVVfeXFMTlpldU5hX2paTHlMSUxZeHpkTTZNdXFhcWhGZFBsZ3UtZVVjaXg0LXJicWFnV25xcWVOQVE3OWNndy11M3lwSXVIR2p4amRqbV8zYTUwVFh4ZE9FV1N2OVpwaWZINFF0R3hrUEto?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. 가틱, 2억 달러 투자 유치…자율주행 화물 운송 '속도'
+6. 가틱, 2억 달러 투자 유치…자율주행 화물 운송 '속도'
    - 분야: 산업·투자 / 게재일: 2026-08-27 / 매체: 글로벌이코노믹
    - 원문: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUFN0WnFzQXRfZkNuZVVjOGhpWnFwS094RkFiWHBWaFExdlV0Ti12dmI3T1BFRTd0NlhqVWU5djU2ZXY1ZHgta3ozREFXMEFFcUtseXFHQnNHYUlPd2hCczBhQWRSTmEweEozc05TY19VWlM4NFF3Ukp4a3NDRFBSVGdnc2xERWo4?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. 삼성 차량용 메모리, 구글 웨이모 차세대 자율주행차에 들어간다
+7. 삼성 차량용 메모리, 구글 웨이모 차세대 자율주행차에 들어간다
    - 분야: 자율주행 / 게재일: 2026-08-23 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiS0FVX3lxTE1hc1RSc2gtRS1FWmh2SHliRW8wNG1NVmd0eXBxS2FjenBjU0Y5RUF2NUtaOFhsZTJNT0l3WDNXNXdrc0d3QmpMR05SQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. 롯데이노베이트, 관광지 자율주행 셔틀 확대…10만㎞ 달렸다
+8. 롯데이노베이트, 관광지 자율주행 셔틀 확대…10만㎞ 달렸다
    - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 매일경제 마켓
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Zd3RfNXZhNEJsOGJKOGJ4LVByeDNpbWQ0dnZTZTlSVGtDZmVxWFRyYXNYOURZbl8ydmlSMGk5YXZrTEpmeDd1dXJIMVc3NmJHWnc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. 롯데이노베이트, 강릉·제주·경주 등서 자율주행 확대
+9. 롯데이노베이트, 강릉·제주·경주 등서 자율주행 확대
    - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 매일일보
    - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QN2hWY0N0Ul9KM0lyYzAzTnlJVGd1Y3E2Q2I2Q0lYc3hWbHhYVl9hZnE5dDY0amhiTFFWN294OG5oclVYajNuNWs1dEJ2TUJaUmR0TGpSWUFuUl9LQVhYOVhic3M?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. 美 애브라이드, 우버플랫폼 통해 10여만 건 자율주행 탑승 기록
+10. 美 애브라이드, 우버플랫폼 통해 10여만 건 자율주행 탑승 기록
    - 분야: 자율주행 / 게재일: 2026-08-24 / 매체: 티스토리
    - 원문: https://news.google.com/rss/articles/CBMiS0FVX3lxTFBvUTNRZ04yYW1UNldlLW93dzAzekhMU3dlVE8xbThYVF81UVhpTkp0QjdfVHNIRXdLc2NWVVpiUW9mbWYxcy1jVTUxTQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 한라캐스트, 로봇·자율주행 부품 앞세워 매출 1559억 달성
+11. 한라캐스트, 로봇·자율주행 부품 앞세워 매출 1559억 달성
    - 분야: 자율주행 / 게재일: 2026-08-25 / 매체: 리드경제
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE9CSG1fc3BqNDFtVDBwMzgtZzFremJYaW9QM2pRbzI1eGp3TFJjS1hIcmQ3VWhqMFUxNVpJdHlKX3o1THVmMTduRVBDdDR6VnBqYXE2SV9vMTVSRmx1N3hRLUgtOTh3QkhfeHpZTUlSbw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 자율주행의 ‘두뇌’ 경쟁 본격화… AI·SW·데이터가 핵심 [FMW 2026]
+12. 자율주행의 ‘두뇌’ 경쟁 본격화… AI·SW·데이터가 핵심 [FMW 2026]
    - 분야: 자율주행 / 게재일: 2026-08-25 / 매체: IT조선
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE5qX2FMSnFMOURyelFXRXM2Z0JidUJPd1NBWHp4SjZQVF9FMXZfcW82TVBDX0syeHgxYjB5UkZPMVE5a3RBYU5BN090YjIySDE2U3VYM290clZPT3IwWmdSU05FaU0tTGFuSldDeEQweE3SAXRBVV95cUxQRU9kc0RqeTBQcGxLTVJzb29yZ2pnYXBHS3FLd0psY25FTk5US3ZYSlZtMTJyTFBKRjBnNl91MVNTWXpZSGhjYnpSVzhoWmMzUzE1bGtpdXpfVnQ4U0lwZ2ZDWEJXNl84TVExcERTbnhRUDlnRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 구글 웨이모, 獨 뮌헨서 자율주행차 시험 주행…글로벌 서비스 론칭 속도
+13. 구글 웨이모, 獨 뮌헨서 자율주행차 시험 주행…글로벌 서비스 론칭 속도
    - 분야: 자율주행 / 게재일: 2026-08-26 / 매체: 더구루
    - 원문: https://news.google.com/rss/articles/CBMiXkFVX3lxTE40aC1KNHVLa3dhdFd5ZVdsUnFYZW1mQzhkRHNFTkNrX1FQcjlNdFRwdVhTX2NBdHhwWUFSYVJGY2h6dndBRlVRM2Z6UDZ3cnk0Q280bURWajI4YmZBb1E?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 자율주행 AI에 278억엔 몰렸다…일본 Turing, ‘사람처럼 이해하는 차’에 승부
+14. 자율주행 AI에 278억엔 몰렸다…일본 Turing, ‘사람처럼 이해하는 차’에 승부
    - 분야: 자율주행 / 게재일: 2026-08-26 / 매체: 한국투데이
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE5ON2h1czBYdFItVzdKZTBqa3l6Z05zLUowMGxrdm1odDdSZGczWDFBMW1yRnNsbWgwcjZxTWxYdW9QT2lFNFRYTnQ0bkJvRDVqR1p1YlAxb25BVnZRY2FyQVRkS3BhUVltWGfSAW5BVV95cUxQa2U2dTNOMnNNRzRwV3ZTVlNtem01N01idlJFTWJhbDNrSW9Ib043eFdFNEJxQlYybW1BeWNndHhMdWwyVzZ2MURsZ2IwZTlROUZDcVRpS1hBbUh0a2JuUC1RYWEyMnhCcmdPVVVSdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 호세 무뇨스 “캐즘 끝났다”…현대차, EV·EREV·자율주행 총공세
+15. 호세 무뇨스 “캐즘 끝났다”…현대차, EV·EREV·자율주행 총공세
    - 분야: 자율주행 / 게재일: 2026-08-26 / 매체: 디지틀조선TV
    - 원문: https://news.google.com/rss/articles/CBMifEFVX3lxTE5mVEwwXzEtMGhxMjRERWdVSFhsUFhjWVdDUXhFbGtId3NxcFlodWF4RXFCaG9RSmxkcDZwcEkxdHB2UWc3blVwcWZaTFVfVm5sTmN0WGdOWXdZbHdrVUtGWkcxV0dJX3k2UkJIMXZBQlY0YkRRZ0JzeVU5eks?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. "내비, 반자율주행 전부 기본" 기아 2027 스포티지 출시...가격 2,944만 원부터
+16. "내비, 반자율주행 전부 기본" 기아 2027 스포티지 출시...가격 2,944만 원부터
    - 분야: 자율주행 / 게재일: 2026-08-27 / 매체: 오토버프
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE9lRHd2VEJwVHA1RkdmNG1fdm1iWW1Gc2ZCanQzZk9RckJzOUtsUGw0TGhNbURfbUY2aVBMWjBDWHByYlN0ZjNsbXVHT1VMTXdDS0Z1SXpEZS11bDRvU1BMclNCNnRFYUxKQzNSZA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 테슬라·죽스 뚫은 LG이노텍, '자율주행 눈' 키운다…통합센싱모듈 시장 선점 잰걸음
+17. 테슬라·죽스 뚫은 LG이노텍, '자율주행 눈' 키운다…통합센싱모듈 시장 선점 잰걸음
    - 분야: 자율주행 / 게재일: 2026-08-28 / 매체: 녹색경제신문
    - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9CaDlGRTFMNS1XcGdIWEF1eEVfVlpsRXN3bXBveFBQSkE4NWNENExtZE5ydkYwTnBfSk5ISTVJa1BlSm1hekJKbW44NjdjNVFfUzBKVG0tbG1keldMQ3FZQ2tfQWtlRXM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. 토요타, 레벨2++ 자율주행차 2028년 출시
+18. 토요타, 레벨2++ 자율주행차 2028년 출시
    - 분야: 자율주행 / 게재일: 2026-08-28 / 매체: 지디넷코리아
    - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ma1lHd0wxS3RTdW9QTWNVWHItaDJia1Exaldab1hxT0M2VXlYRkR2UTRTVXdONnY2TzN6eTFPZWhjSUxic0VxZ3FVLU9HdmprUVd4cUdn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. "AI 서버 MLCC 없어서 못 판다"…코칩, 슈퍼커패시터로 데이터센터·로봇·자율주행 공급 타진
+19. "AI 서버 MLCC 없어서 못 판다"…코칩, 슈퍼커패시터로 데이터센터·로봇·자율주행 공급 타진
    - 분야: 자율주행 / 게재일: 2026-08-28 / 매체: 파이낸셜포스트
    - 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE5nRGRFY0xzaHZoN1pHVXd5dkZKQ0t0UTlDMHBoTFY5OW5nZmFaNTRfZ0dJQjR1SWduQ2c5QWVkVUk1cXdBU2N4MndPWW5veVZnRTBnMTg3eGpPbnc2dng2bHNIXzYzb3RZQnJLSnlGa044Qk1l?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
