@@ -150,7 +150,7 @@
   "body": "- 총리실, 중앙부처‧지자체‧교육청 민원담당 200명과 ‘민원행정 혁신을 위한 공공AX 포럼’ 개최 - 비예산으로 현장에서 직접 개발한 ‘AI민원서포터’ 전국 확산과 함께 향후 행정심판답변서 작성‧토론형 AI를 통하여 민원해결 가속화 □ 국무조정실 및 국무총리비서실(이하 국무총리실)은 8월25일 오후 정부세종청사 6동 대강당에서 전국 중앙부처·지방자치단체·교육청의 민원담당자 200여명이 참석한 가운데 ‘민원행정 혁신을 위한 공공AX 포럼’을 개최했다. ㅇ 이번 포럼은 국민이 제기한 민원을 단순히 안내·종결하는 데 그치지 않고 민원을 실제 해결하고 신속하게 답변하는 방안을 모색하기 위해 마련됐다. 참석자들은 민원합리성 검토위원회 운영 성과, AI 민원서포터의 기능과 발전방향, AI 챔피언의 현장혁신 사례를 공유하고 민원업무 공공AX 전환에 대해 논의하였다. ㅇ 첫 번째 발표에서는 국무총리비서실 이용하 민정민원팀장이 민원합리성 검토위원회의 운영 성과를 소개했다. 민원합리성검토위원회는 다수 국민에게 영향을 미치지만 법규·관행 또는 기관 간 칸막이로 해결되지 못한 민원을 외부 전문가와 시민의 시각에서 다시 검토하고, 관계기관과 함께 개선 방안을 마련하여 민원해결 방안을 검토하는 위원회다. ㅇ 총리실은 2025년 11월 첫 회의를 시작으로 2026년 5월까지 네 차례의 위원회를 열어 총 14건의 장기 미해결 민원을 해결했다. 주택연금 가입자의 실거주 요건 폐지, 자동차 차대번호 타각 수수료 인하, 관람권의 차별표기 폐지, 기초생활수급자 전입 시 도시가스 감면 신청 지원, 외국인 계절근로자의 국민연금 반환일시금 지급, 산업안전·보건지도사 응시료 개선, 휴대전화가 없는 청소년의 온라인 본인확인 절차 마련 등이 대표 사례다. ㅇ 위원회는 민원 접수와 주요민원 식별, 소관기관 실무협의, 합리성 검토,",
   "date": null,
   "link": "https://www.opm.go.kr/opm/news/press-release.do?mode=view&articleNo=163211&article.offset=0&articleLimit=10",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23155": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -161,13 +161,13 @@
   "body": "□국토교통부(장관 김윤덕) 대도시권 광역교통위원회(위원장 김용석, 이하 대광위)는 8월 27일 오후 서울에서 갈등조정위원회를 열어 위례선 트램 건설사업 관련 갈등조정안을 의결하였다. ㅇ 이번 갈등조정위원회는 위례선 트램 건설사업의 교차로·횡단부 내 교통안전시설 설치와 교통안전심의에 관한 서울특별시(이하 서울시)와 서울특별시경찰청(이하 서울시경)의 이견을 조정하고자 개최하였다. □위례선 트램은 국내 최초로 도입되는 트램으로, 서울시에서 건설공사를 추진 중에 있으나, 트램 선로의 도로 해당 여부 및 교통안전심의 대상 범위를 둘러싼 관계기관 간 이견으로 사업추진이 지연될 우려가 있었다. ㅇ 이에 대광위는 서울시의 갈등조정 요청을 받아 관계기관의 의견과 ｢도로교통법｣ 등의 관련 규정을 면밀히 검토하고 2차례의 실무위원회와 갈등조정위원회를 거쳐, 최종 조정안을 마련하여 심의·의결하였다. ➊ 서울시는 트램선로를 ‘구도(區道)’로 지정하여 교통안전심의 요건을 갖추고, 안전확보를 위해 교통안전법상 교통시설안전진단*을 조속히 수행한 후, 그 결과를 반영한 안전대책을 마련하여 서울시경에 교통안전심의를 요청한다. * ｢교통안전법｣에 따라 교통시설 개통 전, 이용자 관점에서 잠재적 교통사고 유발 요인을 사전에 조사·검토하여 개선대책을 마련하는 안전관리 제도 ➋ 경기도와 성남시는 교통안전심의 추진을 위해 성남시 구간의 트램선로를 성남시의 ‘시도(市道)’로 지정한다. ➌ 서울시경은 서울시에서 위의 사항을 모두 이행한 후 교통안전심의를 요청하면 심의를 이행하여, 트램이 보행자·자동차에 미치는 안전문제를 검토한다. ➍ 위례선 트램의 신속한 추진을 위해 향후 추가적인 관계기관 간 이견 발생 시 대광위가 이를 조정하고, 관계기관들이 위례선 트램 적기 개통에 긴밀히 협력한다. □김용석 대광위원장은 “위례선 트램은 국내",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092355",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23158": {
   "body": "- 한 총리, 데이터관계장관회의 주재…“공공데이터가 정부에서만 활용되서는 안 돼” - ▴공공데이터 Top 100 개방시기 1년 단축(’28년→’27년) ▴공공저작물 37종 AI 학습 허용 □ 한성숙 국무총리는 8월 27일(목) 14시 정부서울청사에서 ‘데이터 관계장관회의’를 주재하였다. * (참석) 국무총리(주재), 과기정통부·행안부·문체부·복지부·국토부·기획처·데이터처·개인정보위 장·차관, 국가AI전략위 데이터분과장 등 ㅇ 금일 회의는 지난 5월 범정부 데이터 총괄기구로 신설한 데이터 관계장관회의의 두 번째 회의로서, 정부‧공공기관 등이 보유한 공공데이터 개방 확대를 주제로 개최되었다. □ 한 총리는 회의에 앞서 “최근 공무원들이 개발한 AI서비스가 현장의 문제를 해결하는 등 공공 AI전환이 가속화되고 있는 기반은 공공데이터”라며, “공공데이터는 오랜 기간 경제‧사회 전 분야에 걸쳐 축적된 대체불가 국가자산으로, 양질의 공공데이터가 적극 개방되고 얼마나 잘 활용하느냐에 글로벌 AI 경쟁력이 좌우된다.”고 하였다. ㅇ 또한, “공공데이터는 국민의 소중한 세금으로 구축된 것으로 개방하는 것이 당연한 원칙이며, 그동안 관행 등을 이유로 소극적으로 개방한 부분은 없었는지 되짚어볼 것”을 관계부처에 당부했다. □ 먼저, 첫번째 안건으로 ｢AI‧고가치 공공데이터 Top 100 조기 개방 추진방안｣에 대해 논의하였다. ㅇ 행안부는 AI 개발 수요가 높고 사회적·경제적 파급효과가 큰 100종의 공공데이터를 선정해 개방 중인 ｢AI·고가치 공공데이터 Top 100｣을 데이터 보유기관과의 협의를 통해 당초 계획보다 앞당겨 ’27년까지 추진하겠다고 밝혔다. ㅇ 기존에는 ’28년까지 단계적으로 개방할 계획이었으나, 지난해 개방된 10종의 TOP 100 데이터가 구체적인 성과를 내면서 개방 시점을 앞당겨 ",
   "date": null,
   "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187708&searchOpt=ALL&searchTxt=",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23159": {
   "body": "- 행안부, 8월 26일 등급심의위원회 통해 15,033개 시스템 새로운 등급 확정 - 국가핵심(A1) 시스템 73개 지정, 정부24 등 국민 안전·일상 직결 서비스 행정안전부(장관 윤호중)는 지난 4월부터 추진해 온 공공 정보시스템 등급 전면 재분류를 마무리하고, 1만 5,033개에 대한 새로운 등급을 확정했다고 밝혔다. 이번 재분류는 지난해 9월 발생한 국가정보자원관리원 화재 당시, 사용자 수가 적다는 이유로 낮은 등급을 받아 국민 생활에 미치는 영향이 큼에도 복구가 늦어졌던 문제를 근본적으로 바꾸기 위해 추진됐다. 이에 따라, 기관이나 사용자 수가 아닌 국민 관점에서 서비스 중요도를 중심으로 A1에서 A4 단계로 등급 체계를 개편하고, 모든 공공 정보시스템에 대한 등급 전면 재분류를 진행했다. 특히, 행정안전부는 등급 부여 대상인 15,033개의 정보시스템에 대해 민간 전문가 자문 등 실무 검토와 5개 분과위원회(일반행정, 지방행정, 안전, 경제, 사회) 의 심사를 거쳤으며, 지난 8월 26일 정보시스템 등급심의위원회 제2차 전체 회의에서 최종적으로 결정했다. >> 국가핵심(A1) 등급 73개 등 총 15,033개 정보시스템 재분류 완료 심의 결과, A1 등급 73개(0.5%), A2 등급 157개(1.0%), A3 등급 671개(4.5%), A4 14,132개(94.0%)로 결정됐다. 정보시스템 등급심의위원회에서는 각 기관이 신청한 내용에 대해 국민의 생명‧안전 및 일상생활과 직결되는 정보시스템은 등급을 상향하는 한편, 시스템의 중요도에 비해 높게 신청되었으면 등급을 하향 조정했다. 이 중 국가핵심(A1) 등급 73개는 국민 안전 22개, 관세행정 15개, 재정금융 11개, 보건복지 11개, 행정 기반 8개, 국토교통 6개 순으로 나타나, 국민 안전 분야의 비중이 가장 높았으며",
@@ -179,7 +179,7 @@
   "body": "- 어린이 보호구역의 어린이 교통안전을 최우선으로 하여 안전한 범위 내에서 최소한의 국민 편의 확보를 위한 합리적 운영 확대 - 모든 어린이 보호구역에 일률 적용하는 것은 아니고, 시간제 속도제한 표지 등 교통안전시설이 갖춰진 장소부터 순차적으로 확대 운영 예정 경찰청(청장 직무대행 유재성)은 교통안전과 소통 편의를 확보하기 위해 어린이 보호구역 시간제 속도제한 운영 기준을 합리적으로 개선, 시간제 속도제한을 운영하는 장소 확대를 추진한다. ‘어린이 보호구역 시간제 속도제한’이란 제한속도를 평상시 시속 30km로 운영하는 어린이 보호구역에서 심야시간 등 어린이 통행이 없거나 적은 시간에 일시적으로 제한속도를 상향하는 제도를 말한다. 그간 어린이 보호구역 제한속도는 보행자 교통안전을 위해 대부분 전일 시속 30km로 운영해 왔다. 다만 보행자 통행이 거의 없는 심야시간까지 이러한 규제를 적용하는 것은 과도하다는 지적이 이어져 왔고, ’23.9월부터 시범운영을 거쳐 일정 요건을 갖춘 곳에 시간제 속도제한을 도입하는 방안을 시행하였다. 그러나 ’26.4월을 기준으로 전국 어린이 보호구역 15,856개소 중 단 84개소에서만 운영 중으로, 전체 대비 0.5% 수준에 불과하다. 어린이 보호구역 시간제 속도제한은 △지방정부의 예산부담 △제한된 대상 기준 등 현실의 벽에 부딪혀 확대하기 어려웠던 것이 사실이다. 최근 5년, 어린이 보호구역 내 심야00~06시 어린이 보행 교통사고 발생 ‘0건’ 국내 어린이 보호구역의 교통안전은 우수한 수준이다. 통계를 분석해 보면, 지난 ’25년에 발생한 어린이 보호구역 내 어린이 보행 사망사고는 1건으로, 10년 전인 ’15년(8건)에 비해 크게 감소하였으며, 특히 최근 5년간 심야(00~06시)에는 어린이 보호구역 내 어린이 보행 교통사고가 단 한 건도 발생하",
   "date": null,
   "link": "https://www.police.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1002&q_bbscttSn=20260827153148546&q_tab=&q_searchKeyTy=&q_searchVal=&q_rowPerPage=10&q_currPage=1&q_sortName=&q_sortOrder=&",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23161": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -241,10 +241,77 @@
   "link": "https://www.infostockdaily.co.kr/news/articleView.html?idxno=217666",
   "tries": 1
  },
- "https://itskorea.kr/boardDetail.do?type=8&idx=23159": {
-  "body": "- 행안부, 8월 26일 등급심의위원회 통해 15,033개 시스템 새로운 등급 확정 - 국가핵심(A1) 시스템 73개 지정, 정부24 등 국민 안전·일상 직결 서비스 행정안전부(장관 윤호중)는 지난 4월부터 추진해 온 공공 정보시스템 등급 전면 재분류를 마무리하고, 1만 5,033개에 대한 새로운 등급을 확정했다고 밝혔다. 이번 재분류는 지난해 9월 발생한 국가정보자원관리원 화재 당시, 사용자 수가 적다는 이유로 낮은 등급을 받아 국민 생활에 미치는 영향이 큼에도 복구가 늦어졌던 문제를 근본적으로 바꾸기 위해 추진됐다. 이에 따라, 기관이나 사용자 수가 아닌 국민 관점에서 서비스 중요도를 중심으로 A1에서 A4 단계로 등급 체계를 개편하고, 모든 공공 정보시스템에 대한 등급 전면 재분류를 진행했다. 특히, 행정안전부는 등급 부여 대상인 15,033개의 정보시스템에 대해 민간 전문가 자문 등 실무 검토와 5개 분과위원회(일반행정, 지방행정, 안전, 경제, 사회) 의 심사를 거쳤으며, 지난 8월 26일 정보시스템 등급심의위원회 제2차 전체 회의에서 최종적으로 결정했다. >> 국가핵심(A1) 등급 73개 등 총 15,033개 정보시스템 재분류 완료 심의 결과, A1 등급 73개(0.5%), A2 등급 157개(1.0%), A3 등급 671개(4.5%), A4 14,132개(94.0%)로 결정됐다. 정보시스템 등급심의위원회에서는 각 기관이 신청한 내용에 대해 국민의 생명‧안전 및 일상생활과 직결되는 정보시스템은 등급을 상향하는 한편, 시스템의 중요도에 비해 높게 신청되었으면 등급을 하향 조정했다. 이 중 국가핵심(A1) 등급 73개는 국민 안전 22개, 관세행정 15개, 재정금융 11개, 보건복지 11개, 행정 기반 8개, 국토교통 6개 순으로 나타나, 국민 안전 분야의 비중이 가장 높았으며",
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23178": {
+  "body": "｢제4차 환승센터 및 복합환승센터 구축 기본계획(2026-2030) 수립｣ - 국민들의 환승편의 제고를 위한 향후 5년 종합 로드맵 고시(‘26.8.31) - □ 국토교통부(장관 김윤덕) 대도시권광역교통위원회(위원장 김용석, 이하 대광위)는 환승센터와 복합환승센터의 체계적인 추진을 위한 향후 5년 간의 중장기 발전 방향과 추진과제를 담은「제4차 환승센터 및 복합환승센터 구축 기본계획(2026~2030)」을 발표하였다. ㅇ 이번 기본계획은 지방정부 및 공공기관 수요조사, 관계기관 협의, 전문가 등 의견수렴을 거쳐 기본계획(안)을 마련하였으며, 최종 관계부처와 충분한 협의를 거친 후 국가교통위원회 심의를 통해 확정되었다. □ 이번 계획은 교통수단 간의 연결을 넘어, AI와 미래 모빌리티를 결합한 환승체계를 구축하고, 지역 균형성장을 지원하기 위해 “모빌리티와 균형성장의 중심, 미래 상생 환승센터”를 비전으로, 3대 목표를 설정하였다. ㅇ 수도권-지방권 간 이동권을 보장할 뿐 아니라, 정주여건을 개선하고, 지방권 균형성장을 지원하기 위해 지방권 환승센터를 전차 계획 대비 약 2배 확대(3차 대비 4차 사업수 15곳→30곳, 국비지원 173억원→447억원)한다. ㅇ 서울 도심·강남으로 유입되는 광역버스 통행효율을 제고하기 위해 9개 광역교통축별 거점 8개 환승센터*를 구축하여 광역버스 회차율을 현재 37%에서 50%까지 확보한다. * (신규) ①인천/부천축・김포/강화축: 김포공항역 ②의정부축: 창동역 ③구리/남양주축: 상봉역 ④고양/파주축: 대곡역 ⑤성남/용인축: 양재역 ⑥과천/안양축: 사당역 / (운영중) ⑦하남축: 잠실역, ⑧광명축: 당산역 ㅇ 환승센터 구축 확대뿐 아니라 환승 서비스 제고 요구가 증가함에 따라 전국 주요 20개 고속·광역 철도역의 환승거리·시간을 30% 이상 단축시켜 환",
   "date": null,
-  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do;jsessionid=3AB5npZAW7MCi0GxUV4zEi4fVTTRb6XH7jIpvO4u.node30?bbsId=BBSMSTR_000000000008&amp;nttId=129047"
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092358",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23179": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-28",
+  "link": "https://www.munhwa.com/article/11612681",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23180": {
+  "body": "고시 제2026-456호 국토교통부고시 제2026 - 456호 ｢국가통합교통체계효율화법｣ 제44조에 따른 ｢제4차 환승센터 및 복합환승센터 구축 기본계획(2026~2030)｣을 다음과 같이 고시합니다. 2026년 8월 31일 국토교통부장관 고시 제2026-456호 국토교통부고시 제2026 - 456호 ｢국가통합교통체계효율화법｣ 제44조에 따른 ｢제4차 환승센터 및 복합환승센터 구축 기본계획(2026~2030)｣을 다음과 같이 고시합니다. 2026년 8월 31일 국토교통부장관 Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/BORD0201/m_69/DTL.jsp?id=N01_B&cate=&mode=view&idx=269419&key=&search=&search_regdate_s=2025-08-31&search_regdate_e=2026-08-31&order=&desc=asc&srch_prc_stts=&item_num=0&search_dept_id=&search_dept_nm=&srch_usr_nm=N&srch_usr_titl=N&srch_usr_ctnt=N&srch_mng_nm=N&old_dept_nm=&search_gbn=&search_section=&source=&search1=&lcmspage=1",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23181": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-29",
+  "link": "https://www.dtoday.co.kr/news/articleView.html?idxno=788577",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23182": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.viva100.com/article/20260828500164",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23183": {
+  "body": "행정중심복합도시건설청(이하 ‘행복청’, 청장 강주엽)은 8월 28일(금) 청주국제공항(한국공항공사 청주지사)에서 제34차 행복도시 광역계획권 교통협의회(이하 광역교통협의회)를 개최했다고 밝혔다. 이번 회의에서는 행복청과 국무조정실, 대도시권광역교통위원회, 대전광역시, 세종특별자치시, 충청북도, 충청남도 등 관계기관이 참석해 ▲공주 및 조치원 BRT 추진현황 ▲대전권 BRT 건설계획 추진방안 ▲충청권 광역BRT 표준가이드라인 마련 ▲청주국제공항 연결 대중교통 현안 등을 중점적으로 논의했다. 먼저 올해 말 준공 예정인 세종~공주 BRT와 내년 말 준공예정인 세종~조치원 BRT 추진현황과 향후 운행 계획을 점검했다. 참석기관들은 사업이 차질없이 추진 될수 있도록 기관 간 협력을 강화하기로 하였다. 아울러 지난달 말 대도시권광역교통위원회에서 수립·고시한「제2차 간선급행버스체계 종합계획(‘26~’30)」에 반영된 국회세종, 청주동남, 천안 2단계, 공주 2단계 BRT 등 신규 노선의 추진방향에 대해서도 의견을 나눴다. 광역BRT 건설사업 사무(실시계획 승인 등)를 일관되고 체계적으로 추진하기 위해 충청광역연합에서 추진 중인 ‘충청권 광역BRT 표준가이드라인 연구용역’의 추진현황 및 향후계획에 대해서 의견을 나눴다. 특히 이번 협의회가 행복도시의 관문 공항인 청주국제공항에서 열린 만큼, 공항 접근성을 높이기 위한 교통체계 개선방안도 주요 의제로 다뤘다. 참석자들은 청주국제공항과 전국 주요도시를 연결하는 대중교통 현황과 이용객의 이동 편의를 높이기 위한 연계 교통체계 개선방안 등을 공유했다. 회의를 마친뒤에는 청주국제공항 시설과 운영현황을 살펴보았으며, 공항 이용 활성화를 위해서는 다양한 교통수단과의 연계를 지속적으로 강화할 필요가 있다는데 뜻을 모았다. 특별히 회의에 참석한 신용한 충청북도지사는",
+  "date": null,
+  "link": "https://naacc.go.kr/WEB/contents/N3050100000.do?schM=view&page=1&viewCount=10&id=79791&schBdcode=&schGroupCode=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23184": {
+  "body": "내비게이션에는 현재 주차할 수 있는 자리가 얼마나 남았는지도 표시됩니다. 보통은 내비게이션을 통해 주차장을 찾아도 빈자리가 얼마나 남아 있는지는 알 수 없어, 무작정 찾아갈 수밖에 없습니다. 내비게이션에는 현재 주차할 수 있는 자리가 얼마나 남았는지도 표시됩니다. 보통은 내비게이션을 통해 주차장을 찾아도 빈자리가 얼마나 남아 있는지는 알 수 없어, 무작정 찾아갈 수밖에 없습니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-08-29",
+  "link": "https://www.yna.co.kr/amp/view/MYH20260829007300038",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23185": {
+  "body": "법제처(처장 조원철)는 8월 28일(금), ‘미래 법제의 방향성 - 신기술의 산업 활용과 AI·데이터 활용 법제’를 주제로 ‘제3회 미래법제포럼(The 3rd Forum for Future Legislation)’을 엘타워(서울시 서초구 소재)에서 개최했다. 한국법제연구원(원장 이국운)과 공동 개최한 이번 포럼에서는 피지컬AI·자율주행·신기술 창업·데이터 활용 등 미래법제 관련 주요 분야 실무자 및 법제 관련 전문가들이 참석하여 신기술과 AI 관련 혁신을 뒷받침할 법과 제도의 방향을 논의했다. 신기술 및 AI 분야의 주요 인사들이 참석한 포럼에서 이루어진 논의는 앞으로 피지컬AI·자율주행 등 신기술 산업 활용과 데이터기반 창업, AI 에이전트 등 관련 산업에 활용하는 토대를 마련하는 데 중요한 참고가 될 것으로 기대된다. 특히 국가인공지능위원회 박태웅 공공AX분과장은 개회사에서 “AI기술의 발전은 두 번째 산업혁명에 비유할 수 있다”라면서, “AI는 모든 산업의 플랫폼이 될 것이며 우리는 지금까지와는 다른, 생산이 비약적으로 향상되는 시대에 대비해야 한다”라고 언급했다. 포럼은 2개 분과로 진행되었다. 첫 번째 분과에서는 ‘휴머노이드·피지컬AI 및 자율주행 등 신기술 산업 혁신’을 주제로 논의했다. 손병희 마음AI연구소장, 박지훈 법무법인 화우 전문위원, 이완재 현대자동차 자율주행팀장, 김영국 자동차손해배상진흥원 정책연구센터장이 휴머노이드·피지컬AI·자율주행과 관련된 산업현장의 최근 현황과 이를 뒷받침하기 위한 법제의 역할에 대해 발제했다. 이어진 종합토론에서는 최경진 한국인공지능법학회 회장의 주도하에 신기술 산업 혁신 관련 법제정비의 방향성 등에 대해 자유롭게 논의하는 시간을 가졌다. 두 번째 분과에서는 ‘AI·데이터 중심 창업, AI 에이전트 활용과 관련된 쟁점’을 주제로 논의했다",
+  "date": null,
+  "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=156162&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23186": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-30",
+  "link": "https://www.hanyangeconomy.com/news/articleView.html?idxno=9932",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23187": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-30",
+  "link": "https://www.hellot.net/news/article.html?no=114629",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23188": {
+  "body": "- 최대 적재중량 40kg급 드론-자율로봇 활용, 아파트 주민 대상 대여품 배송 - 실제 주거환경에서의 배송 실증으로 생활밀착형 상용 서비스 기반 확보 우주항공청(청장 오태석)은 한국전자통신연구원(원장 박세웅)과 함께 드론-로봇이 협업하는 최대 적재중량 40kg급 고중량 화물 비대면 배송 운용체계를 개발하여, 8월 24일(월)부터 8월 29일(토)까지 진주 혁신도시 아파트 단지 내 인구 밀집 지역에서의 실 운영을 통해 현장 검증을 진행 중이라고 밝혔다. 우주항공청은 드론-로봇 연계 배송 기술의 신뢰성을 상용화 수준으로 높이기 위해 전국의 다양한 환경에서 시스템의 위험요인에 선제적으로 대응하기 위한 실 운용환경 검증을 지속하고 있다. 2025년 충남 내포신도시에서 드론·로봇·스테이션 간 연계 운용 가능성을 확인했고, 2026년 제주(3월~4월)와 사천(8월)에서는 도서지역 및 공공·물류시설이 연계된 환경에서의 배송 능력을 검증했다. ㅇ 충남 내포신도시(‘25.12.) 충남도서관(드론)→홍복읍사무소 내포출장소 주차장(스테이션, 로봇)→내포중학교 대상 대출 도서 배송 40회 실증 ㅇ 제주(’26.3.~4.) 금능포구 드론배송센터(드론)→비양도 도킹스테이션(스테이션, 로봇)→비양도 56개 배달지 대상 생활용품 배송 89회 실증 ㅇ 사천(’26.8.) 민간 물류센터(드론)→사천시청 주차장(스테이션, 로봇)→사천시청 3개 배달지(택배 보관소, 민원실 등) 대상 택배 배송 48회 실증 ㅇ 진주(’26.8.) 진주시 내 은하수동산 장난감은행 인근 남강변(드론)→센텀리버파크 인근 공터(스테이션, 로봇) → 센텀리버파크 아파트 대상 소포 배송 50회 실증 진주지역에서의 실증은 대중적 생활공간인 도심지 내 아파트까지 적용 범위를 확대한 것으로, 인구가 밀집된 생활공간에서 드론-로봇 배송 운용체계의 기술 ",
+  "date": null,
+  "link": "https://www.kasa.go.kr/prog/plcyBrf/brief/kor/sub01_01_04/view.do",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23189": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-28",
+  "link": "https://biz.chosun.com/industry/car/2026/08/30/HZZDKCHG6RGKXAI6OJSCUMKH6Y/",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -337,7 +404,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.globenewswire.com/news-release/2026/08/25/3350362/0/en/advanced-smart-mobility-deploys-cerence-emergency-vehicle-detection-in-autonomous-buses-across-japan.html",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23124": {
   "body": "Pennsylvania Department of Transportation (PennDoT) has brought Quarterhill on board to run statewide Weigh in Motion (WiM) operations. The three-year, $4.6 million contract will see Quarterhill delivering scheduled maintenance, emergency repair services, and system calibration for PennDoT’s network of planning and compliance WIM sites...중략... [Quarterhill, 펜실베이니아주 교통부 WiM 계약 460만 달러 수주] 펜실베이니아 교통부(PennDoT)는 쿼터힐(Quarterhill)을 선정하여 주 전역의 이동식 계량 시스템(Weigh in Motion, WiM) 운영을 맡겼습니다. 3년 동안 460만 달러에 달하는 이 계약을 통해 Quarterhill은 PennDoT의 계획 및 규정 준수 WIM 사이트 네트워크에 대한 정기 유지 보수, 긴급 수리 서비스 및 시스템 보정을 제공할 예정입니다. Pennsylvania Department of Transportation (PennDoT) has brought Quarterhill on board to run statewide Weigh in Motion (WiM) operations. The three-year, $4.6 million contract will see Quarterhill delivering scheduled maintenance, emergency repair services, and system calibration for PennDoT’s net",
@@ -373,7 +440,7 @@
   "body": "U.S. Transportation Secretary Sean P. Duffy today unveiled America’s Great Corridors of Commerce (AGCC) – a first-of-its-kind, voluntary nationwide opportunity to transform highway and rail corridors into multi-use arteries for transmission wires, fiber optic lines, water pipelines, and other vital utilities. Expanding energy and telecommunications capacity are needed to:..중략... [트럼프 행정부의 숀 P. 더피 교통부 장관은 미래 경제를 이끌어갈 다목적 동맥으로 고속도로와 철도를 탈바꿈시키기 위한 '미국의 위대한 상업 회랑' 계획을 발표했습니다.] 션 P. 더피 미국 교통부 장관은 오늘 ‘ 미국 주요 상업 회랑(AGCC)’을 발표했습니다 . 이는 고속도로와 철도 회랑을 송전선, 광섬유 케이블, 상수도관 및 기타 필수 시설을 위한 다목적 동맥으로 전환할 수 있는 최초의 전국적인 자발적 참여 프로그램입니다. 에너지 및 통신 용량 확장은 다음과 같은 이유로 필요합니다. U.S. Transportation Secretary Sean P. Duffy today unveiled America’s Great Corridors of Commerce (AGCC) – a first-of-its-kind, voluntary nationwide opportunity to transform highway and rail corridors into multi-use arteries for transmission w",
   "date": null,
   "link": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-americas-great-corridors",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23150": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -389,7 +456,7 @@
   "body": "5GAA would like to thank MoRTH for the opportunity to comment on the draft notification introducing V2V requirements for type approval of L, M, N category vehicles in India. 5GAA applauds the Government of India’s commitment to improving road safety and accelerating the deployment of connected vehicle technologies. 5GAA welcomes the objective to establish a regulatory framework that enables interoperable V2X services and contributes to safer and more efficient transport systems...중략... [5GAA는 인도에서 L, M, N 카테고리 차량의 형식 승인을 위한 V2V 요건을 도입하는 MoRTH 초안 고시에 대한 답변을 발표] 5GAA는 인도에서 L, M, N 카테고리 차량의 형식 승인을 위한 V2V 요건 도입에 관한 초안 고시에 대해 의견을 제시할 기회를 주신 교통부에 감사드립니다. 5GAA는 인도 정부의 도로 안전 개선 및 커넥티드 차량 기술 도입 가속화에 대한 노력을 높이 평가합니다. 5GAA는 상호 운용 가능한 V2X 서비스를 가능하게 하고 보다 안전하고 효율적인 교통 시스템 구축에 기여하는 규제 프레임워크 마련이라는 목표를 환영합니다. 5GAA would like to thank MoRTH for the opportunity to comment on the draft notification introdu",
   "date": null,
   "link": "https://5gaa.org/5gaa-response-to-the-morth-draft-notification-introducing-v2v-requirements-for-type-approval-of-l-m-n-category-vehicles-in-india/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23156": {
   "body": "...중략...우크라이나가 35주년 독립기념일을 맞아 24일 수도 키이우에서 벌인 열병식엔 통상 등장하는 병사들의 행진이나 전차의 주행 등을 찾아볼 수 없었다. 대신 대규모 첨단 드론, 로봇 부대 퍼레이드 등이 그 자리를 채우며, 현대 전쟁의 새로운 양상을 상징적으로 보여줬다...중략... ...중략...우크라이나가 35주년 독립기념일을 맞아 24일 수도 키이우에서 벌인 열병식엔 통상 등장하는 병사들의 행진이나 전차의 주행 등을 찾아볼 수 없었다. 대신 대규모 첨단 드론, 로봇 부대 퍼레이드 등이 그 자리를 채우며, 현대 전쟁의 새로운 양상을 상징적으로 보여줬다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
@@ -418,7 +485,7 @@
   "body": "U.S. Transportation Secretary Sean P. Duffy today announced the Federal Aviation Administration (FAA) is launching Phase 2 of the BEYOND program to expand the agency's efforts to integrate drones into the national airspace system (NAS) and secure America’s leadership in aviation innovation...중략... [트럼프 행정부의 숀 P. 더피 교통부 장관은 드론 혁신을 촉진하기 위해 FAA의 BEYOND 프로그램을 대폭 확대한다고 발표했습니다.] 미국 교통부 장관은 오늘 연방항공청(FAA)이 드론을 국가 영공 시스템(NAS)에 통합하고 항공 혁신 분야에서 미국의 리더십을 확보하기 위한 노력을 확대하기 위해 BEYOND 프로그램 2단계에 착수 한다고 발표했습니다. U.S. Transportation Secretary Sean P. Duffy today announced the Federal Aviation Administration (FAA) is launching Phase 2 of the BEYOND program to expand the agency's efforts to integrate drones into the national airspace system (NAS) and secure America’s leadership in aviation innovation...중략... [트럼프 행정부의 숀 P. 더피 교통부 장관은 드론 혁신을 촉진하기 위해 FAA의 BEYOND 프로그램을 대폭 확대한다고 발표했습니다.] 미국 교통부 장관은 오늘 연방항공청(FAA)이",
   "date": null,
   "link": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-announces-major-expansion-faa-beyond",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23175": {
   "body": "he achievement means London's Cycleway network is now five times larger than it was in 2016, when there were 90km of Cycleways. Since then, Transport for London (TfL) and London's boroughs have worked closely to create a connected network of high-quality cycling routes that make it safer and easier for people of all ages and abilities to travel by bike. Data published last year by Transport for London (TfL) revealed that London's cycling boom shows no sign of slowing, with an estimated 43 per cent increase in cycling journeys since 2016, and a massive 1.5 million daily journeys taking place in 2025...중략... 이번 성과로 런던의 자전거 도로망은 2016년 90km에서 5배로 확장되었습니다. 그 이후로 런던 교통국(TfL)과 런던 자치구들은 모든 연령과 능력을 가진 사람들이 자전거를 더욱 안전하고 편리하게 이용할 수 있도록 고품질 자전거 도로망을 구축하기 위해 긴밀히 협력해 왔습니다. 런던 교통국(TfL)이 작년에 발표한 자료에 따르면 런던의 자전거 이용 증가세는 둔화될 기미를 보이지 않고 있으며, 2016년 이후 자전거 이용량이 약 43% 증가하여 2025년에는 하루 150만 건의 자전거 이용이 이루어질 것으로 ",
@@ -436,6 +503,48 @@
   "body": "Cerence Inc. (NASDAQ: CRNC) (“Cerence AI”), a global leader in conversational AI-powered user experiences, today announced that Advanced Smart Mobility Co., Ltd. (AS Mobi) is deploying Cerence Emergency Vehicle Detection (EVD) to support its autonomous bus platform field trials in Japan. The collaboration supports safer transportation journeys, helping autonomous vehicles recognize approaching emergency vehicles and respond appropriately in complex, real-world environments...중략... [첨단 스마트 모빌리티, 일본 전역 자율주행 버스에 세렌스 긴급 차량 감지 시스템 도입] 대화형 AI 기반 사용자 경험 분야의 글로벌 리더인 세렌스( Cerence Inc. , NASDAQ: CRNC, 이하 \"세렌스 AI\")는 어드밴스드 스마트 모빌리티(Advanced Smart Mobility Co., Ltd., AS Mobi)가 일본에서 진행 중인 자율주행 버스 플랫폼 현장 시험에 세렌스의 긴급 차량 감지 (EVD) 솔루션을 도입한다고 발표했습니다. 이번 협력을 통해 자율주행 차량이 접근하는 긴급 차량을 인식하고 복잡한 실제 환경에서 적절하게 대응할 수 있도록 지원함으로써 더욱 안전한 교통 환경을 조성할 수 있게 되었습니다. Cerence Inc. (NASDAQ: CRNC) (“Cerence AI”), a global leade",
   "date": null,
   "link": "https://www.globenewswire.com/news-release/2026/08/25/3350362/0/en/advanced-smart-mobility-deploys-cerence-emergency-vehicle-detection-in-autonomous-buses-across-japan.html",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23190": {
+  "body": "...중략...Proponents of autonomous vehicle technology have long argued that robotaxis and other self-driving vehicles will reduce crash incidents and make roads safer. And there is some evidence of that. But that doesn’t mean there hasn’t been a cost to those who are working (or have worked) for the companies developing that tech...중략... 자율주행차 기술 지지자들은 로보택시를 비롯한 자율주행 차량이 교통사고를 줄이고 도로를 더 안전하게 만들 것이라고 오랫동안 주장해 왔습니다. 그리고 실제로 그러한 효과를 보여주는 증거도 있습니다. 하지만 그렇다고 해서 그 기술을 개발하는 회사에서 일하는 사람들(또는 일했던 사람들)에게 아무런 대가가 없었던 것은 아닙니다. ...중략...Proponents of autonomous vehicle technology have long argued that robotaxis and other self-driving vehicles will reduce crash incidents and make roads safer. And there is some evidence of that. But that doesn’t mean there hasn’t been a cost to those who are working (or have worked) for the companies developing that tech...중략... 자율주행차 기술 지지자들은 로보택시를 비롯한 자율주행 차량이 교통사고를 줄이고 ",
+  "date": "2026-08-30",
+  "link": "https://techcrunch.com/2026/08/30/techcrunch-mobility-the-hidden-human-cost-of-robotaxis/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23191": {
+  "body": "...중략...Artificial intelligence and machine learning, Vehicle to Everything (V2X) and connected vehicle technologies will be among the major topics under the theme ‘Advancing Intelligent Transport Together’...중략... [ITS 아시아태평양 총회 2027에서는 AI, V2X 및 인프라 복원력을 살펴볼 예정입니다.] 인공지능 및 머신러닝, 차량 대 사물 통신(V2X), 커넥티드 차량 기술 등이 '지능형 교통을 함께 발전시키자'라는 주제 아래 주요 논의 주제가 될 것입니다. ...중략...Artificial intelligence and machine learning, Vehicle to Everything (V2X) and connected vehicle technologies will be among the major topics under the theme ‘Advancing Intelligent Transport Together’...중략... [ITS 아시아태평양 총회 2027에서는 AI, V2X 및 인프라 복원력을 살펴볼 예정입니다.] 인공지능 및 머신러닝, 차량 대 사물 통신(V2X), 커넥티드 차량 기술 등이 '지능형 교통을 함께 발전시키자'라는 주제 아래 주요 논의 주제가 될 것입니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-08-28",
+  "link": "https://www.itsinternational.com/its-asia-pacific-forum-2027-focuses-on-smart-traffic-and-resilience/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23192": {
+  "body": "China has launched a 1-year campaign to improve automotive product quality, expanding oversight of intelligent connected vehicle safety and production conformity...중략... [중국, 커넥티드카 안전에 초점을 맞춘 1년간의 자동차 품질 개선 캠페인 시작] 중국은 자동차 제품 품질 향상을 위한 1년 캠페인을 시작했으며, 지능형 커넥티드 차량의 안전 및 생산 적합성에 대한 감독을 확대할 예정이다. China has launched a 1-year campaign to improve automotive product quality, expanding oversight of intelligent connected vehicle safety and production conformity...중략... [중국, 커넥티드카 안전에 초점을 맞춘 1년간의 자동차 품질 개선 캠페인 시작] 중국은 자동차 제품 품질 향상을 위한 1년 캠페인을 시작했으며, 지능형 커넥티드 차량의 안전 및 생산 적합성에 대한 감독을 확대할 예정이다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-08-27",
+  "link": "https://cnevpost.com/2026/08/27/china-launches-yearlong-auto-quality-campaign/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23193": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.globenewswire.com/news-release/2026/08/27/3352095/0/en/guident-and-florida-state-college-at-jacksonville-launch-autonomous-mobility-training-center-to-prepare-the-next-generation-transportation-workforce.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23194": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "http://www.china.org.cn/world/Off_the_Wire/2026-08/30/content_118670548.shtml",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23195": {
+  "body": "Initial phases of deployment will see Waymo carry out high-definition mapping of local street networks, as well as testing with trained autonomous specialists operating the vehicles. This validation period is hoped to ensure that Waymo Driver is capable of adapting to Munich’s distinct driving conditions before commercial ride-hailing opens to the public towards the end of 2027. 초기 배포 단계에서 웨이모는 지역 도로망의 고화질 지도를 제작하고, 훈련된 자율주행 전문가가 차량을 운전하는 테스트를 진행할 예정입니다. 이 검증 기간을 통해 웨이모 드라이버가 2027년 말 상용 차량 호출 서비스 개시 전에 뮌헨의 특수한 주행 환경에 적응할 수 있는지 확인할 계획입니다. Initial phases of deployment will see Waymo carry out high-definition mapping of local street networks, as well as testing with trained autonomous specialists operating the vehicles. This validation period is hoped to ensure that Waymo Driver is capable of adapting to Munich’s distinct driving conditions before commercial ride-hailing opens to the public",
+  "date": "2026-08-27",
+  "link": "https://futuretransport-news.com/waymo-to-introduce-autonomous-ride-hailing-in-munich/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23196": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://english.alarabiya.net/News/saudi-arabia/2026/08/28/saudi-arabia-syria-sign-four-pacts-on-roads-rail-postal-services-aviation",
   "tries": 1
  }
 }
