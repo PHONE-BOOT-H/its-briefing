@@ -293,6 +293,13 @@
   "impagency": "Ituri Provincial Administration,North Kivu Provincial Administration,South Kivu Provincial Administration",
   "total": 250000000.0
  },
+ "P176040": {
+  "borrower": "Bosnia and Herzegovina",
+  "closing": "2029-06-30",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Environmental Protection Fund of the Federation of Bosnia and Herzegovina,FBiH Ministry of Environment and Tourism,Herzegovina-Neretva Canton,Sarajevo Canton,Tuzla Canton,Zenica-Doboj Canton",
+  "total": 50000000.0
+ },
  "P176114": {
   "borrower": "PJSC “Ukrhydroenergo\"",
   "closing": "2026-12-31",
