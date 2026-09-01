@@ -9,6 +9,16 @@
   "selection_method": "Quality and Cost-Based Selection (QCBS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=28F33F33C5007B63B2BAB28268CD8E1667A3F9B04BFE264713F2DDDB6AFF618B": {
+  "budget": {
+   "amount": 204740.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Avtoyulinvest Uzbekistan",
+  "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
+  "source_scope": "International"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=2C1FE006695293A28694805691C79B9CBC370D4DFCB5A802DD1F565C859E9596": {
   "budget": {
    "amount": 1608000.0,
