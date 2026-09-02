@@ -440,6 +440,13 @@
   "impagency": "Ministry of Irrigation and Lowlands",
   "total": 300000000.0
  },
+ "P180117": {
+  "borrower": "African Union",
+  "closing": "2028-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "African Continental Free Trade Area Secretariat,African Union Commission",
+  "total": 50000000.0
+ },
  "P180153": {
   "borrower": "Republic of Moldova",
   "closing": "2029-06-30",

@@ -341,7 +341,7 @@
   "body": "롯데이노베이트가 자율주행 셔틀 'MUVU(무브)'의 상용화 무대로 강릉·제주·경주 등 지방 관광지를 적극 활용하고 있다. 교통량과 변수가 많은 도심보다 이동 동선과 이용 수요가 비교적 뚜렷한 관광지에서 먼저 운행 경험을 쌓으며 서비스 완성도를 높이는 방식이다. 롯데이노베이트가 자율주행 셔틀 'MUVU(무브)'의 상용화 무대로 강릉·제주·경주 등 지방 관광지를 적극 활용하고 있다. 교통량과 변수가 많은 도심보다 이동 동선과 이용 수요가 비교적 뚜렷한 관광지에서 먼저 운행 경험을 쌓으며 서비스 완성도를 높이는 방식이다. Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://www.news2day.co.kr/article/20260831500237",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23216": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -359,13 +359,13 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://digitalchosun.dizzo.com/site/data/html_dir/2026/08/31/2026083180180.html",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23219": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.news1.kr/industry/sb-founded/6274704",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23220": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -377,6 +377,150 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-09-01",
   "link": "https://www.cartvnews.com/news/articleView.html?idxno=702253",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23234": {
+  "body": "- ’27~’29년 총 848억원 투입... 실증·고도화로 ’32년 도심 진입 기반 마련 □국토교통부(장관 김윤덕)는 도심항공교통(UAM)의 안전한 운용을 위한 「K-UAM 안전운용체계 실증기술개발」사업이 국가연구개발사업 예비타당성조사를 최종 통과(’26.8.27)해 ’27년부터 본격 추진된다고 밝혔다. □ 이번 사업은 ’24년부터 ’26년까지 추진 중인 「K-UAM 안전운용체계 핵심기술개발」의 후속사업이다. 기존 사업이 UAM 안전운용에 필요한 핵심기술을 개발하고 시제품을 제작하는 데 중점을 뒀다면, 이번 사업은 개발된 기술을 실제 운용환경에서 연계·검증하고 실증할 수 있도록 고도화하는데 중점을 둔다. ㅇ 사업은 ’27년부터 ’29년까지 3년간 총 848억원 규모로 추진된다. 재원별로는 국비 578억원, 민간 176억원, 지방비 94억원이 투입될 예정이다. ㅇ 특히, 이번 사업은 개별 기술을 개발하는데 그치지 않고, 교통관리·운항정보·기상·버티포트 등 안전운용에 필요한 기술을 실제 운용환경에서 연계해 검증함으로써 향후 상용서비스에 활용할 수 있는 안전운용체계로 고도화하는 데 의미가 있다. ㅇ 국토교통부는 안전운용 기술개발을 총괄하고, 기상청은 기상관측·예측 기술개발, 울산광역시는 실증환경 구축을 담당하는 등 관계기관 간 역할을 분담해 사업을 추진한다. □ 국토교통부는 ’28년 지역연계, 관광, 공항연계, 공공의료 등 초기 UAM 서비스 상용화를 추진하면서 제도·인프라·전문인력 등 상용화 기반을 함께 마련하고, 이번 R&D를 통해 안전운용 기술을 지속적으로 실증·고도화해 ’32년 UAM의 도심 진입을 위한 기술적 기반을 확보해 나갈 계획이다. □ 국토교통부 박준형 모빌리티자동차국장은 “이번 사업은 UAM 기술개발을 실제 운용과 서비스로 연결하는 중요한 전환점”이라며, “관계기관과 긴밀",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092367",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23235": {
+  "body": "- 자율주행·AI 시티 등 미래 첨단기술 분야 협력 과제 발굴·교류 중점 확대 □ 김윤덕 국토교통부 장관은 9월 1일 일본 도쿄 국토교통성에서 가네코 야스시(金子 恭之) 국토교통대신을 만나 한-일 양국 간 국토·교통 분야 협력 확대 방안을 논의하였다. ㅇ 이번 면담은 최근 한-일 정상회담 등을 계기로 양국 간 미래 지향적 협력 필요성이 커지는 가운데, 국토·교통 분야의 실질적인 협력과제를 발굴하고 협력체계를 강화하기 위해 마련되었다. □ 김 장관은 면담에서 양국이 공통으로 직면한 저출산·고령화, 지역 불균형, 기후 위기 등 구조적 과제를 언급하며, 이를 해결하기 위한 국토·교통 분야 협력의 중요성을 강조했다. ㅇ 이를 위해, 김 장관은 도시·교통·항공·도로·자동차·철도 등 9개 분야* 협력회의의 재개와 정례적 개최를 제안하며, 양국 간 지속 가능한 소통 채널 구축에 대한 의지를 전했다. * 국토계획・토지, 주택, 측지・지도, 도시개발, 교통, 자동차 안전, 항공, 도로, 철도 ㅇ 특히, 글로벌 환경의 변화를 고려하여 자율주행, AI 시티 등 국토·교통의 미래 첨단기술 분야 기술 개발 및 정책 방향을 공유하면서 “양국의 장점을 살려 미래 지향적 협력과제를 지속적으로 논의해 나가기를 희망한다”고 밝혔다. □ 양국은 이번 면담을 계기로 공통 과제에 함께 대응하고, 협력회의 재개 및 지속 교류 강화를 통해 실질적인 성과를 만들어 나가기로 뜻을 모았다. □ 김 장관은 8월 31일에는 일본의 자율주행·모빌리티 업계 관계자 간담회를 개최하여, 모빌리티 관련 일본의 규제·실증 제도와 지원 사항에 대하여 논의하였고, 우리나라 실정에 맞는 정책 방안을 마련하는 데 활용해 나갈 계획이다. □ 9월 1일에는 자율주행·친환경 모빌리티 거점 도시인 ‘미나토미라이21’에 방문하여 자율주행 실증 방안 등에 대한 ",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092370",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23236": {
+  "body": "- 국민주권정부의 온전한 첫 국토교통부 예산은 ➊민생활력, ➋미래성장, ➌균형성장, ➍국민안전에 집중 투자, 대체불가 대한민국 견인 □ 국토교통부(장관 김윤덕)는 대체불가 대한민국으로 가는 경제 대도약 실현을 위해 ‘27년 예산안으로 역대 최대 규모인 691조원을 편성하였다고 밝혔다. ㅇ 이는 금년 본예산 62.8조원 대비 6.2조원 증액*(+9.9%)된 규모이다. □ ‘27년 예산은 국민주권정부에서 온전하게 편성된 첫 예산으로, 정부의 중점 투자과제, 국민 체감사업 등을 충분히 반영한 결과이다. ㅇ 특히, 재정운용의 효과성을 극대화하기 위해 모든 예산사업을 면밀히 분석하여 관행적 예산, 집행부진 사업 등에 대한 강력한 지출구조조정*을 통해 확보된 예산을 정부 중점 추진과제에 전액 재투자 하였다. * 제도개선(철도차량 구매시 선금 비율 축소 등), 유사 사업 통합(매입임대 등), 사업지연(제주 2공항 등) 에 따른 집행여건 감안 등 9.6조원 규모 □ ‘27년은 ➊민생활력, ➋미래성장, ➌균형성장, ➍국민안전 등 시급성이 큰 중점분야에 재원을 분배하였으며, 주요 내용은 다음과 같다. ㅇ ‘30년까지 공적주택 110만호+α 공급을 차질없이 이행하고, 청년 주거지원도 획기적으로 개선한다. - (주택공급) 주거안정을 위해 ‘26년 19.4만호 대비 12% 이상 증가한 공적주택 21.8만호(공공임대 17.2만호, 공공분양 3.4만호, 공공지원 민간임대 1.2만호)를 공급한다.(’26본예산21.2→‘27정부안30.0조원) 이중, 역세권·중형 평수 등이 반영된 보편형 임대주택을 신규 공급한다.(신규6.2조원) - (공급속도제고) PF 대출을 받은 주거시설의 사업장 조기착공시 금융비용 절감을 지원하는 ｢주거시설 PF대출 이차보전 사업｣(신규1,696억원), 개발사업 착수 단계에서 공공이 선투자하는",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95092368",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23237": {
+  "body": "과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 ‘과기정통부’)는 9월1일(화) 미국 노스캐롤라이나주 채플힐에서 개최되는 ‘주요 20개국(G20) 혁신 장관회의’에 배경훈 부총리 겸 과기정통부 장관이 우리나라 수석대표로 참석했다고 밝혔다. G20은 세계 주요국이 국제경제 협력 방안을 논의하는 협의체로, 의장국은 정상회의에 앞서 분야별 장관회의를 개최하고 있다. 지난해까지 ‘연구혁신 장관회의’와 ‘디지털경제 장관회의’가 각각 개최되었으나, 올해 의장국인 미국은 AI 등 신흥기술이 실제 경제성장과 산업 혁신으로 이어질 수 있도록 ‘G20 혁신 장관회의’로 통합하여 개최했다. 이번 G20 혁신 장관회의에는 20개의 회원국과 1개의 초청국(폴란드) 등 총 21개국의 장‧차관급 수석대표와 고위급 인사가 참석하여 AI를 비롯한 신흥기술의 혁신을 위한 정책방향을 논의했다. * (회원국) 미국(의장국), 한국, 일본, 영국, 프랑스, 독일, 캐나다, 이탈리아, 브라질, 러시아, 인도, 중국, 멕시코, 인니, 튀르키예, 호주, 아르헨티나, 사우디, 유럽연합(EU), 아프리카연합(AU) 오전 회의에서는 ‘혁신 친화적 정책 체계’를 주제로 AI 등 신흥기술의 연구개발부터 실증‧사업화와 시장확산까지 이어지는 전주기 혁신을 촉진하기 위한 정책 방향을 논의하였다. 각국은 기초연구 투자, 민관협력, 기술사업화 촉진, 유연한 규제 환경 조성 등 신흥기술의 연구개발 성과가 실제 혁신과 성장으로 연결되기 위한 정책 경험을 공유하였다. 오후 회의에서는 ‘기회와 번영을 위한 기술’과 ‘기술 인재 육성’을 주제로, AI 등 신흥기술을 공공부문과 사회 전반으로 확산하고 AI 시대에 필요한 인력 양성을 위한 방안을 논의하였다. 각국은 공공부문의 AI 도입과 확산 그리고 실무형 기술인재 육성, 전 국민 AI역",
+  "date": null,
+  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187720&searchOpt=ALL&searchTxt=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23238": {
+  "body": "“인공지능과 첨단기술로 대체 불가 대한민국으로의 대도약을 견인하겠습니다” - 과기정통부, 올해 대비 24.5% 증액된 역대 최대 규모인 29.6조 원의 2027년 예산안 편성 발표 - “3대 초대형 사업+ 인공지능(메가프로젝트+AI)”, “7대 SEED(미래성장동력) 사업(프로젝트)” 중심 전략적 투자 계획으로 국가 경쟁력 확충 정부는 9월 1일(화), 국무회의에서 ｢2027년도 예산안｣을 의결했다. 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)는 이 중 소관 예산안은 총 29.6조 원 규모로 올해 추경예산 대비 5.8조 원(+24.5%) 증가했다고 밝혔다. 내년도 예산안은 현 정부가 예산 편성 전 과정을 주도하여 국정 성과를 본격화하는 실질적인 첫 예산안인 만큼, 과기정통부는 고강도 지출구조조정을 통해 확보한 재정 여력을 바탕으로 국가 미래 잠재력을 강화하기 위한 역대 최대 규모의 인공지능, 과학기술 예산을 편성하였다. 중점 투자 분야는 ①인공지능 대전환 가속화, ②NEXT 인공지능, 첨단기술 확보, ③과학기술・디지털 기반 균형성장 지원 등으로, 최근 정부가 발표한 ‘3대 초대형 사업(메가프로젝트)’과 ‘7대 SEED 사업(프로젝트)’을 강력히 뒷받침하고, 정책 성과가 모든 세대・지역・계층으로 고루 확산하는 데 역점을 두었다고 밝혔다. “인공지능과 첨단기술로 대체 불가 대한민국으로의 대도약을 견인하겠습니다” - 과기정통부, 올해 대비 24.5% 증액된 역대 최대 규모인 29.6조 원의 2027년 예산안 편성 발표 - “3대 초대형 사업+ 인공지능(메가프로젝트+AI)”, “7대 SEED(미래성장동력) 사업(프로젝트)” 중심 전략적 투자 계획으로 국가 경쟁력 확충 정부는 9월 1일(화), 국무회의에서 ｢2027년도 예산안｣을 의결했다. 과학기술정보통신부(부총",
+  "date": null,
+  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187725&searchOpt=ALL&searchTxt=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23239": {
+  "body": "- 국가과학기술자문회의 제9회 심의회의, 「제2차 국가연구개발 중장기 투자전략('26~'30)」 의결… 향후 5년간 정부 R&D에 역대 처음으로 200조원 이상 투자 - ▲N(3대 메가프로젝트 기술결집) ▲E(7대 SEED+α 역량강화) ▲X(생태계 강화·확장) ▲T(신뢰기반 효율화) — 4대 전략·8대 과제·20개 분야 포트폴리오 - 글로벌 AI 경쟁력 5위→3위, 반도체 소부장 자립화율 30%→50%, 로봇 핵심부품 국산화 41%→80%, 세계 100 대 연구기관 2개→5개 - 논문 3,381만 건 AI 분석과 전문가 216명 집단지성으로 수립… 매년 투자방향· 예산 배분·조정·지출한도에 반영하는 롤링플랜으로 운영 【관련 국정과제】 20. AI 3 대 강국 도약을 위한 AI 고속도로 구축 26. 과학기술 5대 강국 실현을 위한 시스템 혁신 과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 ‘과기정통부’)는 8월 31일(월) 국가과학기술자문회의 제9회 심의회의 의결을 거쳐 「제2차 국가연구개발 중장기 투자전략('26~'30)」(이하 ‘투자전략’)을 확정하였다고 밝혔다. 5년간 정부 연구개발(R&D)에 역대 처음으로 200조원 이상을 투자하는 이번 전략은 정부가 추격형 성장 모델의 한계를 뛰어넘어, 향후 국가연구개발 투자의 방향을 제시하는 최상위 전략이다. 투자전략은 「과학기술기본법」 제7조의 2에 근거하여 5년마다 수립하며, 지난 6월 확정된 「제6차 과학기술기본계획」의 이행을 정부 R&D 투자로 구현하는 실행 로드맵이다. 국가 차원의 미션과 성과목표, 연도별 마일스톤, 투자 포트폴리오를 제시하고, 매년 수립하는 「국가연구개발 투자방향 및 기준」과 예산 배분·조정, 20개 중앙행정기관이 수립·시행 중인 76개 중장기 계획의 지침이 된다. 주력산업에서는 중국과의 기술수",
+  "date": null,
+  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187722&searchOpt=ALL&searchTxt=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23240": {
+  "body": "대체불가 대한민국 실현을 위한 담대한 R&D 투자, 2027년도 정부R&D 예산안 39.5조원으로 편성 - 정부R&D 예산 증가율은 11.2%로 ’26년에 이어 ’27년에도 두 자릿수, 성장과 도약의 씨앗인 내년도 신규사업에 역대 최대 3.3조원 투자 - 국가전략기술 기반으로 3대 메가프로젝트, 7대 SEED 총력 지원, 지역, 미래세대 등 국민 모두의 성장을 위한 투자 강화 정부는 9월 1일(화), 국무회의에서 「2027년도 예산안」을 의결하였다. 과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 ‘과기정통부’)는 이 중 정부R&D 예산은 39.5조원 규모로 ’26년 대비 11.2%(4.0조원) 증가하였으며 과기정통부 과학기술혁신본부(이하 ‘혁신본부’)가 배분·조정하는 주요R&D 예산은 33.8조원으로 ’26년 대비 11.5%(3.5조원) 확대되었다고 밝혔다. 정부R&D 예산 증가율은 ’26년 19.9%에 이어 ’27년에도 두 자릿수 증가세를 이어간다. 이는 최근 20년간 정부R&D 예산의 연평균 증가율인 7.2%를 크게 웃도는 수준으로, 과학기술을 미래 성장의 핵심 동력으로 삼겠다는 정부의 R&D 투자 확대 의지가 반영되었다. ’27년도 정부R&D 예산은 ▲성장의 씨앗 착근을 위한 역대 최대 규모 신규사업 투자, ▲국가전략기술 기반 3대 메가프로젝트 및 7대 SEED 총력 지원, ▲국민 모두가 성장의 열매를 함께 누릴 수 있도록 촘촘한 지원 강화, ▲정부 전 부처와 민간이 함께하는 ‘원팀’ R&D 예산 배분·편성에 중점을 두었다. 먼저, 성장과 도약의 씨앗이 될 신규사업에 역대 최대 규모인 3.3조원을 투자한다. 총사업비 1천억원 이상 대형R&D 사업은 기존 예비타당성조사에 비해 검토 기간을 약 2년에서 3개월로 대폭 단축하여 필요한 기술에 적시 투자할 수 있도록 ",
+  "date": null,
+  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187721&searchOpt=ALL&searchTxt=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23241": {
+  "body": "미래대응기금 편성 예산(9,118억원) 포함 시, 총 14조 1,691억원(+50.2%) 규모 - - K-반도체 전용엔진 ‘반도체특별회계’, 안정적 자원안보 재원 ‘자원안보기금’ 신설 산업통상부(장관 김정관, 이하 산업부)는 2027년 예산안을 역대 최대 규모인 13조 2,573억원으로 편성하였다. 이는 2026년 본예산 9조 4,342억원 대비 3조 8,231억원(+40.5%) 증가한 규모로, 산업부 출범 이후 역대 최고 증가율이다. * 에너지분야를 포함한 산업통상자원부 출범(‘13) 이후 역대 최대 규모 및 증가율 아울러, 국가 미래 성장동력 확충을 위해 신설되는 미래대응기금(기획예산처 세출)에 편성된 산업부 소관 사업(9,118억원)을 포함할 경우, 실질적인 산업부 예산 규모는 2026년 대비 4조 7,349억원(+50.2%) 증가한 총 14조 1,691억원에 달한다. 산업부는 정부의 강력한 지출구조조정 기조 아래, 저성과‧비효율 사업을 중심으로 약 1.5조원 규모의 과감한 구조조정(16% 감축)을 단행하였으며, 이를 통해 절감한 재원을 더해 제조AI 전환 및 메가프로젝트 총력지원, 5극3특 지역주도 성장, 산업‧자원안보 강화 등 부처 핵심 국정과제에 집중 투자하였다. * 산업부 지출구조조정 내역은 산업부 홈페이지 예산·법령 게시판에서 확인 가능 또한 K-반도체 강국 도약을 위한 통합 지원체계로서 ‘반도체특별회계’ (’27년 전체규모 2.6조원 중 산업부 2.1조원)와 장기 시계에서 자원안보 대응역량 강화를 위한 ‘자원안보기금’(’27년 1.4조원)을 신설하여 국가 핵심 전략산업과 자원안보를 튼튼히 뒷받침할 수 있는 안정적 재정 기반도 구축한다. 2027년 산업부 예산안은 9월 3일 국회 제출 이후 국회 상임위원회, 예결위원회 심사를 거쳐 본회의 의결을 통해 최종 확정될 예정이다",
+  "date": null,
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172146/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23242": {
+  "body": "- 12회째를 맞는 국내 최대 규모의 안전산업 전문 박람회, 9.2.~9.4. 부산 벡스코에서 개최 - ‘첨단기술의 융합, 안전의 미래’ 주제로 340개 기업‧기관, 920개 부스 운영 - 해외 바이어 101개사와 기업 매칭 수출상담회 등 기업 판로지원 집중 행정안전부(장관 윤호중)는 부산광역시와 함께 9월 2일(수)부터 4일(금)까지 부산 벡스코에서 「2026 대한민국 안전산업박람회」를 개최한다. 2015년 시작해 올해로 12회째를 맞는 대한민국 안전산업박람회는 국내 재난안전기업의 우수 기술과 제품을 알리고 해외 판로 개척을 지원하는 국내 최대 규모의 안전산업 전문 박람회다. 지난해 박람회에서는 사흘간 798건의 비즈니스 상담이 이뤄져 3,514억 원 규모의 계약이 추진됐으며, 3만 9,854명이 전시장을 방문했다. 이번 박람회는 ‘첨단 기술의 융합, 안전의 미래’를 주제로 국내외 340개 기업‧기관이 참여(총 920부스)하여 인공지능(AI), 로봇, 드론 등 첨단기술 중심의 최신 재난안전 기술과 제품을 선보인다. 전시관은 특별전시관과 일반전시관으로 구성된다. 특별전시관에는 인공지능(AI)·로봇·드론 등 첨단 기술을 선보이는 ‘첨단재난안전산업관’(131개사 256부스)과, 일본·중국·독일 등 9개국 22개사가 참여하는 ‘글로벌기업존’(28부스)으로 구성된다. 주요 전시품목으로는 인공지능 기반 실시간 도시 침수 예측 플랫폼(한국과학기술정보연구원), 산업‧소방용 안전점검 로봇(한국로봇융합연구원), 실내 점검용 초소형 드론(리베라웨어) 등이 있다. 일반전시관은 자연재난, 생활안전, 치안, 화재, 산업안전, 교통‧해양안전 6개 분야 전용관으로 구성되며, 지역 재난안전기업 판로 개척을 지원하기 위해 서울‧부산‧대전‧울산‧경남 등 공공부문 전시관도 운영된다. 전시관 내 ‘안전체험존’에서는 끼임",
+  "date": null,
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129171",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23243": {
+  "body": "- 범부처 초혁신경제 선도 프로젝트 등 미래 핵심사업 육성 정책과제 지원 재정경제부(이하 재경부)는 2027년 예산 및 기금운용계획안을 전년도 본예산 대비 5.4조원(+15.7%) 증가한 총 39.7조원(예산 1.6조원, 기금 38.1조원)으로 편성하였다. 재경부는 미래 전략산업 육성을 위한 자본‧수출금융 등을 지원하는데 주력하는 한편, 지난 7월 발표한 하반기 경제성장전략과 연계하여 범부처 예산에 초혁신경제를 뒷받침하는 프로젝트의 연구개발 및 상용화 예산이 반영될 수 있도록 협업하는 등 잠재성장률 반등 및 미래성장동력 확보에 주안점을 두고 예산안을 편성하였다. 국가 차원의 부를 축적하고, 경제안보 및 적극적 산업정책 수단으로 전략형 국부펀드를 활용하는 글로벌 사례가 증가하는 상황에서 우리 정부도 저축형 국부펀드인 한국투자공사(KIC)에 “전략투자계정”을 신설하여 종합형 국부펀드로 확대‧개편한다. 또한, 대규모, 장기 등 전략수출 프로젝트에 대한 수출금융 지원을 강화하기 위해 전략수출금융기금 신설을 추진한다. 이를 통해 미래 성장동력을 확충하고, 우리 기업의 해외 수주 경쟁력을 제고해나갈 것으로 기대하며, 관련 정책이 차질없이 추진될 수 있도록 국부펀드 현금출자 5,000억원 등을 2027년도 예산안에 반영하였다. 한편, 중동전쟁 등 심화된 국제 경제공급망 불안에 대응하여 공급망 주요 품목의 국내외 생산기반을 구축하기 위한 투자 재원을 2026년 100억원에서 2027년 2,000억원으로 대폭 확대(+1,900%) 편성하였다. 이를 통해 우리 공급망에서 중요하지만 수익이 높지 않거나 회수기간이 긴 사업에 적극적으로 투자할 수 있는 제도적 기반을 마련하였다. 또한 대외경제협력기금(EDCF)을 통해 AI·디지털 등 미래 전략산업의 해외 진출을 지원하는 「K-AI 패키지」사업을 본격 추진한",
+  "date": null,
+  "link": "https://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000079191&menuNo=4010100",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23244": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.mpb.go.kr/web/main/bbs/b_0001/2629?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=b_0001&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23245": {
+  "body": "▷ 메가프로젝트 전력·용수 공급에 1.9조 원 투자… 미래성장 기반 확충에 박차 ▷ 역대 최대 전기차 보조금 예산(+33%), 히트펌프 예산(+522%) 편성, 녹색전환 가속화 기후에너지환경부(장관 김성환, 이하 기후부)는 2027년 기후부 예산 및 기금의 총지출(기획예산처 소관 미래대응기금 사업 포함)을 올해보다 18.3% (3조 9,737억 원) 늘어난 25조 7,319억 원으로 편성했다고 밝혔다. 내년도 기후부 예산안은 △첨단산업 성장을 뒷받침하는 전력·용수 기반시설(인프라) 확충, △탄소중립과 에너지 안보 실현을 위한 담대한 에너지 대전환, △국민이 체감하는 녹색전환, △기후재난으로부터 국민안전 확보 등에 중점을 두었다. 반도체·인공지능(AI) 데이터센터 등 첨단산업의 경쟁력을 좌우하는 전력과 용수를 적기에 공급하기 위해 대규모 기반시설 구축을 본격화한다. 2027년 정부안에는 1조 9,351억 원을 반영했으며, 이 가운데 전력 분야에 1조 5,489억 원, 용수 분야에 3,862억 원을 편성했다. 먼저 전력 분야에서는 전력망 건설이 첨단산업 성장과 재생에너지 보급을 뒷받침할 수 있도록 선제적 투자를 강화한다. △수요유치형 변전소*를 구축하고, 기존 선로를 최대한 활용하기 위해 △송전단 에너지저장장치(ESS) 및 △가상송전망 대용량 에너지저장장치(ESS) 설치**, △전기품질 안정화 설비 구축을 추진한다. 또한 전력계통을 적기에 구축하기 위해 △신규 전력망의 지중화 확대, △해상풍력 공동접속설비 설치를 지원한다. 아울러 정부는 △취약계층에 대한 전기요금 지원을 강화하고, △한국전력공사에 대한 출자금액도 늘린다. * (수요유치형 변전소) 국가 균형 발전을 위해 비수도권 등 전기 사용 여건이 비교적 열악한 지역 내 전력인프라 선제적 구축 ** (가상송전망 에너지저장장치) ESS를 ",
+  "date": null,
+  "link": "https://mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1887460&boardMasterId=939&boardCategoryId=&decorator=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23246": {
+  "body": "외교부는 ‘대체불가 대한민국, 세계가 찾는 외교강국’ 실현을 위해 핵심 사업에 대한 투자를 확대하여 27년 예산안 3조 7,033억원을 국회에 제출할 예정입니다. 이를 통해 K-이니셔티브 확산 등 국익중심 실용외교를 적극 실현해 나가겠습니다. ※ 외교부 전체 예산 : (‘26년) 3조 6,152억원 → (‘27년) 3조 7,033억원 우리 외교 전략과 국익에 부합하는 주요 분야의 국제기구 분담금을 확대하였습니다. 정상외교 후속조치의 충실한 이행을 뒷받침하는 한편, 보건 안보와 에너지 안보 등 글로벌 현안에 대한 국제사회의 대응을 강화해 나가겠습니다. 이를 통해 국제사회의 지속 가능한 발전과 공동 번영에 기여하겠습니다. ※ 국제기구 분담금 : (‘26) 6,984억원 → (’27년) 7,541억원 우리나라는 2028년 국제경제협력 분야의 최상위 포럼인 「2028 G20 정상회의」 의장국을 수임하게 될 예정입니다. 차질 없는 행사 준비를 통해 국제경제 논의를 주도하고 글로벌 책임강국으로서 리더십을 발휘하는 계기로 만들어 나가겠습니다. 외교부는 「샌프란시스코 AI 선언(7. 24.)」 등 우리나라 AI 정책의 충실한 이행을 지원해나가겠습니다. 주요 선도국과의 양·다자 AI 협력을 강화하는 한편, 국제기구 및 다자 협의체에서 AI 거버넌스 논의를 주도하고, 재외공관을 통해 우리 AI 기업의 해외 진출도 적극 지원하겠습니다. 한국주간행사 등 재외공관 공공외교 사업에 대한 지원을 강화하여 문화강국으로서의 위상을 높이고, 국민참여형 공공외교 사업을 통해 청년들에게 외교 현장 참여 기회를 제공하여 글로벌 역량을 강화하고 대한민국의 미래 경쟁력 제고에 기여해 나가겠습니다. 특히 지방 청년 인재의 재외공관 파견 규모를 올해 50명에서 80명으로 확대하는 등 청년의 국제무대 진출 기회를 넓혀 나가겠습니다",
+  "date": null,
+  "link": "https://www.mofa.go.kr/www/brd/m_4080/view.do?seq=377535&page=1&pitem=10",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23247": {
+  "body": "좋은 AI 모델을 만드는 것과 수많은 사람이 동시에 사용할 수 있는 AI 서비스를 운영하는 것은 다른 문제다. 이용자가 늘고 여러 AI 모델과 에이전트가 동시에 작동하면 연산량과 메모리 사용량, 응답 속도는 곧 서비스 비용과 품질로 이어진다. 국가 AI 경쟁의 무게중심이 모델 개발에서 실제 활용으로 이동하면서 제한된 인프라 안에서 AI를 효율적으로 구동하는 최적화 기술의 역할도 커지고 있다. AI 모델 경량화·최적화 기업 노타(대표 채명수)가 정부의 ‘독자 AI 파운데이션 모델(독파모)’ 프로젝트에 이어 ‘모두의 AI’ 사업에 참여한다. 좋은 AI 모델을 만드는 것과 수많은 사람이 동시에 사용할 수 있는 AI 서비스를 운영하는 것은 다른 문제다. 이용자가 늘고 여러 AI 모델과 에이전트가 동시에 작동하면 연산량과 메모리 사용량, 응답 속도는 곧 서비스 비용과 품질로 이어진다. 국가 AI 경쟁의 무게중심이 모델 개발에서 실제 활용으로 이동하면서 제한된 인프라 안에서 AI를 효율적으로 구동하는 최적화 기술의 역할도 커지고 있다. AI 모델 경량화·최적화 기업 노타(대표 채명수)가 정부의 ‘독자 AI 파운데이션 모델(독파모)’ 프로젝트에 이어 ‘모두의 AI’ 사업에 참여한다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-01",
+  "link": "https://www.venturesquare.net/1110186/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23248": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-01",
+  "link": "https://weekly.hankooki.com/news/articleViewAmp.html?idxno=7181868",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23249": {
+  "body": "- ‘26년 16조 5,233억 원 대비 1조 5,491억 원 증액 - - 중소기업 성장경로 체계화와 성장의 온기 확산을 위한 핵심사업에 집중 투자 - 중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 2027년 예산안을 2026년 본예산(16조 5,233억원)대비 1조 5,491억 원 증가(9.4% 증가)한 18조 724억 원으로 편성하고 9월 3일(목) 국회에 제출할 예정이라고 발표했다. 소액 뿌려주기식 관행적 지원사업의 과감한 폐지, 융자사업에 대한 이차보전 도입 확대 등을 통해 재원을 마련하여 모두가 성장하는 “대체불가 대한민국” 구현을 위한 중점 사업에 전폭적인 재투자를 추진하였다. 중소벤처기업과 소상공인이 급변하는 대내외 환경에서도 지속적으로 성장하고 안정적으로 경영을 유지하며 한 단계 도약해 나갈 수 있는 지원책을 마련하기 위해 ➊창업, 성장, 도약, 재도전까지 국가가 함께하는 성장사다리를 구축하고, ➋성장의 온기를 전통시장, 지역 상권과 소상공인까지 확산할 수 있도록 ’27년 예산을 편성하였다. 중기부 중점 투자 방향에 따른 주요 사업들은 다음과 같다. ➊ ( 창업 ) 국가창업 열풍의 지속 확산 누구나 혁신적인 아이디어만 있으면 창업에 도전할 수 있는 창업 인재 플랫폼인 모두의 창업에 4,411억 원을 편성한다. 구체적인 내용으로, 모두의 창업 지원 규모를 올해 1만 5,000명에서 내년 2만 명으로 확대하고, 도전자들이 창업에 전념할 수 있도록 단계별 사업화자금을 평균 2천만 원에서 3천만 원으로 지원을 강화한다. 아울러, 모두의 창업 프로젝트가 단순한 지원사업을 넘어 전국으로 창업 문화를 확산하는 계기가 될 수 있도록 모두의 창업 도전자 중심의 커뮤니티 활동을 지원하여 창업을 ‘혼자만의 도전’이 아닌 ‘함께 나아가는 도전’으로 만들 예정이다. 또한, 창업",
+  "date": null,
+  "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1070863&parentSeq=1070863",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23250": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-01",
+  "link": "https://www.popcornnews.net/news/articleView.html?idxno=131460",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23251": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-01",
+  "link": "https://www.sisajournal-e.com/news/articleViewAmp.html?idxno=423437",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23252": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.newsprime.co.kr/news/article/?no=746018",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23253": {
+  "body": "경찰청, 『인공지능(AI) 차세대 지능형 수사자료 분석 솔루션』 개발 완료... 전국 수사현장 보급 - 경찰청, 인공지능(AI)으로 수사자료분석의 새로운 미래를 열다, 대규모 금융·통신 등 수사자료를 인공지능(AI)으로 신속·정확하게 분석, 경찰 수사의 신속성·완결성 제고에 기여 경찰청은 보이스피싱, 마약, 금융범죄 등 지능화·조직화되는 민생침해범죄에 대한 수사역량을 한층 더 강화하기 위해 인공지능(AI) 기반의『차세대 지능형 수사자료분석 솔루션』개발을 완료하고, 8월 31일 일선 수사현장에 본격 보급한다. 이번에 도입되는 솔루션은 갈수록 방대하고 복잡해지는 수사자료를 인공지능(AI) 알고리즘과 시각화 분석을 통해 숨겨진 범인을 신속하게 추적·검거하기 위해 개발되었다. 본 사업은 지난 2022년 7월부터 4년간 추진된 폴리스랩 2.0 치안현장 맞춤형 연구개발*의 결실로, 경찰청 형사국 과학수사분석과 주관으로 추진되었으며, 미래치안정책국과 주관연구기관인 (주)노아벤쳐스가 함께 연구개발을 수행하였다. * 과기정통부와 치안 인프라를 보유한 경찰청 간 협업으로 현장의 문제를 과학기술로 해결하기 위해 추진하는 치안현장 맞춤형 연구개발 사업 기존에는 일선 현장 수사관들은 금융계좌·통신내역 등 서로 다른 형태의 방대한 수사자료를 분석하기 위해 수작업으로 수많은 엑셀 자료 등을 일일이 비교·대조하느라 분석에 많은 시간이 소요되는 등 수사에 어려움이 있었다. 이러한 문제를 해결하기 위하여 경찰청 과학수사분석과는 연구개발(R&D) 과제로 기획하여 지난 4년간 12회의 현장 의견 수렴과 수사자료분석 분야 동료강사 실증(30회)를 거치는 등 현장의 생생한 목소리를 충실히 반영하였고, ※표준화 및 시각화 분석 시 한 번의 클릭만으로 쉽게 분석이 되고, 다양한 정보를 직관적으로 확인 가능하며 분석보고서를 자동",
+  "date": null,
+  "link": "https://www.police.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1002&q_bbscttSn=20260831092524956&q_tab=&q_searchKeyTy=&q_searchVal=&q_rowPerPage=10&q_currPage=1&q_sortName=&q_sortOrder=&",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23254": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-01",
+  "link": "https://it.chosun.com/news/articleViewAmp.html?idxno=2023092169255",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23256": {
+  "body": "농림축산식품부(장관 송미령, 이하 농식품부)는 2027년 예산안을 전년 대비 10.4%(2조 853억원) 증가한 22조 2,215억원 규모*로 편성했다고 밝혔다. 이는 증가액과 증가율 모두 '00년 이후 최대 수준이다. * 미래대응기금으로 편성한 농식품부 예산(1조 1,921억원)이 포함된 규모 ** 농식품부 예산 추이 : ('24) 18조 3,392억원 → ('25) 18조 7,416억원 → ('26) 20조 1,362억원 *** 증가율 : ('27안) 10.4% > ('02) 9.4% > ('20) 7.6% > ('26) 7.4% 증가액 : ('27안) 2조 853억원 > ('26) 1조 3,946억원 > ('20) 1조 1,147억원 또한 ‘27년 지출 예산안에 포함되어 있지 않으나, 농지관리·농산물가격안정·FTA·축산발전 4개 기금의 그동안 누적된 채무 3.1조원도 상환한다. 채무 상환을 예산 규모에 포함할 경우 ’27년 농식품부 예산안 규모는 전년 대비 25.7%(5조 1,719억원) 증가한 25조 3,081억원이다. 농식품부는 이번 예산안을 통해 이재명 정부의 ‘국가 책임을 강화하는 농정 대전환’, ‘균형성장과 에너지 전환을 선도하는 농촌’ 등 국정과제를 실천하고, 성과 창출을 뒷받침하기 위한 과제에 집중 투자한다. 공익직불 3조원 시대 진입, 가격안정제 도입 등 누구나 안심하고 농사짓는 국가 책임형 안전망을 확충하고, 공동영농 확산, 공공형 스마트 풀필먼트 센터 구축 등 생산·수급·유통 전반의 구조 혁신을 통해 농업 경쟁력을 강화한다. 농어촌 기본소득 확대, 필수서비스 확대 등 기본적인 삶이 보장되는 농촌을 조성하는 한편, 인공지능(AI)·첨단기술의 농업 현장 확산과 K-푸드 글로벌화를 통해 미래성장동력을 확충한다. 아울러 국민 먹거리 돌봄을 강화하고 선진국형 동물복지 구",
+  "date": null,
+  "link": "https://www.mafra.go.kr/home/5109/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaG9tZSUyRjc5MiUyRjU3ODkwOCUyRmFydGNsVmlldy5kbyUzRnJnc0VuZGRlU3RyJTNEJTI2c3JjaENvbHVtbiUzRCUyNnBhc3N3b3JkJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZiYnNDbFNlcSUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhZ2UlM0QxJTI2cm93JTNEMTAlMjZiYnNPcGVuV3JkU2VxJTNEJTI2c3JjaFdyZCUzRCUyNg%3D%3D",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23257": {
+  "body": "도심항공교통(K-UAM)안전운용체계 실증기술개발 사업 예비타당성조사 통과... ‘27년부터 본격 추진 □ 기상청(청장 이미선)은 도심항공교통의 안전한 운용을 위한 「도심항공교통(K-UAM*) 안전운용체계 실증기술개발」사업이 국가연구개발사업 예비타당성조사를 최종 통과해 2027년부터 본격 추진된다고 밝혔다. * Urban Air Mobility: 친환경동력 기반의 수직이착륙 항공교통수단 및 이를 지원하기 위한 교통관리, 이착륙 기반 시설(인프라), 인증 등을 포함하는 신항공교통체계 □ 이번 사업은 국토교통부와 함께하는 다부처 사업으로, 2024년부터 2026년까지 추진 중인「도심항공교통(K-UAM) 안전운용체계 핵심기술개발」의 후속 사업이다. 기존 사업이 도심항공교통 안전 운용에 필요한핵심 기술을 개발하고 시제품을 제작하는 데 중점을 뒀다면, 이번 사업은개발된 기술을 실제 운용환경에서 연계·검증하고 실증할 수 있도록고도화하는 데 중점을 둔다. ㅇ 특히, 이번 사업은 개별 기술을 개발하는 것에 그치지 않고, 교통관리· 운항정보·기상·버티포트*등 안전 운용에 필요한 기술을 실제 환경에서연계해 검증함으로써 향후 상용서비스에 활용할 수 있는 안전운용체계로 고도화하는 데 의미가 있다. [ 도심항공교통(K-UAM) 안전운용체계 실증(RISE)기술개발 사업구조 ] □ 기상청은이번 사업에서 ‘도심항공교통 운항 지원을 위한 기상관측 및 예측 고도화 기술개발’을 추진한다. ㅇ 도심형항공기는주로 지상 약 300~600m의 낮은 고도를 운항하기때문에, 난류·급변풍·저시정 등 국지적으로 급격하게 변화하는 기상 현상에 영향을 받을 수 있다. ㅇ 이에기상청은 기존 사업에서 울산 실증단지를 중심으로 도심항공교통 운항환경에 적합한 기상관측망을 설계·구축*하였고, 수집된 관측자료를 활용하여 인공지능(AI) 기반의 고해",
+  "date": null,
+  "link": "https://www.kma.go.kr/kma/news/press.jsp?bid=press&mode=view&num=1194726&page=1&&from=2026-06-02&to=2026-09-02",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23262": {
+  "body": "- ‘27년도 조달청 정부 예산안 3,723억원 편성…올해 대비 750억원 증가 조달청(청장 백승보)은 2027년도 예산안을 올해 대비 750억원 증가한 3,723억원(총지출 기준*)으로 편성하였다고 밝혔다. * 조달청은 특별회계기관으로서 손익계정, 자본계정 분리에 따른 계정 간 거래, 회계 간 거래 등을 제외하고, 실제 조달청이 집행하는 예산 조달청은 내년도 ‘혁신조달 강화’와 ‘공공조달 인공지능(AI) 전환’에 역점을 두고 관련 핵심사업 분야에 재정을 집중 투입한다. 혁신조달은 정부가 기술혁신성이 뛰어난 제품의 첫 번째 구매자가 되어 기술촉진을 견인하고 기업에 초기판로를 제공하는 사업이다. 내년 혁신제품 시범구매 예산은 올해 대비 306억원 증액된 1,130억원을 편성했다. 특히 내년에는 ‘AX-SPRINT’ 등 범정부 차원의 AI, 로봇, 드론 등 신산업 기술제품을 실증과 연계하는 예산 130억원을 신규 편성하여 기술 실증 성과를 본격 확산한다. 이와 함께 기존 국내 실증사업은 예산 900억원을 반영하고, 혁신제품 기술개발(R&D) 예산은 102억원을 배정하여 혁신적 조달기업이 신기술 첨단제품을 과감하게 개발할 수 있도록 지원할 계획이다. 둘째, 조달 전 과정에 AI를 도입하여 공공조달의 AI·디지털 전환을 가속화한다. 글로벌 공급망 위기에 선제 대응하기 위해 수요예측부터 품목발굴, 구매·방출, 재고 관리까지 비축 전 과정을 관리하는 AI 기반 공급망관리시스템 구축에 77억원, AI 데이터를 활용해 공공물자 가격정보를 실시간 수집·비교, 모니터링 하는 가격비교조사시스템 구축에 42억원을 반영했다. 또한, 레미콘·아스콘 등 4대 관급자재의 수요 예측과 품질정보를 실시간 관리하는 계약관리통합시스템 구축에 39억원, 공사유형별 분석·예측 정보를 제공하는 공공 공사비 정보 통합플랫폼 구",
+  "date": null,
+  "link": "https://www.pps.go.kr/kor/bbs/view.do?bbsSn=2609010013&key=00634&pageIndex=1&orderBy=bbsOrdr+desc&sc=&sw=",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -593,13 +737,13 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.globenewswire.com/news-release/2026/08/27/3352095/0/en/guident-and-florida-state-college-at-jacksonville-launch-autonomous-mobility-training-center-to-prepare-the-next-generation-transportation-workforce.html",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23194": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "http://www.china.org.cn/world/Off_the_Wire/2026-08/30/content_118670548.shtml",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23195": {
   "body": "Initial phases of deployment will see Waymo carry out high-definition mapping of local street networks, as well as testing with trained autonomous specialists operating the vehicles. This validation period is hoped to ensure that Waymo Driver is capable of adapting to Munich’s distinct driving conditions before commercial ride-hailing opens to the public towards the end of 2027. 초기 배포 단계에서 웨이모는 지역 도로망의 고화질 지도를 제작하고, 훈련된 자율주행 전문가가 차량을 운전하는 테스트를 진행할 예정입니다. 이 검증 기간을 통해 웨이모 드라이버가 2027년 말 상용 차량 호출 서비스 개시 전에 뮌헨의 특수한 주행 환경에 적응할 수 있는지 확인할 계획입니다. Initial phases of deployment will see Waymo carry out high-definition mapping of local street networks, as well as testing with trained autonomous specialists operating the vehicles. This validation period is hoped to ensure that Waymo Driver is capable of adapting to Munich’s distinct driving conditions before commercial ride-hailing opens to the public",
@@ -611,7 +755,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://english.alarabiya.net/News/saudi-arabia/2026/08/28/saudi-arabia-syria-sign-four-pacts-on-roads-rail-postal-services-aviation",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23210": {
   "body": "Southern African nation Zambia has put out a tender for a major transportation infrastructure initiative, backed by the World Bank . The work is around designing the integrated SMART Corridor System for the Lusaka–Nakonde section of the Dar es Salaam Corridor...중략... 남아프리카 국가 잠비아가 세계은행 의 지원을 받는 주요 교통 인프라 사업에 대한 입찰 공고를 냈습니다 . 본 사업은 다르에스살람 회랑의 루사카-나콘데 구간에 대한 통합 스마트 회랑 시스템을 설계하는 것입니다. Southern African nation Zambia has put out a tender for a major transportation infrastructure initiative, backed by the World Bank . The work is around designing the integrated SMART Corridor System for the Lusaka–Nakonde section of the Dar es Salaam Corridor...중략... 남아프리카 국가 잠비아가 세계은행 의 지원을 받는 주요 교통 인프라 사업에 대한 입찰 공고를 냈습니다 . 본 사업은 다르에스살람 회랑의 루사카-나콘데 구간에 대한 통합 스마트 회랑 시스템을 설계하는 것입니다. Copyright © 2018 ITS Korea. All rights reserved.",
@@ -623,7 +767,7 @@
   "body": "U.S. Secretary of Transportation Sean P. Duffy and U.S. Homeland Security Secretary Markwayne Mullin today joined Federal Motor Carrier Safety Administration Administrator Derek Barrs, White House Task Force to Eliminate Fraud Vice Chairman Andrew Ferguson, and U.S. Attorneys Jerome Gorgon (Eastern District of Michigan) and Adam Mildred (Northern District of Indiana), to announce a historic interagency effort to crack down on fraud in the trucking industry. Federal officials were also joined by Marcus Coleman and his daughter Dalilah, who was critically injured in a 2024 crash with an illegal alien behind the wheel...중략... [더피 미국 교통부 장관, 멀린 미국 국토안보부 장관, 백악관 사기 단속 태스크포스 및 미국 최고 법무장관들이 트럭 운송 업계의 사기 행위를 근절하기 위한 역사적인 범부처 합동 노력을 시작했습니다.] 미국 교통부 장관과 마크웨인 멀린 미국 국토안보부 장관은 오늘 데릭 바스 연방자동차안전청(FMCSA) 청장, 앤드류 퍼거슨 백악관 사기 근절 태스크포스 부위원장, 제롬 고르곤(미시간 동부지구) 및 애덤 밀드레드(인디애나 북부지구) 연방 검사와 함께 트럭 운송 업계의 사기 행위를 근",
   "date": null,
   "link": "https://www.transportation.gov/briefing-room/us-transportation-secretary-duffy-us-homeland-security-secretary-mullin-white-house",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23212": {
   "body": "Organised by ERTICO – ITS Europe, the Congress draws on the strength of its Partnership and wider international community to bring together the expertise, technologies and collaboration shaping intelligent mobility. The growing exhibitor line-up reflects the breadth of the ecosystem coming together in Birmingham...중략... [글로벌 모빌리티 업계 리더들이 성장세를 이어가는 ITS 세계총회 2027 전시회에 참가합니다.] ERTICO – ITS Europe가 주최하는 이번 컨퍼런스는 파트너십과 더 넓은 국제 커뮤니티의 강점을 활용하여 지능형 모빌리티를 형성하는 전문 지식, 기술 및 협력을 한자리에 모읍니다. 점점 더 확대되는 전시업체 라인업은 버밍엄에서 한데 모이는 생태계의 폭넓은 면모를 반영합니다. Organised by ERTICO – ITS Europe, the Congress draws on the strength of its Partnership and wider international community to bring together the expertise, technologies and collaboration shaping intelligent mobility. The growing exhibitor line-up reflects the breadth of the ecosystem coming together in Birmingham...중략... [글로벌 모빌리티 업계 리더들이 성장세를 이어가는 ITS 세계총회 2027 ",
@@ -653,6 +797,60 @@
   "body": "The End-of-Life Vehicles (ELV) Regulation enters into force tomorrow, revising the rules that govern the design, production, collection, and end-of-life treatment of vehicles. It aims to strengthen circularity in the automotive sector by improving resource efficiency, increasing the recovery and reuse of valuable materials, and enhancing the environmental performance of vehicles throughout their lifecycle...중략... 폐차 규정(ELV 규정) 이 내일부터 발효되어 차량의 설계, 생산, 수거 및 폐기 처리를 규율하는 규칙이 개정됩니다. 이는 자원 효율성을 개선하고, 귀중한 재료의 회수 및 재사용을 늘리고, 차량의 전체 수명 주기 동안 환경 성능을 향상시킴으로써 자동차 부문의 순환 경제를 강화하는 것을 목표로 합니다. The End-of-Life Vehicles (ELV) Regulation enters into force tomorrow, revising the rules that govern the design, production, collection, and end-of-life treatment of vehicles. It aims to strengthen circularity in the automotive sector by improving resource efficiency, increasing the recovery and reuse of valuable",
   "date": "2026-08-12",
   "link": "https://environment.ec.europa.eu/news/new-rules-more-circular-european-automotive-sector-2026-08-12_en",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23258": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://newsroom.aaa.com/2026/09/dont-rush-growing-up-keep-kids-in-the-right-vehicle-restraint/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23260": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-01",
+  "link": "https://electriccarsreport.com/2026/09/xpeng-and-nio-august-2026-ev-deliveries-show-strong-growth/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23261": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-31",
+  "link": "https://www.valeo.com/en/smarter-safer-more-sustainable-how-valeo-is-engineering-the-future-of-global-trucking-fleets/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23263": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-08-31",
+  "link": "https://timeskuwait.com/traffic-department-sets-truck-ban-hours-from-september-1/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23264": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-01",
+  "link": "https://www.hitachienergy.com/ch/it/news-and-events/press-releases/2026/08/authorities-and-business-leaders-explore-how-digitalization-can-unlock-the-next-phase-of-public-transport-in-chile",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23265": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.cityraillink.co.nz/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23266": {
+  "body": "HUMAIN and Applied Intuition have formed a strategic collaboration to deploy thousands of autonomous trucks across key Saudi logistics corridors by 2030...중략... [HUMAIN과 Applied Intuition, 사우디 자율주행 트럭 네트워크 구축 계획 발표] 휴메인(HUMAIN)과 어플라이드 인튜이션(Applied Intuition)은 2030년까지 사우디아라비아 주요 물류 회랑에 수천 대의 자율주행 트럭을 배치하기 위한 전략적 협력 계약을 체결했습니다. HUMAIN and Applied Intuition have formed a strategic collaboration to deploy thousands of autonomous trucks across key Saudi logistics corridors by 2030...중략... [HUMAIN과 Applied Intuition, 사우디 자율주행 트럭 네트워크 구축 계획 발표] 휴메인(HUMAIN)과 어플라이드 인튜이션(Applied Intuition)은 2030년까지 사우디아라비아 주요 물류 회랑에 수천 대의 자율주행 트럭을 배치하기 위한 전략적 협력 계약을 체결했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://selfdrivenews.com/humain-applied-intuition-saudi-autonomous-trucking/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23267": {
+  "body": "Nissan and Honda have concluded a joint development agreement to standardize multiple core electronic control units (ECUs) and the software running on them for next-generation software-defined vehicles (SDVs), with the resulting E/E architecture planned for application in both companies’ vehicles from fiscal year 2029 onward...중략... 닛산과 혼다는 차세대 소프트웨어 정의 차량(SDV)에 탑재될 핵심 전자 제어 장치(ECU) 및 관련 소프트웨어의 표준화를 위한 공동 개발 계약을 체결했습니다. Nissan and Honda have concluded a joint development agreement to standardize multiple core electronic control units (ECUs) and the software running on them for next-generation software-defined vehicles (SDVs), with the resulting E/E architecture planned for application in both companies’ vehicles from fiscal year 2029 onward...중략... 닛산과 혼다는 차세대 소프트웨어 정의 차량(SDV)에 탑재될 핵심 전자 제어 장치(ECU) 및 관련 소프트웨어의 표준화를 위한 공동 개발 계약을 체결했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://selfdrivenews.com/nissan-honda-sdv-ecu-standardization/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23268": {
+  "body": "DiDi Autonomous Driving has begun fully driverless service trials with its next-generation Robotaxi R2, a vehicle carrying 33 sensors and a triple-domain fusion central computing platform. Developed jointly with GAC Aion, the R2 is now available for bookings through the DiDi App in selected demonstration areas in Beijing and Guangzhou. DiDi Autonomous Driving , which has built its own full-stack Level 4 software and hardware, says the vehicle brings upgrades to both driving performance and cabin experience...중략... 디디 자율주행팀은 차세대 로보택시 R2를 이용한 완전 무인 운행 시범 서비스를 시작했습니다. R2는 33개의 센서와 3중 도메인 융합 중앙 컴퓨팅 플랫폼을 탑재하고 있습니다. GAC 아이온과 공동 개발한 R2는 현재 베이징과 광저우의 일부 시범 운행 지역에서 디디 앱을 통해 예약할 수 있습니다. 자체 개발한 레벨 4 자율주행 소프트웨어 및 하드웨어를 완비한 디디 자율주행팀은 R2가 주행 성능과 실내 환경 모두를 향상시켰다고 밝혔습니다. DiDi Autonomous Driving has begun fully driverless service trials with its next-generation Robotaxi R2, a vehicle carrying 33 sensors ",
+  "date": null,
+  "link": "https://selfdrivenews.com/didi-robotaxi-r2-driverless-service-trials/",
   "tries": 1
  }
 }
