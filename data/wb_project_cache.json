@@ -83,12 +83,26 @@
   "impagency": "President's Office - Finance and Planning, Zanzibar",
   "total": 150000000.0
  },
+ "P165660": {
+  "borrower": "United Republic of Tanzania",
+  "closing": "2027-09-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Tanzania National Roads Agency (TANROADS)",
+  "total": 647110020.0
+ },
  "P166732": {
   "borrower": "Islamic Republic of Pakistan",
   "closing": "2028-12-31",
   "funder": "IBRD (세계은행)",
   "impagency": "Province of Sindh",
   "total": 438000000.0
+ },
+ "P166820": {
+  "borrower": "Ministry of Finance",
+  "closing": "2026-10-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Customs Service,Ministry of Transport",
+  "total": 132000000.0
  },
  "P167401": {
   "borrower": "THE REPUBLIC OF COTE D’IVOIRE",
@@ -159,6 +173,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Saint Lucia Air and Sea Ports Authority",
   "total": 45000000.0
+ },
+ "P170907": {
+  "borrower": "Republic of Haiti",
+  "closing": "2027-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Central Execution Unit of the Ministry of Public Works (UCE)",
+  "total": 84000000.0
  },
  "P171419": {
   "borrower": "Republic of the Philippines",
@@ -250,6 +271,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "ADR",
   "total": 90000000.0
+ },
+ "P174595": {
+  "borrower": "Republic of Albania",
+  "closing": "2029-07-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Albanian Road Authority",
+  "total": 55000000.0
  },
  "P174639": {
   "borrower": "Republic of Mozambique",
