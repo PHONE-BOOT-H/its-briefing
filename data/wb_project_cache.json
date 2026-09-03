@@ -412,6 +412,13 @@
   "impagency": "Ministry of Infrastructure and Connectivity",
   "total": 200000000.0
  },
+ "P178072": {
+  "borrower": "Porto Alegre Municipality",
+  "closing": "2028-12-29",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Secretaria de Planejamento e Assuntos Estratégicos (SMPAE)",
+  "total": 162000000.0
+ },
  "P178207": {
   "borrower": "Ministry of Public Works",
   "closing": "2029-06-30",
