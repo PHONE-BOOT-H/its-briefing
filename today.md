@@ -45,11 +45,11 @@
    - 원문: https://fracht.com.au/news/fracht-group-australia-logistics-news-september-2026/249
 
 8. College Station prepares traffic control for football season crowds
-   - 분야: 신호·관제 / 게재일: 2026-08-29 / 매체: communityimpact.com
+   - 분야: 신호·관제 / 게재일: 2026-08-29 / 매체: Community Impact
    - 원문: https://news.google.com/rss/articles/CBMizgFBVV95cUxOdDBObUp3WHBPb1ZfSGhKS2tUTXlmcE5zWVNTbmJ2ZHRTZTFDTUMtVE1ETEdZRTRmSVZrclQzcXQxdF80NE91anhodDYza3pTbVpqb2I2dE5ieDFYVVhWRllCOFJlVWdUaG5URFE2ZUt3dDJhVG96d29BeXVsekpjaTFGY25aNGNuZ1I0ajJnQzdoVlZadkNXVV9Cakk0MzdEYjhIbzJoMF9PcU5sUUFKYjR5bmVHeTdmNWtyXzZoUW14TGxVdmZyQ21YUHduUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 9. 515 CCTV Cameras, 81 Red-Light Cameras Deployed for Smarter Traffic Management in Tripura: CM Dr Manik Saha
-   - 분야: 신호·관제 / 게재일: 2026-08-31 / 매체: northeasttoday.in
+   - 분야: 신호·관제 / 게재일: 2026-08-31 / 매체: Northeast Today
    - 원문: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZWpTZFMzN2JEODVRUzQtU3BDa3VYTkc0OHFFZUdMWnN4aXJlUDNUNHFFQVV0LXp5X3NDMUtHSUNFTlZzUXJsdUM3Rl91YzVLVmg3UFVaajBQeGkzNGw1Z2xRd1ZOY3MtRkZFNl9hS3BSQzZZWFQwS3JtTHJMcjVNS2xRZU81RS01TE5Fd08xc2M5eEVJdXY3NGxyZmI0Y3BRMlVOS0RFaU9fRXpzWU9rMDRfYVpBSG5va1Fnd3lzek1BSGprTHNpUlUyWUxsU1N5a3ZZS0k5MmRvQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 10. Maharashtra Traffic Management: ₹250 Crore System Planned To Cut Road Deaths
@@ -138,49 +138,49 @@
    - 분야: 자율주행 / 게재일: 2026-08-30 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTE5QV28tSEJRaUk2b18xSEw1dUp1S0NpVjQ0cFZRWHUxUlcwTE85eDdXMFQ3d2FTT01vVFdNX2YtU1RQTUVhUnc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. LG이노텍, 아마존 자율주행 자회사 '죽스'에 전동화 카메라 모듈 공급
+10. 中 자율주행 로보택시 한국 진출⋯ 포니.ai, 퓨처링크 손잡고 국내 200대 투입
+   - 분야: 자율주행 / 게재일: 2026-08-30 / 매체: 엠투데이
+   - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE1MSmVrQy02bXZLTHIwX3d4bHpYVjBiNzVsZTNpTWM1dEpUZW53SkVOR0xxOFp0d01pNjAwMDR1Y0kyN1VobklHdDVseTdCdW4tQWpTR2NsODlDR1Y4X0I2WmNKdlVweVMxcUJybmpHOA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+11. LG이노텍, 아마존 자율주행 자회사 '죽스'에 전동화 카메라 모듈 공급
    - 분야: 자율주행 / 게재일: 2026-08-31 / 매체: 다나와 자동차
    - 원문: https://news.google.com/rss/articles/CBMi5wJBVV95cUxNUi1tblg3dURmdmx3QmZKckxpNHg0UDZLZVREczU2UWtvbkozNlpvQ2I4VS10bUp3R3Qta3BaQ2VCWWtobXdjTDZsNDlJMHpEUGFKX0pXQjNyMTNIWjBHSFFYMjNGWUZGMFhyTTR1cW12WUtad3NudVJ3S1phaVU0eTNUbXo5Y3V5QThlZnBrNWVsN25UaklIY0hmeDR4Z3B4eTZZRmdyVmY4YjZGcnRBRWdDcnpUb1M3NDVITjBzS1NMUkpRUkttMnQyMDZRMElwd01HRGY5U3hfTlRFQmFuUEhJNDN1VXZSbmFwU3BQX2tNd1pUWkJJc1NlbWQyNkVYakVtX3FKVXo3WWhqNUstemJ3SjgxR0VCNzhOS1d6bVVNSnJWOThDelFnR3ljbE9WblpIcnBOOUkyaUVISzFJemNiQk1qQUJtSHVvdkdhaTlhOUFnUGh2SXNoV25NbDVDdThrMlF0bw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-11. [AME 2026]에스더블유엠, 강남 누빈 심야 자율주행택시 출품…차세대 컴퓨팅 플랫폼 ‘AP-700’ 공개
-   - 분야: 자율주행 / 게재일: 2026-08-31 / 매체: 디지틀조선일보
-   - 원문: https://news.google.com/rss/articles/CBMihwFBVV95cUxNMGp5RVVSQTlFNlJwVWVqLUQyb2tOTXZEcEpMVjA5dkl5NlhBVnVzUmtWZDUyV29BYUNuTV96eUdWTm15QVA1VHlybjN0V0VTVHhRZy05RjJPdEtxcTQ1VDJWWjBXbEVLbk9UQUpOQTJSSi03SHl6d0kzRll1ZVR4el9wS0FUUHPSAXtBVV95cUxPVHZmV0tDTlpPUDlPRmZHZ3NJYnpBRXE3b0gxb0xoSnhZUmFaejAwS284cU5OVGZjU2RFWVJ5eFlTMDhzZUVEbURxcC1BeGVtRHBDSkRNUXk3NnkwTFVWVU9ZdFlldkRVc1B1cHU1VFliSzh3OVhYcVpmajg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 12. [AME 2026]웨이즈원, 정밀지도·실시간 데이터 결합한 ‘LDM TWIN’ 공개…자율주행 스마트 관제 시장 정조준
    - 분야: 자율주행 / 게재일: 2026-08-31 / 매체: 디지틀조선일보
    - 원문: https://news.google.com/rss/articles/CBMihwFBVV95cUxQQTlkZzl1ajNmOURRSE5TY3VjUEpkXzBSWm1jMmtXNjZjaERDUmpoSG94SkFtNjhtdktSTnJ1MHhpVE81NmR0QW02b3dzak91NDhlVVYyZ0dZMmNxWWVjaGx2RUNEQ2FzUktzWERsaHdRTnFiUkczeXQweE9fcDcyZDFMalotQkXSAXtBVV95cUxOV0RoVU1ydnhkNU5NX2tDWTI1VG5lZ2tzWVpBQTFscEh5NWRZOVhZbk0ydkpZN19pV245TW9MRlRhTHM1dHB2eDVJbXpSVTJiNHc3dXRRbHpsVktnYVBWeW1VQ2k3RVBwRnZIUGNZblNPTDVvckp6cG84ejQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 자율주행 화물운송 상용화 속도… 혁신과 고용 충격 사이 '기회의 길' 열린다
+13. KGM, 구역형 자율주행 로보택시 서비스 확대
+   - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: 증권경제신문
+   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTFByVElHNTBTV2hkdlBjU1cybENBZGJoRkN2aUNPdEl6dV9lUVQ3RHhuR19oRFZfZzFlT2pxQVBRRFdsVUxQeGg0WktzczlmQzdEN1VzVk9JTXdDMFNodlpWMllsVjdEZWIxWG1jaWtsS0dnd9IBdkFVX3lxTFBNWlAzbTVWdXZsTzQ0LUZfMUZjQ0VLY1RiUWlZR3d2VFFGbFlHdGloNEZZSE53Wk5ULWNEZXFrUElEOThGVk5DOTB1Z2U3ZExvNkNyWlV1d2Y2SndSQnM2Z2lSY21MbHdhTm9iYkhYbGVQSk9iOVE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+14. 자율주행 화물운송 상용화 속도… 혁신과 고용 충격 사이 '기회의 길' 열린다
    - 분야: 자율주행 / 게재일: 2026-09-04 / 매체: koreasprint.com
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE9VdnZZVy1VaHlDMjI1VmJiY1BhX1ZkMUJ5VXlET1IxVjRpV0M0UlRzZ1BvOUYwVWpMTjZIaHFnMG9XN2t2RTZyVS1BdlVBMVZOUVZBVkxXMDZnUmVXUmN2T3JpdEZQR2FxOWJSZTRR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 대구 '달성화물자동차공영차고지' 11년 만에 준공
+15. 대구 '달성화물자동차공영차고지' 11년 만에 준공
    - 분야: 대중교통·물류 / 게재일: 2026-08-30 / 매체: 한국일보
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE1KX0tndGhwYUR5Wk9xLVNHM1FQcnFYdU5ReVdGQ1VJQUVrQl8wSS1OMkhmbTRqb3VJMks5azZFQkZHMTJpNThVc0xOeExJUUhJM29UczVsTG9aSXZ5R01PV3NTNy1RaUpyN05pTEtn0gFzQVVfeXFMTmRWMWJFYWYzT3I3di1wbVQ0QmJDSTBCa19Qck90VVFwSndJWUtZcjhLOEFFUWpWdnpEYTkycnhKRlR0VzZJenVvWW56M0tLaF93NGlNQVdGTkdBdDFIcGNXQWdaTW5udUF0cGdiakRnUjZBTQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 청주시의회 도시건설위원회, 교통안전시설물·시내버스 준공영제 점검
+16. 청주시의회 도시건설위원회, 교통안전시설물·시내버스 준공영제 점검
    - 분야: 신호·관제 / 게재일: 2026-09-01 / 매체: 중앙매일
    - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vNDVjUkVIa3ZaX0pLcjBSYmlVNWNxSnRiTGl1SldFWTJUUUNwaXpNemJ0VmRfZ1FYcDI5dm5HaGt1cTFLYUNsTWh3WHdCUkFiNzF3MjFzQTREUWNtR2dKRWFQbGRoTXM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [회원사/동향] 경기교통공사, 버스 공공관리제 발전방안 논의
+17. [회원사/동향] 경기교통공사, 버스 공공관리제 발전방안 논의
    - 분야: 대중교통·물류 / 게재일: 2026-09-03 / 매체: ITS Korea
    - 원문: https://www.kmaeil.com/news/articleView.html?idxno=650588
 
-17. 중국, 차 밖 튀어나온 자율주행 센서 치수 규제서 면제…2027년 7월 시행
+18. 중국, 차 밖 튀어나온 자율주행 센서 치수 규제서 면제…2027년 7월 시행
    - 분야: 자율주행 / 게재일: 2026-09-01 / 매체: AI 매터스
    - 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5VOTU4V3hWNmlNY0k3cXF6NXA2WnI5cEhXdUhkY1lHY3YtclRXLTQ1aVE1QVZiTVRhRk05Q2RxUXdsN0x1NGpQZWNzZVJpZTI3c1RHYg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 옥사곤에 들어서는 100MW AI 데이터 센터, 자율주행 도시의 연산 기반이 현실화된다
+19. 옥사곤에 들어서는 100MW AI 데이터 센터, 자율주행 도시의 연산 기반이 현실화된다
    - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: 뉴스N연합
    - 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTE05bkRCc1oyLThYTXlLZ2I5bC02bkFpdVpPU3ktYzNwaUJuX1V2TU1ON2NvWjFUTV9COWFMYnZLb1ZUM2ZKN1lmNDlYb0xRTms?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. [정구민의 테크읽기] 'AME 26'으로 보는 우리나라 자율주행의 현재와 과제
-   - 분야: 자율주행 / 게재일: 2026-09-03 / 매체: 전자신문
-   - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qT3pCUnBPVGd0WVBFc0tfbTBnMmxVQW1NbTJmekl0MEU1RjhSeC1rMUlvUWtDT0NQRXN2elBBTXdLcmc4Wk05V2cxU0FVUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. 텍사스 벤처스 애퀴지션 3, 자율주행 트럭 소프트웨어 플러스AI와 합병
-   - 분야: 자율주행 / 게재일: 2026-09-03 / 매체: 데이터투자
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBqRFJkSkhyUGlLWTJhVjllNktIaS1SN0QtQ3lHRk94b0JxS1NEWnYwRUNEa0hBb3ZwNDZvdURCaHBqUmRXNUF5Wl9xZVpLQTFoZmlONnBwbVY4VDZ5eUVFb2NfUjB4ZnFadEFpUHN3eXRCY2c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+20. 자율주행차 3천 대 ‘공도 풀린다’… 중국에 26배 밀리자 정부가 꺼내 든 승부수
+   - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: 네이트뷰
+   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4SVhkZ2JpUTd4V0JTNmlTUlVYS21kV24ySl9UV1hXQ3pWT3d6MlZxZ0R4R0ptZE1HX01qNFoycGN3MlFiZXZMVW5XRTlYQVBFZlc1bVB30gFWQVVfeXFMUDhJWGRnYmlRN3hXQlM2aVNSVVhLbWRXbjJKX1RXWFdDelZPd3oyVnFnRHhHSm1kTUdfTWo0WjJwY3cyUWJldkxVbldFOVhBUEVmVzVtUHc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 

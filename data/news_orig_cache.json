@@ -625,29 +625,35 @@
   "link": "https://www.gwnews.org/news/articleView.html?idxno=271265",
   "tries": 1
  },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23302": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092379",
+  "tries": 1
+ },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23303": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706328&sectionId=b_sec_1&pageIndex=1&pageUnit=10&strWhere=&strValue=&sdate=&edate=&category=&mn=NS_01_02",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23304": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129231",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23306": {
   "body": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 9월 3일(목) 국무총리 주재 제13회 국가정책조정회의에서 관계부처와 함께 「중소기업 수출 4대 혁신 전략」을 논의하였다. 중소기업 수출은 ’26년 상반기 기준 640억달러로 역대 최고치를 기록하고 있다. K-뷰티·온라인 수출 등 새로운 성장동력이 부상하여 우리나라 수출의 역동성과 다양성을 높이는 데 기여하고 있다. 이에, 정부는 현재의 중소기업 수출 호조세가 단기적 성과에 그치지 않고, 보다 탄탄한 성장 기반을 갖출 수 있도록, ▲유망기업의 수출 고속성장과 수출기업의 저변을 확대하고, ▲소비재·산업재 등 수출유망품목을 발굴·지원하며, ▲정상외교 성과에 기반하여 신흥시장 개척을 지원하고, ▲기업 관점에서 수출지원체계를 고도화하는 등 기업·품목·국가·정책 4대 분야의 수출지원 방식을 개편하는 ｢중소기업 수출 4대 혁신 전략｣을 마련·발표하였다. 수출 진입·성장경로 맞춤형 지원체계 구축 ‘글로벌 스케일업 500’을 통해 수출 유망기업의 다년도 집중 성장을 지원한다. 성장 잠재력이 높은 기업 500개사 대상으로 수출로드맵 수립을 돕고, 이에 기반한 다년·묶음 지원으로 기업의 고속성장을 유도한다. 이와 함께 수출바우처 내 원부자재 소싱 메뉴판 추가, 현지진출 전문기관 발굴 등 마케팅 중심에서 공급망까지 글로벌화 정책 지원범위를 확대하고, 부처 간 정책 연계도 강화한다. ‘수출 ON 2000’을 통해 다양한 혁신주체의 수출기업화를 촉진할 수 있도록, 수출에 도전하는 청년창업가, 소상공인, 지역기업, 수출재도전 기업 2,000개에 대해서 맞춤형 지원을 추진한다. 청년창업가에게는 수출경험 제공, 수출준비 등 글로벌화 준비 단계에 따른 지원체계를 구축하여 지원한다. 차별화된 제품·브랜드를 보유한 소상공인, 지역 주력산업 영위 중소기업, ",
   "date": null,
   "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1070951&parentSeq=1070951",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23310": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://n.news.naver.com/article/030/0003463564?sid=101",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -1013,7 +1019,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-unveils-new-national-av-strategy",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23288": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -1043,13 +1049,13 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.euractiv.com/news/hamburg-moves-to-ban-smart-glasses-on-public-transport/",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23293": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.iisd.org/publications/digital-story/electric-vehicles-brics-countries",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23294": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -1061,7 +1067,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://selfdrivenews.com/may-mobility-ntt-autonomous-e-palette-japan-public-roads/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23308": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
