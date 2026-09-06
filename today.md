@@ -85,7 +85,7 @@
    - 원문: https://news.google.com/rss/articles/CBMirgFBVV95cUxQaGNCTGRJcm1ERmI3X1VBSDdubUJRSl9Kd3g0Vl96SVVzUUQ5aDJWNThGVjBDQXVzMmN0d2lnUkMzZDVGeFZ6Q1hyYWQtcnc2YWExREM4aXRkNkZSdDA5STA5blZJc1pRZHF6ZHJlRjVLU01tOUZWOXVDNGRZSkNHVk5SY3AyNDNNeGtQS1hTd0pFVENBM0kzd1V5REV0UHdEY29md0h3Q0dJTU5HMGc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 18. Chennai bypass to get new access points, barrier-free tolling
-   - 분야: 요금·통행료 / 게재일: 2026-08-30 / 매체: dtnext.in
+   - 분야: 요금·통행료 / 게재일: 2026-08-30 / 매체: DT Next
    - 원문: https://news.google.com/rss/articles/CBMimwFBVV95cUxONW5JeS1IdEZ0LVZJZDUtaGs1d04wLUwtR2dUM1I3dktHSURzQUpER0ZvcWowQTRfZjFZM2tfMTlNYW5ESlNRay0yZndjNVZscGRxRmZscWNkNUQzSDlkRXhjU3o5QnBUc3RrQUU0S205eEMtSTlDaE9sZjRhRjljQjJKYWJNRzhGWTg5aHpFRGR0cVZHaUowN05xZ9IBqAFBVV95cUxPWDZjQkVFTVVFUHFsOEZrVnBkR05tQk1zYUVzYUFpQWRMYjZSRmZ4ak9WSjZjZjFNRDRfR2FoUm5kamNoZHpkSEs2djlSYWFpald6MGJNb2hvbzhscll1cWZSLWlMNFBxUlM0VDhVbjVwSW5xbi1tdVIyOVpMRzJza3VwWXlCYkJqV3QwLXZocjAxZ2ZKVnk0blJUY3VFQVN4cWZ3SnRibEk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 19. Is Touch 'n Go's toll monopoly slipping?
@@ -154,13 +154,13 @@
    - 분야: 자율주행 / 게재일: 2026-08-31 / 매체: 디지틀조선일보
    - 원문: https://news.google.com/rss/articles/CBMihgFBVV95cUxQNlN0R3VqeEFIS2ZsUjJhX052cEhrbnM1dHRmdWsxV2ZSRVVVTW1aN0RZbFV3SUNGa0VQbUtudU52eWdVVHVmMEpNczNKNkVodDdJQXJtMlk0VHdNdFVpMHhVU0drT3dBZmJhTURjei00YzlKTmJSbHl5NXJldElGbk5iTzNQZ9IBe0FVX3lxTE5XRGhVTXJ2eGQ1Tk1fa0NZMjVUbmVna3NZWkFBMWxwSHk1ZFk5WFluTTJ2Slk3X2lXbjlNb0xGVGFMczV0cHZ4NUltelJVMmI0dzd1dFFsemxWS2dhUFZ5bVVDaTdFUHBGdkhQY1luU09MNW9ySnpwbzh6NA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. KGM, 구역형 자율주행 로보택시 서비스 확대
-   - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: koreastocknews.com
-   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTFByVElHNTBTV2hkdlBjU1cybENBZGJoRkN2aUNPdEl6dV9lUVQ3RHhuR19oRFZfZzFlT2pxQVBRRFdsVUxQeGg0WktzczlmQzdEN1VzVk9JTXdDMFNodlpWMllsVjdEZWIxWG1jaWtsS0dnd9IBdkFVX3lxTFBNWlAzbTVWdXZsTzQ0LUZfMUZjQ0VLY1RiUWlZR3d2VFFGbFlHdGloNEZZSE53Wk5ULWNEZXFrUElEOThGVk5DOTB1Z2U3ZExvNkNyWlV1d2Y2SndSQnM2Z2lSY21MbHdhTm9iYkhYbGVQSk9iOVE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-15. 자율주행 화물운송 상용화 속도… 혁신과 고용 충격 사이 '기회의 길' 열린다
+14. 자율주행 화물운송 상용화 속도… 혁신과 고용 충격 사이 '기회의 길' 열린다
    - 분야: 자율주행 / 게재일: 2026-09-04 / 매체: koreasprint.com
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE9VdnZZVy1VaHlDMjI1VmJiY1BhX1ZkMUJ5VXlET1IxVjRpV0M0UlRzZ1BvOUYwVWpMTjZIaHFnMG9XN2t2RTZyVS1BdlVBMVZOUVZBVkxXMDZnUmVXUmN2T3JpdEZQR2FxOWJSZTRR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+15. 삼성화재, AI·자율주행 시대 자동차보험 미래 경쟁력 모색
+   - 분야: 자율주행 / 게재일: 2026-09-04 / 매체: 보험매일
+   - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9neFVISFBsNU9kcVZlTk1hQXNDSElJTTQ3QkE0LWgyaVNvZTJ1blFqVE4wNlJfSmZqdmZWcXo2MDN6cmZEV19ZXzV4X0xnUHNtRmdjNTQxX0V5dlYyc3Fxb09uTmExRXVU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 16. 대구 '달성화물자동차공영차고지' 11년 만에 준공
    - 분야: 대중교통·물류 / 게재일: 2026-08-30 / 매체: 한국일보
@@ -189,6 +189,10 @@
 - [슬로베니아] Slovenia – Control, safety or signalling equipment for roads – Nadgradnja sistema za upravljanje prometa na občinskih cestah
   - 마감 2026-09-07 / 발주처 MESTNA OBČINA LJUBLJANA
   - 원문: https://ted.europa.eu/en/notice/-/detail/601002-2026
+
+- [벨기에] Belgium – Installation of signalling equipment – AWV/VW/2026/2_Nieuwbouw, aanpassingen, wegname en onderhoud van biflashes en verkeersborden met veranderlijke informatie (zone 30) in schoolomgevingen langs gewestwegen in Vlaanderen
+  - 마감 2026-09-08 / 발주처 Vlaamse Overheid
+  - 원문: https://ted.europa.eu/en/notice/-/detail/595597-2026
 
 - [크로아티아] Croatia – Real-time passenger information system – Nabava digitalnih displaya za autobusne stanice
   - 마감 2026-09-09 / 발주처 OPĆINA BISTRA
@@ -241,7 +245,3 @@
 - [이탈리아] Italy – Real-time passenger information system – Programma Regionale Sardegna FESR 2021-2027. Fornitura e installazione di 120 paline della tipologia E-paper comprensive di software, pulsante per sintesi vocale, accessori e piattaforma di gestione
   - 마감 2026-09-23 / 발주처 CTM S.p.A.
   - 원문: https://ted.europa.eu/en/notice/-/detail/603420-2026
-
-- [폴란드] Poland – Surveillance and security systems and devices – Dostawa i instalacja Systemu Telewizji Dozorowej CCTV w Muzeum Wsi Kieleckiej - etap I
-  - 마감 2026-09-29 / 발주처 MUZEUM WSI KIELECKIEJ
-  - 원문: https://ted.europa.eu/en/notice/-/detail/598724-2026
