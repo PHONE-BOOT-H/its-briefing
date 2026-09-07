@@ -629,31 +629,85 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092379",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23303": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.khs.go.kr/newsBbz/selectNewsBbzView.do?newsItemId=155706328&sectionId=b_sec_1&pageIndex=1&pageUnit=10&strWhere=&strValue=&sdate=&edate=&category=&mn=NS_01_02",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23304": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129231",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23306": {
   "body": "중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 중기부)는 9월 3일(목) 국무총리 주재 제13회 국가정책조정회의에서 관계부처와 함께 「중소기업 수출 4대 혁신 전략」을 논의하였다. 중소기업 수출은 ’26년 상반기 기준 640억달러로 역대 최고치를 기록하고 있다. K-뷰티·온라인 수출 등 새로운 성장동력이 부상하여 우리나라 수출의 역동성과 다양성을 높이는 데 기여하고 있다. 이에, 정부는 현재의 중소기업 수출 호조세가 단기적 성과에 그치지 않고, 보다 탄탄한 성장 기반을 갖출 수 있도록, ▲유망기업의 수출 고속성장과 수출기업의 저변을 확대하고, ▲소비재·산업재 등 수출유망품목을 발굴·지원하며, ▲정상외교 성과에 기반하여 신흥시장 개척을 지원하고, ▲기업 관점에서 수출지원체계를 고도화하는 등 기업·품목·국가·정책 4대 분야의 수출지원 방식을 개편하는 ｢중소기업 수출 4대 혁신 전략｣을 마련·발표하였다. 수출 진입·성장경로 맞춤형 지원체계 구축 ‘글로벌 스케일업 500’을 통해 수출 유망기업의 다년도 집중 성장을 지원한다. 성장 잠재력이 높은 기업 500개사 대상으로 수출로드맵 수립을 돕고, 이에 기반한 다년·묶음 지원으로 기업의 고속성장을 유도한다. 이와 함께 수출바우처 내 원부자재 소싱 메뉴판 추가, 현지진출 전문기관 발굴 등 마케팅 중심에서 공급망까지 글로벌화 정책 지원범위를 확대하고, 부처 간 정책 연계도 강화한다. ‘수출 ON 2000’을 통해 다양한 혁신주체의 수출기업화를 촉진할 수 있도록, 수출에 도전하는 청년창업가, 소상공인, 지역기업, 수출재도전 기업 2,000개에 대해서 맞춤형 지원을 추진한다. 청년창업가에게는 수출경험 제공, 수출준비 등 글로벌화 준비 단계에 따른 지원체계를 구축하여 지원한다. 차별화된 제품·브랜드를 보유한 소상공인, 지역 주력산업 영위 중소기업, ",
   "date": null,
   "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1070951&parentSeq=1070951",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23310": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://n.news.naver.com/article/030/0003463564?sid=101",
-  "tries": 2
+  "tries": 3
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23311": {
+  "body": "- 기업간담회(7.22) 건의 후속조치... “지역기업과 국토교통 R&D를 잇는 든든한 가교 역할” □ 김윤덕 국토교통부 장관은 9월 4일 전북대학교 진수당 77주년 기념홀에서 열린「전북‧새만금 국토교통 R&D 설명회」*에 참석하여 지역기업‧연구자들과 소통에 나섰다. * (시간/장소) 9.4 14:30~16:20 / 전북대학교 (참석) 국토교통부 장관, 새만금개발청장, 국토교통과학기술진흥원장, 전북대학교 총장, 전북상공회의소협의회 회장, 전북 지역 기업‧연구자 등 총 100여명 ㅇ 이번 일정은 7월 22일 전북‧새만금 기업간담회에서 있었던 지역기업의 국가 R&D, 실증사업에 새만금 등 전북 지역기업 참여 방안 문의에 따른 후속조치로 마련되었다. □ 이날 설명회에서 새만금개발청이 새만금 투자현황 및 상생협력 방향을 발표한 데 이어, 국토교통부는 ’26년 국토교통 R&D 투자방향을 소개하였다. 국토교통과학기술진흥원은 지역기업과 연구진들이 실제로 어떻게 참여하고 지원받을 수 있는지 R&D 참여 절차와 기업지원 프로그램 등을 안내하였다. □ 김 장관은 “이번 설명회는 지역기업의 건의사항에 대한 약속을 지키기 위해 만든 자리”라면서, “지역의 우수한 기업과 연구자 분들이 가지고 있던 저력이 정보의 문턱 앞에서 제한받지 않도록, 국토교통부가 든든한 창구 역할을 해 나가겠다”라고 밝혔다. - 기업간담회(7.22) 건의 후속조치... “지역기업과 국토교통 R&D를 잇는 든든한 가교 역할” □ 김윤덕 국토교통부 장관은 9월 4일 전북대학교 진수당 77주년 기념홀에서 열린「전북‧새만금 국토교통 R&D 설명회」*에 참석하여 지역기업‧연구자들과 소통에 나섰다. * (시간/장소) 9.4 14:30~16:20 / 전북대학교 (참석) 국토교통부 장관, 새만금개발청장, 국토교통과학기술진흥원장, 전북대학교 총장, ",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092384",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23312": {
+  "body": "- 카카오모빌리티, 현대자동차, 웨이모, 엔비디아 등 글로벌 모빌리티 기업, 국제교통포럼(ITF)과 함께 자율주행·AI 등 미래 모빌리티 혁신과 정책 방향 논의 □ 자율주행, 인공지능(AI) 등 첨단 모빌리티 기술을 누구나 안전하고 편리하게 일상에서 이용하기 위한 방안을 논의하는 국제행사가 서울에서 열린다. □ 국토교통부(장관 김윤덕)는 한국교통안전공단(이사장 정용식, 이하 TS공단), OECD 국제교통포럼(사무총장 김영태, 이하 ITF)과 함께 9.7(월)~8(화) 서울 웨스틴조선호텔에서 ‘2026 글로벌 모빌리티 콘퍼런스’를 개최한다. ㅇ 이번 콘퍼런스는 글로벌 모빌리티 기업, 전문가, 국제기구 등이 한자리에 모여 자율주행·인공지능 등 첨단 모빌리티 기술의 상용화 및 일상생활 확산에 따른 변화와 과제를 살펴보고, 이를 위한 정책·산업의 방향을 논의한다. ㅇ 올해 주제인 ‘혁신을 일상으로: 적응의 시대를 이끄는 혁신(From New to Now: Steering Mobility Innovations Toward Realities)’은 모빌리티 혁신을 기술적 가능성을 넘어 국민이 체감하는 일상으로 정착시키기 위한 정책·제도적 대응과 협력 방향을 모색한다는 의미를 담고 있다. □ 이번 콘퍼런스는 ‘자율주행 상용화’, ‘첨단모빌리티와 도시’, ‘자율주행차 안전과 보험’, ‘DRT·AI 기반 물류’ 등 모빌리티가 국민 삶의 질을 향상시킬 수 있도록 미래비전을 구체화하고 논의하는 장이 될 것으로 기대된다. □ 첫째 날(9.7) 기조연설에서 류긍선 카카오모빌리티 대표, 스티븐 한 웨이모 전무, 가우라브 아가왈 엔비디아 수석 디렉터가 확장되는 자율주행 모빌리티, AI가 정의하는 안전한 모빌리티 등 모빌리티 혁신의 현재와 미래를 제시한다. ㅇ 이어지는 전체 세션에서는 세바스찬 파핑거 보스턴컨설팅그",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092382",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23313": {
+  "body": "- 제1회 구축형 연구개발사업 심사위원회에서 사업추진심사 대상사업 5건 선정 과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 ‘과기정통부’)는 9월 4일(금) 박인규 과학기술혁신본부장 주재로 「2026년 제1회 구축형 연구개발사업 심사위원회(이하 ‘위원회’)」를 개최하여 2026년 제1차 구축형 연구개발사업 사업추진심사 대상사업을 선정하였다고 밝혔다. 정부는 올해 초 국가연구개발사업에 대한 예비타당성조사(이하 ‘예타’)를 18년만에 폐지하고 과학기술기본법에 근거한 맞춤형 사전점검제도로 전환하였다. 특히, 천억원 이상의 대규모 연구시설·장비 구축, 연구단지 조성, 우주분야의 체계개발 사업 등 구축형 연구개발사업은 체계적인 관리가 중요하므로 사업 착수부터 단계별로 전주기 심사를 실시하게 된다. 위원회는 이러한 구축형 연구개발사업의 심사 대상 선정 및 결과 확정 등 제도 운영·개선과 관련된 사항을 심의·의결하는 최상위 의사결정기구로 지난 5월 민간위원을 위촉하며 구성이 완료되었다. 이번 회의에서는 전주기 심사제도의 첫 관문인 사업추진심사에 필요한 요건과 근거를 충실히 갖춘 것으로 판단되는 5개 사업을 심사 대상으로 선정하며 본격적인 제도 운영 시작을 알렸다. 먼저, ‘국가 과학기술정보 AI·컴퓨팅 허브센터 구축사업’은 컴퓨팅, AI, 연구데이터 활용 지원을 위한 다양한 과학기술정보인프라를 통합 운영할 수 있는 시설을 구축하는 사업이다. 이를 통해 과학기술정보 연구개발과 AI 융합연구 혁신을 지원하고자 한다. ‘AI모빌리티 종합 실증 콤플렉스 조성사업’은 SDV 개발 및 양산 기간을 획기적으로 감축하기 위한 개발환경과 실증 기반을 구축하는 사업이다. 이를 통해 국내 자동차 산업계 생태계 전반의 SDV 전환을 촉진하고 글로벌 수준의 신뢰성을 조기에 확보하고자 한다. ‘대용량 ",
+  "date": null,
+  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187741&searchOpt=ALL&searchTxt=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23316": {
+  "body": "- 9월 3일 국제 전문가 참석 TF-ISD 첫 회의 개최…한국이 의장국 수행 - - 우리나라 첨단 기술․연구 성과의 국제 표준 반영․기술 경쟁력 향상 기대 - □ 한국교통안전공단(이사장 정용식, 이하 TS) 자동차안전연구원은 오는 9월 3일(목) SDV(소프트웨어 중심 자동차) 운행과 미래 모빌리티 시대에 대비하여 차량과 도로이용자 간 커뮤니케이션 기술*의 국제 안전기준을 논의하기 위한 ‘TF-ISD** 킥오프(Kick-off) 회의’를 개최했다. * 차량 외부 디스플레이와 도로면에 투사된 이미지를 통해 도로이용자에게 주행 의사를 시각적으로 표시하며 소통하는 기술 ** TF-ISD : Task Force Interactive Signaling Display, GTB(국제등화장치전문가그룹) 산하에서 SDV 등 자동차가 보행자 및 타 도로이용자와 시각적으로 소통하는 커뮤니케이션 기술에 대한 국제 안전기준 제·개정을 연구하는 전담 실무반 ㅇ 이번 회의에서 의장국을 맡은 한국은 미국․유럽연합(EU)․중국 등 주요 정부 대표단 및 글로벌 자동차 관련 전문가들이 참석한 가운데 차량과 도로이용자 간 커뮤니케이션 기술의 국제기준마련 방향과 세부 의제에 대한 논의를 주도했다. □ 그동안 전통적인 자동차 조명 및 표시 장치 중심이었던 국제 안전기준은 ‘차량-도로이용자 커뮤니케이션’ 기술 표준화로 그 영역이 확장되고 있다. ㅇ 이 기술은 SDV 기술 발전과 모빌리티 패러다임 전환에 발맞춰 차량 외부 디스플레이 표출과 노면 투사 등을 통해 도로이용자(보행자, 타 차량 등)와 직관적으로 주행 의사를 주고받는 기술을 일컫는다. ㅇ 한국이 의장국으로서 이번 TF-ISD 활동을 총괄하게 됨에 따라 국내 SDV 및 모빌리티 관련 기술 수준과 연구 성과가 국제 표준에 적극 반영되고, 국내 자동차 산업의 글로벌 기술",
+  "date": null,
+  "link": "https://main.kotsa.or.kr/portal/bbs/report_view.do?bbscCode=report&cateCode=&bbscSeqn=18933&pageNumb=1&sechCdtn=&sechKywd=&menuCode=05010200",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23320": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-03",
+  "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000061777",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23321": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-06",
+  "link": "https://www.m-i.kr/news/articleView.html?idxno=1410297",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23323": {
+  "body": "충남 아산시가 반도체·디스플레이에 이어 인공지능(AI)을 기반으로 한 미래 모빌리티 산업 육성에 나선다. 약 1조원을 투입해 연구개발부터 실증·양산까지 지원하는 대규모 산업 기반을 구축한다는 계획이다. 아산시는 산업통상부·충남도와 추진하는 ‘AI 모빌리티 종합 실증 콤플렉스 조성사업’이 지난 4일 과학기술정보통신부의 ‘구축형 연구개발(R&D) 사업추진심사’ 대상에 선정됐다고 밝혔다. 충남 아산시가 반도체·디스플레이에 이어 인공지능(AI)을 기반으로 한 미래 모빌리티 산업 육성에 나선다. 약 1조원을 투입해 연구개발부터 실증·양산까지 지원하는 대규모 산업 기반을 구축한다는 계획이다. 아산시는 산업통상부·충남도와 추진하는 ‘AI 모빌리티 종합 실증 콤플렉스 조성사업’이 지난 4일 과학기술정보통신부의 ‘구축형 연구개발(R&D) 사업추진심사’ 대상에 선정됐다고 밝혔다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-06",
+  "link": "https://www.cctimes.kr/news/articleView.html?idxno=925674",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23324": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-06",
+  "link": "https://www.kgnews.co.kr/news/article.html?no=910417",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23325": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.news1.kr/industry/sb-founded/6281329",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -1079,7 +1133,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.sydneymetro.info/article/southwest-metro-completes-trial-running-phase",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23315": {
   "body": "...중략...Rome has already established one of Italy's largest connected traffic management systems. Approximately 600 intersections are integrated into SWARCO's OMNIA platform, giving the city a centralized view of traffic operations and coordinated control across the network...중략... 로마는 이미 이탈리아 최대 규모의 통합 교통 관리 시스템을 구축했습니다. 약 600개의 교차로가 SWARCO의 OMNIA 플랫폼에 통합되어 도시 전체의 교통 운영을 중앙에서 파악하고 네트워크 전반에 걸쳐 통합적인 제어를 가능하게 합니다. ...중략...Rome has already established one of Italy's largest connected traffic management systems. Approximately 600 intersections are integrated into SWARCO's OMNIA platform, giving the city a centralized view of traffic operations and coordinated control across the network...중략... 로마는 이미 이탈리아 최대 규모의 통합 교통 관리 시스템을 구축했습니다. 약 600개의 교차로가 SWARCO의 OMNIA 플랫폼에 통합되어 도시 전체의 교통 운영을 중앙에서 파악하고 네트워크 전반에 걸쳐 통합적인 제어를 가능하게 합니다. Copyright © 2018 ITS Korea. All rights reserved.",
@@ -1091,7 +1145,7 @@
   "body": "NHTSA has opened an Audit Query into Tesla’s certification of the Cybercab as compliant with all applicable Federal Motor Vehicle Safety Standards, the same day the company began commercial deployment of a small number of the vehicles in Austin, Texas, on September 3, 2026. Tesla notified the agency that it certified those Cybercab vehicles as FMVSS-compliant, though the vehicles lack permanently attached, conventional manual controls. According to the AQ26002 filing, NHTSA will examine the process and technical data on which Tesla relied when making that certification, along with related issues...중략... [미국 도로교통안전국(NHTSA)이 테슬라 사이버캡의 FMVSS 인증에 대한 감사 질의를 제기했습니다.] 미국 도로교통안전국(NHTSA)은 테슬라가 사이버캡(Cybercab) 차량의 모든 관련 연방 자동차 안전 기준(FMVSS) 준수 인증을 획득한 것에 대해 감사 질의(AQ26002)를 시작했습니다. 이는 테슬라가 2026년 9월 3일 텍사스주 오스틴에서 소수의 사이버캡 차량에 대한 상용 운행을 시작한 바로 그날 이루어졌습니다. 테슬라는 해당 차량들이 기존의 수동 조작 장치가 고정되어 있지 않음에도 불구하고 FM",
   "date": null,
   "link": "https://selfdrivenews.com/tesla-cybercab-fmvss-certification-nhtsa-audit-query/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23318": {
   "body": "India operates the world’s third-largest metro rail network. According to Ministry of Housing and Urban Affairs (MoHUA) figures placed before Parliament, 1,076.585 km of metro lines were in commercial operation across 26 cities as of July 2026, with nearly 1,000 km more under construction. This page is the complete, continuously updated index of every metro, RRTS (Namo Bharat), and high-speed rail project in India, organised by status, with network data, implementing agencies, and links to each project’s dedicated information page for route maps, tenders, contracts, and the latest news...중략... 인도는 세계에서 세 번째로 큰 규모의 지하철 네트워크를 운영하고 있습니다. 주택도시부(MoHUA)가 의회에 제출한 자료에 따르면, 2026년 7월 기준 26개 도시에서 1,076,585km의 지하철 노선이 운행 중이며, 약 1,000km가 추가로 건설 중입니다. 이 페이지는 인도의 모든 지하철, 고속철도(RRTS, Namo Bharat), 고속철도 프로젝트에 대한 완벽하고 지속적으로 업데이트되는 정보를 제공합니다. 각 프로젝트의 현황, 네트워크 데이터, 시행 기관, 그리고 노선도, 입찰, 계약, 최신 뉴스 등을 확인할 수 있는 전",

@@ -83,6 +83,13 @@
   "impagency": "President's Office - Finance and Planning, Zanzibar",
   "total": 150000000.0
  },
+ "P165344": {
+  "borrower": "Kingdom of Cambodia",
+  "closing": "2027-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Environment,Ministry of Rural Development",
+  "total": 53160000.0
+ },
  "P165660": {
   "borrower": "United Republic of Tanzania",
   "closing": "2027-09-30",
@@ -187,6 +194,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Central Execution Unit of the Ministry of Public Works (UCE)",
   "total": 84000000.0
+ },
+ "P171141": {
+  "borrower": "Democratic Republic of the Congo",
+  "closing": "2026-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Cellule Infrastructures,Cellule d'Exécution de Projets Eau,Unité de Coordination et de Management",
+  "total": 500000000.0
  },
  "P171419": {
   "borrower": "Republic of the Philippines",
