@@ -69,6 +69,13 @@
   "impagency": "Ministry of Agriculture",
   "total": 107000000.0
  },
+ "P164847": {
+  "borrower": "Republic of Malawi,Republic of Mozambique",
+  "closing": "2027-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Transport and Logistics, Republic of Mozambique,Ministry of Transport and Public Works, Republic of Malawi,Roads Authority, Republic of Malawi",
+  "total": 380000000.0
+ },
  "P164920": {
   "borrower": "United Republic of Tanzania",
   "closing": "2027-06-30",
@@ -740,6 +747,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Public Company Roads of FBIH",
   "total": 90956648.0
+ },
+ "P512210": {
+  "borrower": "Democratic Republic of Congo",
+  "closing": "2031-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Infrastructure and Public Works",
+  "total": 250000000.0
  },
  "P512330": {
   "borrower": "REPUBLIC OF MADAGASCAR",

@@ -89,6 +89,36 @@
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "International"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=93BA6B151020BFCBD133FC050FB964B6D0E2B00615C35FB711F0BAF4C9816333": {
+  "budget": {
+   "amount": 191300.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Azerbaijan Railways Closed Joint Stock Company Azerbaijan",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=9E8343B411BFBAD3C4E9037FE2C4B06DE5B447C2BB6FDEE6FA7580DDBBCA2801": {
+  "budget": {
+   "amount": 160600.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Ministry of Commerce and Industry India",
+  "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
+  "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=B5A3375BD7999BCD535F6928E815C4A59CA2F7036205264C153D930923DA8F35": {
+  "budget": {
+   "amount": 13200.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Asian Development Bank Regional",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=C968BED43258BCAC78131BC9799316FFEE56C6EBD1DBB15FF1A55A1B41891A82": {
   "budget": {
    "amount": 8500.0,
