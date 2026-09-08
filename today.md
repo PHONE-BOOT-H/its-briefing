@@ -20,81 +20,81 @@
    - 분야: 자율주행 / 게재일: 2026-09-04 / 매체: ITS Korea
    - 원문: https://selfdrivenews.com/may-mobility-ntt-autonomous-e-palette-japan-public-roads/
 
-2. [미국] 베라 모빌리티(Verra Mobility), 인공지능(AI) 기반 자율주행 및 커넥티드 플릿 명의·등록 자동화 솔루션 출시
+2. [독일] 뮌헨 시내 도로에 자율주행 온디맨드 차량 등장…MVG·IAV 실증 운행 개시
+   - 분야: 자율주행 / 게재일: 2026-09-08 / 매체: ITS Korea
+   - 원문: https://www.2news.co.kr/news/articleView.html?idxno=24395
+
+3. [미국] 베라 모빌리티(Verra Mobility), 인공지능(AI) 기반 자율주행 및 커넥티드 플릿 명의·등록 자동화 솔루션 출시
    - 분야: 자율주행 / 게재일: 2026-09-03 / 매체: ITS Korea
    - 원문: https://www.morningstar.com/news/pr-newswire/20260902la38389/verra-mobility-launches-ai-driven-title-registration-solution-cutting-fleet-vehicle-activation-time-up-to-80
 
-3. [뉴질랜드] 사상 최대 규모 44억 달러 '시티 레일 링크(CRL)' 도심 도시철도 9월 13일 개통 공식 발표
+4. [뉴질랜드] 사상 최대 규모 44억 달러 '시티 레일 링크(CRL)' 도심 도시철도 9월 13일 개통 공식 발표
    - 분야: 대중교통·물류 / 게재일: 2026-09-02 / 매체: ITS Korea
    - 원문: https://www.cityraillink.co.nz/
 
-4. [호주] 시드니 서부 국제공항 화물 전용 구역 개장 및 물류 동향
+5. [호주] 시드니 서부 국제공항 화물 전용 구역 개장 및 물류 동향
    - 분야: 대중교통·물류 / 게재일: 2026-09-03 / 매체: ITS Korea
    - 원문: https://fracht.com.au/news/fracht-group-australia-logistics-news-september-2026/249
 
-5. New Traffic Management System Using Cameras and AI Goes into Operation in Athens
+6. New Traffic Management System Using Cameras and AI Goes into Operation in Athens
    - 분야: 신호·관제 / 게재일: 2026-09-01 / 매체: БТА
    - 원문: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdHNfREFEakJPTFFrMzRiamJ0cVBrdm94azBfWnFTQVdubU9lWHptRlpoWi1lTEwwMVpRSFZKbVpXLXB4ZnRwTjhkRnlBbnQ0NEQ4cTVBTEtqSlFDZE1GQkVPTmFiZEhtdDlGdEhZc2lVVWZURmxrOWtUYlIzSURYS3NFRHJkcTViMG9Vek9objRNUXZSUi00NVVjbjhzbGM2S0pneFB5VUY2d0pCTTNUM3NEcWw5ZVpaYVpMX3Jza3o?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. Installation of traffic control equipment on Gore begins
-   - 분야: 신호·관제 / 게재일: 2026-09-02 / 매체: southwestledger.news
+7. Installation of traffic control equipment on Gore begins
+   - 분야: 신호·관제 / 게재일: 2026-09-02 / 매체: Southwest Ledger
    - 원문: https://news.google.com/rss/articles/CBMikgFBVV95cUxNVjdWSHlZQ0o2ZXdtVndua1FXX0lyUHpoc2pELUMxSi1JOHFJWUlWT29wZkFWV1V5NW1fbHVBSm9HQlpFMS1qQmR1dmF1UkZUbmd4MGN3REZhemdUSkxRazVlQ2pCRzJGd1ZibXVlWVZBZm5nTElwYmZrbFVpd2NLcGJ4VGpkd21EZnZJWTdyTlBSQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. Indra deploys traffic management technology in Chile’s Lo Ruiz Tunnel
+8. Indra deploys traffic management technology in Chile’s Lo Ruiz Tunnel
    - 분야: 신호·관제 / 게재일: 2026-09-04 / 매체: Indra Group
    - 원문: https://news.google.com/rss/articles/CBMipgFBVV95cUxQOU1GUzQxQkY4TWR4ZHVHV3VNYlllc24zbmlCVVM2MjE2bUt5SmxqbHdjMTc4eEJWdU9hb2NZSG4xQjJlTGR2dkwyX3VYM29tZ0RfTWRjdEg4RklTaEZCVUtnUTZpTUQxN2FyZmNfem9sWjdIUW1LNlRjM3FmSXNON1Z3Z0puSjlGbmFjNFdaSzhpUy13bkh2eWZ3bnZmQndKVnNjZEh3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. [중국] DiDi Robotaxi R2 Begins Driverless Service Trials
+9. [중국] DiDi Robotaxi R2 Begins Driverless Service Trials
    - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: ITS Korea
    - 원문: https://selfdrivenews.com/didi-robotaxi-r2-driverless-service-trials/
 
-9. [사우디아라비아] HUMAIN, Applied Intuition Plan Saudi Autonomous Truck Network
+10. [사우디아라비아] HUMAIN, Applied Intuition Plan Saudi Autonomous Truck Network
    - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: ITS Korea
    - 원문: https://selfdrivenews.com/humain-applied-intuition-saudi-autonomous-trucking/
 
-10. [독일] 함부르크, 대중교통에서 스마트 글라스 금지 추진
+11. [독일] 함부르크, 대중교통에서 스마트 글라스 금지 추진
    - 분야: 대중교통·물류 / 게재일: 2026-09-04 / 매체: ITS Korea
    - 원문: https://www.euractiv.com/news/hamburg-moves-to-ban-smart-glasses-on-public-transport/
 
-11. Govt amends National Highways Fee Rules, 2026 to strengthen toll compliance and digital enforcement
-   - 분야: 요금·통행료 / 게재일: 2026-09-07 / 매체: newsonair.gov.in
+12. Govt amends National Highways Fee Rules, 2026 to strengthen toll compliance and digital enforcement
+   - 분야: 요금·통행료 / 게재일: 2026-09-07 / 매체: News On AIR
    - 원문: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZDM3V1YyR1Z2aHNES1JuQkUtWW5kR3FSRjZYR1dvc3pMaWh3VHMtYzBvelVrdkRiZzZXcmoxTklXOV85ZG40UWFEV3FwWlN1VFdEeGFSM2dmb0I0RHdWaDFtcGk4cHdSbHBkUXJ1OUxTY2tUdGFXd0d4WHlpbHpLMmFiZ2IwYXNJZHE5d19nOTROa0xTV05mLThHWU01djZhankzVE9QME9xemxoc0VKTlh0dWJMa3NfalY5eFFVV2hoUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. Traffic light upgrade to disrupt East Bristol junction for three months
+13. Traffic light upgrade to disrupt East Bristol junction for three months
    - 분야: 신호·관제 / 게재일: 2026-09-01 / 매체: Bristol Live
    - 원문: https://news.google.com/rss/articles/CBMilgFBVV95cUxQOWhMMTZVb3RMX2s2T1piT3Z3Xy1TOTRIMHA5WDBFZGV2LVZaR1YwSVp4TTlaWndKdFIzRk53OFgxcl9vR0Iyd01pcExLUGRaZzlRTlJQUDJ1LVk2NXprTy03Y2JQdDhFTlBIMTV6UVduYmZ0emoxY3J6cFZ0MENRaHFPRDlPTFNydFB2YnRObWI4MnBRRWc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. Linden Mayor Cites Gazetted By-Laws for Toll Collection; Challenges Minister to Prove Repeal
+14. Linden Mayor Cites Gazetted By-Laws for Toll Collection; Challenges Minister to Prove Repeal
    - 분야: 요금·통행료 / 게재일: 2026-09-01 / 매체: newssourcegy.com
    - 원문: https://news.google.com/rss/articles/CBMivwFBVV95cUxQSjFpUllvUlA2WDZ5dUswM1lnb0gxTFdQcVBpVVJyS0ZYZUdtbW5kc1U5UTByNXJiQWVsRTVtUV9jZS11NzRDTTEwWkpOV2FYXy1fTEloODNoYTA4cXpCTWdjTGtxSVN6NElnWFNJdUxPOF9aYndMbWwtQ1BwWVo4akFIeTRFNXhiT1VHSFkxRF9TYmdCc1ZqY1Uxd0Q4aU4yamk4a29HaGVZYnhaLTQ0MFBxNHZnMEhpRjhueFpsYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. Government shuts down Linden Town Council's collection of toll from commercial vehicles entering town
+15. Government shuts down Linden Town Council's collection of toll from commercial vehicles entering town
    - 분야: 요금·통행료 / 게재일: 2026-09-01 / 매체: newssourcegy.com
    - 원문: https://news.google.com/rss/articles/CBMiywFBVV95cUxOUXBrMGxiSWk5QlUtR3pFMS02NklrODZ4aFJOcjZWTXJEN0xvRUhwMFFIT3cxYW83YUN5NVNsQTFNeDBQemxwR1VhQVpibS1lazkyV1ZEaGJ0MHAyYjVRazNpWUNiT3F1NUNVd2s5N0p3eFI3ZzR1SklNemZBZFNfdk1CVXZ5VUNvbmlrZXo1Tkw4U3JNX2lXZngtdUZFdDFkb3ZvX3dwODhDd0NWTG9oWjRXY3oxMWFQcTRCYmplOFZubnEzN2JTMW1nUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. Here’s why people are concerned about Flock cameras and other public surveillance tools
+16. Here’s why people are concerned about Flock cameras and other public surveillance tools
    - 분야: 신호·관제 / 게재일: 2026-09-01 / 매체: WUSF
    - 원문: https://news.google.com/rss/articles/CBMitAFBVV95cUxPYlJ1MzdEWmtKMG9zOEpYZkRDTTlUMFJ6NkRtVGw2UHZFRGc5MmZWVlZLcjJPR216eE02Z3RaMzd4anBnWU5qTVNHR1dXNUdxZENYcmxxd0FOSEpYcDZ6X093R2J4TG5FNzBwRW56V3haOFdmeDZicFBpZGJGYXF0ZG5zbUJhRm1jdDl0ZFBicHpFY0FEUWN5Y2FITy1rOXdBVl9XVkVPMGRDbFQ3SFp4LVpDb0M?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. Harare to install 46 smart traffic signals
+17. Harare to install 46 smart traffic signals
    - 분야: 신호·관제 / 게재일: 2026-09-02 / 매체: dailynews.co.zw
    - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTE9LWHVKNnA1TDMxTGdzNjBKN1IyV2hRaGlfZWZuaGhCVVg3NWVSVmRfajRsOW1ZeDFUQXBqUUtaTmZEVXRnQV9EM1hZbzFibW12Y3ZkVDdJQVNaZ2ZteTF0U2I2eXVycmtyckl2VTlLalo0b0lBU0HSAXtBVV95cUxPYTRVUTNIbXRRWkJMeG9QakNuUlVkOGZiSVNLSU91YUItblpDN0VNb1ducVUwb2JQNzFXQ1VvbThRQlZwZlNGRS16NGZyUkE4MWdwZ0hVckJmTkZQUjVSSUx1Y2VTNzVRVjZHVjlGMnNEcXFzNlN3bXZINXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. Maryland Transportation Authority failed to collect $818.1 million in tolls, penalties
-   - 분야: 요금·통행료 / 게재일: 2026-09-02 / 매체: marylandmatters.org
+18. Maryland Transportation Authority failed to collect $818.1 million in tolls, penalties
+   - 분야: 요금·통행료 / 게재일: 2026-09-02 / 매체: Maryland Matters
    - 원문: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQkt1bWM0TWtrby1yU1ROcjNEa2ZMSm1JRXVmUlFpaUVQSERLZHUxTWpia0k3ajlBenhaN0t5cXJNZDRJSTgyT1hBbEVIeDV0ZWVaWHNGRnJFbjIta3kwTG5sdWZYZ29DdnV3RTdTSWpfMVZYUTR6aVZZYzNaMWQzSUczNFlmSHNTSEVQYm5QMTdZQ3NaUXA2NHNtVmZMX1NuOGtDbTZKTk5mZTMxd0ZJb0tuWVExaXZaS2t3YnRPaTNWQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. Bhopal–Dewas Road to get barrier-free tolling: Vehicles can pass at 100 km/h without stopping; no boom barr...
+19. Bhopal–Dewas Road to get barrier-free tolling: Vehicles can pass at 100 km/h without stopping; no boom barr...
    - 분야: 요금·통행료 / 게재일: 2026-09-02 / 매체: Bhaskar English
    - 원문: https://news.google.com/rss/articles/CBMiugFBVV95cUxQalI0bENNcWc0Wkh4SzBLbUUxWlRET3RoODRTQXhGelJvSzRHX0tMNG5LZ1B3anBTOWY3azFFTFdnd3NQb2VVTzNkWnJkLWUtWDZkUHhZVHhNVGRTc2xCc3ZfSm9CMmV1dnhIak5CalU3T2V5VTAzLWhCUkZkeWxqZVd0ZHZPQURrVkFuRXBkZ3lZeTJCMDF0UTVvbDVBSHNyUjlOY0gtNVRvNzlzNVF3VjVQT3VqLTd4RUHSAb8BQVVfeXFMUGZoS1c3N2otWHF1RzgtcTFhUjF2Zm1oNEQzUHZOelpUM2w4a3E4NjYxWlY2THNza0NlVHBvdWduYk10YUxWMDliTGZfXzVtbnhaTmxXV0g3YklUbUozZ29XcFBCTEJOcEE2b2VlMmxrb1dIU1ZxY2NqTU5SVWZpTlR4dF91MWxOSHJFdEdqb2ZkcDlHYjlCM0lBRzRRWE03QTBKLWpyVWNnREhtcjc0TE95eVlHNzNjWG1oWUktODA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. Toll fraud probe: EDsearches 14 locations
-   - 분야: 요금·통행료 / 게재일: 2026-09-02 / 매체: timesofindia.indiatimes.com
+20. Toll fraud probe: EDsearches 14 locations
+   - 분야: 요금·통행료 / 게재일: 2026-09-02 / 매체: The Times of India
    - 원문: https://news.google.com/rss/articles/CBMitgFBVV95cUxNdk9GaFBNbkt4TXEzRThxVi1SVUZja2hpdTMwWGdDd3pUcDcwZnFOaV9zRTRGS19fLTl3WmJLa09xbjNHZFgxUGp5bFBiYXRibmJ2WnBXbUp6cVRDUkxIVjNqOXI1VHZMc2g5UVBMeDhqTTlub3huVW9DOGFSS1BSYmlWT1FzWFFaR1RqdVF1XzAzak53eFNqczB4ZFl3WXZXYXNUVk9JYlpPSWRuOFdMNWlVMGFPd9IBuwFBVV95cUxPS2QzVE9TR0k3Y2ZWZ3dVUnE1TUNqNDBhYVRwSDdSX0RjRW9rdUFzSDhLVHpoaDJHemkwZVlWc05feDI1UVRJdjJfUUhHcE1TVmR5dnVsSVE4b19tRjh5ZHZtXzlHbUhublF5Mmk1aUExNlRfMy1ERjNEb21JOWJwVHZxaDhDS2xHMmVOVngwX0Jqbm41YUhYaEg1YngtMXdJWENZdk1hc09GZ2VEc05Zd1p3MXJ4bWVYUzY4?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. ED conducts searches at 14 premises in 6 states, seizes Rs 1.03 crore cash in toll collection fraud case
-   - 분야: 요금·통행료 / 게재일: 2026-09-03 / 매체: timesofindia.indiatimes.com
-   - 원문: https://news.google.com/rss/articles/CBMiigJBVV95cUxPZFhDanAtTG5HaTdsOWtKZDU2T1dYMEFCOENhMmoyVWJ3RmtwTUo3QUcwOXFZUjFmamJuSVpITU1KV1ZlU0l5UV81QmJNWHNXSVpyRjBzZjlpX05WSW8yRGs0X1lldDhyVkFZYnctUDRmWjh1amxrSFQ3MmVHNkRhTjMtUmRMNDQ4VjdYemJPN2x5S0NTZ0hnTmVEVjg5ZlB1NWVNdUc2cnM2ekp0OVVYVWNrOFdzTkpndUR4dkw5a3NFREVsT0lrTzdPd2xmeDRVYXA2dlIyUU5TWXoxbDlGM2FhdjUxbVZpR2VaLWtTQTFUeHFISlJaaXVzVGtnazFrUmwtcXZndzR0UdIBjwJBVV95cUxQYmNrVUVyd3ZYWjFyNWZNaVNPQ09iR1lVSXB0Q25id3BHelhvMlJWanl0aVNwYTI3OUZDUjJLZlEwM2d0ZWR0T1M0blA4NFdZQXJHcElKdy1xemxwMF9kYS1ZMFdhNEl3WDdqVnBxN05xQ3p2M3NQOXJBcW9sQkM3SXVteW5uczNUbC0wMUhDbFdscS1ickFvTFE3WHE0LTdjQjNDYWNPalVrY3Q1ZnVNZlNlcTZKWmIyNHBNV29NRUVDWjUzekRTTTRBTkMxdUZYcldTaks5LUNNQkdLaFZkQ0VxTVRQb2I4QnpaNlZvdEF0b0dOck1BT3MzVWtKUmQweDZQNWlSeGtaNmI5eGc4?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -102,85 +102,85 @@
 
 등록 게시판: ITS국제협력센터 > 소통창구 > 공지사항(영어)
 
-1. [자율주행 어디까지 왔나④] '개문발차 주행' 언제까지…레벨4 무인버스 도로 위 달리는데, 입법은 여전히 로드맵 위
+1. [회원사/동향] 류긍선 카카오모빌리티 대표 “자율주행 상용화, 도시 단위 운영으로 확장해야”
+   - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: ITS Korea
+   - 원문: https://www.epnc.co.kr/news/articleView.html?idxno=406632
+
+2. [회원사/동향] 라이드플럭스-타타대우모빌리티, L2+ 자율주행 협력
+   - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: ITS Korea
+   - 원문: https://www.thelec.kr/news/articleView.html?idxno=61911
+
+3. [자율주행 어디까지 왔나④] '개문발차 주행' 언제까지…레벨4 무인버스 도로 위 달리는데, 입법은 여전히 로드맵 위
    - 분야: 자율주행 / 게재일: 2026-09-05 / 매체: 조달경제신문
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE5rNVhwc3lIUTRNTU1jaFdlQVBwSHVkZzc0c2EtMzBRLUNvcDJNNnY2eVhHR3V3RFJsOTBXN21OcW1rZlVoTTRqLUFkZDItQS1LOUh3eVV1eU9lOGYyaE1xbndwYW9ORDd1XzFJcF9B?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-2. HL로보틱스, ‘파키, 스탠’ 앞세워 자율주행 주차, 물류 시장 공략 본격화
-   - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: 스포츠조선
-   - 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE0wbWxmWWVaM1lHODNkUFJMVDctVzhGcWhWVDlXRjNyeEFvYXN3Q3F6WkdVT2lIcndJaEMtS3B5dHhOZ0FTdk9UcWtTZnRuRURrT000V3J3cmQyaEh6UTVZYll3Qm5wTkhXSUZvbGd1ekFpUG9fd2NKQw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-3. KG 모빌리티, 구역형 자율주행 로보택시 서비스 확대
+4. KG 모빌리티, 구역형 자율주행 로보택시 서비스 확대
    - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: 사회적경제뉴스
    - 원문: https://news.google.com/rss/articles/CBMiP0FVX3lxTE44dWZKUjFyc3NTSG83UkVGLV9uZ3JxN0ZvWWN2Nlc4c2x1U3U1dFlBV2o3N2FQdk52SExESjBEYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. [산업의 맥]AI 자율주행 광주실증, 국가 표준을 세워야
+5. [산업의 맥]AI 자율주행 광주실증, 국가 표준을 세워야
    - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: 아시아경제
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YQlF3b2FmTWxrLTM3S1NxTlNJM01xdUpXRHZ4VVlKVUVySWZ3d010RDQwM0RDM2dXS0NTTFh1VVY5YVUzUzdNWUZwSHRJajRkWU8wZjh3UjF1TG42aXBibg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. [회원사/동향] 차 빌려주던 쏘카, 이제 '자율주행 데이터' 판다
+6. [회원사/동향] 차 빌려주던 쏘카, 이제 '자율주행 데이터' 판다
    - 분야: 자율주행 / 게재일: 2026-09-04 / 매체: ITS Korea
    - 원문: https://www.newsway.co.kr/news/view?ud=2026090314585604364
 
-6. 카카오모빌리티, 도시 맞춤형’ 자율주행 생태계 비전 제시
+7. 카카오모빌리티, 도시 맞춤형’ 자율주행 생태계 비전 제시
    - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: 와우테일
    - 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NYXlZUmx1dHU2RTRrX29CeTBVbFZDYV9oYWMyblpvNzRRd0g0WXNWaEU5SVBZb3YwRE1id21iQUJXY0NjaHpQbTE5NENOTVk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. 라이드플럭스, 타타대우모빌리티와 레벨2+ 자율주행 트럭 양산 추진
-   - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: 스타트업엔(StartupN)
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBBdnNhQjBMMjJualRyZTI0NVZHZzg4NEZrQ09nUkU4VndrZXRYSmxCd1IyMThJdlhiYnFKQzhGVVgzS2xJQTdRNGxYS2hMSmRKMV8xU3lMVVpXZGI0OGNjaElJMG5adzBrVk9WYdIBbEFVX3lxTFBBdnNhQjBMMjJualRyZTI0NVZHZzg4NEZrQ09nUkU4VndrZXRYSmxCd1IyMThJdlhiYnFKQzhGVVgzS2xJQTdRNGxYS2hMSmRKMV8xU3lMVVpXZGI0OGNjaElJMG5adzBrVk9WYQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-8. 류긍선 카카오모빌리티 대표 "자율주행 상용화, 차량 넘어 도시 운영이 관건"
-   - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: 네이트
-   - 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE83NEl5bzZKWWU3aXBsV2c3Q216Yk5JWlQ1WldRVVo0Zlg2dW5vMHYtTWdGRkxCcmxwNmJUZlhhYzFLM191ZEFZbUhtWVlEdHF2TWdwN3pDWUVnaUlMX3haSE5UZjdyU0NvZ3Z1M2h4RnRDUGtEMHhVNQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-9. [국토부/보도자료] 김용석 대광위원장, 전주 기린대로 BRT 개통 준비상황 현장 점검
-   - 분야: 대중교통·물류 / 게재일: 2026-09-03 / 매체: ITS Korea
-   - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092374
-
-10. [지자체] 아산에 1조원 규모 ‘AI 모빌리티 실증 콤플렉스’ 추진
+8. [지자체] 아산에 1조원 규모 ‘AI 모빌리티 실증 콤플렉스’ 추진
    - 분야: 기타 / 게재일: 2026-09-06 / 매체: ITS Korea
    - 원문: https://www.cctimes.kr/news/articleView.html?idxno=925674
 
-11. 자율주행 화물운송 상용화 속도… 혁신과 고용 충격 사이 '기회의 길' 열린다
+9. 자율주행 화물운송 상용화 속도… 혁신과 고용 충격 사이 '기회의 길' 열린다
    - 분야: 자율주행 / 게재일: 2026-09-04 / 매체: koreasprint.com
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE9VdnZZVy1VaHlDMjI1VmJiY1BhX1ZkMUJ5VXlET1IxVjRpV0M0UlRzZ1BvOUYwVWpMTjZIaHFnMG9XN2t2RTZyVS1BdlVBMVZOUVZBVkxXMDZnUmVXUmN2T3JpdEZQR2FxOWJSZTRR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 삼성화재, AI·자율주행 시대 자동차보험 미래 경쟁력 모색
+10. 삼성화재, AI·자율주행 시대 자동차보험 미래 경쟁력 모색
    - 분야: 자율주행 / 게재일: 2026-09-04 / 매체: 보험매일
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9neFVISFBsNU9kcVZlTk1hQXNDSElJTTQ3QkE0LWgyaVNvZTJ1blFqVE4wNlJfSmZqdmZWcXo2MDN6cmZEV19ZXzV4X0xnUHNtRmdjNTQxX0V5dlYyc3Fxb09uTmExRXVU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. [국토부/보도자료] 자율주행·AI 등 첨단 모빌리티, 국민의 일상으로 ‘2026 글로벌 모빌리티 콘퍼런스’ 개막
+11. '미코' 이동국 아내, 비오는데 운전대 놓고 자율주행.."이렇게 편해도 되나" 충격 [핫피플] - 조선비즈
+   - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: Chosunbiz
+   - 원문: https://news.google.com/rss/articles/CBMipwFBVV95cUxNM2IwWF9Dalp6ZVRQVzFYUUYzVlE4Y1h2di1vRXZGQ0xaYUZ1aTZvOGNrcnd5RGo1WVVwc0U5R1JPZ3ZEOXRLTF9CdDVxczVQY0k0Z3d5cjRVV1ZmT05jU1Q4OU1PaF9YZW9qeEZJdmZnU29KcHYyVHk1c25nU3A4bXZ6clE4ckhoYXlBNWJaZXdfRGNrTk5KY0dqU0h4cFI2SUZtMFFwONIBpwFBVV95cUxNM2IwWF9Dalp6ZVRQVzFYUUYzVlE4Y1h2di1vRXZGQ0xaYUZ1aTZvOGNrcnd5RGo1WVVwc0U5R1JPZ3ZEOXRLTF9CdDVxczVQY0k0Z3d5cjRVV1ZmT05jU1Q4OU1PaF9YZW9qeEZJdmZnU29KcHYyVHk1c25nU3A4bXZ6clE4ckhoYXlBNWJaZXdfRGNrTk5KY0dqU0h4cFI2SUZtMFFwOA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+12. [국토부/보도자료] 자율주행·AI 등 첨단 모빌리티, 국민의 일상으로 ‘2026 글로벌 모빌리티 콘퍼런스’ 개막
    - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: ITS Korea
    - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092382
+
+13. [회원사/동향] 에스오에스랩, 경산시에 스마트 주차장 구축
+   - 분야: 대중교통·물류 / 게재일: 2026-09-08 / 매체: ITS Korea
+   - 원문: https://www.thebell.co.kr/front/newsview.asp?click=F&key=202609080933324520105627
 
 14. 청주시의회 도시건설위원회, 교통안전시설물·시내버스 준공영제 점검
    - 분야: 신호·관제 / 게재일: 2026-09-01 / 매체: 내외통신
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE1Ia0ItX25TM0VybjB6d0pnQ1otazhMMXM0UUQtcGVrNDB0UkVOdXB4bmd6TWR2Qlh6bzNoUkkxSk9kMUtrTW8wamNwTnlKSkx4T0kweEpDNndxcUEwZEJjUXJka2RiTGZHd01GbA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. [회원사/동향] 경기교통공사, 버스 공공관리제 발전방안 논의
-   - 분야: 대중교통·물류 / 게재일: 2026-09-03 / 매체: ITS Korea
-   - 원문: https://www.kmaeil.com/news/articleView.html?idxno=650588
-
-16. 오바야시(1802 JP), 자율주행차·보행자 사고 막는다…횡단보도 안전기술 개발
-   - 분야: 자율주행 / 게재일: 2026-09-01 / 매체: alphabiz.co.kr
-   - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTFBlVjYzNzl6bGdiLW9FOHBPd0dKa2tUMTl0bmt6TUp1OTZZZzlxS2I2QnJqcHZGOEVVeVBzU1RpaTZ0ZGhCQ1BoX0RBZC1sYnd2TjdGQ1E2QlhqMlNXSThKZ2szaFZaMS1MRU14MUdB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-17. 자율주행차 시장은 성장하고 있는가?
+15. 자율주행차 시장은 성장하고 있는가?
    - 분야: 자율주행 / 게재일: 2026-09-01 / 매체: Vietnam.vn
    - 원문: https://news.google.com/rss/articles/CBMifEFVX3lxTE5XQk5aN2xZMGExdk00NmtjTUFnRWNuOXYxVUVzSTZxYTdvZi14MGU2RUZYOU1MR0lQQm9wcDFtSkVLT0k5eUlUZkFlekpieTA2VWZPaFVGUGhUaUFVakY1eExzZ0FDTGg1dHEwZGxsc09qOGhqVTRpdGRfUUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. [IT돋보기] 자율주행, 로봇⋯사업 목적 재정비한 네이버랩스
+16. [IT돋보기] 자율주행, 로봇⋯사업 목적 재정비한 네이버랩스
    - 분야: 자율주행 / 게재일: 2026-09-02 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTE5rMXhjMjBBazhsaGk2SUxVeVd5V2d5ZUxkZTU4dXhOd3gyVlJfRkZnNWJ3TlkyNDYyejBmRV9oQ1lvNGM5T3c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. [정구민의 테크읽기] 'AME 26'으로 보는 우리나라 자율주행의 현재와 과제
+17. [정구민의 테크읽기] 'AME 26'으로 보는 우리나라 자율주행의 현재와 과제
    - 분야: 자율주행 / 게재일: 2026-09-03 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qT3pCUnBPVGd0WVBFc0tfbTBnMmxVQW1NbTJmekl0MEU1RjhSeC1rMUlvUWtDT0NQRXN2elBBTXdLcmc4Wk05V2cxU0FVUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. 자율주행차 테마 흔들… 상용화 속도 우려에 관련주 희비
+18. 자율주행차 테마 흔들… 상용화 속도 우려에 관련주 희비
    - 분야: 자율주행 / 게재일: 2026-09-03 / 매체: 핀포인트뉴스
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE94a1lRSGZ5QXl6RzZEclA2YmlpRFRHQVlwVGVtSEVnV3Y3OXdRb0JUb1I4SDRRV1pxZVI4U21ONGdfeDdWcndkX1RvS20zVWEwYXVxV1dYU3ZvRVpkNnc3RTlUZjNOQndsMjZ4NEpVR3BrYm_SAXdBVV95cUxPYk4yb1RjbTZ0YjJiTFZ0SUowSUp1R1dDbnZqYkk4UDdyeURlNTFOdTBMRUJla0QybkpXV0tuMlY3Y0lQVjE3SGlQVExMMmFVN0I3TDZHbGJIcksyYVQySGRsYmtMQnRnOHJocl9MMGdmN2pwQ3gyYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. 사우디 휴메인과 어플라이드 인튜이션, 자율주행 트럭을 시작으로 사우디 전역에 피지컬 AI 도입을 위한 전략적 파트너십 발표
+   - 분야: 자율주행 / 게재일: 2026-09-03 / 매체: 서프라이즈뉴스
+   - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTFA0TTlHc2o3X185U2FNTm5ZVUNPM2sxMWJCVFozTWNFZ01XNjBBREY0bjNjckxuWXFwTGFvRE4xOWl6RU11TlJHNFZCRmR3cWlKbkh1XzMyWjRUdVJNSjZjUWRqWDVZSWVSLW9yZUhmNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. Uber와 Wayve 파트너십을 통한 감독형 자율주행 라이드, 런던에 도착
+   - 분야: 자율주행 / 게재일: 2026-09-03 / 매체: Unite.AI
+   - 원문: https://news.google.com/rss/articles/CBMiogFBVV95cUxOS0ZxNjk1eE9PTFd3dWZEZFJlRjlXc0R3emtxaXlOWUNuNlBuR2NfZzVsRTFRME9wNVNGVVdCeWpLbkFOYWZXbUQxelRnTERqU2Y3dmt1MEVlYk9UZURBdHQ3SUd0cVV4aVpuLTVndVl5ZjZMU2FPd1JiRUdlV1Zzd1dyakZEMU9TUGJhdTBZS2ZfeWozSlhtN1FrTEVVbTlvRGc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 

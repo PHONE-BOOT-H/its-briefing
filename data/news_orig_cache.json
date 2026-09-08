@@ -629,7 +629,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092379",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23303": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -659,25 +659,31 @@
   "body": "- 기업간담회(7.22) 건의 후속조치... “지역기업과 국토교통 R&D를 잇는 든든한 가교 역할” □ 김윤덕 국토교통부 장관은 9월 4일 전북대학교 진수당 77주년 기념홀에서 열린「전북‧새만금 국토교통 R&D 설명회」*에 참석하여 지역기업‧연구자들과 소통에 나섰다. * (시간/장소) 9.4 14:30~16:20 / 전북대학교 (참석) 국토교통부 장관, 새만금개발청장, 국토교통과학기술진흥원장, 전북대학교 총장, 전북상공회의소협의회 회장, 전북 지역 기업‧연구자 등 총 100여명 ㅇ 이번 일정은 7월 22일 전북‧새만금 기업간담회에서 있었던 지역기업의 국가 R&D, 실증사업에 새만금 등 전북 지역기업 참여 방안 문의에 따른 후속조치로 마련되었다. □ 이날 설명회에서 새만금개발청이 새만금 투자현황 및 상생협력 방향을 발표한 데 이어, 국토교통부는 ’26년 국토교통 R&D 투자방향을 소개하였다. 국토교통과학기술진흥원은 지역기업과 연구진들이 실제로 어떻게 참여하고 지원받을 수 있는지 R&D 참여 절차와 기업지원 프로그램 등을 안내하였다. □ 김 장관은 “이번 설명회는 지역기업의 건의사항에 대한 약속을 지키기 위해 만든 자리”라면서, “지역의 우수한 기업과 연구자 분들이 가지고 있던 저력이 정보의 문턱 앞에서 제한받지 않도록, 국토교통부가 든든한 창구 역할을 해 나가겠다”라고 밝혔다. - 기업간담회(7.22) 건의 후속조치... “지역기업과 국토교통 R&D를 잇는 든든한 가교 역할” □ 김윤덕 국토교통부 장관은 9월 4일 전북대학교 진수당 77주년 기념홀에서 열린「전북‧새만금 국토교통 R&D 설명회」*에 참석하여 지역기업‧연구자들과 소통에 나섰다. * (시간/장소) 9.4 14:30~16:20 / 전북대학교 (참석) 국토교통부 장관, 새만금개발청장, 국토교통과학기술진흥원장, 전북대학교 총장, ",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092384",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23312": {
   "body": "- 카카오모빌리티, 현대자동차, 웨이모, 엔비디아 등 글로벌 모빌리티 기업, 국제교통포럼(ITF)과 함께 자율주행·AI 등 미래 모빌리티 혁신과 정책 방향 논의 □ 자율주행, 인공지능(AI) 등 첨단 모빌리티 기술을 누구나 안전하고 편리하게 일상에서 이용하기 위한 방안을 논의하는 국제행사가 서울에서 열린다. □ 국토교통부(장관 김윤덕)는 한국교통안전공단(이사장 정용식, 이하 TS공단), OECD 국제교통포럼(사무총장 김영태, 이하 ITF)과 함께 9.7(월)~8(화) 서울 웨스틴조선호텔에서 ‘2026 글로벌 모빌리티 콘퍼런스’를 개최한다. ㅇ 이번 콘퍼런스는 글로벌 모빌리티 기업, 전문가, 국제기구 등이 한자리에 모여 자율주행·인공지능 등 첨단 모빌리티 기술의 상용화 및 일상생활 확산에 따른 변화와 과제를 살펴보고, 이를 위한 정책·산업의 방향을 논의한다. ㅇ 올해 주제인 ‘혁신을 일상으로: 적응의 시대를 이끄는 혁신(From New to Now: Steering Mobility Innovations Toward Realities)’은 모빌리티 혁신을 기술적 가능성을 넘어 국민이 체감하는 일상으로 정착시키기 위한 정책·제도적 대응과 협력 방향을 모색한다는 의미를 담고 있다. □ 이번 콘퍼런스는 ‘자율주행 상용화’, ‘첨단모빌리티와 도시’, ‘자율주행차 안전과 보험’, ‘DRT·AI 기반 물류’ 등 모빌리티가 국민 삶의 질을 향상시킬 수 있도록 미래비전을 구체화하고 논의하는 장이 될 것으로 기대된다. □ 첫째 날(9.7) 기조연설에서 류긍선 카카오모빌리티 대표, 스티븐 한 웨이모 전무, 가우라브 아가왈 엔비디아 수석 디렉터가 확장되는 자율주행 모빌리티, AI가 정의하는 안전한 모빌리티 등 모빌리티 혁신의 현재와 미래를 제시한다. ㅇ 이어지는 전체 세션에서는 세바스찬 파핑거 보스턴컨설팅그",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092382",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23313": {
   "body": "- 제1회 구축형 연구개발사업 심사위원회에서 사업추진심사 대상사업 5건 선정 과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 ‘과기정통부’)는 9월 4일(금) 박인규 과학기술혁신본부장 주재로 「2026년 제1회 구축형 연구개발사업 심사위원회(이하 ‘위원회’)」를 개최하여 2026년 제1차 구축형 연구개발사업 사업추진심사 대상사업을 선정하였다고 밝혔다. 정부는 올해 초 국가연구개발사업에 대한 예비타당성조사(이하 ‘예타’)를 18년만에 폐지하고 과학기술기본법에 근거한 맞춤형 사전점검제도로 전환하였다. 특히, 천억원 이상의 대규모 연구시설·장비 구축, 연구단지 조성, 우주분야의 체계개발 사업 등 구축형 연구개발사업은 체계적인 관리가 중요하므로 사업 착수부터 단계별로 전주기 심사를 실시하게 된다. 위원회는 이러한 구축형 연구개발사업의 심사 대상 선정 및 결과 확정 등 제도 운영·개선과 관련된 사항을 심의·의결하는 최상위 의사결정기구로 지난 5월 민간위원을 위촉하며 구성이 완료되었다. 이번 회의에서는 전주기 심사제도의 첫 관문인 사업추진심사에 필요한 요건과 근거를 충실히 갖춘 것으로 판단되는 5개 사업을 심사 대상으로 선정하며 본격적인 제도 운영 시작을 알렸다. 먼저, ‘국가 과학기술정보 AI·컴퓨팅 허브센터 구축사업’은 컴퓨팅, AI, 연구데이터 활용 지원을 위한 다양한 과학기술정보인프라를 통합 운영할 수 있는 시설을 구축하는 사업이다. 이를 통해 과학기술정보 연구개발과 AI 융합연구 혁신을 지원하고자 한다. ‘AI모빌리티 종합 실증 콤플렉스 조성사업’은 SDV 개발 및 양산 기간을 획기적으로 감축하기 위한 개발환경과 실증 기반을 구축하는 사업이다. 이를 통해 국내 자동차 산업계 생태계 전반의 SDV 전환을 촉진하고 글로벌 수준의 신뢰성을 조기에 확보하고자 한다. ‘대용량 ",
   "date": null,
   "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187741&searchOpt=ALL&searchTxt=",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23314": {
+  "body": "- 국민 안전 지키는 소방 예산 전년 대비 10.3%,소방 연구개발(R&D) 20.9% 중점 확대 - 자동 물뿌리개(스프링클러) 미설치 공장 화재 저감(자동확산소화기 설치 지원) - 국립소방병원, 국립소방박물관 등 소방공무원 심신 건강 및 안전문화 확대 □ 소방청은 민생‧복지 안정과 인공지능(AI)‧첨단장비 등 국가 전략기술 확보라는 정부 기조에 발맞춰 2027년도 정부 예산안으로 총 3,713억 원을 확정했다고 밝혔다. ○ 이번 예산은 첨단 장비 확충 및 연구개발(R&D) 확대를 통해 재난대응의 체계(패러다임)를 기술기반 중심으로 전환하고 국민의 생활과 밀접한 재난안전망을 촘촘히 보강하여, 재난에 보다 효과적으로 대응함은 물론, 국민과 소방공무원의 안전까지 보호하는데 중점을 두고 있다. ○ 최근 공장 화재 발생 감소를 위해 자동 물뿌리개(스프링클러)가 설치되지 않은 공장에 자동 물뿌리개(스프링클러)보다 설치가 용이하고 저렴한 자동확산소화기 설치 지원 사업을 새로 반영했다(59억 원). 내년부터 5년간 19,806개소, 연간 3,961개소를 지원한다. 자동확산소화기는 화재 발생 시 자동 소화기능을 갖춘 소화기구로서 20년 이상 낡은(노후) 공장, 영세 제조업체, 산업단지 밀집 지역, 반복 화재 발생 대상 등 화재 위험성이 높은 장소를 중심으로 우선 지원할 예정이다. ○ 아울러, 올해부터 시작한 낡은(노후) 아파트 단독경보형 연기감지기 보급(62억 원), 산림인접마을 비상소화장치 설치(23억 원) 사업은 내년 예산안에도 지속 편성하여, 국민의 일상을 화재로부터 지키기 위해 화재안전망을 더욱 촘촘하게 지원할 예정이다. ○ 예측하기 어려운 재난 상황에서 소방대원보다 로봇이 현장에 먼저 들어가서 재난 상황을 살피고 공유하여 효율적 대응 및 소방대원 보호를 위해 무인소방로봇 9대(108억 원)",
+  "date": null,
+  "link": "https://www.nfa.go.kr/nfa/news/pressrelease/press/?boardId=bbs_0000000000000010&mode=view&cntId=3116&category=&pageIdx=&searchCondition=&searchKeyword=",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23316": {
   "body": "- 9월 3일 국제 전문가 참석 TF-ISD 첫 회의 개최…한국이 의장국 수행 - - 우리나라 첨단 기술․연구 성과의 국제 표준 반영․기술 경쟁력 향상 기대 - □ 한국교통안전공단(이사장 정용식, 이하 TS) 자동차안전연구원은 오는 9월 3일(목) SDV(소프트웨어 중심 자동차) 운행과 미래 모빌리티 시대에 대비하여 차량과 도로이용자 간 커뮤니케이션 기술*의 국제 안전기준을 논의하기 위한 ‘TF-ISD** 킥오프(Kick-off) 회의’를 개최했다. * 차량 외부 디스플레이와 도로면에 투사된 이미지를 통해 도로이용자에게 주행 의사를 시각적으로 표시하며 소통하는 기술 ** TF-ISD : Task Force Interactive Signaling Display, GTB(국제등화장치전문가그룹) 산하에서 SDV 등 자동차가 보행자 및 타 도로이용자와 시각적으로 소통하는 커뮤니케이션 기술에 대한 국제 안전기준 제·개정을 연구하는 전담 실무반 ㅇ 이번 회의에서 의장국을 맡은 한국은 미국․유럽연합(EU)․중국 등 주요 정부 대표단 및 글로벌 자동차 관련 전문가들이 참석한 가운데 차량과 도로이용자 간 커뮤니케이션 기술의 국제기준마련 방향과 세부 의제에 대한 논의를 주도했다. □ 그동안 전통적인 자동차 조명 및 표시 장치 중심이었던 국제 안전기준은 ‘차량-도로이용자 커뮤니케이션’ 기술 표준화로 그 영역이 확장되고 있다. ㅇ 이 기술은 SDV 기술 발전과 모빌리티 패러다임 전환에 발맞춰 차량 외부 디스플레이 표출과 노면 투사 등을 통해 도로이용자(보행자, 타 차량 등)와 직관적으로 주행 의사를 주고받는 기술을 일컫는다. ㅇ 한국이 의장국으로서 이번 TF-ISD 활동을 총괄하게 됨에 따라 국내 SDV 및 모빌리티 관련 기술 수준과 연구 성과가 국제 표준에 적극 반영되고, 국내 자동차 산업의 글로벌 기술",
   "date": null,
   "link": "https://main.kotsa.or.kr/portal/bbs/report_view.do?bbscCode=report&cateCode=&bbscSeqn=18933&pageNumb=1&sechCdtn=&sechKywd=&menuCode=05010200",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23320": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -707,6 +713,78 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.news1.kr/industry/sb-founded/6281329",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23333": {
+  "body": "- 베트남 씨큐텍 박람회 내 ‘재난안전기업 통합한국관’ 운영(9.9.~12.) - 재난안전기업 35개사 참여, 제품‧기술 전시, 수출상담, 투자 설명회 등 맞춤지원 행정안전부(장관 윤호중)는 국내 재난안전기업의 해외 진출을 지원하기 위해 9월 9일부터 12일까지 베트남 하노이 우정문화궁전에서 열리는 ‘2026 베트남 씨큐텍 박람회(Secutech Vietnam 2026)’에 통합한국관을 운영한다. 이번 박람회는 소방, 재난안전, 보안, 산업안전 분야를 아우르는 베트남 최대 규모의 B2B(기업 간 거래 중심) 전시회로, 약 480개 기업이 참가하고 1만 6천여 명의 구매자(바이어)·관람객이 방문할 것으로 예상된다. 특히 올해는 개최지가 호찌민에서 하노이로 변경되면서 베트남 중앙정부 및 공공기관과의 접점이 확대되어 국내 기업의 공공조달시장 진입 기회가 더욱 커질 것으로 기대된다. 행정안전부는 2025년 처음으로 베트남 씨큐텍 통합한국관을 운영하여 국내 재난안전기업 25개사의 해외시장 진출을 지원했으며, 약 85억 원 규모의 무인 파괴 화재진압 방수차 구매계약을 체결하는 등 우수한 성과를 거두었다. 이러한 성과를 바탕으로 올해는 지방정부(경기‧충남), 한국소방산업기술원과 협업하여 참여기업을 35개사로 확대한다. 참여기업들은 AI 기반 재난 예·경보 시스템, 특수 소방차 등 우수한 제품과 기술을 선보이며 베트남 시장 진출 발판을 마련할 예정이다. 행정안전부는 행사 기간 동안 현지 바이어와 투자자를 초청해 국내 기업과 1대1 비즈니스 상담을 진행하고, 기업별 수요에 맞춘 업무협약(MOU) 체결 및 실제 계약 성사까지 이어지도록 지원한다. 아울러 참여기업을 대상으로 ‘베트남 시장 진출 전략 설명회’를 개최하여 현지 진출 선도기업 강연 등 시장 특성과 진출 노하우 등을 공유한다. 또한 올해 신설된",
+  "date": null,
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129306",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23334": {
+  "body": "- ‘모두의 AI 공장장’과 ‘스마트제조혁신’ 결합으로 중소 제조 피지컬 AI 도입·확산 - 기술개발·실증·사업화로 신성장분야 대상 피지컬AI 활용까지 공동 지원 - 피지컬 AI 얼라이언스 중심으로 기술 공급기업과 제조 수요기업 연결 중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 ‘중기부’)와 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)는 9월7일(월) 한국과학기술원(KAIST) 피지컬 AI 실증랩을 방문하고, 피지컬 AI 기술 공급기업과 제조 현장 수요기업이 참여하는 기업 간담회를 개최하여 중소 제조 현장의 피지컬 AI 전환과 확산을 위한 부처 간 협력 방안을 논의했다고 밝혔다. 이번 방문은 중기부의 스마트제조혁신 지원정책과 과기정통부의 피지컬 AI 기술개발·실증 역량을 연계하여, 기술개발에서 현장 적용, 확산까지 이어지는 협력체계를 구축하기 위해 마련됐다. 양 부처는 현장 수요를 반영한 피지컬 AI 기술개발과 실증을 지원하고, 피지컬 AI 얼라이언스 등 민관협력체계를 통해 기술 공급기업과 수요기업을 연결하여, 중소 제조기업의 피지컬 AI 도입을 지원해 나가기로 했다. 현장방문에는 중기부 제1차관과 과기정통부 제2차관, 피지컬 AI 얼라이언스 민간의장·분과위원장, 피지컬 AI 기술 공급기업·수요기업 등이 참석했으며, ▲피지컬 AI 실증랩 시연, ▲양 부처 협업 방안 소개, ▲공급·수요기업 간담회 순으로 진행되었다. * 레인보우로보틱스, 페르소나AI, 페블러스, 임픽스, 백제식품, 뉴하이텍 최근 제조 현장은 인공지능이 주변 환경을 인식하고 스스로 판단해 작업을 수행하는 피지컬 AI 시대로 빠르게 전환되고 있다. 그러나 중소 제조기업은 전문인력과 기술 도입 경험, 데이터 및 실증 기회 부족 등으로 새로운 기술을 현장에 적용하는 데 어려움을 겪고 있다.",
+  "date": null,
+  "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1071025&parentSeq=1071025",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23337": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-08",
+  "link": "https://www.edaily.co.kr/news/read?newsid=01981126645578152&mediaCodeNo=257&utm_source=nate&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23338": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-07",
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=61911",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23339": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-07",
+  "link": "https://kr.aving.net/news/articleViewAmp.html?idxno=1814127",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23340": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-07",
+  "link": "https://www.kgdm.co.kr/news/articleView.html?idxno=2012745",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23341": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-07",
+  "link": "https://kr.aving.net/news/articleViewAmp.html?idxno=1814129",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23342": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-07",
+  "link": "https://kr.aving.net/news/articleView.html?idxno=1814131",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23343": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-07",
+  "link": "https://www.epnc.co.kr/news/articleView.html?idxno=406632",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23347": {
+  "body": "라이다(LiDAR) 기반 공간지능 솔루션 기업 에스오에스랩이 공공 분야를 중심으로 라이다 적용 스마트 인프라 솔루션 상용화 범위를 확대한다. 에스오에스랩은 경북IT융합산업기술원과 ‘스마트 주차장 구축’ 사업을 위한 계약을 체결했다고 8일 밝혔다. 이번 사업은 에스오에스랩의 라이다 기반 주차안내 솔루션 ‘LPGS(LiDAR Parking Guidance System) SPOTⓇ’을 경산 스마트시티 내 공영주차장 2곳에 도입한다는 내용이다. 에스오에스랩은 올해 말까지 시스템 구축을 완료하고 향후 경산시 통합플랫폼과 연동할 계획이다. 라이다(LiDAR) 기반 공간지능 솔루션 기업 에스오에스랩이 공공 분야를 중심으로 라이다 적용 스마트 인프라 솔루션 상용화 범위를 확대한다. 에스오에스랩은 경북IT융합산업기술원과 ‘스마트 주차장 구축’ 사업을 위한 계약을 체결했다고 8일 밝혔다. 이번 사업은 에스오에스랩의 라이다 기반 주차안내 솔루션 ‘LPGS(LiDAR Parking Guidance System) SPOTⓇ’을 경산 스마트시티 내 공영주차장 2곳에 도입한다는 내용이다. 에스오에스랩은 올해 말까지 시스템 구축을 완료하고 향후 경산시 통합플랫폼과 연동할 계획이다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-08",
+  "link": "https://www.thebell.co.kr/front/newsview.asp?click=F&key=202609080933324520105627",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23348": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-01",
+  "link": "https://www.venturesquare.net/1110144/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23349": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-08",
+  "link": "https://www.kado.net/news/articleView.html?idxno=2071123",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -1145,7 +1223,7 @@
   "body": "NHTSA has opened an Audit Query into Tesla’s certification of the Cybercab as compliant with all applicable Federal Motor Vehicle Safety Standards, the same day the company began commercial deployment of a small number of the vehicles in Austin, Texas, on September 3, 2026. Tesla notified the agency that it certified those Cybercab vehicles as FMVSS-compliant, though the vehicles lack permanently attached, conventional manual controls. According to the AQ26002 filing, NHTSA will examine the process and technical data on which Tesla relied when making that certification, along with related issues...중략... [미국 도로교통안전국(NHTSA)이 테슬라 사이버캡의 FMVSS 인증에 대한 감사 질의를 제기했습니다.] 미국 도로교통안전국(NHTSA)은 테슬라가 사이버캡(Cybercab) 차량의 모든 관련 연방 자동차 안전 기준(FMVSS) 준수 인증을 획득한 것에 대해 감사 질의(AQ26002)를 시작했습니다. 이는 테슬라가 2026년 9월 3일 텍사스주 오스틴에서 소수의 사이버캡 차량에 대한 상용 운행을 시작한 바로 그날 이루어졌습니다. 테슬라는 해당 차량들이 기존의 수동 조작 장치가 고정되어 있지 않음에도 불구하고 FM",
   "date": null,
   "link": "https://selfdrivenews.com/tesla-cybercab-fmvss-certification-nhtsa-audit-query/",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23318": {
   "body": "India operates the world’s third-largest metro rail network. According to Ministry of Housing and Urban Affairs (MoHUA) figures placed before Parliament, 1,076.585 km of metro lines were in commercial operation across 26 cities as of July 2026, with nearly 1,000 km more under construction. This page is the complete, continuously updated index of every metro, RRTS (Namo Bharat), and high-speed rail project in India, organised by status, with network data, implementing agencies, and links to each project’s dedicated information page for route maps, tenders, contracts, and the latest news...중략... 인도는 세계에서 세 번째로 큰 규모의 지하철 네트워크를 운영하고 있습니다. 주택도시부(MoHUA)가 의회에 제출한 자료에 따르면, 2026년 7월 기준 26개 도시에서 1,076,585km의 지하철 노선이 운행 중이며, 약 1,000km가 추가로 건설 중입니다. 이 페이지는 인도의 모든 지하철, 고속철도(RRTS, Namo Bharat), 고속철도 프로젝트에 대한 완벽하고 지속적으로 업데이트되는 정보를 제공합니다. 각 프로젝트의 현황, 네트워크 데이터, 시행 기관, 그리고 노선도, 입찰, 계약, 최신 뉴스 등을 확인할 수 있는 전",
@@ -1157,6 +1235,36 @@
   "body": "Uber Technologies and Wayve have announced the official launch of supervised autonomous rides in London, marking the first time autonomous trips have been made available in the United Kingdom...중략...\\ 우버 테크놀로지스와 웨이브는 런던에서 감독 하에 진행되는 자율주행 운행 서비스를 공식 출시한다고 발표했습니다. 이는 영국에서 자율주행 차량 서비스가 처음으로 제공되는 사례입니다. Uber Technologies and Wayve have announced the official launch of supervised autonomous rides in London, marking the first time autonomous trips have been made available in the United Kingdom...중략...\\ 우버 테크놀로지스와 웨이브는 런던에서 감독 하에 진행되는 자율주행 운행 서비스를 공식 출시한다고 발표했습니다. 이는 영국에서 자율주행 차량 서비스가 처음으로 제공되는 사례입니다. Copyright © 2018 ITS Korea. All rights reserved.",
   "date": "2026-09-04",
   "link": "https://futuretransport-news.com/uber-wayve-launch-autonomous-rides-in-london-in-uk-first/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23335": {
+  "body": "SenSen Networks is to deliver cameras which will pick up excessively noisy vehicles for a two-year pilot in the Australian state of Victoria. The acoustic cameras are triggered by loud vehicle noise, and will capture images and registration details so that ‘hoons’ who tear up the streets can be identified...중략... 센센 네트웍스는 호주 빅토리아 주에서 2년간 진행되는 시범 사업에 과도하게 소음이 심한 차량을 감지하는 카메라를 공급할 예정이다. 음향 카메라는 큰 차량 소음에 반응하여 작동하며, 차량 이미지와 차량 등록 정보를 캡처하여 거리를 난폭하게 질주하는 운전자들을 식별할 수 있도록 합니다. SenSen Networks is to deliver cameras which will pick up excessively noisy vehicles for a two-year pilot in the Australian state of Victoria. The acoustic cameras are triggered by loud vehicle noise, and will capture images and registration details so that ‘hoons’ who tear up the streets can be identified...중략... 센센 네트웍스는 호주 빅토리아 주에서 2년간 진행되는 시범 사업에 과도하게 소음이 심한 차량을 감지하는 카메라를 공급할 예정이다. 음향 카메라는 큰 차량 소음에 반응하여 작동하며, 차량 이미지와 차량",
+  "date": "2026-09-07",
+  "link": "https://www.itsinternational.com/71386-2/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23336": {
+  "body": "DAF Trucks, a leading truck manufacturer based in the Netherlands, and Einride, a technology company at the forefront of autonomous and electric freight mobility, are working together to integrate automated driving capabilities into a commercial truck platform. TNO contributes its expertise in system integration, safety engineering, verification and validation...중략... [TNO는 DAF 및 Einride와 협력하여 레벨 4 자율주행 운송 수단의 도입을 지원합니다.] 네덜란드에 본사를 둔 선도적인 트럭 제조업체인 DAF 트럭과 자율 및 전기 화물 운송 분야를 선도하는 기술 기업인 아인라이드(Einride)는 상용 트럭 플랫폼에 자율 주행 기능을 통합하기 위해 협력하고 있습니다. TNO는 시스템 통합, 안전 엔지니어링, 검증 및 확인 분야의 전문성을 제공합니다. DAF Trucks, a leading truck manufacturer based in the Netherlands, and Einride, a technology company at the forefront of autonomous and electric freight mobility, are working together to integrate automated driving capabilities into a commercial truck platform. TNO contributes its expertise in system integ",
+  "date": "2026-09-07",
+  "link": "https://ertico.com/tno-collaborates-with-daf-and-einride-to-support-deployment-of-level-4-autonomous-transport",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23344": {
+  "body": "...중략...The vehicle is equipped with 37 sensors, including a 896-channel dual-optical-path main LiDAR and 3 solid-state LiDARs, covering urban, highway and parking scenarios...중략... [Voyah Dream 9 MPV가 중국에서 사전 판매를 시작했으며, 가격은 약 63,420달러부터 시작합니다.] 이 차량에는 896채널 듀얼 광 경로 메인 LiDAR와 3개의 솔리드 스테이트 LiDAR를 포함한 총 37개의 센서가 장착되어 있어 도심, 고속도로 및 주차 환경을 커버합니다. ...중략...The vehicle is equipped with 37 sensors, including a 896-channel dual-optical-path main LiDAR and 3 solid-state LiDARs, covering urban, highway and parking scenarios...중략... [Voyah Dream 9 MPV가 중국에서 사전 판매를 시작했으며, 가격은 약 63,420달러부터 시작합니다.] 이 차량에는 896채널 듀얼 광 경로 메인 LiDAR와 3개의 솔리드 스테이트 LiDAR를 포함한 총 37개의 센서가 장착되어 있어 도심, 고속도로 및 주차 환경을 커버합니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-05",
+  "link": "https://cnevpost.com/2026/09/05/voyah-dream-9-begins-pre-sales/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23345": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-08",
+  "link": "https://www.2news.co.kr/news/articleView.html?idxno=24395",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23346": {
+  "body": "NTT Mobility and MS&AD Insurance Group unit Aioi Nissay Dowa Insurance said on Sept. 4 they will begin a joint demonstration project in Musashino, Tokyo, from September 2026 to improve safety assessment for autonomous driving services...중략... [NTT 모빌리티와 아이오이 닛세이가 도쿄 e-팔레트 안전성 시험을 시작합니다.] NTT 모빌리티와 MS&AD 보험그룹 계열사인 아이오이 닛세이 도와 보험은 9월 4일, 자율주행 서비스의 안전성 평가를 개선하기 위한 공동 시범 사업을 2026년 9월부터 도쿄 무사시노에서 시작한다고 밝혔다. NTT Mobility and MS&AD Insurance Group unit Aioi Nissay Dowa Insurance said on Sept. 4 they will begin a joint demonstration project in Musashino, Tokyo, from September 2026 to improve safety assessment for autonomous driving services...중략... [NTT 모빌리티와 아이오이 닛세이가 도쿄 e-팔레트 안전성 시험을 시작합니다.] NTT 모빌리티와 MS&AD 보험그룹 계열사인 아이오이 닛세이 도와 보험은 9월 4일, 자율주행 서비스의 안전성 평가를 개선하기 위한 공동 시범 사업을 2026년 9월부터 도쿄 무사시노에서 시작한다고 밝혔다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-06",
+  "link": "https://jp.ibtimes.com/ntt-mobility-aioi-nissay-start-tokyo-e-palette-safety-trial-104177",
   "tries": 1
  }
 }
