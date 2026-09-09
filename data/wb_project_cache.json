@@ -447,6 +447,13 @@
   "impagency": "Ministry of Infrastructure and Connectivity",
   "total": 200000000.0
  },
+ "P178035": {
+  "borrower": "Republic of Angola",
+  "closing": "2029-12-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Ministry of Planning",
+  "total": 300000000.0
+ },
  "P178072": {
   "borrower": "Porto Alegre Municipality",
   "closing": "2028-12-29",
@@ -733,6 +740,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Ministry of Transport and Infrastructure",
   "total": 8272440300.0
+ },
+ "P510427": {
+  "borrower": "Republic of Mozambique",
+  "closing": "2030-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Transport and Logistics",
+  "total": 123300000.0
  },
  "P510547": {
   "borrower": "Kingdom of Cambodia",
