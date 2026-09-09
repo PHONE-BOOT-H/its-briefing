@@ -713,19 +713,19 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.news1.kr/industry/sb-founded/6281329",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23333": {
   "body": "- 베트남 씨큐텍 박람회 내 ‘재난안전기업 통합한국관’ 운영(9.9.~12.) - 재난안전기업 35개사 참여, 제품‧기술 전시, 수출상담, 투자 설명회 등 맞춤지원 행정안전부(장관 윤호중)는 국내 재난안전기업의 해외 진출을 지원하기 위해 9월 9일부터 12일까지 베트남 하노이 우정문화궁전에서 열리는 ‘2026 베트남 씨큐텍 박람회(Secutech Vietnam 2026)’에 통합한국관을 운영한다. 이번 박람회는 소방, 재난안전, 보안, 산업안전 분야를 아우르는 베트남 최대 규모의 B2B(기업 간 거래 중심) 전시회로, 약 480개 기업이 참가하고 1만 6천여 명의 구매자(바이어)·관람객이 방문할 것으로 예상된다. 특히 올해는 개최지가 호찌민에서 하노이로 변경되면서 베트남 중앙정부 및 공공기관과의 접점이 확대되어 국내 기업의 공공조달시장 진입 기회가 더욱 커질 것으로 기대된다. 행정안전부는 2025년 처음으로 베트남 씨큐텍 통합한국관을 운영하여 국내 재난안전기업 25개사의 해외시장 진출을 지원했으며, 약 85억 원 규모의 무인 파괴 화재진압 방수차 구매계약을 체결하는 등 우수한 성과를 거두었다. 이러한 성과를 바탕으로 올해는 지방정부(경기‧충남), 한국소방산업기술원과 협업하여 참여기업을 35개사로 확대한다. 참여기업들은 AI 기반 재난 예·경보 시스템, 특수 소방차 등 우수한 제품과 기술을 선보이며 베트남 시장 진출 발판을 마련할 예정이다. 행정안전부는 행사 기간 동안 현지 바이어와 투자자를 초청해 국내 기업과 1대1 비즈니스 상담을 진행하고, 기업별 수요에 맞춘 업무협약(MOU) 체결 및 실제 계약 성사까지 이어지도록 지원한다. 아울러 참여기업을 대상으로 ‘베트남 시장 진출 전략 설명회’를 개최하여 현지 진출 선도기업 강연 등 시장 특성과 진출 노하우 등을 공유한다. 또한 올해 신설된",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129306",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23334": {
   "body": "- ‘모두의 AI 공장장’과 ‘스마트제조혁신’ 결합으로 중소 제조 피지컬 AI 도입·확산 - 기술개발·실증·사업화로 신성장분야 대상 피지컬AI 활용까지 공동 지원 - 피지컬 AI 얼라이언스 중심으로 기술 공급기업과 제조 수요기업 연결 중소벤처기업부(장관 직무대행 제1차관 노용석, 이하 ‘중기부’)와 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)는 9월7일(월) 한국과학기술원(KAIST) 피지컬 AI 실증랩을 방문하고, 피지컬 AI 기술 공급기업과 제조 현장 수요기업이 참여하는 기업 간담회를 개최하여 중소 제조 현장의 피지컬 AI 전환과 확산을 위한 부처 간 협력 방안을 논의했다고 밝혔다. 이번 방문은 중기부의 스마트제조혁신 지원정책과 과기정통부의 피지컬 AI 기술개발·실증 역량을 연계하여, 기술개발에서 현장 적용, 확산까지 이어지는 협력체계를 구축하기 위해 마련됐다. 양 부처는 현장 수요를 반영한 피지컬 AI 기술개발과 실증을 지원하고, 피지컬 AI 얼라이언스 등 민관협력체계를 통해 기술 공급기업과 수요기업을 연결하여, 중소 제조기업의 피지컬 AI 도입을 지원해 나가기로 했다. 현장방문에는 중기부 제1차관과 과기정통부 제2차관, 피지컬 AI 얼라이언스 민간의장·분과위원장, 피지컬 AI 기술 공급기업·수요기업 등이 참석했으며, ▲피지컬 AI 실증랩 시연, ▲양 부처 협업 방안 소개, ▲공급·수요기업 간담회 순으로 진행되었다. * 레인보우로보틱스, 페르소나AI, 페블러스, 임픽스, 백제식품, 뉴하이텍 최근 제조 현장은 인공지능이 주변 환경을 인식하고 스스로 판단해 작업을 수행하는 피지컬 AI 시대로 빠르게 전환되고 있다. 그러나 중소 제조기업은 전문인력과 기술 도입 경험, 데이터 및 실증 기회 부족 등으로 새로운 기술을 현장에 적용하는 데 어려움을 겪고 있다.",
   "date": null,
   "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1071025&parentSeq=1071025",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23337": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -785,6 +785,102 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-09-08",
   "link": "https://www.kado.net/news/articleView.html?idxno=2071123",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23351": {
+  "body": "- 스마트시티 및 AI 시티 전시, 기업 비즈니스 지원과 글로벌 네트워크 구축까지 □ 국토교통부(장관 김윤덕)와 과학기술정보통신부(장관 배경훈) 및 부산광역시(시장 전재수)는 9월 9일(수)부터 9월 11일(금)까지 부산광역시 벡스코 제1전시장에서 「2026 월드 스마트시티 엑스포」를 개최한다. ㅇ 월드 스마트시티 엑스포는 아시아 태평양 지역 최대 규모의 스마트시티 행사로, 2017년 시작해 올해로 10주년을 맞는다. ㅇ 이번 행사는 ‘Beyond Smart City, Into AI City(스마트시티를 넘어, AI 도시로)’라는 슬로건에 따라, 지금까지의 스마트시티 성과와 새롭게 선보이는 K-AI 시티까지 만나볼 수 있도록 구성된다. □ (개막식) 행사 첫날인 9월 9일 개최되는 개막식은 월드 스마트시티 엑스포의 10년을 기념하기 위해 더욱 풍부한 기조연설과 10주년 기념 세리머니가 준비되어 있다. ㅇ 국토교통부 개회사와 함께 알리셰르 압디카디로프(Alisher Abdykadyrov) 카자흐스탄 알라타우 개발청장의 축사로 시작하여, ㅇ 스마트도시의 대표 파트너이자 이번 행사의 주최기관으로 참여한 전재수 부산광역시장이 ➊환영사와 함께 AI 시티, 지방정부의 역할과 비전을 주제로 첫 번째 기조연설을 한다. ㅇ 이어서 ➋AI·사람·도시의 공생을 주제로 한 위베르 베로슈(Hubert Beroche) Urban AI 대표의 두 번째 기조연설과 ➌김성훈 업스테이지 대표의 도시를 지능적으로 움직이게 하는 AI를 주제로 마지막 기조연설이 진행될 예정이다. □ (공식 행사) 주요 공식 행사로는 AI 특화 시범도시 출범식과 WSCE 리더스 포럼이 진행될 예정이다. ㅇ AI 특화 시범도시 출범식은 지난 6월 공모를 통해 선정된 원주, 천안·아산(공동)과 현대차그룹의 투자를 통해 조성되는 새만금 AI 수",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092393",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23352": {
+  "body": "- WSCE 계기로 8일 폴란드 기금지역정책부 차관 면담… MOU 기반 실질협력 논의 □ 김이탁 국토교통부 제1차관은 9월 8일 오후 서울 국토발전전시관에서 야첵 카르노브스키(Jacek Karnowski) 폴란드 기금지역정책부 차관을 만나 스마트시티와 민관협력사업(PPP)* 분야 협력 강화 방안을 논의하였다. * (Public-Private Partnership) 공공-민간 간 계약을 통해 공동수행하는 공공인프라 사업 ㅇ 이번 면담은 카르노브스키 차관의 「2026 월드 스마트시티 엑스포(WSCE 2026)*」 참석을 계기로 마련되었으며, 양측은 지난해 5월에 체결한 ‘한-폴란드 스마트시티 개발 협력 업무협약(MOU)’ 이후의 협력 성과를 공유하고 향후 협력 방향에 대해 의견을 나눴다. * (9.9~11, 부산) 올해 10주년을 맞는 국토부 주최 아태지역 최대 규모 스마트시티 행사 □ 양국은 MOU를 기반으로 K-City 네트워크 글로벌 협력 프로그램* 등을 통해 스마트시티 정책·기술 교류와 협력사업 발굴을 이어오고 있으며, 올해는 폴란드 루블린 시(市)와 스마트시티 마스터플랜을 함께 수립 중이다. * 정부 간 협력을 기반으로 해외도시에 한국형 스마트시티 모델을 적용할 수 있도록 계획수립 지원 ㅇ 카르노브스키 차관은 “스마트시티와 인프라 개발에 민간의 자본과 전문성을 활용하는 PPP 사업에 높은 관심을 가지고 있다”며, 양국 간 해당 분야 협력 확대에 대한 의지를 표명했다. □ 김 차관은 “올해 루블린 K-City 네트워크 협력사업과 WSCE를 통한 정책 교류 등으로 양국의 스마트시티 협력이 구체화되고 있다”면서, ㅇ “K-City 네트워크 협력사업을 바탕으로 구체적인 협력 모델을 발굴하고, PPP 분야에서도 양국 간 정책과 경험을 공유하고 공동사업을 함께 발굴하는 등 실질적인 협력을 ",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092398",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23353": {
+  "body": "- AI 서비스·인프라부터 국내외 확산과 법·제도까지 5대 핵심과제 제시 - ‘27년까지 기반 마련, ’30년 전·후 시범도시 성과 창출·본격 확산 □ 국토교통부(장관 김윤덕)는 9월 9일(수) 부산 벡스코에서 개최되는 2026 월드 스마트시티 엑스포에서 ｢K-AI 시티 실행전략｣을 발표했다. ㅇ 이번 실행전략은 국정과제로 추진 중인 K-AI 시티 실현을 위해 마련한 것으로, AI 3대 강국을 선도하는 국가대표 K-AI 시티 조성을 목표로 한다. □ 이를 위해, ▲사람 중심의 따뜻한 미래도시 조성 ▲모두가 AI·로봇 기술을 자유롭게 실험하고 즐기는 도시 ▲국내 AI 기술력과 산업이 집약된 수출형 도시를 기본방향으로 설정하였으며, 5대 핵심과제로 ①AI 혁신서비스 발굴, ②AI 시티 인프라 구축, ③AI 특화 시범도시 조성·운영, ④K-AI 시티 선도모델 확산 그리고 ⑤법·제도 기반 마련을 제시했다. ① (AI 혁신서비스 발굴) 도시 분야에 AI를 접목하는 ‘AI시티+X 서비스’를 개발한다. 기업 공모를 통해 민간주도 국토교통 AI 서비스 개발을 지원하고, 우수 서비스를 선정해 K-AI시티 대표 서비스로 확산해나간다. 또, 공공부문에서도 건축행정 AI, 도시계획 AI 등 체감도 높은 서비스 개발·보급을 우선 추진한다. - 아울러, AI시티 발전 단계에 따라 필요한 인프라·서비스 등을 5단계로 제시하는 기술로드맵*을 수립해 K-AI시티 실현 수준을 체계적으로 관리한다. 또, 데이터 표준화 및 정제·가공 기술, 도시 에이전트 플랫폼 등 다양한 도시 운영기술 개발(R&D)을 통해 국가표준 기술도 확보해나간다. * (Lv.1) 기반조성 → (Lv.2) 공간인지 → (Lv.3) 지능협업 → (Lv.4) 로봇관제 → (Lv.5) 자율도시 ② (AI시티 인프라 구축) 데이터 수집·분석에서 현장 서비",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092396",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23357": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-08",
+  "link": "https://www.newspim.com/news/view/20260908001044",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23358": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20260908000264",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23359": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.news1.kr/amp/industry/sb-founded/6284036",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23360": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://plus.hankyung.com/apps/newsinside.view?aid=2026090793411&category=NEWSPAPER&face=A013&gnb=no&appinfo=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23361": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.metroseoul.co.kr/article/20260908500165",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23362": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-09",
+  "link": "https://www.surprisenews.kr/news/articleView.html?idxno=694025",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23363": {
+  "body": "에스트래픽은 오는 9일부터 11일까지 부산 벡스코에서 열리는 2026 월드 스마트시티 엑스포(WSCE 2026)에 강원권 대표사로 참가한다고 9일 밝혔다. 에스트래픽은 이번 행사에서 AI 기반 도시운영 컨트롤타워 모델을 공개한다. 이는 국토교통부가 추진하는 총사업비 1981억원 규모의 AI 특화 시범도시(K-AI CITY) 프로젝트를 이끌며, 기존 교통 SI(시스템 통합) 기업에서 글로벌 AI 통합 플랫폼 기업으로 도약하기 위한 행보다. 에스트래픽은 오는 9일부터 11일까지 부산 벡스코에서 열리는 2026 월드 스마트시티 엑스포(WSCE 2026)에 강원권 대표사로 참가한다고 9일 밝혔다. 에스트래픽은 이번 행사에서 AI 기반 도시운영 컨트롤타워 모델을 공개한다. 이는 국토교통부가 추진하는 총사업비 1981억원 규모의 AI 특화 시범도시(K-AI CITY) 프로젝트를 이끌며, 기존 교통 SI(시스템 통합) 기업에서 글로벌 AI 통합 플랫폼 기업으로 도약하기 위한 행보다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.finance-scope.com/article/view/scp202609090006",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23364": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-08",
+  "link": "https://www.surprisenews.kr/news/articleView.html?idxno=693936",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23365": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20260908000073",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23368": {
+  "body": "- 9일 철도국장 주재로 무선제어 차량정리 시스템 도입·안전관리 강화방안 논의 □ 국토교통부(장관 김윤덕)는 반복되는 차량정리 작업 사고의 재발을 막기 위해 무선제어 차량정리*(입환) 시스템 확대와 작업절차 개선, 현장 안전관리 강화를 본격 추진한다. * 열차를 편성하기 위해서 차량을 연결, 분리, 교환, 또는 이동하는 작업 ㅇ 이를 위해 9월 9일 철도국장은 한국철도공사와 회의를 열어 무선제어 차량정리 시스템의 도입·운영 현황과 차량정리 작업 안전관리 실태를 점검하고, 향후 도입 확대 및 안전관리 강화방안을 논의할 예정이다. □ 무선제어 차량정리 시스템은 차량정리 과정에서 기관사 없이 작업자가 무선 장치로 차량을 원격으로 제어하는 방식으로, 기관사와 작업자 간 의사소통 오류에 따른 사고를 원천적으로 차단하여 보다 안전한 작업환경을 조성하기 위한 제도이다. ㅇ 국토교통부와 한국철도공사는 2021년 대전조차장역 시범운영을 시작으로 제도개선과 장비도입을 추진해 왔으며, 현재는 역별 여건에 맞춰 단계적으로 도입 확대*를 추진하고 있다. * ’26.10월까지 영주, 괴동, 제천조차장(2개소), 수색, 도담, 대전조차장, 동해, 오봉역(2개소) 등 8개역(10개소)에 무선제어 차량 11편성을 도입하여 작업자 교육 및 시범 운영 등을 거쳐 순차 운영 ㅇ 현재 영주, 괴동, 제천조차장역 등 3개 역은 시범운영을 거쳐 본격 운영 중으로, 이번 점검에서는 시스템 운영 현황, 작업관리 실태 등을 중점적으로 확인한다. □ 이번 점검에서는 차량정리 작업 중 사고를 예방하기 위한 안전강화 방안도 집중적으로 논의했다. 의왕역* 등 주요 작업장에 무선제어 차량정리 시스템 도입을 추가 확대하고, AI 영상분석 등 첨단기술을 활용해 작업자의 위험 노출을 최소화하는 한편, 작업자가 원칙적으로 기관차 외부에서 안전하게",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092397",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23369": {
+  "body": "- 행안부, 43개 ‘국토외곽 먼섬’ 2026년부터 2030년까지 5년간 정주여건 개선 - 2026년부터 2030년까지 138개 사업, 1조 942억 원 투자 예정 행정안전부(장관 윤호중)는 우리나라 해양 등 국토의 지배권을 강화하기 위해 국경에 위치한 국토외곽 먼섬(43개) 주민의 정주 여건을 개선하는 ‘국토외곽 먼섬 종합발전계획(’26~’30)’을 수립·확정했다고 밝혔다. 이번 계획은 국토외곽 먼섬을 대상으로 하는 첫 번째 국가계획으로, 2026년부터 2030년까지 5년간 138개 사업에 1조 942억 원*이 투입되며 향후 5년마다 새로운 계획이 수립될 예정이다. 제1차 계획은 관계부처 협의를 거쳐 ‘섬발전심의위원회**’의 최종 심의․의결을 통해 확정되었다. * 총 1조 942억 원 : 국비 8,486억 원, 지방비 1,414억 원, 민간 등 1,042억 원 ** ‘섬발전심의위원회’는 행정안전부 장관이 위원장이며, 국토부 등 11개 부처의 차관이 위원 ‘국토외곽 먼섬’은 사람이 거주하는 최외곽 섬 43곳을 의미한다. 먼섬에 주민이 지속적으로 거주하는 것은 국토 지배권을 강화하여 군사적·경제적으로 매우 중요하다. 유엔해양법협약 121조에 따라, 주민이 거주해야 배타적 경제수역(200해리)과 대륙붕 권리를 확보할 수 있기 때문이다. 정부는 이런 중요성을 고려하여 2025년 1월「울릉도·흑산도 등 국토외곽 먼섬 지원 특별법」을 제정했으며, 이번 종합발전계획은 그 후속 조치로 추진되었다. 이번 계획은 안전한 정주 환경 조성 및 생활 기반 시설 확충에 초점을 맞추었다. 우선 주민 안전과 관련하여 안보적 충돌 및 자연재해 발생 시 신속하게 대피할 수 있도록 방파제 보강, 재해위험지구 정비 사업을 추진한다. 또한 LPG 배관망 구축, 상․하수 처리시설, 식수원 개발을 비롯해 공공하수처리시설 확",
+  "date": null,
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129348",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23371": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.korea.kr/video/index.html?newsId=148971519",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23372": {
+  "body": "불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의결 - 법체계의 정합성 제고를 위한 국토교통부 소관 25개 대통령령 일부개정안 국무회의 의결 법제처(처장 조원철)는 국가 법체계의 정합성을 제고하기 위한 국토교통부 소관 25개 법령의 일부개정안이 9월 8일(화) 국무회의에서 의결되었다고 밝혔다. 법제처는 올해 법체계에 어긋나는 불합리한 행정법령을 발굴하고 정비하기 위해 역대 정부 최초로 3,500여 개의 행정법령을 전수조사하고 있다. 현재까지 3,300여 개의 법령을 검토했고, 전수조사가 가장 먼저 마무리된 국토교통부 소관 법령부터 본격적인 정비에 착수했다. 정비사항 중 과징금 독촉 절차, 인용조문 정비 등의 공통적인 사항은 법제처가 관련 법령(대통령령 25건, 부령 21건)을 통합하여 처리하는 방식으로 일괄정비를 추진했다. 이번 개정안에는 상위법률에 어긋나는 과징금 독촉·징수 규정을 상위법률의 내용에 부합하도록 정비하고, 상위법령과 다른 법령의 개정사항을 미처 반영하지 않은 경우를 바로잡는 내용 등이 담겼다. 이를 통해 국가 법령 체계의 전반적인 품질이 향상될 것으로 기대된다. 한편, 법제처는 올해 안에 3,500여 개 행정법령 전수조사를 완료하고, 국토교통부에 이어 전수조사가 완료된 산업통상부·공정거래위원회 등의 소관 법령 일괄정비도 연내에 순차적으로 추진할 계획이라고 밝혔다. 조원철 법제처장은 \"이번 행정법령 전수조사와 일제정비는 국가 법령 체계를 대대적으로 정비하여 법령이 본래의 기능을 온전히 발휘할 수 있도록 하는 작업\"이라면서, \"이렇게 정비된 법령을 토대로 국민 생활과 기업 활동이 원활하게 이루어질 수 있도록 법령 품질의 유지·관리에 계속 힘쓰겠다\"라고 말했다. 불합리한 행정법령 전수조사 첫 성과, 국토교통부 소관 법령 일괄정비안 국무회의 의",
+  "date": null,
+  "link": "https://www.moleg.go.kr/board.es?mid=a10501000000&bid=0048&act=view&list_no=156753&tag=&pageCntBySelf=10&nPage=1&keyField=&keyWord=&cg_code=",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -1265,6 +1361,36 @@
   "body": "NTT Mobility and MS&AD Insurance Group unit Aioi Nissay Dowa Insurance said on Sept. 4 they will begin a joint demonstration project in Musashino, Tokyo, from September 2026 to improve safety assessment for autonomous driving services...중략... [NTT 모빌리티와 아이오이 닛세이가 도쿄 e-팔레트 안전성 시험을 시작합니다.] NTT 모빌리티와 MS&AD 보험그룹 계열사인 아이오이 닛세이 도와 보험은 9월 4일, 자율주행 서비스의 안전성 평가를 개선하기 위한 공동 시범 사업을 2026년 9월부터 도쿄 무사시노에서 시작한다고 밝혔다. NTT Mobility and MS&AD Insurance Group unit Aioi Nissay Dowa Insurance said on Sept. 4 they will begin a joint demonstration project in Musashino, Tokyo, from September 2026 to improve safety assessment for autonomous driving services...중략... [NTT 모빌리티와 아이오이 닛세이가 도쿄 e-팔레트 안전성 시험을 시작합니다.] NTT 모빌리티와 MS&AD 보험그룹 계열사인 아이오이 닛세이 도와 보험은 9월 4일, 자율주행 서비스의 안전성 평가를 개선하기 위한 공동 시범 사업을 2026년 9월부터 도쿄 무사시노에서 시작한다고 밝혔다. Copyright © 2018 ITS Korea. All rights reserved.",
   "date": "2026-09-06",
   "link": "https://jp.ibtimes.com/ntt-mobility-aioi-nissay-start-tokyo-e-palette-safety-trial-104177",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23354": {
+  "body": "U.S. Transportation Secretary Sean P. Duffy today warned Ford Motor Company against its embrace of Chinese technology and manufacturing due to national security concerns. In a letter to Ford CEO Jim Farley, Secretary Duffy advocates for skilled American workers who suffer as Ford continues to manufacture vehicles with Chinese companies abroad instead of building in America...중략... [트럼프 행정부의 교통부 장관 션 P. 더피는 포드 자동차에 중국과의 관계를 끊고 미국 내 제조를 우선시할 것을 촉구했습니다.] 미국 교통부 장관은 오늘 포드 자동차가 국가 안보 문제를 이유로 중국 기술과 제조 방식을 고수하는 것에 대해 경고했습니다. 더피 장관은 짐 팔리 포드 CEO에게 보낸 서한에서, 포드가 미국 내 생산 대신 해외 중국 업체에 차량 생산을 위탁함으로써 피해를 보는 숙련된 미국 노동자들을 옹호했습니다. U.S. Transportation Secretary Sean P. Duffy today warned Ford Motor Company against its embrace of Chinese technology and manufacturing due to national security concerns. In a letter to Ford CEO Jim Farley, Secretary Duffy advocates for skilled American workers who suffer as Fo",
+  "date": null,
+  "link": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-urges-ford-cut-ties-china-and-prioritize",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23355": {
+  "body": "Inceptio Technology’s autonomous driving systems have logged more than 621 million miles (1 billion kilometers) of commercial mileage, a total the company says covers roughly 97% of China’s highway network. The Shanghai-based developer of truck autonomy announced the 1-billion-kilometer milestone this week alongside a technology framework it calls Freight Physical AI, which it describes as a system built around the operating conditions of commercial trucking rather than passenger vehicles. Inceptio also says it holds more than 90% of China’s autonomous trucking market...중략... 인셉티오 테크놀로지의 자율주행 시스템이 6억 2,100만 마일(10억 킬로미터) 이상의 상용 주행 거리를 기록했으며, 이는 중국 고속도로망의 약 97%에 해당한다고 회사 측은 밝혔습니다. 상하이에 본사를 둔 트럭 자율주행 개발업체인 인셉티오는 이번 주 10억 킬로미터 주행 기록 달성 과 함께 '화물 물리적 AI(Freight Physical AI)'라는 기술 프레임워크를 발표했습니다. Inceptio Technology’s autonomous driving systems have logged more than 621 million miles (1 billion ",
+  "date": null,
+  "link": "https://selfdrivenews.com/inceptio-1-billion-km-autonomous-trucking/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23356": {
+  "body": "Euro NCAP has published safety ratings for four new cars assessed under its 2026 testing protocols, with the AION UT, GEELY E2 and Leapmotor B05 each receiving five stars. In addition, the CUPRA Raval achieved four stars with its standard equipment and five stars when fitted with an optional Safety Pack...중략... [유로 NCAP, 2026년 강화된 안전 기준에 따라 신차 테스트 실시] 유로 NCAP은 2026년 테스트 프로토콜에 따라 평가한 4대의 신차에 대한 안전 등급을 발표했으며, AION UT, GEELY E2 및 Leapmotor B05는 모두 별 5개를 받았습니다. 또한, 쿠프라 라발은 기본 사양으로 별 4개를 획득했으며, 선택 사양인 안전 패키지를 장착했을 때는 별 5개를 획득했습니다. Euro NCAP has published safety ratings for four new cars assessed under its 2026 testing protocols, with the AION UT, GEELY E2 and Leapmotor B05 each receiving five stars. In addition, the CUPRA Raval achieved four stars with its standard equipment and five stars when fitted with an optional Safety Pack...중략... [유로 NCAP, 2026년 강화된 안전 기준에 따라 신차 테스트 실시] 유로 NCAP은 2026년",
+  "date": "2026-09-08",
+  "link": "https://futuretransport-news.com/euro-ncap-tests-new-cars-under-tougher-2026-safety-protocols/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23366": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-07",
+  "link": "https://latamobility.com/en/latam-mobility-net-zero-mexico-2026-the-space-where-alliances-for-sustainable-mobility-will-be-defined-for-the-coming-years/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23367": {
+  "body": "What is the Australian Government doing? The Australian Government has an ambitious climate change agenda, committing to reduce national emissions by 43% on 2005 levels by 2030, 62–70% on 2005 levels by 2035 and net zero by 2050. This is in line with the global goal to keep warming to well below 2°C and efforts to keep it to 1.5°C. The Net Zero Plan sets out and extends Australia's action on climate change. The Plan helps ensure Australia maximises the benefits of the global transition to net zero and provides long-term policy certainty to drive investment in low emissions and renewable technologies. To support the Plan, the government has developed 6 sector plans covering: electricity and energy; industry; resources; the built environment; agriculture and land; and transport and infrastructure. 호주 정부는 무엇을 하고 있나요? 호주 정부는 2030년까지 2005년 수준의 43%, 2035년까지 2005년 수준의 62~70%, 2050년까지 순 제로(net z",
+  "date": null,
+  "link": "https://www.infrastructure.gov.au/infrastructure-transport-vehicles/towards-net-zero-transport-and-infrastructure",
   "tries": 1
  }
 }
