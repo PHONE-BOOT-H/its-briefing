@@ -1,4 +1,14 @@
 {
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=0A0C0F288C27B32316DE4B3D0E8C2614871B6B8A9330EC3900EDCC81525648D9": {
+  "budget": {
+   "amount": 15000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Asian Development Bank Regional",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=190FCEFA1CECA1C016F68348BBD39026548CFE810B5D5E24C4B1A93E21BDFAF8": {
   "budget": {
    "amount": 1475000.0,
@@ -18,6 +28,16 @@
   "org": "Avtoyulinvest Uzbekistan",
   "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
   "source_scope": "International"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=2B13809D6762951DA73D6012729C1A5C46BEE214E653F39CAF575926FB6A22A7": {
+  "budget": {
+   "amount": 33500.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Asian Development Bank Regional",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National"
  },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=2C1FE006695293A28694805691C79B9CBC370D4DFCB5A802DD1F565C859E9596": {
   "budget": {
@@ -48,6 +68,16 @@
   "org": "Azerbaijan Railways Closed Joint Stock Company Azerbaijan",
   "selection_method": "Quality and Cost-Based Selection (QCBS)",
   "source_scope": "International"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=42377C3B61D505C7903B5702E830A238A73AC1F74BCBB0E60FD2FB0D0B2868D8": {
+  "budget": {
+   "amount": 100000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Ministry of Commerce and Industry India",
+  "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
+  "source_scope": "National"
  },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=49F4FC61A5EF7C519321B4F6940FEAFFF4144C5051A44AC97EEB0230C8836D94": {
   "budget": {
@@ -128,5 +158,15 @@
   "org": "Ministry of Territorial Administration and Infrastructure Armenia",
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=E1B545EE89B0137BD0E27EEF09ED85001C13B52A79CE57C21BFB7219054A2B12": {
+  "budget": {
+   "amount": 200000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Asian Development Bank Regional",
+  "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
+  "source_scope": "International"
  }
 }
