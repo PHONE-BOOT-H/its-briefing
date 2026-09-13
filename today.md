@@ -85,7 +85,7 @@
    - 원문: https://ertico.com/tno-collaborates-with-daf-and-einride-to-support-deployment-of-level-4-autonomous-transport
 
 18. Brighton Council Approves Fiber Upgrade for Grand River Traffic Signal Interconnection
-   - 분야: 신호·관제 / 게재일: 2026-09-09 / 매체: whmi.com
+   - 분야: 신호·관제 / 게재일: 2026-09-09 / 매체: WHMI
    - 원문: https://news.google.com/rss/articles/CBMivAFBVV95cUxPTThDMDVwVk1DUTROam1zNFRoRjJSNnNiVG41MGtySkVNWU5ieWJXcFNtTHZnXzYyWDJrNjRIS3FlWHNVODZTcW8wUmNUNDd5M1dxTFFwOFZxUlhWODlDamg5UmkzWGhjWWtTcFpETzh6eUU1TGZVbTEtb0ExU196SDlaQ2RLSzRVUk4zWU84ZjBRM0d0a1BlcEhhRWV1Z0N5ZkFCZkY0LW9CVEdKWTVWalZ0c01XcDBfZFZ2cw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 19. Every improved public road to get electronic tolling system – Agbodza
@@ -142,45 +142,45 @@
    - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: ITS Korea
    - 원문: https://www.theguru.co.kr/news/article.html?no=106893
 
-11. '화물운송'도 운전자 없이...자율주행차 시대, 기대와 과제는?
+11. [국토부/보도자료] 2026년도_민자고속도로_운영평가_결과
+   - 분야: 기타 / 게재일: 2026-09-11 / 매체: ITS Korea
+   - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092409
+
+12. '화물운송'도 운전자 없이...자율주행차 시대, 기대와 과제는?
    - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: 헤드라인제주
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTXg3dmF3V0tMZVBNRElBX1k2aVJLUDlMblhtWVRlbHFOS28xRk9Pc0dVYlhUVklqaVdtUTdxXzJhWVkyeGtvRi1BVW93SEVaREoyZ01veTNTTVVnRzEzRVNySWZmYUJjOTBmWUgxRDZsSGc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 하노이시는 호아락에서 자율주행 교통 시스템을 시험 운영하고 있습니다.
+13. 하노이시는 호아락에서 자율주행 교통 시스템을 시험 운영하고 있습니다.
    - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: Vietnam.vn
    - 원문: https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmZFcnZ1dTlCZFI5VElwcUpwRGIxSWZBeEI4TWtFZFJlQkRYN2E5WlJWRWxqdjB6WnYwWWNFS09DSTJFdXBfTzVUSmdGZFdzM2tmMGNVOV9SVnNNTHQ1b2pzRnc0ejh1UlZwR0t5YUJTSlV3TXMzRUFYSi1yMjZLQ3hqakM2cUF6MzRv?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. [Tomorrow is decacorn] [에티포스] “퀄컴·삼성과 어깨 나란히”…글로벌 V2X 칩셋 톱10 기업 등재
-   - 분야: C-ITS·V2X / 게재일: 2026-09-07 / 매체: 비즈니스리포트
+14. [Tomorrow is decacorn] [에티포스] “퀄컴·삼성과 어깨 나란히”…글로벌 V2X 칩셋 톱10 기업 등재
+   - 분야: C-ITS·V2X / 게재일: 2026-09-07 / 매체: businessreport.kr
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE9fWlQ0dkJJNE1KWTliOWNKd0k5WGhIb3FlQ3pLNHZockhkZXJRQ2lXVTdHTllHbGxXNDRVUnpqMXF5STFsSFpkVTRTNFVIMEt3eG9HSzNLdmRHME56bFhrZGFYLXdMZlkzMzZDOU1kYUw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 강원 '지능형교통체계 활성화 조례' 상임위 통과
+15. 강원 '지능형교통체계 활성화 조례' 상임위 통과
    - 분야: 기타 / 게재일: 2026-09-08 / 매체: 이뉴스투데이
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE5xaTZIazdabVNMTkthUFBtXzgxR2Q4anQ0LVBoQVJzYlp2aG54Yy1xMmVsNVdRVVp1NG9OQUNjalJEQmxTbUVIWVc3VVRsLUQyX3p4T1hBTDdfWHJQTmJaOHJPU0JoQjZxYmRJTThvRC3SAXRBVV95cUxNcGZzRndBM21DUXpwa0QzcjA4NkRxWDdrYnJ5ZExtZFZxLThHcW0zTmtXWU05dzRWaDVaem9TOTRPdXBFZGx2RU13ZlhNcnQzdUJTbVRFUEt2OUZjNFpWckVaWVpDQ0hPaUhwVG1Cd1U3d2NqXw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 강원도의회, ITS·자율주행 지원 조례안 상임위 원안 통과
+16. 강원도의회, ITS·자율주행 지원 조례안 상임위 원안 통과
    - 분야: 자율주행 / 게재일: 2026-09-08 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJZ3ZLeTZ6RGdfVUxDcWFJd21OalN0YjVXTlAxd19pTElaeTZhNklQT0k0SmhuMkFMSUVqZkZkZDNXdHgtX3c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [심층진단]① HL클레무브·레노버, ‘자율주행 두뇌’ 공동개발…L2 부품사서 L4 플랫폼 기업으로 전환하나 - 1부
+17. [심층진단]① HL클레무브·레노버, ‘자율주행 두뇌’ 공동개발…L2 부품사서 L4 플랫폼 기업으로 전환하나 - 1부
    - 분야: 자율주행 / 게재일: 2026-09-08 / 매체: 뉴스밸류
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE1QY09BYkM0UWVNd0pVd3FNMmM4RHRfWlRPYjhnLVdSVnRZWGtSU3VYOHY3dFU5M0JSR0daMGY4bXdlcFZ0UnEwWnllZ1RhTXNKUi1DNVhGQlJFdTZxdDNMU3pKOUxRTVprbnc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 강릉 ITS 세계총회 앞두고 자율주행차 상용화 위한 조례안 통과 유력
+18. 강릉 ITS 세계총회 앞두고 자율주행차 상용화 위한 조례안 통과 유력
    - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: 헤럴드경제
    - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE5XTlU4aHd0ZndXRWdfcjIwZkRyMGJ1MU5rNnRQalJTMkFiZ0hkME0xQ1BlR3JsSTdrSXdZOHVWb0tEV0dOY1VqZkxFRU5TX2VwMnpOaFJB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. HL클레무브·레노버, 자율주행 AI 고성능 컴퓨팅 공동 개발
+19. HL클레무브·레노버, 자율주행 AI 고성능 컴퓨팅 공동 개발
    - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: 아시아경제
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb1BCUDRENkcyR3puOW5qMjdPcTR1OW1aQnlUdGtpcTdEc2hQSHdsbzlHeVJmeWtVaWlwZTlvQzB3Y2Foek9MS0xWVkhoRWZyTVBrMjFPWjg4aWM1VU5QXw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. HL클레무브, IT기업 '레노버' 손 잡았다…"자율주행 시장 선점"
+20. HL클레무브, IT기업 '레노버' 손 잡았다…"자율주행 시장 선점"
    - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: 뉴스웍스
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTFBSNFdGbi1TdEtPMUZRU3hYSkxTN1Itc2VPYWF2cXJtS1BQYTR1bUZxdGV3cjBHS0J6YU10Y1g0cGwwRFBseVFXVjJST2ZiaU4yMTdrc2VEUWRjdS1GNWcwSzgtOTNmS19lN2tpaG1iYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. "완전자율주행 시장 정조준"...HL클레무브, 레노버와 파트너십 체결
-   - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: v.daum.net
-   - 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DS0JyNzh3UEpuT0tlZUpGNE8yem0zRG1IRGdfV3pLanZ3YVp6dVhMMTJpWDhKNGJHWVE1ZEpXNGpNbG9NLTB3c2t0UEtIWUtPdDZ6Yw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -226,10 +226,6 @@
   - 마감 2026-09-21 / 발주처 Rheingau-Taunus Verkehrsgesellschaft mbH
   - 원문: https://ted.europa.eu/en/notice/-/detail/626252-2026
 
-- [루마니아] Romania – Construction work for tunnels, shafts and subways – Servicii de proiectare și execuție a lucrărilor pentru REALIZARE PASAJ RUTIER DJ 172 INTERSECȚIE CU LINIA CFR ȘI DN17 ÎN LOCALITATEA BECLEAN, JUDEȚUL BISTRIȚA NĂSĂUD
-  - 마감 2026-09-21 / 발주처 ORASUL BECLEAN
-  - 원문: https://ted.europa.eu/en/notice/-/detail/611278-2026
-
 - [폴란드] Poland – Security services – Ochrona fizyczna terenu i obiektów 5WSzKzP z obsługą systemów alarmowych, urządzeń monitorujących, serwisem tych urządzeń oraz obsługą systemu parkingowego oraz wsparcie Grupy Interwencyjnej, działającej na wezwanie w przypadku zagrożenia bezpieczeństwa dla placówki medycznej w Węgrzcach wraz z serwisem zamontowanych w tej placówce systemów alarmowych i urządzeń monitorujących.
   - 마감 2026-09-21 / 발주처 5 Wojskowy Szpital Kliniczny z Poliklinika SP ZOZ w Krakowie
   - 원문: https://ted.europa.eu/en/notice/-/detail/628675-2026
@@ -245,3 +241,7 @@
 - [파키스탄] Hiring of Procurement & Contracts Management Officer (PCMO-I) for PMT KMP
   - 마감 2026-09-23 / 발주처 Sindh Mass Transit Authority
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467304
+
+- [파키스탄] Procurement of Procurement & Contract Management Specialist (P&CMS) as Required to Support the PMT-KMP (Office of the Project Director)
+  - 마감 2026-09-24 / 발주처 Sindh Mass Transit Authority
+  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00442138
