@@ -1019,30 +1019,120 @@
   "body": "□ 국토교통부(장관 김윤덕)는 전국 23개 민자고속도로의 ’25년 운영실적에 대한 평가 결과를 발표하였다. ㅇ 국토교통부는 도로 이용자의 편의 및 안전성 향상, 관리 효율 증진을 목적으로, 개통 후 1년 이상 경과한 민자고속도로의 운영실적을 매년 「유료도로법」에 근거하여 평가･발표하고 있다. ㅇ 도로·교통·안전·회계 등 분야별 전문가와 함께 민자고속도로 이용자*가 전 노선에 대한 현장심사에 참여하여, 불편사항 및 개선필요사항 등 현장 목소리를 평가에 반영하였다. * 화물차·버스 시민단체를 평가위원으로 참여시켜, 도로파임 등 청결 상태, 휴게시설(졸음쉼터·휴게소)의 편의성 등 이용자 관점에서 중요하게 여기는 항목을 직접 평가 □ 금년도 운영평가 결과, 인천대교(인천대교㈜) 고속도로가 ‘최우수’로 평가되었고, 옥산오창(옥산오창고속도로㈜), 광주원주(제이영동고속도로㈜), 용인서울(경수고속도로㈜), 서수원평택(경기고속도로㈜) 4개 고속도로가 ‘우수’로 평가되었다. ㆍ자율주행(ACC) 차량 추돌사고 방지를 위한 후방 레이더 자체 연구개발 ㆍ영내 119 구조대·고속도로순찰대 상주공간 확보로 신속한 대응체계 마련 ㆍ초월IC-광주JCT 간 진입·진출 교통량 변화 진단 및 차로 개편으로 통행속도 18→31km/h 향상(72.2% 통행속도 향상) ㆍ전기차 화재 진압 장비를 지역 소방서에 기탁 등 유관기관 협력을 통한 화재 대응력 향상 ㆍ2년 연속(’24~’25년) 교통사고 사상자 0(Zero) 달성, 이용자만족도 민자고속도로 중 최우수 ㆍ다차로 하이패스 도입 등 이용자 편의 증진을 위한 단계별 중·장기 교통소통관리계획 수립·시행 ㅇ 최우수 기관으로 선정된 인천대교는 최근 급증하고 있는 자율주행 차량의 도로 작업자 후방 추돌사고를 예방하기 위해 사고방지 레이더 센서를 자체 개발·배치하는 등 안전 및 관리",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092409",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23407": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092408",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23408": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092405",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23409": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1071102&parentSeq=1071102",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23415": {
   "body": "...중략...4개 기관은 앞으로 △교통사고 감소를 위한 법·정책 개발과 기술 적용 △기관 간 협력 네트워크 구축 △신기술 이전 및 실증 지원 △개발 기술의 사업화 등에 공동으로 나설 계획이다...중략... ...중략...4개 기관은 앞으로 △교통사고 감소를 위한 법·정책 개발과 기술 적용 △기관 간 협력 네트워크 구축 △신기술 이전 및 실증 지원 △개발 기술의 사업화 등에 공동으로 나설 계획이다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://m.metroseoul.co.kr/article/20260911500065",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23416": {
+  "body": "- 해외 32개국 장·차관, CEO 및 국내 기업 관계자 등 총 500여명 참석 - AI와 기술혁신, 에너지 전환, MDB 및 교통협력 등 글로벌 인프라 수주 다변화 논의 - 한-중앙아 정상회의 연계, 중앙아 주요국과 협력 방안 논의·업무협약 체결 □ 국토교통부(장관 김윤덕)가 주최하고 해외건설협회(회장 한만희)가 주관하는 국내 최대의 인프라 세일즈 외교의 장인 「글로벌 인프라 협력 콘퍼런스(Global Infrastructure Cooperation Conference, 이하 GICC) 2026」이 9월 15일 오전 10시 개막식을 시작으로 3일간 여의도 콘래드 호텔에서 개최된다. ㅇ GICC는 지난 2013년부터 정부와 주요 해외 발주처, 다자개발은행, 건설·엔지니어링 기업 간의 인프라 분야 협력과 우리 기업의 해외시장 진출을 지원하기 위해 매년 개최되어 온 국내 최대 규모의 국제 행사중 하나로 그간 90개국 590개 기관에서 참가하였으며, GICC를 통해 협력한 국제 프로젝트는 약 450개에 달한다. ㅇ 올해로 14회째를 맞이하는 이번 콘퍼런스는 해외 32개국의 장·차관, CEO 등 핵심 인사를 비롯해 국내외 공공기관, 건설·엔지니어링 기업 등 총 500여 명이 참석할 예정이다. 급변하는 글로벌 트렌드에 발맞춰 'AI와 함께 여는 글로벌 인프라 사업 협력'을 대주제로 삼아, AI가 재편하는 건설·교통 인프라의 미래와 실질적인 협력 방안을 집중 논의한다. ㅇ 특히, 같은 기간에 개최되는 ‘제1회 한-중앙아 정상회의’와 연계하여 중앙아시아 주요국과 교통 및 인프라 분야의 협력 방안을 심도 있게 논의함과 함께, 국토·도시·교통 등 다양한 분야에서 실질적인 후속 성과 도출을 위한 업무협약(MOU)도 체결한다. ㅇ 9월 15일 오전 개최되는 개막식은 한만희 해외건설협회 회장의 개회사를 시",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092414",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23417": {
+  "body": "- 16일 기념행사 열려… 한국국토정보공사, 지적재조사 책임수행기관 재지정 □ 국토교통부(장관 김윤덕)는 LX한국국토정보공사(사장 어명소)와 함께 오는 9월 16일 오후 충남 공주시 국토정보교육원에서 지적측량업계, 지방정부 등 관계자 300여명이 참석하는 가운데 「제6회 디지털 지적의 날」 기념행사를 개최한다. ㅇ ‘디지털 지적의 날’은 「지적재조사에 관한 특별법」 제정일(2011. 9. 16.)을 기념하여 지적재조사사업의 그간의 성과를 되돌아보고 협력체계를 다지기 위해 매년 개최하는 지적 분야의 대표 행사다. * (지적재조사사업) 110여 년 전 종이로 작성된 도면 지적의 오류를 바로잡고, 전 국토를 정밀한 디지털 좌표로 구축하는 핵심 국가 인프라 사업 □ 올해 기념식에서는 지적재조사사업 업무를 전담하며 측량ㆍ조사 업무 지원 등 공적역할을 수행하는 ‘지적재조사 책임수행기관’으로 한국국토정보공사를 재지정하고, 이날 행사에서 지정서를 수여할 계획이다. ㅇ ‘21년 9월 지적재조사 책임수행기관제도 도입 이후 민간 지적측량업계의 지적재조사 참여율은 5.9%에서 51.0%로 크게 높아졌고, 사업기간도 평균 2년에서 1~1.5년으로 단축됐다. □ 최근 지적재조사사업에 인공지능(AI) 기술을 본격적으로 도입 중이며, 작년부터는 AI를 활용하여 측량 기준점을 자동으로 추출함으로써 행정력 및 예산을 절감하고, 사업기간을 단축하고 있다. ㅇ 이날 행사에서는 ‘지적재조사 AI 숏폼 콘테스트’ 도 개최하여 AI 등 신기술을 활용한 디지털 지적의 미래를 모색할 예정이다. □ 국토교통부 정의경 국토도시실장은 “AI·디지털 트윈 등 신기술을 지적재조사에 더욱 적극적으로 융합하여, 국민의 토지 재산권을 두텁게 보호하고 미래 모빌리티·스마트시티의 든든한 기반이 되는 디지털 국토를 완성해 나가겠다”고 밝혔다. - ",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092415",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23418": {
+  "body": "- 행안부‧교육부‧경찰청‧한국도로교통공단 합동 점검으로 교통안전시설 개선사항 503건 발굴 - 일시정지 표지·방호울타리 설치 등 맞춤형 개선으로 안전한 통학환경 조성 행정안전부(장관 윤호중)는 교육부, 경찰청, 한국도로교통공단과 함께 어린이 보호구역 내 교통사고 다발지역 93개소를 대상으로 교통안전 실태를 점검(6.29.~7.31.)하고, 점검 결과를 바탕으로 교통안전시설 개선을 추진한다. 이번 점검은 2025년 어린이 보호구역 내 어린이 교통사고가 전년보다 크게 증가한 것으로 나타남에 따라, 사고가 많이 발생한 지역을 중심으로 점검대상을 대폭 확대해 실시했다. ※ 어린이 보호구역 내 어린이 교통사고 및 점검지역 : ‘24년 526건, 36개소 → ’25년 927건, 93개소 점검 결과, 교통사고 발생 원인과 현장 여건 등을 분석해 총 508건의 교통안전시설 개선사항을 발굴했다. 주요 개선사항은 ▲도로환경 개선 ▲교통안전시설 보강 ▲운전자 안전대책 등 세 가지 유형으로 구분했으며, 사고 발생 원인과 지역별 위험요인을 고려해 맞춤형 개선방안을 마련했다. 구체적으로는 신호등이 없는 횡단보도 앞 일시정지 표지와 보행자 방호울타리 설치, 어린이 보호구역 노면표시 및 기‧종점 표시 정비, 안내표지 설치, 고원식* 횡단보도 설치, 불법 주정차 단속 강화 등이 포함됐다. 행정안전부는 이번 점검에서 확인된 위험요인과 개선사항을 관계기관 및 지방정부와 공유하고, 각 지역에서 필요한 개선조치가 신속하게 이뤄질 수 있도록 지속적으로 관리할 계획이다. 또한 어린이 보호구역 내 교통사고 위험지역을 꾸준히 발굴하고 현장점검을 실시해, 어린이가 안심하고 통학할 수 있는 안전한 교통환경을 조성해 나갈 계획이다. 박형배 행정안전부 안전예방정책실장은 “어린이 보호구역이 본래의 취지에 맞게 어린이를 안전하게 보호할 수",
+  "date": null,
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129447",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23422": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20260911000045",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23423": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-11",
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=62184",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23424": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-11",
+  "link": "https://www.munhwa.com/article/11616268",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23425": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-11",
+  "link": "https://www.ndnnews.co.kr/news/articleViewAmp.html?idxno=1091360",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23426": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-11",
+  "link": "https://www.newsworker.co.kr/news/articleViewAmp.html?idxno=504045",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23427": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-11",
+  "link": "https://www.newstomato.com/ReadNews.aspx?no=1313432",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23428": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-13",
+  "link": "https://www.sisajournal-e.com/news/articleViewAmp.html?idxno=423635",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23429": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-14",
+  "link": "https://weekly.khan.co.kr/article/202609140600021",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23433": {
+  "body": "핀텔, 30억원 일반공모 유상증자 완료…\"성장 동력 강화·신사업 동시 추진\" 인공지능(AI) 기술 선도 기업인 핀텔(291810)은 30억원 규모 일반공모 방식의 유상증자 절차를 마무리했다고 11일 밝혔다. 확보한 재원을 운영자금으로 활용하면서 기존 사업 경쟁력을 강화하고 사업영역을 넓혀갈 방침이다. 핀텔은 지난 9월 1일 이사회에서 유상증자를 결정하고 7~8일 청약을 진행했다. 최종 청약 경쟁률은 1.46대 1이며, 발행 주식 수는 265만7,218주, 조달금액은 약 30억원이다. 신주 상장 예정일은 9월 29일이다. 핀텔은 현장에서 검증한 AI 영상분석 솔루션의 수요처 확대로 매출 기반을 다각화할 방침이다. 축적한 기술력과 사업 수행 경험을 바탕으로 신규 사업 수주를 추진하고, 민간 기업과의 실증·기술 협력을 통해 산업별 적용 모델을 구체화할 계획이다. 회사 관계자는 “이번 유상증자로 확보한 재원을 활용하여, 기술 차별화에 따른 경쟁력을 높이고 새로운 시장에 대응할 사업 역량을 강화하겠다”며 “주요 사업 성과는 관련 법령과 공시 기준에 따라 순차적으로 안내하겠다”고 말했다. 핀텔, 30억원 일반공모 유상증자 완료…\"성장 동력 강화·신사업 동시 추진\" 인공지능(AI) 기술 선도 기업인 핀텔(291810)은 30억원 규모 일반공모 방식의 유상증자 절차를 마무리했다고 11일 밝혔다. 확보한 재원을 운영자금으로 활용하면서 기존 사업 경쟁력을 강화하고 사업영역을 넓혀갈 방침이다. 핀텔은 지난 9월 1일 이사회에서 유상증자를 결정하고 7~8일 청약을 진행했다. 최종 청약 경쟁률은 1.46대 1이며, 발행 주식 수는 265만7,218주, 조달금액은 약 30억원이다. 신주 상장 예정일은 9월 29일이다. 핀텔은 현장에서 검증한 AI 영상분석 솔루션의 수요처 확대로 매출 기반을 다각화할 방침이다.",
+  "date": null,
+  "link": null,
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23442": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-14",
+  "link": "https://www.newswire.co.kr/newsRead.php?no=1042221",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23443": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20260914000291",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23444": {
+  "body": "공항·다중이용시설 대상 혼잡도 분석 솔루션 ‘LCAS QMAP’ 선보여 김해공항서 대기열 계수 정확도 99.44%…출국장 수속 대기시간 약 42% 단축 라이다(LiDAR) 기술 전문기업 에스오에스랩(대표 정지성)이 ‘2026 월드 스마트시티 엑스포(WSCE 2026)’에서 라이다 기반 공간지능 솔루션의 기술력을 인정받았다. 공항·다중이용시설 대상 혼잡도 분석 솔루션 ‘LCAS QMAP’ 선보여 김해공항서 대기열 계수 정확도 99.44%…출국장 수속 대기시간 약 42% 단축 라이다(LiDAR) 기술 전문기업 에스오에스랩(대표 정지성)이 ‘2026 월드 스마트시티 엑스포(WSCE 2026)’에서 라이다 기반 공간지능 솔루션의 기술력을 인정받았다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://digitalchosun.dizzo.com/site/data/html_dir/2026/09/14/2026091480179.html",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -1637,24 +1727,54 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://seenews.com/news/sofia-plans-to-borrow-up-to-367-mln-euro-for-transport-infrastructure-upgrades-1301028",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23412": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.thebci.org/news/building-resilient-transport-systems-against-evolving-cyber-threats.html",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23413": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.taylorwessing.com/en/insights-and-events/insights/2026/09/cra-reporting-requirements",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23414": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.globenewswire.com/news-release/2026/09/10/3359260/0/en/weride-uber-and-avomo-receive-spain-s-first-national-operating-permit-for-level-4-autonomous-passenger-vehicles.html",
-  "tries": 2
+  "tries": 3
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23419": {
+  "body": "Pony.ai and Verne have started fully driverless robotaxi test rides carrying passengers on public roads in Zagreb, Croatia, in what the two companies describe as a European first...중략... [Pony.ai와 Verne이 크로아티아 자그레브에서 무인 로보택시 시범 운행을 시작했습니다.] Pony.ai와 Verne은 크로아티아 자그레브의 공공 도로에서 승객을 태운 완전 무인 로보택시 시험 운행을 시작했으며, 두 회사는 이를 유럽 최초라고 설명합니다. Pony.ai and Verne have started fully driverless robotaxi test rides carrying passengers on public roads in Zagreb, Croatia, in what the two companies describe as a European first...중략... [Pony.ai와 Verne이 크로아티아 자그레브에서 무인 로보택시 시범 운행을 시작했습니다.] Pony.ai와 Verne은 크로아티아 자그레브의 공공 도로에서 승객을 태운 완전 무인 로보택시 시험 운행을 시작했으며, 두 회사는 이를 유럽 최초라고 설명합니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-11",
+  "link": "https://www.traffictechnologytoday.com/news/autonomous-vehicles/pony-ai-and-verne-launch-driverless-robotaxi-tests-in-zagreb-croatia.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23420": {
+  "body": "Cybersecurity firm Atsign and Intel have announced a hardware and identity-management collaboration that they say delivers up to an 88-fold increase in the speed of encrypted communications between AI agents operating at the network edge, a bottleneck the companies say has held back autonomous systems in transportation...중략... [Atsign과 Intel이 제공하는 88배 엣지 AI 암호화 성능 향상은 스마트 교통 시스템에 큰 도움이 될 것입니다. 사이버 보안 회사인 Atsign과 인텔은 하드웨어 및 신원 관리 협력을 발표했는데, 이 협력을 통해 네트워크 에지에서 작동하는 AI 에이전트 간의 암호화된 통신 속도가 최대 88배 향상된다고 합니다. 두 회사는 이러한 병목 현상이 교통 분야의 자율 시스템 발전을 저해해 왔다고 지적했습니다. Cybersecurity firm Atsign and Intel have announced a hardware and identity-management collaboration that they say delivers up to an 88-fold increase in the speed of encrypted communications between AI agents operating at the network edge, a bottleneck the companies say has held back autonomous systems in transportation...중략... [Atsign과 In",
+  "date": "2026-09-11",
+  "link": "https://www.traffictechnologytoday.com/news/cybersecurity/88x-edge-ai-encryption-boost-from-atsign-and-intel-will-benefit-smart-transportation.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23421": {
+  "body": "...중략...The system forms the backbone of traffic management across New Zealand, supporting operations at a national level. It integrates a broad range of infrastructure, including the 18,500km of roads and highways, seven tunnels, and Auckland Harbour Bridge, which is equipped with a moveable barrier machine. It also connects 150,000 field devices, such as cameras, variable message signs, traffic sensors and other roadside equipment, with dozens of subsystems brought together on a single platform...중략... 이 시스템은 뉴질랜드 전역의 교통 관리의 핵심 기반을 형성하며 국가 차원의 운영을 지원합니다. 18,500km에 달하는 도로 및 고속도로, 7개의 터널, 그리고 이동식 차단기가 설치된 오클랜드 하버 브리지 등 광범위한 인프라를 통합하고 있습니다. 또한 카메라, 가변 메시지 표지판, 교통 센서 및 기타 도로변 장비와 같은 15만 개의 현장 장치를 연결하며, 수십 개의 하위 시스템이 단일 플랫폼에 통합되어 있습니다. ...중략...The system forms the backbone of traffic management across New Zealand, supporting operations at a national level. It integrates a broad range of inf",
+  "date": "2026-09-11",
+  "link": "https://www.traffictechnologytoday.com/news/traffic-management/kapsch-trafficcom-upgrades-new-zealand-traffic-system.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23430": {
+  "body": "China has released its 15th five-year development plan for the intelligent connected new energy vehicle (NEV) industry, setting a roadmap for 2026-2030 that prioritizes broader NEV adoption, autonomous driving and stronger capacity oversight...중략... [중국, 5개년 신에너지 자동차(NEV) 계획 발표, 2030년까지 승용차 판매 점유율 70% 달성 목표] 중국은 지능형 연결 신에너지 자동차(NEV) 산업을 위한 제15차 5개년 발전 계획을 발표했으며, 2026년부터 2030년까지의 로드맵을 통해 NEV 보급 확대, 자율주행, 그리고 역량 강화에 우선순위를 두고 있다. China has released its 15th five-year development plan for the intelligent connected new energy vehicle (NEV) industry, setting a roadmap for 2026-2030 that prioritizes broader NEV adoption, autonomous driving and stronger capacity oversight...중략... [중국, 5개년 신에너지 자동차(NEV) 계획 발표, 2030년까지 승용차 판매 점유율 70% 달성 목표] 중국은 지능형 연결 신에너지 자동차(NEV) 산업을 위한 제15차 5개년 발전 계획을 발표했으며, 2026년부터 2030년까지의 로드맵을 통해 NEV 보급 확대, 자율주행, 그리고 역량 강화에 우선순위를 두고 있다. Copyright © 2018 ITS Korea. All rights",
+  "date": "2026-09-11",
+  "link": "https://cnevpost.com/2026/09/11/china-unveils-five-year-nev-plan/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23431": {
+  "body": "Volkswagen is adding driver-initiated lane changes, an Emergency Assist Plus function that can steer an unresponsive driver’s vehicle to the shoulder, and a pedestrian-detecting rearview camera across its 2027 Atlas, Golf, ID. Buzz and Tiguan lineups...중략... [폭스바겐, 2027년형 모델에 IQ.DRIVE ADAS 시스템 업그레이드 적용] 폭스바겐은 2027년형 아틀라스, 골프, ID. 버즈, 티구안 라인업에 운전자가 직접 차선을 변경할 수 있는 기능, 운전자의 반응이 둔한 차량을 갓길로 조향해주는 긴급 보조 시스템 플러스(Emergency Assist Plus), 그리고 보행자 감지 후방 카메라를 추가합니다. Volkswagen is adding driver-initiated lane changes, an Emergency Assist Plus function that can steer an unresponsive driver’s vehicle to the shoulder, and a pedestrian-detecting rearview camera across its 2027 Atlas, Golf, ID. Buzz and Tiguan lineups...중략... [폭스바겐, 2027년형 모델에 IQ.DRIVE ADAS 시스템 업그레이드 적용] 폭스바겐은 2027년형 아틀라스, 골프, ID. 버즈, 티구안 라인업에 운전자가 직접 차선을 변경할 수 있는 기능, 운전자의 반응이 둔한 차량을 갓길로 조향해주는 긴급 보조 시스템 플러스(Emergency Assist Plus), 그리고 보행",
+  "date": null,
+  "link": "https://selfdrivenews.com/volkswagen-iq-drive-2027-adas-upgrades/",
+  "tries": 1
  }
 }
