@@ -33,7 +33,7 @@
    - 원문: https://news.google.com/rss/articles/CBMizwFBVV95cUxQSGVVY2RYbUMtQVAyTUQtdlZ5ZEFsbGpGX1hZbGRISkZveUZXblJ3ZGd0M3lCOHotWmxDMEV4Z2p3dVRScGIyNlhrVkZGdkc0Q3kxSV9UakdhcVZpNFpwWExRX3VCOVU4SzlMVkNORG1RWDFRT3gtWG9HRU5SUFV0bVpPYUFFM0ZBekh6dzMzN1N6OHVXUWVfZFhOaUtxWFJ0WUtIVTlZSlNKWU1KVEt3SlQ2czl3MGFNQmF2WkxjUTlTdWNXbTBWM0tBV3NfT2s?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 5. Technology firm's Traffic Management System contract terminated
-   - 분야: 신호·관제 / 게재일: 2026-09-08 / 매체: railmagazine.com
+   - 분야: 신호·관제 / 게재일: 2026-09-08 / 매체: Rail Magazine
    - 원문: https://news.google.com/rss/articles/CBMiogFBVV95cUxONmNMYWdPRVpzUTdEbmlaZExycUVZWXB6dzE0eVlKRWZDbmNWLW8xaVF6d096bE15NXpVWEVWSlhsbGYtTEUwcmlrT05wZEwwbkNpQmxqZDRfN1YwN0VVNDV3OV9JXzlvdnJCS3lkeDJ6dXI4d2FpWVNiZURadVJJMnlwUGxuQ0xYSjQ5UzROdlFGb0JhNGY0aDJTaVk0WWw5Mmc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 6. IJM launches RM18 million Smart Highway Traffic Control Centre - AI-powered monitoring of Besraya, NPE, LEKAS
@@ -61,40 +61,40 @@
    - 원문: https://www.urbanairmobilitynews.com/air-taxis/joby-starts-evtol-and-autonomous-cargo-aircraft-us-tour/
 
 12. Three toll plazas in TN to go barrier-free from October
-   - 분야: 요금·통행료 / 게재일: 2026-09-07 / 매체: The New Indian Express
+   - 분야: 요금·통행료 / 게재일: 2026-09-07 / 매체: newindianexpress.com
    - 원문: https://news.google.com/rss/articles/CBMiugFBVV95cUxON0t3RVIwQzdjWTQ4LUM2a3JtTjdUOHpFWHFCMTU1dkxtQjQtMHUtU1Jycy1QVnp3djBSd2VsMUhOdWVBQ290dlF2OFhLdVFRS0FNSWFPRTJNVXhzNUV2bHVBRmw3ZlVKdjY1QmlYbU85V0xLcUdrQ2NmeFBsMFV2X015a0lKeWN2LS1KQXlDd2NFeXNLT2Ytc3pYOUstbWlIR0dLTnZ1U1Q0U05rZWFfek5BNmgzck9wWEHSAccBQVVfeXFMUFpCSVhlRXBCY29UQWpBaWtOWmlWbFZ3YXFEMllfbUJUVVBaU0JpUzYyaldPN1hQUFAyc3p0b291dGdra2pMdWRzVGhqNmpIRTlxTXRnNnlVR08yakRmdUpVeXVlRUxMRzAyLTZ1Q0dLQmNzUkFiT3FGVjM4UldIOHZCZjBqdXFnclM5VmU2dlJUblVfbXpUdnE5bmc2Q2F2NFN5Nk1uYXlGZEZJV01aYTYtdXQ4QXZKa0JJanRLWW5kTWdCa3J6aw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 13. Highway concessionaires still negotiating B2B deals to roll out barrierless toll collection — Works Ministry
-   - 분야: 요금·통행료 / 게재일: 2026-09-08 / 매체: theedgemalaysia.com
+   - 분야: 요금·통행료 / 게재일: 2026-09-08 / 매체: The Edge Malaysia
    - 원문: https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzRTNsaFFxS3BEWHJhd2JGdUdJajBTbmNTZm81d1NyR282WC12eENDMFJEd2JRRFVBMXFlVU9sQUloNHV6bHV6TzJ0bzlnV0lm?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 14. IJM upgrades traffic monitoring with AI‑enabled Smart Highway System
-   - 분야: 신호·관제 / 게재일: 2026-09-08 / 매체: theedgemalaysia.com
+   - 분야: 신호·관제 / 게재일: 2026-09-08 / 매체: The Edge Malaysia
    - 원문: https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzeDhtSXEyWWc0UmR0NTZwT29mM25jejFubnU2NS13UFExZ0J1R0RNUXZzUjJUTFphMjNoa01tcG5YVjJCd3pIUWoyRTR3MnA1?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 15. Brighton Council Approves Fiber Upgrade for Grand River Traffic Signal Interconnection
    - 분야: 신호·관제 / 게재일: 2026-09-09 / 매체: WHMI
    - 원문: https://news.google.com/rss/articles/CBMivAFBVV95cUxPTThDMDVwVk1DUTROam1zNFRoRjJSNnNiVG41MGtySkVNWU5ieWJXcFNtTHZnXzYyWDJrNjRIS3FlWHNVODZTcW8wUmNUNDd5M1dxTFFwOFZxUlhWODlDamg5UmkzWGhjWWtTcFpETzh6eUU1TGZVbTEtb0ExU196SDlaQ2RLSzRVUk4zWU84ZjBRM0d0a1BlcEhhRWV1Z0N5ZkFCZkY0LW9CVEdKWTVWalZ0c01XcDBfZFZ2cw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. Will the New Croatian Toll System End Up Being Delayed?
+16. Every improved public road to get electronic tolling system – Agbodza
+   - 분야: 요금·통행료 / 게재일: 2026-09-09 / 매체: MyJoyOnline
+   - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxQSjNiOE9la1VHNmVEQWhETVpwSVlSSnMwNWRYa1hyTjFPRFItcEpFa25GRmNDTFpEX25OZlkwZVR5SFpoci1NSlVtTDlROEMwNDBac2dGWU5McnBWZEdrYWdDc1BhcW5EZmJxVmM4WlRWdWNNVllzUnY4ODJqdV9aLVlnVUt2N1RiQkhacFNyajZJOXdlRk9IYlRlYWM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. Will the New Croatian Toll System End Up Being Delayed?
    - 분야: 요금·통행료 / 게재일: 2026-09-10 / 매체: Total Croatia
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE9VTlI1OWtrMHlSOGgyWUNwZS1aSUgwbWljX1J6bDZ3UEc1Q1I0dUxVaWFtbVZxNVhVTjNNWjFlUERoS2VvQUtaSFJ3d3JScFhqTWNiV0pTMldOU01aUjBLZlNBZlBKMGVLMUV6S003dWlyMTg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. TomTom and citiEU strengthen ties to deliver advanced traffic monitoring and location analytics solutions
+18. TomTom and citiEU strengthen ties to deliver advanced traffic monitoring and location analytics solutions
    - 분야: 신호·관제 / 게재일: 2026-09-10 / 매체: TomTom
    - 원문: https://news.google.com/rss/articles/CBMiiAJBVV95cUxObGx5cFRSbWNEOVoyTjhQVmlKZm9VMlhGWUgyWU9pQm1XdTBIR2t6UXhxX3lVMjBBVUpTMDFpbjdZeUhnbDhRSlBoM3J5VTNoWkVDYzU2X2EzREhvRlFjbG5KZDNfeDI1ZGd1QTljcnRPamlZOUtxWDRrZGF3b21CRXJnMmpoZkUyaGJmNVJ1aDhNU0wzNk12LUtJREJTUUQ4YWF3MFhIdk93R2REU2gwQ1d2bXU5VnFiNEZsWkQzZEIxUUNPeEM0bmNpR2hvLVFSQi1vRGVaRWpZaGFPQUdDWjVNOHNrSUswZ1doS0haNTdkbmFjblRaSnJ5MUxIVVpKSFFvT2piZ3Q?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 웨이모 CEO "한국 진출하고 싶다" - 법인 설립 한 달여 만에 서울서 공개 선언
+19. [스페인] WeRide, Uber and AVOMO Receive Spain's First National Operating Permit for Level 4 Autonomous Passenger Vehicles
+   - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: ITS Korea
+   - 원문: https://www.stocktitan.net/news/WRD/we-ride-uber-and-avomo-receive-spain-s-first-national-operating-ujobqyhri4w9.html
+
+20. 웨이모 CEO "한국 진출하고 싶다" - 법인 설립 한 달여 만에 서울서 공개 선언
    - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: ITS Korea
    - 원문: https://www.jodaleconomy.com/news/articleView.html?idxno=3156
-
-19. [미국] Waymo Rides Go Live on Lyft in Nashville
-   - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: ITS Korea
-   - 원문: https://selfdrivenews.com/waymo-rides-lyft-app-nashville/
-
-20. [영국] Swarco develops AI signs to curb Swansea motorbike speeding
-   - 분야: 단속·집행 / 게재일: 2026-09-09 / 매체: ITS Korea
-   - 원문: https://www.traffictechnologytoday.com/news/enforcement/swarco-develops-ai-signs-to-curb-swansea-motorbike-speeding.html
 
 ---
 
@@ -102,85 +102,85 @@
 
 등록 게시판: ITS국제협력센터 > 소통창구 > 공지사항(영어)
 
-1. [회원사/동향] 카카오모빌리티, 자율주행 판단 “규칙에서 AI로” 무게중심 이동
-   - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: ITS Korea
-   - 원문: https://byline.network/2026/09/09_kakaomobility/
-
-2. 미·중 로보택시 글로벌 영토 확장…데이터·인프라 갇힌 'K-자율주행'
-   - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: ITS Korea
-   - 원문: https://www.widedaily.com/news/articleView.html?idxno=300912
-
-3. 데이터메티카, ‘자율주행 실증도시 운영방안’ 사업 수주...전남광주통합특별시 실증 연계
+1. 데이터메티카, ‘자율주행 실증도시 운영방안’ 사업 수주...전남광주통합특별시 실증 연계
    - 분야: 산업·투자 / 게재일: 2026-09-11 / 매체: 공감신문
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFAyZnVUVjNWa2RHckF0MFpzZ2tSa0dPcWRoSHBQTXFsR3RvRlZnMkdDcmZmSWVMZ3lWVnFSRU1oTEJwb1VlajV6OHN2Y2FyUThIWlZQeDJ3aWlVcDlvWGhSandvNUF0Y1Uz?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. [회원사/동향] '자율주행車 추돌 방지 기술'…인천대교, '최우수' 민자고속도로 선정
-   - 분야: 자율주행 / 게재일: 2026-09-11 / 매체: ITS Korea
-   - 원문: https://www.mt.co.kr/estate/2026/09/11/2026091107403998259
-
-5. 류긍선 카카오모빌리티 대표 "자율주행, 기술 넘어 일상이 돼야"
+2. 류긍선 카카오모빌리티 대표 "자율주행, 기술 넘어 일상이 돼야"
    - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nWnQtM2dpT0Y0VGNQb2QwVXZnWWxOS1pBSFpZcWRWeHYtUmRBS24zMURUZkR2RGNZRnZtVXQtZGk4WUdoYjkyWXpGWkRKU3M?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. 카카오모빌리티, 도시 맞춤형’ 자율주행 생태계 비전 제시
-   - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: wowtale.net
+3. 카카오모빌리티, 도시 맞춤형’ 자율주행 생태계 비전 제시
+   - 분야: 자율주행 / 게재일: 2026-09-07 / 매체: 와우테일
    - 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTE1NYXlZUmx1dHU2RTRrX29CeTBVbFZDYV9oYWMyblpvNzRRd0g0WXNWaEU5SVBZb3YwRE1id21iQUJXY0NjaHpQbTE5NENOTVk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. 반태연 강원도의원, 계기, 지능형교통체계 및 미래 모빌리티 시대 주도적 대비, 「강원특별자치도 지능형교통체계 활성화 조례안」 상임위 통과
-   - 분야: 기타 / 게재일: 2026-09-08 / 매체: gwbiz.kr
+4. 반태연 강원도의원, 계기, 지능형교통체계 및 미래 모빌리티 시대 주도적 대비, 「강원특별자치도 지능형교통체계 활성화 조례안」 상임위 통과
+   - 분야: 기타 / 게재일: 2026-09-08 / 매체: 강원경제신문
    - 원문: https://news.google.com/rss/articles/CBMiPkFVX3lxTFBYb0lYalNFQzFfSjJ2UEdDcmJGSVZiTmFQT0RMMndCRGtiYmZmM2QxSG5Gd1U0YmVOOFJkSWxB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. HL클레무브, 레노버와 자율주행 협력…글로벌 수주 확대
+5. HL클레무브, 레노버와 자율주행 협력…글로벌 수주 확대
    - 분야: 산업·투자 / 게재일: 2026-09-09 / 매체: 동아일보
    - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTE53dTlzbjRLRXBKOEFhNzRaeVFhTTJuc21CTHZMQkNpOExIaXZOa2pmNWt0eWVPbWZhYWU4QmJ6dWFPY1NzSnpKY0E3a0JMcXFjRkg1SU5qMEpsbmdwS0NzcG1EaDNPbWM1V0N1SkVlNFZBMjJBYkHSAWZBVV95cUxOWF84R0tWWnFQUURrcDJoU0kxbWVsVk9TUldFVjdkYnA1Qmg0V280ejRaN1JmM0cxZmZ3OXhzY3N6cF9mUDlheU5YanRrVDVuMXFkdjNnWnVuTnRkRHNRZkluQ3pVR1E?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. 자율주행 주차기능 통합제어기 등…'히어로' 선보인 현대모비스
-   - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: 한국경제
+6. 자율주행 주차기능 통합제어기 등…'히어로' 선보인 현대모비스
+   - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: hankyung.com
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SV1g3X0RzSFhWeVFXTm5TcFhqVU5MY2N3UUVEZmpILVR3dXZSYUNZUHZjTmNIb09aMUNnNE5acWJ0R1JmOUozOFRRX1hGWTU4aU51U0tfc0tlUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. 메이플 리프, 오만 살랄라 공항서 자율주행 실증…중동 시장 본격 공략 시동
+7. 메이플 리프, 오만 살랄라 공항서 자율주행 실증…중동 시장 본격 공략 시동
    - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: 뉴스N연합
    - 원문: https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uS0VVcThCblFZNmNMQVh2Z01UR3ZrbEhsUThCZHBJV2hSaUdoY3pnNnljSmpnN21wTDNvSF9lcnEwWHhYanRqV1Rn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. 바이다, 110억원 스마트카 국책과제 수주…자율주행 마샬링 선도
+8. 바이다, 110억원 스마트카 국책과제 수주…자율주행 마샬링 선도
    - 분야: 산업·투자 / 게재일: 2026-09-11 / 매체: ebn.co.kr
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FLWxNQVppb3E4MFNDY1BOUlJtRFNDVVhwTzdIOVdIQ2R0VVZLc3VYcHdoWUQ2Mm1pV0w3NUt2Z25pREx5VlhnWjY2RVJCYXFXQ2JOc0o5MG5xYkgyd3RWVHNlWXc5ZDc3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. [회원사/동향] 카카오모빌리티 서울자율차, 강남서 1.3만km 질주…레벨4 상용화 '성큼'
-   - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: ITS Korea
-   - 원문: https://www.theguru.co.kr/news/article.html?no=106893
-
-13. [국토부/보도자료] 2026년도_민자고속도로_운영평가_결과
-   - 분야: 기타 / 게재일: 2026-09-11 / 매체: ITS Korea
-   - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092409
-
-14. '화물운송'도 운전자 없이...자율주행차 시대, 기대와 과제는?
+9. '화물운송'도 운전자 없이...자율주행차 시대, 기대와 과제는?
    - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: 헤드라인제주
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBLTXg3dmF3V0tMZVBNRElBX1k2aVJLUDlMblhtWVRlbHFOS28xRk9Pc0dVYlhUVklqaVdtUTdxXzJhWVkyeGtvRi1BVW93SEVaREoyZ01veTNTTVVnRzEzRVNySWZmYUJjOTBmWUgxRDZsSGc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 하노이시는 호아락에서 자율주행 교통 시스템을 시험 운영하고 있습니다.
+10. 하노이시는 호아락에서 자율주행 교통 시스템을 시험 운영하고 있습니다.
    - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: Vietnam.vn
    - 원문: https://news.google.com/rss/articles/CBMiiwFBVV95cUxONmZFcnZ1dTlCZFI5VElwcUpwRGIxSWZBeEI4TWtFZFJlQkRYN2E5WlJWRWxqdjB6WnYwWWNFS09DSTJFdXBfTzVUSmdGZFdzM2tmMGNVOV9SVnNNTHQ1b2pzRnc0ejh1UlZwR0t5YUJTSlV3TXMzRUFYSi1yMjZLQ3hqakM2cUF6MzRv?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [Tomorrow is decacorn] [에티포스] “퀄컴·삼성과 어깨 나란히”…글로벌 V2X 칩셋 톱10 기업 등재
+11. ‘도로·철도 절벽’에 내몰린 토목업계...수주 지형도 바뀌나
+   - 분야: 산업·투자 / 게재일: 2026-09-08 / 매체: ER 이코노믹리뷰
+   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE5IbUdQSnZwRnNfdVhqTWotbmdZSExkemNPTnlTN0pQSEFTQVlOQUxYOEVPWktXb0IxMTR2SDd4UF9keVdfT3o5Q2VsbU5oeGsyVDRtaEhHNmdIa3c4TG9mUE9yUmV2TDI3emdROQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+12. [Tomorrow is decacorn] [에티포스] “퀄컴·삼성과 어깨 나란히”…글로벌 V2X 칩셋 톱10 기업 등재
    - 분야: C-ITS·V2X / 게재일: 2026-09-07 / 매체: 비즈니스리포트
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE9fWlQ0dkJJNE1KWTliOWNKd0k5WGhIb3FlQ3pLNHZockhkZXJRQ2lXVTdHTllHbGxXNDRVUnpqMXF5STFsSFpkVTRTNFVIMEt3eG9HSzNLdmRHME56bFhrZGFYLXdMZlkzMzZDOU1kYUw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 강원 '지능형교통체계 활성화 조례' 상임위 통과
+13. 강원 '지능형교통체계 활성화 조례' 상임위 통과
    - 분야: 기타 / 게재일: 2026-09-08 / 매체: 이뉴스투데이
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE5xaTZIazdabVNMTkthUFBtXzgxR2Q4anQ0LVBoQVJzYlp2aG54Yy1xMmVsNVdRVVp1NG9OQUNjalJEQmxTbUVIWVc3VVRsLUQyX3p4T1hBTDdfWHJQTmJaOHJPU0JoQjZxYmRJTThvRC3SAXRBVV95cUxNcGZzRndBM21DUXpwa0QzcjA4NkRxWDdrYnJ5ZExtZFZxLThHcW0zTmtXWU05dzRWaDVaem9TOTRPdXBFZGx2RU13ZlhNcnQzdUJTbVRFUEt2OUZjNFpWckVaWVpDQ0hPaUhwVG1Cd1U3d2NqXw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 강원도의회, ITS·자율주행 지원 조례안 상임위 원안 통과
+14. 강원도의회, ITS·자율주행 지원 조례안 상임위 원안 통과
    - 분야: 자율주행 / 게재일: 2026-09-08 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTFBJZ3ZLeTZ6RGdfVUxDcWFJd21OalN0YjVXTlAxd19pTElaeTZhNklQT0k0SmhuMkFMSUVqZkZkZDNXdHgtX3c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. 강릉 ITS 세계총회 앞두고 자율주행차 상용화 위한 조례안 통과 유력
+15. 강릉 ITS 세계총회 앞두고 자율주행차 상용화 위한 조례안 통과 유력
    - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Rb09oSkQtc2czWXo0R0t0WUdYWnNnZXFiQjRxWDJ0ZlpjVndYLUtta1JqQmUxeS10amtDVC1FaV9HcXJfWVE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. HL클레무브·레노버, 자율주행 AI 고성능 컴퓨팅 공동 개발
+16. HL클레무브·레노버, 자율주행 AI 고성능 컴퓨팅 공동 개발
    - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: 아시아경제
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCb1BCUDRENkcyR3puOW5qMjdPcTR1OW1aQnlUdGtpcTdEc2hQSHdsbzlHeVJmeWtVaWlwZTlvQzB3Y2Foek9MS0xWVkhoRWZyTVBrMjFPWjg4aWM1VU5QXw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. "완전자율주행 시장 정조준"...HL클레무브, 레노버와 파트너십 체결
+   - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: v.daum.net
+   - 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5DS0JyNzh3UEpuT0tlZUpGNE8yem0zRG1IRGdfV3pLanZ3YVp6dVhMMTJpWDhKNGJHWVE1ZEpXNGpNbG9NLTB3c2t0UEtIWUtPdDZ6Yw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+18. “글로벌 영업망에 레노버 설계역량 결합” HL클레무브, 자율주행시장 선점 ‘시동’
+   - 분야: 자율주행 / 게재일: 2026-09-09 / 매체: catchnews.kr
+   - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE8yU0paWnJCZlotYjB2UXlRc3hyRkpKaGVTY0NxNmliNWFjUnBTMUFEaWt0MmVhWXl1Y1VOVEo5dUN1M2ZvZ1htMnFNREVydFFuak50dElCZmxpM25xZ2dvZnlydEFtOFhnUjVV0gFvQVVfeXFMUEVyc1I4cjR5REwwOE5VQ0F6TzFHbkEyUjRiNU1oeU9pR3VFOWFNSEVocGMzUUdoNW04MlFlYWVkMFRqQVdsUm96X3I3V1kxWmJLcGxiTV9sVmRVZ2xHV3hDeTNqVHFCa3NrV1RDY1dn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. HL클레무브, 차량용 ‘AI HPC’ 앞세워 글로벌 자율주행 선점
+   - 분야: 자율주행 / 게재일: 2026-09-10 / 매체: SR타임스
+   - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDa19WN0xfeEpTeWh0YUlJTkdUbnpDSnJHZXFBTi10SmRVb2pYb2J4dENPTjZMX2laY3dGQmdDR2FVY1JMdW5NWnhzNDlEdmpaRDFjOXdVdDVfUmJQQ2g0NzdVT0xWZEnSAWtBVV95cUxQNXZnWGI3S2JZaWxiX3l2Z2NxTkZwQi1GVkVyT3JaVG5NRWRRZHVQMUJwalZTNXRrRGIxRVptcG5TZFNrWUxaX2UwRklDRVhjdWdaY3ZZNms3UDdQME96bkI3Ylg5YmlwdENTdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 프리뉴, 한강 수난 사고·투신 예방·구조용 자율주행 드론 개발 착수
+   - 분야: 자율주행 / 게재일: 2026-09-11 / 매체: 디일렉
+   - 원문: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBvc0x6OFQ0WHFTMVZyM1NSRkdXOFhVcW5FS2preGpiWHV3MEI1YmdVWFFBM0JYTFVuaW9UM0hZY25sOHNBd2VlSTdRSk1ZUHljQkQ1dTI2a1pfNUcxMldJRGRHWVludw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
