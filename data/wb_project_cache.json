@@ -307,6 +307,13 @@
   "impagency": "ADR",
   "total": 90000000.0
  },
+ "P174495": {
+  "borrower": "Republic of Chad",
+  "closing": "2027-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Hydrocarbons and Energy,Socitete Nationale de l'Electricite (SNE)",
+  "total": 395000000.0
+ },
  "P174595": {
   "borrower": "Republic of Albania",
   "closing": "2029-07-31",
@@ -327,6 +334,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Ministry of Road and Transport Development",
   "total": 132000000.0
+ },
+ "P174814": {
+  "borrower": "Common Market for Eastern and Southern Africa,Democratic Republic of Congo,Republic of Burundi",
+  "closing": "2028-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Republic of Burundi ",
+  "total": 250000000.0
  },
  "P175235": {
   "borrower": "Central African Republic,Republic of Congo",
