@@ -440,6 +440,13 @@
   "impagency": "Chittagong Port Authority,Ministry of Shipping",
   "total": 350000000.0
  },
+ "P176948": {
+  "borrower": "Republic of Guinea-Bissau",
+  "closing": "2029-11-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Public Works, Housing, and Urban Planning",
+  "total": 70300000.0
+ },
  "P176981": {
   "borrower": "Republic of Cabo Verde",
   "closing": "2028-06-30",
@@ -481,6 +488,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Ministry of Economy, Planning, and Regional Development",
   "total": 280000000.0
+ },
+ "P178362": {
+  "borrower": "THE REPUBLIC OF COTE D'IVOIRE                                                                       ",
+  "closing": "2029-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Coordination Unit for Infrastructure Projects in Côte d’Ivoire (CC-PRICI)                           ,Société Ivoirienne  du Patrimoine Ferroviaire (SIPF)",
+  "total": 376000000.0
  },
  "P178557": {
   "borrower": "CIM - AMFRI (Foz do Rio Itajaí Region Consortium of Municipalities)                                 ",
