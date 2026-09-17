@@ -1163,25 +1163,25 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172195/view?mno=&pageIndex=1",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23450": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092420",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23451": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95092422",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23452": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mofa.go.kr/www/brd/m_4080/view.do?seq=377567&page=1&pitem=10",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23453": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -1193,13 +1193,13 @@
   "body": "- 국토부·경찰청·현대차, 사고신고부터 종결까지 대응절차 및 기관간 공조체계 점검 □ 운행 중인 자동차가 해킹되어 핸들 등 주요 장치가 운전자의 의도와 다르게 작동하는 상황을 가정한 민·관 합동훈련이 실시된다. 정부는 사고탐지·신고부터 확산차단, 차량복구와 재발방지까지 전 과정을 실제상황처럼 점검해 자동차 사이버보안 대응역량을 높일 계획이다. □ 국토교통부(장관 김윤덕)는 한국교통안전공단 자동차안전연구원(KATRI), 한국인터넷진흥원(KISA), 경찰청, 현대자동차와 함께 9월 15일 현대자동차 판교 AVP본부에서 ‘자동차 사이버보안 사고대응 민·관 합동 모의훈련’을 실시한다. ㅇ 이번 훈련은 자동차 사이버보안 관리체계(CSMS) 시행 이후, 실제 사고상황에서도 사고대응 절차와 관계기관 간 공조체계가 원활하게 작동하는지 사전 점검하기 위해 마련됐다. ㅇ 실제 차량이나 시스템을 해킹하지 않고 가상의 사고상황을 단계별로 부여한 뒤, 각 기관이 실제 사고와 동일하게 신고·보고·조치를 수행하는 도상훈련 방식으로 진행된다. □ 모의훈련은 자동차 부품 협력사의 서버가 해킹되고, 악성코드가 숨겨진 소프트웨어가 무선 업데이트(OTA)를 통해 차량에 배포돼 이상작동하는 상황을 가정하였다. 소프트웨어 중심 자동차(SDV)로 전환되면서 사이버공격의 영향이 개별 차량을 넘어 자동차제작사·부품사 등 공급망 전반으로 확산될 수 있다는 점을 반영한 시나리오다. □ 모의훈련 과정은 ➀ 사고탐지·신고 및 확산차단, ➁ 원인분석과 관계기관 공조, ➂ 차량복구를 위한 단기조치, ➃ 취약점 해소와 공급망 보안 강화를 위한 최종조치, ➄ 조치 적정성 확인 및 사고 종결 순으로 진행된다. ㅇ 현대자동차의 이상신호 탐지와 사고신고를 시작으로, KATRI의 기술검토와 국토교통부 보고, KISA의 침해원인 분석, 경찰청의 해커 ",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092423",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23460": {
   "body": "- 산불 대피·CCTV 관제·고령자 안전·반복 민원 예방 등 4개 인공지능(AI )과제 추진 - 예측과 분석을 현장 조치로 연결해 재난 피해 최소화 및 생활 속 반복 불편 해소 행정안전부(장관 윤호중)는 산불 대피경로 안내부터 생활 불편 예방까지, 국민 생활 속 위험과 불편에 선제적으로 대응하기 위한 인공지능(AI) 서비스를 본격적으로 개발하고 있다고 밝혔다. 이번에 소개하는 과제는「AI 민주정부」 실현을 위한 30대 혁신과제와 공공부문 AI 서비스 지원사업 중 안전·생활불편 분야의 4개 과제로, ▲산불 확산 예측 ▲지능형 CCTV 관제 ▲치매 고령자 이동 경로 예측 ▲반복 민원 예방 등 4개다. 이들 과제는 인공지능(AI)의 예측과 분석을 현장의 조치로 연결해 위험과 불편에 한발 먼저 대응하는 데 초점을 맞췄다. 위험 징후를 조기에 발견하고 필요한 대응과 사전점검을 지원함으로써, 재난과 안전사고 피해를 줄이고 반복되는 생활 속 불편을 해소할 수 있을 것으로 기대된다. 먼저, 산림청은 산불이 어디로 얼마나 빠르게 번지고 연기가 어느 방향으로 퍼질지를 예측하는 「AI 기반 산불·연무 확산 감시·예측」 체계를 개발한다. 과거 산불 피해지역의 확산 자료에 기상·지형·연료 정보를 결합해 산불의 확산 방향과 속도를 분석한다. 연기 확산 경로까지 반영해 주민 대피경로와 진화 인력·장비의 투입 경로를 제시하고, 현장의 대피·진화 판단을 지원할 계획이다. 행정안전부는 인공지능(AI) 기술로 침수 탐지 등 재난 위험을 더 빨리 파악할 수 있도록 지능형 CCTV 관제 기반 지원을 강화한다. 전국 217개 통합관제센터가 운영 중인 CCTV를 활용하여 위험 상황·침수 탐지 모델을 개발하고, 민간에서 확보하기 어려운 재난 관련 학습 데이터를 구축해 지방정부와 기업 등이 활용할 수 있도록 제공할 예정이다. 경",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=129466",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23466": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -1247,12 +1247,60 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://digitalchosun.dizzo.com/site/data/html_dir/2026/09/15/2026091580199.html",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23480": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.president.go.kr/briefings/hHg1eToZ",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23481": {
+  "body": "...중략...이 사업에 참여한 아이디씨티(IDCITI)는 IBM의 클라우드 및 데이터 분석 기술을 지원받아 싱가포르와 체코에서 해외 기술검증(Poc)을 추진하고 있다. 아이디씨티는 터널과 지하공간 등 GPS 수신이 불가능한 환경에서 정밀한 위치를 확인할 수 있는 'uGPS' 기술을 보유하고 있다...중략... ...중략...이 사업에 참여한 아이디씨티(IDCITI)는 IBM의 클라우드 및 데이터 분석 기술을 지원받아 싱가포르와 체코에서 해외 기술검증(Poc)을 추진하고 있다. 아이디씨티는 터널과 지하공간 등 GPS 수신이 불가능한 환경에서 정밀한 위치를 확인할 수 있는 'uGPS' 기술을 보유하고 있다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-16",
+  "link": "https://www.yna.co.kr/amp/view/AKR20260916026700065",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23482": {
+  "body": "...중략... 솔루션은 양자 암호와 기존 암호 방식을 함께 쓰는 하이브리드 체계를 채택해, 표준이 완전히 자리 잡기 전 과도기에도 안정성을 확보하도록 설계됐다. 적용 분야는 차량과 인프라 간 통신(V2X)에 쓰이는 인증서, 무선 소프트웨어 업데이트(OTA)의 위변조 방지, 차량 제어기의 보안 부팅 등 세 갈래다. 앞서 지난해 12월 정식 출시된 이 제품은 올해 1월 CES 2026에서도 공개됐다...중략... ...중략... 솔루션은 양자 암호와 기존 암호 방식을 함께 쓰는 하이브리드 체계를 채택해, 표준이 완전히 자리 잡기 전 과도기에도 안정성을 확보하도록 설계됐다. 적용 분야는 차량과 인프라 간 통신(V2X)에 쓰이는 인증서, 무선 소프트웨어 업데이트(OTA)의 위변조 방지, 차량 제어기의 보안 부팅 등 세 갈래다. 앞서 지난해 12월 정식 출시된 이 제품은 올해 1월 CES 2026에서도 공개됐다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-16",
+  "link": "https://www.market-ink.co.kr/news/articleView.html?idxno=11996",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23484": {
+  "body": "...중략...인천시는 이번 간담회를 계기로 인공지능(AI)·바이오(B)·콘텐츠(C)·에너지(E)를 축으로 하는 미래산업 혁신 전략을 가속화한다. 특히 청라 지역에 공항과 항만을 아우르는 지리적 이점과 커넥티드카 인증평가센터 등 기존 기반을 활용한 `인공지능(AI) 커넥티드 모빌리티 사이언스파크`를 조성해 첨단 산업 집적지로 육성할 방침이다...중략... ...중략...인천시는 이번 간담회를 계기로 인공지능(AI)·바이오(B)·콘텐츠(C)·에너지(E)를 축으로 하는 미래산업 혁신 전략을 가속화한다. 특히 청라 지역에 공항과 항만을 아우르는 지리적 이점과 커넥티드카 인증평가센터 등 기존 기반을 활용한 `인공지능(AI) 커넥티드 모빌리티 사이언스파크`를 조성해 첨단 산업 집적지로 육성할 방침이다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://seonamtoday.com/news/view.php?idx=54155",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23485": {
+  "body": "...중략...대구시는 UAM 초기 상용화를 위한 ‘지역시범운영 거점’으로 서대구 KTX역 인근(서대구역 2주차장)을 버티포트 입지로 선정하고, 오는 18일 주민 설명회를 통해 의견수렴 절차에 들어간다...중략... ...중략...대구시는 UAM 초기 상용화를 위한 ‘지역시범운영 거점’으로 서대구 KTX역 인근(서대구역 2주차장)을 버티포트 입지로 선정하고, 오는 18일 주민 설명회를 통해 의견수렴 절차에 들어간다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-16",
+  "link": "https://www.irobotnews.com/news/articleView.html?idxno=48542",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23486": {
+  "body": "...중략...한국지능형교통체계협회가 컨소시엄을 이끌고 유신과 한국도로공사, 에스트래픽, 엠큐닉이 장비·시스템 설계와 공급, 통합 구축, 기술 지원 등에 참여한다. 우리 정부는 국토교통 공적개발원조(ODA)를 통해 최대 40억5600만원을 지원한다. 현지 공무원과 운영자를 대상으로 시스템 운용 기술도 이전한다...중략... ...중략...한국지능형교통체계협회가 컨소시엄을 이끌고 유신과 한국도로공사, 에스트래픽, 엠큐닉이 장비·시스템 설계와 공급, 통합 구축, 기술 지원 등에 참여한다. 우리 정부는 국토교통 공적개발원조(ODA)를 통해 최대 40억5600만원을 지원한다. 현지 공무원과 운영자를 대상으로 시스템 운용 기술도 이전한다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-16",
+  "link": "https://www.theguru.co.kr/news/article.html?no=107168",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23489": {
+  "body": "-국토교통부·강릉시, ‘제32회 강릉 ITS 세계총회’ 맞춤형 교통앱 출시 - 중소도시 ITS 모델 제시 및 한국형 통합교통서비스(K-MaaS) 세계 홍보 □국토교통부(장관 김윤덕) 대도시권광역교통위원회(위원장 김용석, 이하 대광위)는 강릉 ITS 세계총회*에 맞춰 한국형 통합교통서비스 K-MaaS(Mobility as a Service)를 적용한 교통앱을 출시한다. * 매년 전세계 첨단교통분야 기업·학계·정부 관계자들이 참가하여 지능형교통체계(ITS) 기술·학술·정책을 교류하는 행사로, 올해로 32회째 개최 (서울 ‘98년, 부산 ‘10년 개최) ㅇ K-MaaS 서비스는 모바일 앱을 통해 목적지까지 최적의 경로를 검색하고, 검색된 경로의 철도·버스·택시 등 다양한 운송수단을 실시간 조회부터 예약·결제 기능까지 제공하는 원스톱 교통지원 서비스다. □ 대광위는 2024년부터 K-MaaS 시범사업을 추진해 왔다. 한국도로공사가 중계플랫폼을 운영하여 각 운송사의 정보를 통합·중계하고, 이를 활용하여 민간 서비스플랫폼 사업자가 실시간 조회·예약·결제가 가능한 교통서비스 앱(슈퍼무브)을 출시·운영 중이다. □ 대광위는 약 90개국에서 6만 명의 교통분야 관계자가 참석하는 세계 최대 규모의 첨단교통 행사를 위해 강릉 ITS 세계총회 맞춤형 K-MaaS 앱을 출시·운영하기로 하고, 관계기관과 업무협약을 체결하여 총회 기간동안 원스톱 교통서비스를 적극 지원한다. ㅇ (일시/장소) ’26.09.17.(목) 16:00 / 강릉 컨벤션센터 컨벤션홀 ㅇ (참석자) 대도시권광역교통위원장, 강릉시장, 한국도로공사 사장*, 에스트래픽** 대표 * 강릉 ITS 조직위원회 위원장 겸임 / ** 강릉 ITS 연계 MaaS 서비스 플랫폼 운영사 ㅇ (주요내용) K-MaaS 서비스 원활한 운영 및 고객대응에 적극 협력 ",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092429",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23490": {
+  "body": "- 교역·투자, 핵심광물 공급망, 플랜트·인프라 등 각국 경제단체의 공동선언 도출 - 핵심광물, 스마트시티 등 한-중앙아 상생 발전을 위한 비즈니스 MOU 총 19건 체결 - 1:1 비즈니스 상담회 통해 200여건 상담, 총 1,400만 달러 규모의 현장 계약 성사 산업통상부(장관 김정관)와 대한상공회의소(회장 최태원)는 9월 16일(수) 웨스틴 조선호텔 그랜드볼룸에서 중앙아시아 5개국과 수교 이래 처음으로 다자 경제 행사로 ｢제1차 한-중앙아시아 비즈니스 서밋｣을 개최하였다. 이날 행사에는 이재명 대통령, 중앙아시아 5개국 정상(카자흐스탄, 키르기스스탄, 타지키스탄, 투르크메니스탄, 우즈베키스탄) 및 각국 경제인들이 참석하였다. 우리 측에서는 최태원 대한상공회의소 회장, 포스코 장인화 회장, LS 구자은 회장, 대우건설 정원주 회장, 신한금융지주 진옥동 회장, 현대자동차 서강현 사장 등 국내 주요 기업인과 정부 관계자 170여명이, 중앙아 5개국은 각국 정부 관계자와 함께 카자흐스탄 삼룩카즈나, 카즈무나이가스, 키르기스스탄 인테그라 엔지니어링, 타지키스탄 가이유르 그룹, 투르크메니스탄 오자르 아시아, 우즈베키스탄 AKFA 그룹, ADM 글로벌 등 국부펀드와 주요 기업 대표 350여명이 자리하였다. ‘1부 발표 세션’은 ‘성장과 혁신을 위한 한-중앙아 미래 협력’을 주제로, ➊교역·투자 확대, ➋핵심광물·에너지·공급망 협력 강화, ➌플랜트·인프라·물류 활성화 3개 분야의 실질 협력 과제와 기업 진출 방안에 대해 패널 토의가 이루어졌다. 교역·투자 분야에서는 원자재 중심의 교역 품목을 다변화하고 제조업 등으로 투자 협력을 다각화하는 방안이 제시되었다. 핵심광물·에너지·공급망 분야에서는 중앙아시아의 풍부한 광물·에너지 자원과 우리 기업의 기술력을 연계하기 위한 방안을 논의하였다. 플랜트·",
+  "date": null,
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172208/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23491": {
+  "body": "제1차 한-중앙아 정상회의 계기 3개국 비즈니스 포럼 및 라운드테이블 개최 - 카자흐스탄·우즈베키스탄·투르크메니스탄 각국 정상 주재 경제협력 확대 논의 □ 제1차 한-중앙아 정상회의를 계기로 9.15(화) 서울에서 한-카자흐스탄 비즈니스 라운드테이블(BRT)과 한-우즈베키스탄, 한-투르크메니스탄 비즈니스 포럼이 연이어 개최되었다. ㅇ 이번 행사에는 한성숙 국무총리를 비롯한 우리 정부 관계자와 카자흐스탄 토카예프 대통령, 우즈베키스탄 미르지요예프 대통령, 투르크메니스탄 베르디무하메도프 대통령 및 양국 주요 기업인들이 참석하여 그간의 경제협력 성과를 점검하고, 첨단산업, 인프라, 에너지·플랜트 등 다양한 분야에서 새로운 협력 기회를 모색하였다. □ 우선, 한-카자흐스탄 BRT에는 양국 정부 관계자와 기업인 약 230명이 참석하여, 양국 간 협력의 범위를 첨단산업·인프라·금융·의료 등으로 넓혀 나가는 방안을 논의하였다. ㅇ 사전환담에서 한성숙 국무총리는 그간 양국이 에너지·인프라 분야를 중심으로 호혜적 관계를 확대·심화시켜왔다고 언급하고, - 카자흐스탄과의 관계가 이번 방한을 계기로 새로운 단계로 도약하게 될 것이라 기대했다. 또한, 지난 4월 중동 위기시 카자흐스탄측의 원유 지원에 감사를 표했다. ㅇ 토카예프 대통령은 주요 한국기업들이 카자흐스탄에 대규모 투자를 실시해 온 점을 언급하면서, 앞으로 알라타우 신도시개발*, AI 협력 등 미래지향적인 협력을 확대해 나가기를 희망했다. * 카자흐스탄은 '알라타우市 특별 지위에 관한 법령'을 제정(26.5), 기존 알마티 경제권을 확장하고 국가차원의 글로벌 투자·혁신 허브로 육성 중 ㅇ 또한, 한성숙 총리는 토카예프 대통령이 지난 방한시 홍범도 장군 유해 봉환을 포함한 고려인 지원에 많은 관심을 가져준 점에 사의를 표했다. - 토카예프 대통령은 ",
+  "date": null,
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172204/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -1901,7 +1949,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.manilatimes.net/2026/09/14/business/top-business/dti-open-to-extension-of-ev-tariff-exemption/2424087",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23454": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -1913,7 +1961,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.gurufocus.com/news/9078840/tesla-unveils-cybercab-electric-vehicle-for-showcase",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23456": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -1929,15 +1977,15 @@
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23461": {
   "body": "SG has launched VMS-P, a palletised variable message sign (VMS) that removes the trailer fitted as standard to every unit the company has previously built, ahead of its appearance at Highways UK next month...중략... [영국 고속도로: SG, 트레일러 없이 사용 가능한 휴대용 VMS 출시] SG는 다음 달 Highways UK 전시회에 앞서, 기존에 모든 제품에 기본으로 장착되던 트레일러를 제거한 팔레트형 가변 메시지 표지판(VMS)인 VMS-P를 출시했습니다. SG has launched VMS-P, a palletised variable message sign (VMS) that removes the trailer fitted as standard to every unit the company has previously built, ahead of its appearance at Highways UK next month...중략... [영국 고속도로: SG, 트레일러 없이 사용 가능한 휴대용 VMS 출시] SG는 다음 달 Highways UK 전시회에 앞서, 기존에 모든 제품에 기본으로 장착되던 트레일러를 제거한 팔레트형 가변 메시지 표지판(VMS)인 VMS-P를 출시했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
-  "date": null,
+  "date": "2026-09-15",
   "link": "https://www.traffictechnologytoday.com/news/variable-message-signs/highways-uk-sg-launches-a-portable-variable-message-sign-that-doesnt-need-a-trailer.html",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23462": {
   "body": "Ettifos, a vehicle-to-everything (V2X) communications technology provider headquartered in South Korea, has been selected through a competitive procurement process to support the Maricopa County Department of Transportation (MCDOT), Arizona, in delivering the Connected Vehicle Acceleration Zone (CVAZ), a deployment designed to accelerate interoperable V2X technology across key corridors in the county. [Ettifos가 마리코파 카운티 V2X 구축 지원 업체로 선정되었습니다.] 한국에 본사를 둔 차량 대 사물(V2X) 통신 기술 제공업체인 에티포스가 경쟁 입찰 과정을 통해 애리조나주 마리코파 카운티 교통국(MCDOT)의 커넥티드 차량 가속 구역(CVAZ) 구축 사업자로 선정되었습니다. CVAZ는 카운티 내 주요 도로망에서 상호 운용 가능한 V2X 기술을 가속화하기 위해 설계된 사업입니다. Ettifos, a vehicle-to-everything (V2X) communications technology provider headquartered in South Korea, has been selected through a competitive procurement process to support the Maricopa County Department of Transportation (MCDOT), Arizona, in delivering the Connected Vehic",
-  "date": null,
+  "date": "2026-09-14",
   "link": "https://www.traffictechnologytoday.com/news/connected-vehicles-infrastructure/ettifos-selected-to-support-maricopa-county-v2x-deployment.html",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23463": {
   "body": "Transport for London (TfL), the agency which runs integrated public transport services in the UK’s capital, has updated its blueprint to improve resilience, reliability and sustainability...중략... 영국 수도 런던의 통합 대중교통 서비스를 운영하는 기관인 런던 교통국 (TfL)은 회복력, 신뢰성 및 지속가능성을 향상시키기 위한 청사진을 업데이트했습니다. Transport for London (TfL), the agency which runs integrated public transport services in the UK’s capital, has updated its blueprint to improve resilience, reliability and sustainability...중략... 영국 수도 런던의 통합 대중교통 서비스를 운영하는 기관인 런던 교통국 (TfL)은 회복력, 신뢰성 및 지속가능성을 향상시키기 위한 청사진을 업데이트했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
@@ -1955,13 +2003,13 @@
   "body": "Einride and Lidl in Germany have put a cab-less SAE Level 4 autonomous truck into daily operations on a public road, with no driver or safety operator on board. The truck moves goods between a Lidl warehouse and distribution center and a Lidl store under a permit from Germany’s Federal Motor Transport Authority (KBA), which the companies describe as the first of its kind granted in the country. Einride (Nasdaq: ENRD) announced the deployment this week alongside Lidl, a fresh food retailer and a company of Schwarz Group...중략... [아인라이드와 리들이 독일에서 운전석 없는 자율주행 트럭을 출시했습니다. 독일의 아인라이드(Einride) 와 리들(Lidl)은 운전석이나 안전 요원이 탑승하지 않은 SAE 레벨 4 자율주행 트럭을 일반 도로에서 일상적으로 운행하기 시작했습니다. 이 트럭은 독일 연방 자동차국(KBA)의 허가를 받아 리들의 물류 창고와 매장 사이에서 상품을 운송합니다. 양사는 이 허가가 독일에서 최초로 발급된 자율주행 트럭 운행 허가라고 밝혔습니다. 신선식품 소매업체이자 슈바르츠 그룹(Schwarz Group) 계열사인 리들과 함께 아인라이드(나스닥: ENRD)는 이번 주에 자율주행 트럭의 도입을 발표했습니다. Einride and Lidl in Germany hav",
   "date": null,
   "link": "https://selfdrivenews.com/einride-lidl-cab-less-autonomous-truck-germany/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23473": {
   "body": "Pony.ai has unveiled a Level 4 autonomous heavy-duty truck built on GAC Commercial Vehicle’s T9 battery-electric platform, with volume production scheduled to begin later this year. The vehicle made its global debut this week at IAA Transportation 2026 in Hannover, Germany, as one of the models in the company’s fourth-generation Gen-4 Robotruck lineup. Pony.ai says the truck will be deployed in long-haul freight, dedicated-route logistics and port transportation...중략... 포니아이(Pony.ai)는 GAC 상용차의 T9 배터리 전기 플랫폼을 기반으로 제작된 레벨 4 자율주행 대형 트럭을 공개했으며, 올해 하반기 양산에 들어갈 예정입니다. 이 차량은 이번 주 독일 하노버에서 열린 IAA 운송 박람회 2026에서 포니아이의 4세대 로보트럭(Gen-4 Robotruck) 라인업 모델 중 하나로 세계 최초로 공개되었습니다. 포니아이는 이 트럭이 장거리 화물 운송, 전용 물류 노선 및 항만 운송에 투입될 것이라고 밝혔습니다. Pony.ai has unveiled a Level 4 autonomous heavy-duty truck built on GAC Commercial Vehicle’s T9 battery-electric platform, with volume production scheduled to begin later t",
   "date": null,
   "link": "https://selfdrivenews.com/pony-ai-gen-4-robotruck-gac-commercial-vehicle/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23476": {
   "body": "US Transportation Secretary Sean P. Duffy has urged Ford Motor Company to reduce its reliance on Chinese technology and manufacturing, citing national security concerns. In a letter to Ford CEO Jim Farley dated 8 September, Duffy criticised the company’s continued use of Chinese technology and partnerships, arguing that Ford should increase its focus on manufacturing and technological development in the US...중략... 션 P. 더피 미국 교통부 장관은 국가 안보 문제를 이유로 포드 자동차 회사에 중국 기술 및 제조에 대한 의존도를 줄일 것을 촉구했습니다. 더피는 9월 8일 짐 팔리 포드 CEO에게 보낸 서한에서 포드가 중국 기술과 파트너십을 계속 사용하는 것을 비판하며, 미국 내 제조 및 기술 개발에 더 집중해야 한다고 주장했다. US Transportation Secretary Sean P. Duffy has urged Ford Motor Company to reduce its reliance on Chinese technology and manufacturing, citing national security concerns. In a letter to Ford CEO Jim Farley dated 8 September, Duffy criticised the company’s continued use of Chinese technology and partnersh",
@@ -1973,12 +2021,36 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.vietnam.vn/ko/nghien-cuu-dieu-chinh-du-an-bo-sung-its-vao-cao-toc-cao-lanh-an-huuQQ",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23478": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-09-14",
   "link": "https://ertico.com/swarco-its-guides-st-johann-austria-towards-smarter-mobility",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23483": {
+  "body": "...중략...15일 니혼게이자이신문 등 일본 현지 매체에 따르면 웨이모는 택시 호출 플랫폼 GO, 대형 택시업체 일본교통과 손잡고 2027년 도쿄에서 레벨4 완전 무인 로보택시의 상업 운행을 시작한다. 소수 차량을 먼저 투입한 뒤 도쿄 주요 지역에서 약 100대까지 운행 규모를 확대한다는 구상이다...중략... ...중략...15일 니혼게이자이신문 등 일본 현지 매체에 따르면 웨이모는 택시 호출 플랫폼 GO, 대형 택시업체 일본교통과 손잡고 2027년 도쿄에서 레벨4 완전 무인 로보택시의 상업 운행을 시작한다. 소수 차량을 먼저 투입한 뒤 도쿄 주요 지역에서 약 100대까지 운행 규모를 확대한다는 구상이다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-09-16",
+  "link": "https://www.econovill.com/news/articleView.html?idxno=751040",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23493": {
+  "body": "SYSTRA’s Danish teams will lead this assignment within a framework agreement with Danish IT consultancy Netcompany. 'We are delighted to support the Danish Road Directorate in strengthening the Data hub, a platform that makes trusted road data more accessible and useful for everyone' , said Dan Sander Petersen, Project Manager – GIS & Digital at SYSTRA Denmark ....중략... SYSTRA의 덴마크 팀은 덴마크 IT 컨설팅 회사인 Netcompany와의 기본 계약에 따라 이 과제를 주도할 것입니다. \"누구나 신뢰할 수 있는 도로 데이터를 더 쉽게 접근하고 활용할 수 있도록 하는 플랫폼인 데이터 허브를 강화하는 데 있어 덴마크 도로국을 지원하게 되어 기쁩니다.\" 라고 SYSTRA 덴마크의 GIS 및 디지털 프로젝트 매니저인 댄 샌더 페테르센이 말했습니다 . SYSTRA’s Danish teams will lead this assignment within a framework agreement with Danish IT consultancy Netcompany. 'We are delighted to support the Danish Road Directorate in strengthening the Data hub, a platform that makes trusted road data more accessible and useful for everyone' , said Dan Sander Petersen,",
+  "date": "2026-09-16",
+  "link": "https://ertico.com/systra-strengthens-the-danish-road-networks-data-platform",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23494": {
+  "body": "The solution links vehicle assignment, charging planning and depot parking across the entire operating day, allowing transport companies to identify potential conflicts early and make dispatching decisions on a more comprehensive data basis, according to Peak Mobility ...중략... [Peak Mobility, 전기버스 운영을 위한 예측형 배차 도구 공개] Peak Mobility 에 따르면, 이 솔루션은 차량 배정, 충전 계획 및 차고지 주차를 전체 운영 시간 동안 연동하여 운송 회사가 잠재적 충돌을 조기에 파악하고 보다 포괄적인 데이터를 기반으로 배차 결정을 내릴 수 있도록 합니다 . The solution links vehicle assignment, charging planning and depot parking across the entire operating day, allowing transport companies to identify potential conflicts early and make dispatching decisions on a more comprehensive data basis, according to Peak Mobility ...중략... [Peak Mobility, 전기버스 운영을 위한 예측형 배차 도구 공개] Peak Mobility 에 따르면, 이 솔루션은 차량 배정, 충전 계획 및 차고지 주차를 전체 운영 시간 동안 연동하여 운송 회사가 잠재적 충돌을 조기에 파악하고 보다 포괄적인 데이터를 기반으로 배차 결정을 내릴 수 있도록 합니",
+  "date": "2026-09-16",
+  "link": "https://www.traffictechnologytoday.com/news/electric-vehicles-ev-infrastructure/peak-mobility-debuts-predictive-dispatching-tool-for-electric-bus-fleets.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23497": {
+  "body": "European Mobility Week began on 16 September 2026, kicking off a week of events aimed at raising awareness of sustainable urban mobility with a launch in Strasbourg. The week encourages behavioural change in favour of active mobility, public transport, and other clean, intelligent transport solutions, and culminates in Car Free Day on 22 September...중략... 유럽 ​​모빌리티 주간이 2026년 9월 16일 스트라스부르에서 개막식을 시작으로 지속 가능한 도시 모빌리티에 대한 인식을 높이기 위한 다양한 행사와 함께 막을 올렸습니다. 이 주간 행사는 자전거, 도보, 도보 이동, 그리고 기타 친환경적이고 스마트한 교통 솔루션을 선호하는 행동 변화를 장려하며, 9월 22일 ' 차 없는 날'로 절정을 맞이합니다. [이탈리아] 유럽 모빌리티 위크 2026 9월 16일부터 22일까지 유럽집행위원회가 주관하는 연례 캠페인 '유럽 모빌리티 위크'가 돌아오며, 로마는 전 자치구에 걸친 폭넓은 행사 프로그램으로 참여한다. European Mobility Week began on 16 September 2026, kicking off a week of events aimed at raising awareness of sustainable urban mobility with a launch in Strasbourg. The week encourages behavioural change in favour of active mobility",
+  "date": "2026-09-16",
+  "link": "https://traveltomorrow.com/european-mobility-week-marks-25-years-with-focus-on-sustainable-transport/",
   "tries": 1
  }
 }
