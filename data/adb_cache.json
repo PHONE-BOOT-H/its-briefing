@@ -9,6 +9,16 @@
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=136980F1830AA4E2403A6E78AD264C334307694BE0ABC40A430146D965B1F151": {
+  "budget": {
+   "amount": 75000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "KazAvtoZhol \"National Company\" Joint Stock Company Kazakhstan",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=190FCEFA1CECA1C016F68348BBD39026548CFE810B5D5E24C4B1A93E21BDFAF8": {
   "budget": {
    "amount": 1475000.0,

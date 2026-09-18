@@ -41,6 +41,13 @@
   "impagency": "ICT Authority (ICTA),Kenya National Highways Authority (KeNHA),Kenya Revenue Authority (KRA),National Transport and Safety Authority (NTSA),State Department of Roads (SDoR),State Department of Transport (SDoT)",
   "total": 896049980.0
  },
+ "P161706": {
+  "borrower": "Lake Chad Basin Commission,Republic of Cameroon,Republic of Chad,Republic of Niger",
+  "closing": "2026-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Executive Secretariat for the SDS Sahel Niger (SE/SDS Sahel-Niger),Lake Chad Basin Commission,PROLAC PIU (Cameroon),PROLAC PIU (Chad)",
+  "total": 170000000.0
+ },
  "P161877": {
   "borrower": "Democratic Republic of Congo",
   "closing": "2027-06-30",
@@ -236,6 +243,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Department of Local Infrastructure (DoLI),Ministry of Urban Development (MoUD)",
   "total": 120000000.0
+ },
+ "P172225": {
+  "borrower": "Department of Finance",
+  "closing": "2028-08-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Department of Transportation, Communications & Infrastructure",
+  "total": 40000000.0
  },
  "P172499": {
   "borrower": "People's Republic of Bangladesh",
