@@ -22,7 +22,7 @@
 
 2. [독일] 스카이워스 오토, IAA 2026서 L4 자율주행 대형 트럭 'SKYWORTH Z9' 및 관제 시스템 공개
    - 분야: 자율주행 / 게재일: 2026-09-18 / 매체: ITS Korea
-   - 원문: https://www.newsfilecorp.com/release/313961/Skyworth-Auto-Makes-IAA-TRANSPORTATION-Debut-with-Five-Electric-and-Intelligent-Commercial-Vehicles?utm_source=gemini
+   - 원문: https://itskorea.kr/boardDetail.do?type=9&idx=23511
 
 3. [중국] 테슬라, 중국 베이징·상하이서 완전 자율주행 '사이버캡' 첫 전격 공개
    - 분야: 자율주행 / 게재일: 2026-09-15 / 매체: ITS Korea
@@ -57,7 +57,7 @@
    - 원문: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaDBzWG5BMWJNRnVCZURoS0NadW1ic1IxSVVNaVBJdEFzOGtrb3poZDN3RVlOZHZiQkcyc013cUZfdnhOdFc3dE13M004aE5oSnVzOHhTd2hJeER2TVA2Q3FkYy1Dbm9qeFpNeWg5SWRibkVmTlF1QnJwTDlYZERtOGppV1RGb3pQdkR4UUZKTjd6MUdjMENsSXRLbUFuQWNtUUVfM0dWLW9jZ1JmWXdfSnRic0FMWGZfMmt2Z0pwVEVjWGdFTmtScnktUU0tanB3cC1ZV3pnRk85UkVQSEVjUEZaeThiRXl0MnRuempTZTJybGPSAfoBQVVfeXFMTjFoSHp0T2cweVFvby1YbVFWSy0xdThFWXZDM1NHMUEtT3EwSTJIZE5GVjZWVWhld0ExUUNENGF5MGVZRW9NS0ZROTYxdzdfanJabHJKRTJ0Q1A2TV9RZnB0eVZ0RllySl9ha2NQaE1vdkk1WFNQdkNWdzRINXd5ejAzYk95dlRESUJOZ2JfaDlxYVZmaDZ2eWxWUXBGdEhWT1BvNW05OHZiZGNNUHVCV0x3ZjZubkNka2tZQlR3QzM2NXpkSE1BU0d2dmtqUVZzbWk0NS02ckF6WmE0ZEdXNzktR2NjRWRWYzlVdEQxVWZYa1lNVlBrUFE5UQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 11. ASTC Buses Can Now Be Tracked in Real Time with New Intelligent Transport System
-   - 분야: 신호·관제 / 게재일: 2026-09-15 / 매체: G Plus News
+   - 분야: 신호·관제 / 게재일: 2026-09-15 / 매체: guwahatiplus.com
    - 원문: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWlUV0lSU3dKTTh1TVZONy1OZUtEbG14S0R5aXJjQjFCTWdBSDZKVzBBX3RvZmlSeUJtYS0tU08zemRxa2RuNGFxbmhsT1BMQXRQVFFMaUpXclE1N1llaTB6cUtMaTdfZXRYWFR5YTlMZTdOQnU4cWFHVTZacXV2NE1OZDFkSmVhejdTOGZRaE5vcTZXTXZyYXhqVE54M3JrR1lvM3V6c2k?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 12. Russia plans to connect the occupied Kherson region to its traffic management system
@@ -89,11 +89,11 @@
    - 원문: https://www.econovill.com/news/articleView.html?idxno=751040
 
 19. Guwahati Smart City CCTV Rollout: AI Cameras Strengthen Traffic Monitoring Across Key Junctions
-   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: boroktimes.com
+   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: Borok Times
    - 원문: https://news.google.com/rss/articles/CBMiugFBVV95cUxPOU5VTG1udnpjc1BJY1ZNbDNRRUVfRVEzdUNEeU9FY2tmdEZ5dVdISlRINDVWdWJWcHlncEtnZ2pocWFITjEwU085b1UxQ3dEY3N2YndhRWIxUVR1MlJhNFVzOHA3MGJhOEpfYm40bUZ2X2daUWwweW9WZ3RPQmhzUHZyRW9TTkV1RzhFOWJQSXliNEVRUWdlUjRIMXJMVGRKQ0ZBeUFtVVZkVFhwRmh4ME5nS1BhRGlPMHfSAcIBQVVfeXFMUFYxQnVtdEE1YmdtRENpOF9kZVdiRGlOYjIxbC01QVE5akJFSUdoM1RtQl9sY3VTTmg3WDBvTnpHS016WWNXYUtKN3V5X1VPaE14V3dpTFFCdDdTejhVSlVjR1dXT3RJWmI1UEhIb0wxSzdrSUxOaDk2OVRFT2d5Q3EwR2k4VmhGOHF1d09qejlFZXE4RWZiN2tNb1oyaldwbm9ZUmdlaXc0dHVKZEYtQ1ZHMkp4ZHdranNPdTd5OW80OXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 20. New Hill Parking Spaces, Live Traffic Monitoring System: Bengal CM Suvendu Adhikari Outlines Traffic Action Plan
-   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: The Daily Jagran
+   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: thedailyjagran.com
    - 원문: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNQzRocVJ0Z0laVVN5bElIc1RyNnNzYzRxSUxHQmRfS1J0NUNIOXoxMTJPQXhXZWR5Tndfck9oVWh2aW8xdWtSbUdGRU16dkhjb3dQQmFJcnR2c0hRUnllTkNjN1A1ZVNyd2lOY1JjM2hhd1ZPY19TOWNLMktrcXZSVnk5T0tKSUdBTEFhRUNlWElkYTcxQUQ1WnlGZHB4WnZOOW9FQWNxM0tNU3kwRG1UdDV3WEswZklLUEpPY2J0S0M5RXFlRFJscG1xdHVFSGF5bVFYOVZLWGk0eW52WGJjMGFmeVlQY3p6VG1mcDFrejJxMlXSAfoBQVVfeXFMT3hSMGY4Q0pmd2Eya2owVG9NTDBfeDY5aGttbEdjMVdIdFF6amhJaGhXUVA2eUQ2VDNYSkphZEVFSmx3cWxCQ0R4YW8yLWI5blZhb0lWaVZDS245UGhBTktWZVBwOXpLWUFtSWZWUjZNX2JJd21oaDkxZkE5d3RwWlVSNjFrRUFVaHJiQ19vVXZRcEJxdE1VR2VZd2FaOEF2UHBNSjlUOVdfVU9pamM3OWJISjlVZ3hpRVVzVzZwcVllaVZPc2Z0RldqaUdSeEtQaUhyNEdBdlZ0VWhIN2I4QVFVMldMYnhkY3BpeGxsMm8tbDFTd0xuczRmdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
@@ -111,8 +111,8 @@
    - 원문: https://www.etoday.co.kr/news/view/2627065
 
 3. "상반기에만 5.8조 수주" 자율주행 시장 확대에 웃는 이 회사[클릭 e종목]
-   - 분야: 산업·투자 / 게재일: 2026-09-14 / 매체: 아시아경제
-   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sZWQxbHZRODJGUHBKMUhNWUk4RHowZEVyMGpNa0ZTN1RMVGVON0tIX0NmRi1PS1prTzIzeTZ4bXp0enB5Q1FrdE1DYnk0NThWX3c5cEZ5ZlFLeExjRVhxWA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 분야: 산업·투자 / 게재일: 2026-09-14 / 매체: v.daum.net
+   - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zaWg3ZlF4b3FXQ1U0MFk4UXg2SGRGVFNwcHN3Q1dvZ2VZX1VGTU0wREZIbFlUNTZhWVpjaUcxNnVNYUhWMlE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 4. 아이티텔레콤, C-V2X 기반 '스마트 모빌리티 통합단말기' 상용화
    - 분야: C-ITS·V2X / 게재일: 2026-09-15 / 매체: supple.kr
@@ -123,7 +123,7 @@
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE8zWHpXeVBNczRBZldhcHlXZTJid3M1T0F4ZGtWX3hpM0VEcHVZT0Z1Tm43UTBwYTBlNDduSGZHSHhoN2VxckRJWDIzeFRYWW8xQlptSXA3VnluN1dvX2JQZ1lVZmRBc0FZN3c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 6. ACP 홀딩스, 자율주행 기술 기업 '메이 모빌리티'와 합병 계약…기업가치 14억달러 평가
-   - 분야: 자율주행 / 게재일: 2026-09-16 / 매체: 데이터투자
+   - 분야: 자율주행 / 게재일: 2026-09-16 / 매체: datatooza.com
    - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE9Qalc4RS1jb3o5SmliVGlhaTZWTFdLYlpFWWRxMklZTVNOUjN6b3Z2RVBxR2RoaWFsdzF4V0hfTnZjUlNfMC10ZUloeGFvTDVhSUJOODdFcC1tN2pEYVRGZTNhdUtzSExmUm9Wd2EyTU5aUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 7. [회원사/동향] 한국도로공사, 글로벌 인프라 협력 콘퍼런스(GICC)에서 방글라데시·튀르키예와 해외사업 협력 논의
@@ -151,7 +151,7 @@
    - 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBCb21FVnBOVHpkUEZQYzA5UVBsalk5V19vR0tPNlZwTkRzSkIzY3RkNEFLNlJSc1FNRGlEeFJuZHJ6VklaOV82TU1ldW9zNW8?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 13. “자율주행 넘어 일상이 바뀐다”…교통학계, ‘피지컬 AI’ 미래 모색
-   - 분야: 자율주행 / 게재일: 2026-09-17 / 매체: 에너지경제신문
+   - 분야: 자율주행 / 게재일: 2026-09-17 / 매체: ekn.kr
    - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNGRVYmU0QXZpZ3pkQUpMZ3dNTGx5bk5wbXVTVHZEbzM3Sk1DUVNsV0p0MHhtOXNQZEFOQi15T05HRXRmUTkxaXZra1lXdTd1MmJCLU1Pa0lPZFU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 14. [지자체] 안산시, ‘내 집 안 주차장’ 설치비 지원
