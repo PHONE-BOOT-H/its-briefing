@@ -160,6 +160,20 @@
   "impagency": "CAMRAIL,Ministère des Infrastructures et du Désenclavement (Ministry for Infrastructure and Opening-up),Ministère des Transports (Ministry of Transport)",
   "total": 816000000.0
  },
+ "P167894": {
+  "borrower": "Kingdom of Morocco",
+  "closing": "2029-12-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Ministry of Equipment and Water",
+  "total": 283000000.0
+ },
+ "P168132": {
+  "borrower": "Government of Benin",
+  "closing": "2030-04-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministere de l'Agriculture, de l'Elevage et de la Peche",
+  "total": 160000000.0
+ },
  "P168386": {
   "borrower": "Burkina Faso,Niger,Togo",
   "closing": "2027-09-30",

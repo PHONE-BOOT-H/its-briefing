@@ -149,6 +149,16 @@
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=9552CF21ADC09C43E6FF819D62DA325AF67CB7CBD8C4A01C4D34979AEBCC99D0": {
+  "budget": {
+   "amount": 8000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Department of Public Works and Highways Philippines",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=9E8343B411BFBAD3C4E9037FE2C4B06DE5B447C2BB6FDEE6FA7580DDBBCA2801": {
   "budget": {
    "amount": 160600.0,
@@ -168,6 +178,16 @@
   "org": "Asian Development Bank Regional",
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=C6334DB4FC87BF1A9C04BF5CBD575E1B486C2D9500451B319C0C4CC8E4E3545F": {
+  "budget": {
+   "amount": 32000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Department of Public Works and Highways Philippines",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "International"
  },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=C708705531177F512B5CEC6ED5C23671DB126EA7A988CA5CF6DF71C6369A202D": {
   "budget": {
