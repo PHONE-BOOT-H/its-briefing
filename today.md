@@ -45,7 +45,7 @@
    - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kU3V4Yl90OE15djlaWGpzc0NnRkJSNUNoVC1YU0twRDlBLVZkZFYtZ0ViM1gwdURXa3M2dnRqTXpJWi1wOS1mZ21idE5WblYyRHZ3MnpLempaUEFid2E2d2Uxb0E?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 8. RTA–ABG Partnership advances with first payment for Road Traffic Management System in Buka
-   - 분야: 신호·관제 / 게재일: 2026-09-14 / 매체: postcourier.com.pg
+   - 분야: 신호·관제 / 게재일: 2026-09-14 / 매체: Post Courier
    - 원문: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNc1pqQ2lqaFZBNkZham55Z2pBTWNCUXNwLVFCdlhsTFVNM3prN3FjR3B0dGpkVzJKck9yelYzUVNEcGtwazBsVnNZTnUzbWN4eTJoR1E3eU9SOEdnTGFDOF9BUnFPcUROT2Z4NlJJWVM5dy15OVE0Sm04US1LOFBadm1lZDBzcm5DUmQ2SEhwYjFvSkNBcVZOem5naFA3TnlmTDZOUUw3dVJWanoxRENuSFo2RVFqdThxM0lsMWxSZmo?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 9. Motorists save 10% to 15% time per junction thanks to GCC’s Intelligent Transport System, data finds
@@ -65,7 +65,7 @@
    - 원문: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNWhHRkR4UXVRZVEzWnJwNzJMS2J3SC1BR1d2RjZSZHotYjJnYVQ5SmY5Z3pLeVRRVUNRbmRCWkNkaVFMZ0ZhNGdRN3pqbmFpblJodFRGU3lNWnFsRDlEY0x4eGZJb3JJbzljSEpwanlZaXNzTDJmNGpTUUo2TVJ1cFdqMTY0UDBQWkVGY21SbV9yNDBld1puSmtYMFFnZE9tZXpDSUkySDJDTEhXeVROeXM5YjFUOEhSRFlTZUs1YldMemtFazFZejl5TG05bkdseU5QMDVtSkVUMkxCc2EwZE1XQktWWmpRUHBSalpWcF9zalR0UGlsM1FB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 13. CM Adhikari Launches New Traffic Control Room To Monitor Road Movement Across State
-   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: freepressjournal.in
+   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: Free Press Journal
    - 원문: https://news.google.com/rss/articles/CBMivgFBVV95cUxPRmRUR3ItZEEwT1NiUnFXZURObmJJSTVwUVlzMFd1RS1fcjVCTEk2TktLX0piSzVidFJCTTFOUzFJYm0tZGh4ZjljY3hfd200ZVBmZ25DajJuN0RPTVBaXzRPbWRTdndXbTBjVWlDR0xUWlpIemlOemlFeUZpYjRCc1JqcThDWWhydWxfUmVTb2wzb2czTHZ6WHBiUkFsVzROeTB3eGVsZlJQQk03SURjemIwN1ZkLVJKMjRtVFFn0gHDAUFVX3lxTE4tRm5SczNtakxybEZBOEhFMWcxYnlRVURZQi1wandwblhOTXd4MWcxVFdrVUZ3eFdGeG9xVGhEN1hnODBsTG5jY2cwZm9jOUpGRmF4STBXTUN6ZFVyVDRISHd5RXFrMFlQZjNpYjlLVWZqQmltSktxSFpadWtZajJvTzQtNE1yUnNubnhzSS1LZEtxMUxhWlhoS3RjQW41RHl4OHctNkpzSllEMTQ4bW5GWnVMaklqMkpBVzFHbGFNWUJTRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 14. Kolkata Traffic Control Room Goes Live Before Puja Road Repairs
@@ -102,85 +102,85 @@
 
 등록 게시판: ITS국제협력센터 > 소통창구 > 공지사항(영어)
 
-1. 태국 교통부 차관, 카카오모빌리티 자율주행 서비스 체험⋯미래 발전 논의
+1. [회원사/동향] 태국·체코 교통차관, 카카오모빌리티 강남 자율주행 잇달아 체험
+   - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: ITS Korea
+   - 원문: https://www.electimes.com/news/articleViewAmp.html?idxno=372651
+
+2. 태국 교통부 차관, 카카오모빌리티 자율주행 서비스 체험⋯미래 발전 논의
    - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iSjV2Uy1tMGlYV2I4T2ZEUENVRHVCVFBxVXZFWTk1MlV4dzlldWxDZGJSRndkWFkwNm9WdlRacWhrX1VSbWctcWJNWTQzNVk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-2. [지자체] 고양, AI가 보행자·차량 흐름 읽는다…교통신호도 실시간 조정
+3. [지자체] 고양, AI가 보행자·차량 흐름 읽는다…교통신호도 실시간 조정
    - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: ITS Korea
    - 원문: https://www.etoday.co.kr/news/view/2627065
 
-3. "상반기에만 5.8조 수주" 자율주행 시장 확대에 웃는 이 회사[클릭 e종목]
-   - 분야: 산업·투자 / 게재일: 2026-09-14 / 매체: asiae.co.kr
+4. "상반기에만 5.8조 수주" 자율주행 시장 확대에 웃는 이 회사[클릭 e종목]
+   - 분야: 산업·투자 / 게재일: 2026-09-14 / 매체: 아시아경제
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sZWQxbHZRODJGUHBKMUhNWUk4RHowZEVyMGpNa0ZTN1RMVGVON0tIX0NmRi1PS1prTzIzeTZ4bXp0enB5Q1FrdE1DYnk0NThWX3c5cEZ5ZlFLeExjRVhxWA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. 아이티텔레콤, C-V2X 기반 '스마트 모빌리티 통합단말기' 상용화 - 머니투데이
+5. 아이티텔레콤, C-V2X 기반 '스마트 모빌리티 통합단말기' 상용화 - 머니투데이
    - 분야: C-ITS·V2X / 게재일: 2026-09-15 / 매체: 머니투데이
-   - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFBpMnJ0ZzM0T3B3UFJSLXJlRlVncThsRnFqUkFvQklJQl9fdWxkYmxPUm5uWU5xamdXV1ZEdk12V1ZxR0t0V3NTQ29GYmZrZHE3MVc1WnZLQUdfM3FhWGx0YkdZRnktQzZVNnfSAW9BVV95cUxOcDVLX1ZXX3hiWUlCU29YRW5CVjc0YUNyZGZObWdrMTd2U1ZteXRGdHVwbUxCNHZhaTIxd2V3OThpN0pxU3kyZzQ3c28xWFJha2xhUC02M3hUbDJXRlhaSTJDcDVTRExUODRfMlVNd0k?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTFBGR0ZCNmFabVNuYjBUTlEwMWZhdHJqRXZZa2RSR3JjLXZSd1AzVFpkY05la2RpRHNHNTZnUy1EZk9qaklpcHg5dDltd3dWT3ptOGpQajgzN2RxU1JDQWRNTVRVY0xPN1FIMUJuaFg5TjNZbllINl9z0gF8QVVfeXFMTU4xQnh4SXJ4a1hiWi1Rdkh2dkJ6dUNScnhseGREUDVvVjI0ZW5ZMV9TTFNTSF8zOV9WTE1TU1JkclJhanhjZDN5eEhnVkd1bDhhVm9YS2NBLXd0bWhhY2RDNm1JU1YwRXVKSFhJZGJzMDJfYmIycFM0ekFjUA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. ACP 홀딩스, 자율주행 기술 기업 '메이 모빌리티'와 합병 계약…기업가치 14억달러 평가
+6. ACP 홀딩스, 자율주행 기술 기업 '메이 모빌리티'와 합병 계약…기업가치 14억달러 평가
    - 분야: 자율주행 / 게재일: 2026-09-16 / 매체: 데이터투자
    - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE9Qalc4RS1jb3o5SmliVGlhaTZWTFdLYlpFWWRxMklZTVNOUjN6b3Z2RVBxR2RoaWFsdzF4V0hfTnZjUlNfMC10ZUloeGFvTDVhSUJOODdFcC1tN2pEYVRGZTNhdUtzSExmUm9Wd2EyTU5aUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. [회원사/동향] 한국도로공사, 글로벌 인프라 협력 콘퍼런스(GICC)에서 방글라데시·튀르키예와 해외사업 협력 논의
-   - 분야: 기타 / 게재일: 2026-09-17 / 매체: ITS Korea
-   - 원문: https://www.ex.co.kr/
-
-7. [회원사/동향] 도공·에스트래픽·엠큐닉, 콜롬비아 교통·도시 AI 자동화 인프라 구축
-   - 분야: 기타 / 게재일: 2026-09-16 / 매체: ITS Korea
-   - 원문: https://www.theguru.co.kr/news/article.html?no=107168
+7. 크라우드웍스, 모비루스 '농업 자율주행 데이터' 사업 수주
+   - 분야: 산업·투자 / 게재일: 2026-09-20 / 매체: 아이뉴스24
+   - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PSTBrbXdUd01xVTNwWVNNdXV0alhpMWEwV0RtNlY0a1J1US13TVVxalRQbHhaNGpuaGw0VXVFZ2NqWjdnRFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 8. [회원사/동향] 한국도로공사, AI 기술 활용해 상습 체납차량 단속 한층 강화
    - 분야: 단속·집행 / 게재일: 2026-09-17 / 매체: ITS Korea
    - 원문: https://www.dailydgnews.com/news/article.html?no=263549
 
-9. 도쿄는 2027년에 첫 자율주행 택시 서비스를 시작할 계획입니다.
+9. [지자체] 강릉 ITS 세계총회 한 달 앞으로…교통량 따라 신호 조절, 구급차엔 '초록길'
+   - 분야: 신호·관제 / 게재일: 2026-09-21 / 매체: ITS Korea
+   - 원문: https://www.etnews.com/20260920000049
+
+10. [지자체] 대구소방, ICT-IOT 기반 ‘긴급자동차 스마트 우선신호시스템 구축 사업’ 추진
+   - 분야: 신호·관제 / 게재일: 2026-09-21 / 매체: ITS Korea
+   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=23523
+
+11. [지자체] 경산시, 자가통신망 활용 체납차량 단속 ‘전국 우수사례’
+   - 분야: 단속·집행 / 게재일: 2026-09-20 / 매체: ITS Korea
+   - 원문: https://www.hidomin.com/news/articleView.html?idxno=721999
+
+12. 도쿄는 2027년에 첫 자율주행 택시 서비스를 시작할 계획입니다.
    - 분야: 자율주행 / 게재일: 2026-09-15 / 매체: Vietnam.vn
    - 원문: https://news.google.com/rss/articles/CBMimAFBVV95cUxQcWdxSHcwZ3QzeUk5Vnc0V1pCdHVpNEZDSjhQVDVwT3JOX0lvSFotU2oxLTNzVmthQVBwa29QZDZsLUJFQTY3RDVWRzFHTnZCekoySUJrVHlQNGFjOWRVMl9UTG1Ya1phNDY1ekg2b0JzbkRwakdGaUNVaVltMFNzYmRrNlhEMk1MSzBWRWhLWU9CYmtBZVRYSA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. 세종TP 자율주행 관제센터 유지보수 '5년 수의계약' 논란
-   - 분야: 신호·관제 / 게재일: 2026-09-16 / 매체: cc.newdaily.co.kr
+13. 세종TP 자율주행 관제센터 유지보수 '5년 수의계약' 논란
+   - 분야: 신호·관제 / 게재일: 2026-09-16 / 매체: 뉴데일리 충청세종
    - 원문: https://news.google.com/rss/articles/CBMiekFVX3lxTE1TRk5TS3o2VXViLWstcGxfLUhMWjRhcVpzVk5oSnFQMzBFWUlGZzVob1NDNWp5MnFvVjBZRVVhYkxqNWQwY2V1YTUxNzZpZWI5UnhfT1dFQl9XTHN5eGQ3RzJheW0wbVNDdUxmdHJJU3RrQ1pQaGZCMkpn0gF_QVVfeXFMT2hreURaMnhTeWNWUkhNUUFTOHF1U2pKN2xsOEpYZlFUb1U1Rm9CMWczNDRzdVJDdE9jMXFERzFQTXVWWm9LbERGSHJfd0lfUmo4dDJ3dGFkc0gyc0hSTEc4NFFhWUR0OWNqZHEtdHBZZGR3bk4wMzZyZzhQTUVCYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. “자율주행 넘어 일상이 바뀐다”…교통학계, ‘피지컬 AI’ 미래 모색
+14. “자율주행 넘어 일상이 바뀐다”…교통학계, ‘피지컬 AI’ 미래 모색
    - 분야: 자율주행 / 게재일: 2026-09-17 / 매체: 에너지경제신문
    - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNGRVYmU0QXZpZ3pkQUpMZ3dNTGx5bk5wbXVTVHZEbzM3Sk1DUVNsV0p0MHhtOXNQZEFOQi15T05HRXRmUTkxaXZra1lXdTd1MmJCLU1Pa0lPZFU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. [포커스] 세종테크노파크 자율주행 관제센터 용역 ‘복마전’ 논란
-   - 분야: 신호·관제 / 게재일: 2026-09-17 / 매체: SR타임스
+15. [포커스] 세종테크노파크 자율주행 관제센터 용역 ‘복마전’ 논란
+   - 분야: 신호·관제 / 게재일: 2026-09-17 / 매체: srtimes.kr
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PRlVva3BtM19WSXl5YnZVNkdUTDhpdkpCc1Y4VkloZG1sR1VtVjVnM0ctT2s1czE5RFFyaThfVERVQXBZczNXUEd2UDMzci1UV2diSDNWVGgzeUNKQmFvM1RLbnFVUjVa0gFrQVVfeXFMT0xqZ0RiRHpRazc5Q3A0ZklrYmNObk9fbXZkcmpYb2ZJQ0hFeDJlMmEwUjE3dlNJckRuVERwV2lCWktKSEtuMENjM0JFeU5hZ3NKOE1VdXMxa29ZWU05d1ZJc01PeHFLUVNneFk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 자율주행 화물운송 반년...터미널·인력 제도 정비 시급
+16. 자율주행 화물운송 반년...터미널·인력 제도 정비 시급
    - 분야: 자율주행 / 게재일: 2026-09-17 / 매체: 디지털투데이
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE5XR1l6QzE5UFE1SEUwUm42RmJmckM1RFJzRl9tWEp1V3c2LVhsUEtCWnN2OFFraXJrN2NFd1g2M3otOWtvc3cwcHZMWmxoTWkyeHpyMjRDOGVkb2dXYWFTbTYxWW54N2ZZeko4T2k1cTItWkk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 16년 만에 돌아온 '교통 올림픽'…강릉서 AI·자율주행 미래 펼친다
+17. 16년 만에 돌아온 '교통 올림픽'…강릉서 AI·자율주행 미래 펼친다
    - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJcG0xQXZCTmxfalVnV2RBbnhoazFlTi0yMFRKVm1QX1RUblF3bzRCYVJ3Tk1YSUxwdmlZR1BRekx0MmptU2F2VlJuTE1sVkVSYm1LTkdBN3NCc3JN?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. [지자체] 안산시, ‘내 집 안 주차장’ 설치비 지원
-   - 분야: 대중교통·물류 / 게재일: 2026-09-15 / 매체: ITS Korea
-   - 원문: https://www.hkbs.co.kr/news/articleView.html?idxno=833460
-
-16. [회원사/동향] “강남역 주차장 찾아줘”…쏘카, 국내 첫 ‘AI 음성 주차권’ 서비스 시작
+18. [회원사/동향] “강남역 주차장 찾아줘”…쏘카, 국내 첫 ‘AI 음성 주차권’ 서비스 시작
    - 분야: 대중교통·물류 / 게재일: 2026-09-18 / 매체: ITS Korea
    - 원문: https://www.sedaily.com/article/20092363
 
-17. [지자체] 안산시, 스마트 공영주차장 20개소로 확대
+19. [지자체] 안산시, 스마트 공영주차장 20개소로 확대
    - 분야: 대중교통·물류 / 게재일: 2026-09-18 / 매체: ITS Korea
    - 원문: https://www.dailian.co.kr/news/view/1691938/%EC%95%88%EC%82%B0%EC%8B%9C-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EA%B3%B5%EC%98%81%EC%A3%BC%EC%B0%A8%EC%9E%A5-20%EA%B0%9C%EC%86%8C%EB%A1%9C-2026
 
-18. 케이엔에스, 美 글로벌 기업향 로보택시ㆍ휴머노이드 ‘눈’ 카메라 모듈 조립 자동화 설비 수주
-   - 분야: 산업·투자 / 게재일: 2026-09-15 / 매체: v.daum.net
-   - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wT1dPSDRVWUVHeHBxelI0blpEblBfUV8zQ0ZVZjdhSzF1YnNXQ3U2MFRISHdxZDBybFNhR1UyMXFfRldvSHc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. [국토부/보도자료] 강릉 찾는 글로벌 방문객, 철도·버스·택시 예약·결제 앱 하나로
-   - 분야: 대중교통·물류 / 게재일: 2026-09-17 / 매체: ITS Korea
-   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=23489
-
-20. 고양시, AI로 보행자·차량 실시간 분석...지능형 교통신호로 안전 강화
-   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: cwn.kr
-   - 원문: https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1UmlEeVRGbUxQYTg5UXlmX2Z4Qmp2eDJhdGtOb3E2VnFYdnBUMkNCUUk1Yng5ZFcwLVhoSGdyM1hoUlV0dzg1VWtXMHd5RzNWWjNRT1loRTN4R0psM2FKZWZR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+20. [회원사/동향] 오토노머스에이투지, 아주대와 미래 모빌리티 발전 '맞손'
+   - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: ITS Korea
+   - 원문: https://www.asiae.co.kr/article/2026092108061051413
 
 ---
 
@@ -206,13 +206,17 @@
   - 마감 2026-09-24 / 발주처 Stadt Würzburg
   - 원문: https://ted.europa.eu/en/notice/-/detail/630389-2026
 
-- [카자흐스탄] Central Asia Regional Economic Cooperation Corridors 3 and 6 Turkistan Oblast Highway (Saryagash Bypass) Project
-  - 마감 2026-09-24 / 발주처 KazAvtoZhol "National Company" Joint Stock Company
-  - 원문: https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=136980F1830AA4E2403A6E78AD264C334307694BE0ABC40A430146D965B1F151
-
 - [폴란드] Poland – Software package and information systems – Rozbudowa SOSRD o udostępnianie w czasie rzeczywistym danych o natężeniu ruchu wraz z ich klasyfikacją
   - 마감 2026-09-25 / 발주처 Gmina Miasto Rzeszów - Urząd Miasta Rzeszowa
   - 원문: https://ted.europa.eu/en/notice/-/detail/641156-2026
+
+- [인도] Financial Management Expert for Jaipur Metro Rail Project Phase-2
+  - 마감 2026-09-25 / 발주처 Bangalore Metro Rail Corporation Ltd.
+  - 원문: https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=28ECD3443464749CE4956BB725B3090C47C3976EF8D74305572C9128E1339076
+
+- [인도] Climate and Disaster Risk Management Specialist for Jaipur Metro Phase 2 Project
+  - 마감 2026-09-25 / 발주처 Bangalore Metro Rail Corporation Ltd.
+  - 원문: https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=C708705531177F512B5CEC6ED5C23671DB126EA7A988CA5CF6DF71C6369A202D
 
 - [탄자니아] Development of an Environmental and Social Risk Management System (ESMS) for TANROADS
   - 마감 2026-09-25 / 발주처 Tanzania National Roads Agency
@@ -241,7 +245,3 @@
 - [콩고민주공화국] Recrutement d'un consultant individuel local en charge de l'identification et de l'analyse de sites stratégiques pour le développement du waterfront et du transport fluvial à Kinshasa dans le cadre du projet Kin la Belle
   - 마감 2026-09-28 / 발주처 Cellule Infrastructures
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468748
-
-- [차드] Recrutement d’un expert senior résident en transport et distribution électrique chargé d’accompagner au quotidien la Direction Transport et Distribution de TchadElec.
-  - 마감 2026-09-28 / 발주처 Chad Energy Access Scale Up Project -
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00468607
