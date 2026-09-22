@@ -195,6 +195,13 @@
   "impagency": "BHTRANS,SMOBI,SMPU,URBEL",
   "total": 100000000.0
  },
+ "P169548": {
+  "borrower": "Republic of Indonesia",
+  "closing": "2027-06-30",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Ministry of Transportation",
+  "total": 363995968.0
+ },
  "P169954": {
   "borrower": "Socialist Republic of Viet Nam",
   "closing": "2030-09-24",
