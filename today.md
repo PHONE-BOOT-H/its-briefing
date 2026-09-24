@@ -34,7 +34,7 @@
 
 5. [미국] PrePass, Kodiak link driverless trucks to roadside checks
    - 분야: 자율주행 / 게재일: 2026-09-22 / 매체: ITS Korea
-   - 원문: https://itskorea.kr/boardDetail.do?type=9&idx=23563
+   - 원문: https://www.traffictechnologytoday.com/news/autonomous-vehicles/prepass-kodiak-link-driverless-trucks-to-roadside-checks.html
 
 6. [유럽] TomTom and citiEU strengthen partnership on traffic monitoring and location analytics solutions
    - 분야: 신호·관제 / 게재일: 2026-09-22 / 매체: ITS Korea
@@ -45,7 +45,7 @@
    - 원문: https://dailynewshungary.com/self-driving-cars-in-hungary-driverless-roads/
 
 8. Unmanned Aircraft System (UAS) Traffic Management (UTM)
-   - 분야: 신호·관제 / 게재일: 2026-09-17 / 매체: nasa.gov
+   - 분야: 신호·관제 / 게재일: 2026-09-17 / 매체: NASA (.gov)
    - 원문: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNWhHRkR4UXVRZVEzWnJwNzJMS2J3SC1BR1d2RjZSZHotYjJnYVQ5SmY5Z3pLeVRRVUNRbmRCWkNkaVFMZ0ZhNGdRN3pqbmFpblJodFRGU3lNWnFsRDlEY0x4eGZJb3JJbzljSEpwanlZaXNzTDJmNGpTUUo2TVJ1cFdqMTY0UDBQWkVGY21SbV9yNDBld1puSmtYMFFnZE9tZXpDSUkySDJDTEhXeVROeXM5YjFUOEhSRFlTZUs1YldMemtFazFZejl5TG05bkdseU5QMDVtSkVUMkxCc2EwZE1XQktWWmpRUHBSalpWcF9zalR0UGlsM1FB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 9. CM Adhikari Launches New Traffic Control Room To Monitor Road Movement Across State
@@ -57,7 +57,7 @@
    - 원문: https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWFiZ25KYUlwSVBZd0NHMHB1eWVxU0I2Rkg2S3g4RHFtMXZQNE53cWVaVEVyTlhQSmtwa1FEamdLT0pxY1RNd0xhZ3U4MzdfVEVFckR3RHNvaUNOaTJwRUxNb0NJSkU1TV93dVdSS3RfWkVlRnNGVDN0RGI3bmZCNjk0ajZlWi0tNDhyaVl3UQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 11. Indra to modernise and upgrade Lithuania's rail traffic management system to enhance network automation and safety
-   - 분야: 신호·관제 / 게재일: 2026-09-21 / 매체: Indra Group
+   - 분야: 신호·관제 / 게재일: 2026-09-21 / 매체: indragroup.com
    - 원문: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQXdtd2Q4b3h0d1RqMlYwSkhHMHFWb3hBYjNueEVYWGZsclhvZFV2TXYyNzRxdUNXYTZVY0ZsVUxCRmRRSDdMVWxrQ3FoejJhb3RONENUSjBnVl9VanJGYkN1XzltOWthd1JDYUtLYy1HLVFzSzRyeG5CLVBzTnJ1NjV1MHBjSXE2SGNob1U1TnR3bWlONFJDTFNSSEp4dnFLNDVZZnA2MUFhRlhDd3E0QTVVSHRwMmtpTlRmQ0txWFFjNE9kU1BrT2oxVVRVRFhvTG9iRGxZWjRJaXd2OElvRnVR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 12. 택시 기사가 사라지는 나라, 일본은 로보택시로 모색 중
@@ -69,7 +69,7 @@
    - 원문: https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxqNzZGN0gxWGROdFBMNFlocF9CbzNvdXFNbU9NQkdTSDFqRHhxUXhUOHVFc2pLSDNBU1c3LU83amk0eEU0YXJUZW5xRTRkN3FCenR1ZlY0MnA3cVprUmJrTUt1VVpFSDdHanBybmZsTE5fTVpyelEwcFBzREd3Z2hwUlVQbVlJNy1faXg4NlBvZzl2MDVXdEZ5MXVGbjg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 14. Ferry system to hold career fairs for toll collection positions
-   - 분야: 요금·통행료 / 게재일: 2026-09-17 / 매체: Coastal Review
+   - 분야: 요금·통행료 / 게재일: 2026-09-17 / 매체: coastalreview.org
    - 원문: https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlRFYXZqRDJFUUpUVjgtMTRHdU90Z1drcEw5ZktOenk2anlxR1BMZjZfeUk0ZTliMWpISkV4dWU0WXMtdjhlcDJXM1B4amRucVV6TklvRGlqMjNzTmpUbWc0RW53d2RidkpYX1pERFVUUjFKN052VEtVeW9ORGpnT2w0VkN6VDZtSC1FRTI4Rk9aVmk4Sk1MQ3hXV0VVRkU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 15. Prepaid automatic toll collection system to be introduced on Yangon-Mandalay Expressway from September 17
@@ -85,7 +85,7 @@
    - 원문: https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWF4SjdwLTJTWkpkS0ZUVHRhbDllR3ZPdjZGUkM1TGp5U282eFIxYzRGSkhGSkpyeFFpMXBfMlNtRUJtdzgzWFZESk5nanN3TFotYjNnX25Hbjg5a3huSS1lZUNxaGJITzJoMFdHT1lMU1BHQnhyYks4ZTllUFJ6eExGM1VqNm9RMFNGRE8zSHMxOUJZN0F1Z2FDRVhwM3huTTJvUg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 18. Temporary traffic lights costing ratepayers $8500 a month
-   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: Stuff
+   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: stuff.co.nz
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnhzbU80NnlRSWhSYkJDN05VRjdzR0JPMUlzOVhqWXc3eUtkbmNwZkNwSDRpZkpqRHFjaGRBWVZkNUZfb2ZSQ216bUF5TmhsRG5ONk4ybDZfekJyMXoxV0kwdHBiLWNiWG1OZk1MTEhJR1B4NjBSQ1VldWRUTkYxODdGYUxUYUl5Q283Q0pMTFNfMmo2WnVBbndaOXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 19. No stopping, no barriers: Kerala's 11 toll plazas go barrier-free from April
@@ -143,7 +143,7 @@
    - 원문: https://www.mt.co.kr/amp/tech/2026/09/22/2026092110292373323
 
 11. 부산시, AI·ICT 융합 '지능형교통체계(ITS) 고도화 사업' 본격 전개… 스마트 교통 도시 도약
-   - 분야: 기타 / 게재일: 2026-09-23 / 매체: newssunday.co.kr
+   - 분야: 기타 / 게재일: 2026-09-23 / 매체: 선데이뉴스신문
    - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EYk9YOTF1c05wLUdMZW4yTTZoTjJJaTdwSUt3ekptd2taQktyN0FrRV83Qi11cHRiWmhfTDFhdFF1MkJLNUw2bU1zRHBrNzZDaE9JSjRkU1Z1cXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 12. [지자체] 90개국 모이는 강릉 ITS 총회… '중소도시 교통해법' 제시
@@ -171,7 +171,7 @@
    - 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE1RX2MxS0RKekxXbDRsaEVvZF93d01oem04UkxONjNkb2FaNzVxZVAxdUpOejNkbHl2OFg1RGcyOVpDOThIZ2NMeVFUeVJwWC1JeldSMGtiOGkyNk1iNFBzT1YzeUNRUVpIQS0yck05SndLNS1X?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 18. “자율주행 넘어 일상이 바뀐다”…교통학계, ‘피지컬 AI’ 미래 모색
-   - 분야: 자율주행 / 게재일: 2026-09-17 / 매체: 에너지경제신문
+   - 분야: 자율주행 / 게재일: 2026-09-17 / 매체: ekn.kr
    - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNGRVYmU0QXZpZ3pkQUpMZ3dNTGx5bk5wbXVTVHZEbzM3Sk1DUVNsV0p0MHhtOXNQZEFOQi15T05HRXRmUTkxaXZra1lXdTd1MmJCLU1Pa0lPZFU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 19. [포커스] 세종테크노파크 자율주행 관제센터 용역 ‘복마전’ 논란
