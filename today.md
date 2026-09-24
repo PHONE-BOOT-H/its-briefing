@@ -1,4 +1,4 @@
-# ITS 브리핑 2026-09-24
+# ITS 브리핑 2026-09-25
 
 해외 ITS 기사·국내 ITS 기사·해외 발주 공고를 매일 06시에 모은 것입니다.
 이미 게시판에 올린 건, 관련도가 낮은 건, 원문이 오래된 건은 빼고 후보만 남겼습니다.
@@ -33,7 +33,7 @@
    - 원문: https://www.autoelectronics.co.kr/article/articleView.asp?idx=7068
 
 5. [미국] PrePass, Kodiak link driverless trucks to roadside checks
-   - 분야: 자율주행 / 게재일: 2026-09-22 / 매체: ITS Korea
+   - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/news/autonomous-vehicles/prepass-kodiak-link-driverless-trucks-to-roadside-checks.html
 
 6. [유럽] TomTom and citiEU strengthen partnership on traffic monitoring and location analytics solutions
@@ -44,57 +44,57 @@
    - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: ITS Korea
    - 원문: https://dailynewshungary.com/self-driving-cars-in-hungary-driverless-roads/
 
-8. Unmanned Aircraft System (UAS) Traffic Management (UTM)
-   - 분야: 신호·관제 / 게재일: 2026-09-17 / 매체: NASA (.gov)
-   - 원문: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPNWhHRkR4UXVRZVEzWnJwNzJMS2J3SC1BR1d2RjZSZHotYjJnYVQ5SmY5Z3pLeVRRVUNRbmRCWkNkaVFMZ0ZhNGdRN3pqbmFpblJodFRGU3lNWnFsRDlEY0x4eGZJb3JJbzljSEpwanlZaXNzTDJmNGpTUUo2TVJ1cFdqMTY0UDBQWkVGY21SbV9yNDBld1puSmtYMFFnZE9tZXpDSUkySDJDTEhXeVROeXM5YjFUOEhSRFlTZUs1YldMemtFazFZejl5TG05bkdseU5QMDVtSkVUMkxCc2EwZE1XQktWWmpRUHBSalpWcF9zalR0UGlsM1FB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-9. CM Adhikari Launches New Traffic Control Room To Monitor Road Movement Across State
+8. CM Adhikari Launches New Traffic Control Room To Monitor Road Movement Across State
    - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: Free Press Journal
    - 원문: https://news.google.com/rss/articles/CBMivgFBVV95cUxPRmRUR3ItZEEwT1NiUnFXZURObmJJSTVwUVlzMFd1RS1fcjVCTEk2TktLX0piSzVidFJCTTFOUzFJYm0tZGh4ZjljY3hfd200ZVBmZ25DajJuN0RPTVBaXzRPbWRTdndXbTBjVWlDR0xUWlpIemlOemlFeUZpYjRCc1JqcThDWWhydWxfUmVTb2wzb2czTHZ6WHBiUkFsVzROeTB3eGVsZlJQQk03SURjemIwN1ZkLVJKMjRtVFFn0gHDAUFVX3lxTE4tRm5SczNtakxybEZBOEhFMWcxYnlRVURZQi1wandwblhOTXd4MWcxVFdrVUZ3eFdGeG9xVGhEN1hnODBsTG5jY2cwZm9jOUpGRmF4STBXTUN6ZFVyVDRISHd5RXFrMFlQZjNpYjlLVWZqQmltSktxSFpadWtZajJvTzQtNE1yUnNubnhzSS1LZEtxMUxhWlhoS3RjQW41RHl4OHctNkpzSllEMTQ4bW5GWnVMaklqMkpBVzFHbGFNWUJTRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. Kolkata Traffic Control Room Goes Live Before Puja Road Repairs
+9. Kolkata Traffic Control Room Goes Live Before Puja Road Repairs
    - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: urbanacres.in
    - 원문: https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWFiZ25KYUlwSVBZd0NHMHB1eWVxU0I2Rkg2S3g4RHFtMXZQNE53cWVaVEVyTlhQSmtwa1FEamdLT0pxY1RNd0xhZ3U4MzdfVEVFckR3RHNvaUNOaTJwRUxNb0NJSkU1TV93dVdSS3RfWkVlRnNGVDN0RGI3bmZCNjk0ajZlWi0tNDhyaVl3UQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. Indra to modernise and upgrade Lithuania's rail traffic management system to enhance network automation and safety
+10. Indra to modernise and upgrade Lithuania's rail traffic management system to enhance network automation and safety
    - 분야: 신호·관제 / 게재일: 2026-09-21 / 매체: indragroup.com
    - 원문: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQXdtd2Q4b3h0d1RqMlYwSkhHMHFWb3hBYjNueEVYWGZsclhvZFV2TXYyNzRxdUNXYTZVY0ZsVUxCRmRRSDdMVWxrQ3FoejJhb3RONENUSjBnVl9VanJGYkN1XzltOWthd1JDYUtLYy1HLVFzSzRyeG5CLVBzTnJ1NjV1MHBjSXE2SGNob1U1TnR3bWlONFJDTFNSSEp4dnFLNDVZZnA2MUFhRlhDd3E0QTVVSHRwMmtpTlRmQ0txWFFjNE9kU1BrT2oxVVRVRFhvTG9iRGxZWjRJaXd2OElvRnVR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 택시 기사가 사라지는 나라, 일본은 로보택시로 모색 중
+11. WATCH LIVE: FAA launches new air-traffic management system
+   - 분야: 신호·관제 / 게재일: 2026-09-21 / 매체: Fox News
+   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jY0N1MVVtWS1PM2Z5Sk4wVm9FNG5GbjFmYU43bjR1bGNocV9rNEJoa1NMM3FkdEVkMjhlNVk0VFk1OGZ2dkNSbWlaNzljQlBORXh0X0RR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+12. Smart Traffic Management In Atyrau By Dahua Technology
+   - 분야: 신호·관제 / 게재일: 2026-09-24 / 매체: SecurityInformed.com
+   - 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxNWTZSTnNaR1NWZW85ZWhXNmRXU2N5SjBiekxqTUJTdWNyVC15VWZyVml3amU2U2t3ODhtb3dJN3hhQklHSlBGN1N6RVZSUHQwc1VXRng2Zk1jVXowU3VYZm5vYlpKNG1KUnozc2otcm9TM2syZ1VqZ0dZUE1LRVU1cEpLNnoyNVkwLU9UWThwcmxCTDctRW9rdnd2ZEFaTERoc3JiQmQwTXMtWmROcWsxRA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+13. 택시 기사가 사라지는 나라, 일본은 로보택시로 모색 중
    - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: ITS Korea
    - 원문: https://www.careyounews.org/news/articleView.html?idxno=11600
 
-13. Busan Turns to AI Traffic Signals and Flood Detection on City Roads
-   - 분야: 신호·관제 / 게재일: 2026-09-23 / 매체: Seoul Economic Daily
-   - 원문: https://news.google.com/rss/articles/CBMinwFBVV95cUxPSWxqNzZGN0gxWGROdFBMNFlocF9CbzNvdXFNbU9NQkdTSDFqRHhxUXhUOHVFc2pLSDNBU1c3LU83amk0eEU0YXJUZW5xRTRkN3FCenR1ZlY0MnA3cVprUmJrTUt1VVpFSDdHanBybmZsTE5fTVpyelEwcFBzREd3Z2hwUlVQbVlJNy1faXg4NlBvZzl2MDVXdEZ5MXVGbjg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-14. Ferry system to hold career fairs for toll collection positions
-   - 분야: 요금·통행료 / 게재일: 2026-09-17 / 매체: coastalreview.org
-   - 원문: https://news.google.com/rss/articles/CBMinwFBVV95cUxOZlRFYXZqRDJFUUpUVjgtMTRHdU90Z1drcEw5ZktOenk2anlxR1BMZjZfeUk0ZTliMWpISkV4dWU0WXMtdjhlcDJXM1B4amRucVV6TklvRGlqMjNzTmpUbWc0RW53d2RidkpYX1pERFVUUjFKN052VEtVeW9ORGpnT2w0VkN6VDZtSC1FRTI4Rk9aVmk4Sk1MQ3hXV0VVRkU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-15. Prepaid automatic toll collection system to be introduced on Yangon-Mandalay Expressway from September 17
-   - 분야: 요금·통행료 / 게재일: 2026-09-17 / 매체: elevenmyanmar.com
-   - 원문: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOb2F4UnNZUlhqTUh0VUhHV0IzbjJ6ZnM4UDNHS1VPcF9QamY1Z0k4b19XWW8xSHJpT0wzUmp6ZG5yaExOdW9YaEZZMVhjMER5VFRtcXZGaGliLXVkbWl0NFJzV0F3MWc2NUlBbkNocXJZcWlzSEpyZEVkNzVSY05FRkYxYTZmVjdaY0lVQmEzSHFyUUxxTXJHVjJOeXdZSkExc2FFNFdNazcyWGl5akNULV9SSld2LVNIYlRDNGd2bUc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-16. Barrier-free Tolling System Expected by March 2027: Nitin Gadkari
-   - 분야: 요금·통행료 / 게재일: 2026-09-17 / 매체: Construction World India
-   - 원문: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRlZRY0owZWVEUTNpcGxIaFN5eWpXdXI0VFEzWi1ISGtKOHlYemhGdnVjczVyVld4THlpT01XS3pWMnJlRGVqdXBPMndmZ0phQUdyV2dZbDJZaGN6NzNCbXdJeGFqRmZTNWxfeVFqTWRlcHFsc1NVYkJtRmJzQzhqZzU2UDB6bGpWWFNBWVJaalA1ZjBPMDBPcEJjTTgwTDk1RDF5MDJUbE8xTW05WXRWQkZxMXhuc2RGN0gyTjVUelVXLUZQUlJtTmFwSFlXelY5dE13Wm9CMXVnTVh1alI3Tk9FakxkR1FWQ2hkV0xMWmxOZHdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-17. Estepona is expanding its traffic monitoring network to a total of 400 cameras
-   - 분야: 신호·관제 / 게재일: 2026-09-17 / 매체: Sur in English
-   - 원문: https://news.google.com/rss/articles/CBMipAFBVV95cUxPMWF4SjdwLTJTWkpkS0ZUVHRhbDllR3ZPdjZGUkM1TGp5U282eFIxYzRGSkhGSkpyeFFpMXBfMlNtRUJtdzgzWFZESk5nanN3TFotYjNnX25Hbjg5a3huSS1lZUNxaGJITzJoMFdHT1lMU1BHQnhyYks4ZTllUFJ6eExGM1VqNm9RMFNGRE8zSHMxOUJZN0F1Z2FDRVhwM3huTTJvUg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-18. Temporary traffic lights costing ratepayers $8500 a month
-   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: stuff.co.nz
+14. Temporary traffic lights costing ratepayers $8500 a month
+   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: Stuff
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxNRnhzbU80NnlRSWhSYkJDN05VRjdzR0JPMUlzOVhqWXc3eUtkbmNwZkNwSDRpZkpqRHFjaGRBWVZkNUZfb2ZSQ216bUF5TmhsRG5ONk4ybDZfekJyMXoxV0kwdHBiLWNiWG1OZk1MTEhJR1B4NjBSQ1VldWRUTkYxODdGYUxUYUl5Q283Q0pMTFNfMmo2WnVBbndaOXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. No stopping, no barriers: Kerala's 11 toll plazas go barrier-free from April
+15. No stopping, no barriers: Kerala's 11 toll plazas go barrier-free from April
    - 분야: 요금·통행료 / 게재일: 2026-09-18 / 매체: Kerala Kaumudi
    - 원문: https://news.google.com/rss/articles/CBMimgFBVV95cUxQdGpfMU1jNDhKSW1ibVJGSmZIcGpXM05HNWNTd2h3YUQwazBXUDdYcko4WXJBS0t1SHpqWGdFVWFScGxoeVZSdHlSOEd1THNFdERMb0Etek9KN3AtNEFyWW1yZVVCSjg4UnVRQ1oxV2Zlc3k3ZV9ZdGtKSFdRdVpMUW5CdEd4WDZFQ2FXc2k4UjNxZkFqYURxdGVR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. LTA announces traffic light maintenance at Taufusi-Vaimea
-   - 분야: 신호·관제 / 게재일: 2026-09-19 / 매체: Samoa Observer
-   - 원문: https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Wc216U3lYbVdVLVJzMjdZYWI1dUpRZG1WV0szZk01aUNHa0dWS2RvVDk2MUpGNWF1ejBBcF9HVFY4VFhBbFIzelE3Zkc3NmdXekgxemYzWTZrSG9jNlcw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+16. SecureSky Acquires Soveren To Add Real-Time Data Security And Encrypted Traffic Monitoring To Cybersecurity Platform
+   - 분야: 신호·관제 / 게재일: 2026-09-20 / 매체: Pulse 2.0
+   - 원문: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMDNuT0VIZ3czRmtRRVI0dmMxdEJDVUlvZk5fbFZUZDVXTkVxa2w0MDRLTnZud0ZUSkMwSEtXOGNPQ09oYjhJZmRneEhlcDZOcXZoUkpodU52SDE5b05ZQWw2SjNlSnRxWmRtbmFBWWk0Y21kaHZxdEZ2eG1WSHEyRWtDOE9qM1pwWTZIcWJVNktXOFNRdzhvLXBRbFYtcHZnRWNQaTBzVEJNMVhYZFpRWE1MdFQ2UUZ0TGd0OTZySEVhT2NzeEVmTXZCd0k3M0loZXfSAdcBQVVfeXFMT24waGd5Vk02ODZuczVpaGZzQkI0UkZJdFNHdkFST3lZM1RMcUs1N2c4RjZuU3BJWmYwejB1WVRXV3QxNEhiRi1LdXVTTWhjaE5GVE9KMF80cnhpelVtclE1eWZWNjk2WUk0bHI1c3N1VGFKekNZZjl5eUNaWUJjQUpERzlZSkxxbEUzdERtb2RKaWFtcENIWDdKeFlVdm9mY3dWZHJVWlBmRWR1MVE2LWJKRjhFN1llNXluMWJHMkowQ0Z3N21CRlF3Z3p1Q0NaTXZrRUFVMnM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. Busy Dauphin County road to get $1.2M traffic signal upgrade
+   - 분야: 신호·관제 / 게재일: 2026-09-21 / 매체: PennLive.com
+   - 원문: https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUJ6VURmN1dSZWlhNnRpSFJQcTFLVUhxWjZhaXJpb3dwYzJNUmdVMnhfcHkxSWQzVlp0TlhDNnM1azk2a3h2SEFnTlB2YXhkRTVZUjk2UDFSWU9aTVB6YTJGbUJhR0h1QUx4elZNZmNGMVpjSWNIb2NqQ2JJLVcxaXZzR2d2UzFZd3VUT0FwUTBGNWh5dl84RTB1LW1sUUM2eFlz0gG3AUFVX3lxTE0tYjhSNlZ2aTdrQVJuSEJmd3JZU00wQXpCQkRaOTZaMk8yM2lXaDBza0tsOFFqdEtIZjBTM3RmX0pUSzR4OENoSkZZY2M1TU9rYXI5N2ZWNkxvVkdZeDU2dVlBQ2NDVmZ3elhfV0JuVzJ2V1gyNmw2VVNaZTVnZ2FPTGpUci1MVTBLR0hGZHBPcUc5Z1BhVG1aVnR3RkZiRXZhekNvbjVGRkI4cnlzckQ0RzZLZmJQNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+18. Open-Road Tolling on Bay Area bridges to debut next year at Richmond-San Rafael Bridge
+   - 분야: 요금·통행료 / 게재일: 2026-09-21 / 매체: Contra Costa Herald
+   - 원문: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUo5ZEZlMkVESVFwQjM2NjlMeVF3TkRQZGxQQXFNTnRFbGZ0VVBtTHVmY0tPbkFkMkdLOEV4SlZwZk1kb3dGZFR5S1BXRE5vVVB2VkRjMjV0M0s5dEpXOFJ2amRDMHozQ1BjQjVtZXFQeHIwUVRMYWZaM20wd1FXQWZKLTdEVGJtNWhRb1g1eGpkZ3ozN1UxY3NaejZqUHZzb05ncWpGUWYyMVVQWjE4eVhIeUYxbFEz?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. Toll collection will become faster under integrated tolling system: Bridge Secy
+   - 분야: 요금·통행료 / 게재일: 2026-09-21 / 매체: bssnews.net
+   - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTFA0NTk3OWhVS1dlMHVPUFRiVy13YVl0UGdkdl9LZjFBRVVod2Y2WlJKNjRrWjZPeEZCWXdzU0pBWUcwV2FuU2djZEVCOGtjdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. Greenwich RTM To Consider $799K Downtown Traffic Signal Upgrade, Meeting Start Time Change, And More
+   - 분야: 신호·관제 / 게재일: 2026-09-22 / 매체: Patch
+   - 원문: https://news.google.com/rss/articles/CBMiugFBVV95cUxQbzFXQ2pxQU5GZmFobkxOSF9YRVpLd3JBbS1kRXlfZDlFVjZZT0hLVFB2dXNkdlJJd21RU3ZyMktHUHlFVE9qdEQyMEVlbHp0Qldsck5WTzhVR0xkU09mMG1IclRNSDBReUFRdUE1aGJGZTNsOGFJVDFoWmdGUmpMN0ZCVGNUXzc0LUNTb29lQkxZMlBjQXpXbzVicTlvZ0hjdkh3MGJoT2tzcVN6SlZaNjFWTDNPazA4VGfSAeQBQVVfeXFMTU0zTnoxeWpuMEVDOGpYQ2Y4UUVnVEZmOThFMld2eGZ0aU9xSV9aenRpWEtzVXM1amMwZGI5QzVsSG50a0owTmpHbjgwYXZSZzlUcy1xXzlUUTJIbUdRVUlMUE5BdUJqd05ULW5sTUFFdE00MUliaTZ2RHRPbXozWWhJcEtFRlhaR3RxS205RUpjYVFhSy1CLTVGZHlhQWZ5WXljeFB4X3RWRk5DdnprNmJuTm1ySW5EMzl4YmNpd25yWk9vT0tYM25hV2ZiU00xRkZpelRkVUExT0pRdnoyWGZqclBz?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -102,97 +102,89 @@
 
 등록 게시판: ITS국제협력센터 > 소통창구 > 공지사항(영어)
 
-1. [회원사/동향] 태국·체코 교통차관, 카카오모빌리티 강남 자율주행 잇달아 체험
-   - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: ITS Korea
-   - 원문: https://www.electimes.com/news/articleViewAmp.html?idxno=372651
-
-2. 사람과모빌리티, 앤시스 ASK로 V2X 검증 고도화··· ‘자율주행 안전성 높인다’
+1. 사람과모빌리티, 앤시스 ASK로 V2X 검증 고도화··· ‘자율주행 안전성 높인다’
    - 분야: C-ITS·V2X / 게재일: 2026-09-22 / 매체: 동아일보
    - 원문: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9Cejh0NTY3ZXZpMVNuVTdCZ2RMaW42SWZmZ2E4a3RHeFcwY0RkT213cGRWcmdkMUN4QVA1T3hxdTdJVndIcllMWmlva0pTWGo3UE1PMDczd1FPM1U4aXJEV0sybFBVUdIBZkFVX3lxTE9Cejh0NTY3ZXZpMVNuVTdCZ2RMaW42SWZmZ2E4a3RHeFcwY0RkT213cGRWcmdkMUN4QVA1T3hxdTdJVndIcllMWmlva0pTWGo3UE1PMDczd1FPM1U4aXJEV0sybFBVUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-3. [회원사/동향] 에티포스, 국산 5G-V2X칩 실도로 검증…통신IP부터 RSU까지 내재화
-   - 분야: C-ITS·V2X / 게재일: 2026-09-22 / 매체: ITS Korea
-   - 원문: https://www.etnews.com/20260921000095
-
-4. 태국 교통부 차관, 카카오모빌리티 자율주행 서비스 체험⋯미래 발전 논의
+2. 태국 교통부 차관, 카카오모빌리티 자율주행 서비스 체험⋯미래 발전 논의
    - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: v.daum.net
    - 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTE9iSjV2Uy1tMGlYV2I4T2ZEUENVRHVCVFBxVXZFWTk1MlV4dzlldWxDZGJSRndkWFkwNm9WdlRacWhrX1VSbWctcWJNWTQzNVk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. 자율주행·스마트물류 띄운 K-모빌리티… APEC서 협력 확대 - 머니투데이
+3. 자율주행·스마트물류 띄운 K-모빌리티… APEC서 협력 확대 - 머니투데이
    - 분야: 자율주행 / 게재일: 2026-09-22 / 매체: 머니투데이
-   - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE1BTFQyUW5VT0JFZVY3a2ZaNFZXRFBJd0d1RlhtSDdwUDJaR3hfYXJvTVlWM05ORzZ0VHFFQ2JiSzJhNld5cXhsa2prQXJNYXNhUEc1MmdTWkZpeHlnMk9UYkp2cmt1ajN5UXRFT1RaRdIBb0FVX3lxTE1BTFQyUW5VT0JFZVY3a2ZaNFZXRFBJd0d1RlhtSDdwUDJaR3hfYXJvTVlWM05ORzZ0VHFFQ2JiSzJhNld5cXhsa2prQXJNYXNhUEc1MmdTWkZpeHlnMk9UYkp2cmt1ajN5UXRFT1RaRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMifEFVX3lxTE9Lb0dQMVJYaU0ycU1aMDhZdlp2a29ncWR2a2w1RXFYTTVCbS1MYldhbVpOejdtRENYZE1mRzNRRzVvNXVXNktDd3lvbzB6bnVkRjVpYVk4ZUlwd3U4dFFzQ2lBV1haNU53b2VlQTZLRk9ZMDdlc3hsbzNTZzHSAXxBVV95cUxPS29HUDFSWGlNMnFNWjA4WXZadmtvZ3FkdmtsNUVxWE01Qm0tTGJXYW1aTno3bURDWGRNZkczUUc1bzV1VzZLQ3d5b28wem51ZEY1aWFZOGVJcHd1OHRRc0NpQVdYWjVOd29lZUE2S0ZPWTA3ZXN4bG8zU2cx?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. 카카오모빌리티, 자율주행 상용화 준비…통합관제시스템 구축
+4. [모빌리티핫이슈] 中 자율주행 글로벌 정조준…현대車 로보택시로 간다
+   - 분야: 자율주행 / 게재일: 2026-09-22 / 매체: 디지털투데이
+   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE9McG9lRE9FTzkyamxBRTlkRHNIVGoyMWp2OHhMZ2dJbVJZSS0xdlBkdWFTTnUzLXNEYlNiZVhQUG9nTE1PVXZ4OVp5eTJrX1BUWnRaeEYydzNRV2M2STR1VktuMldRQVB0UlJxcDdyOERGRTQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+5. 카카오모빌리티, 자율주행 상용화 준비…통합관제시스템 구축
    - 분야: 신호·관제 / 게재일: 2026-09-22 / 매체: 중앙일보
    - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYb2pLS09IeE1FdWJVSkt6THBGWFVqX0pPVWltVXNHRWhOb2FvUFNVNndjN0ZWVzJpWWNjRWI0UWVCemtoekFPX192TDV2amtfR21uamJ3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. [회원사/동향] 유정훈 도공 사장 “도로 건설 넘어 B2C로”…자율주행·전력망 혁신
-   - 분야: 자율주행 / 게재일: 2026-09-23 / 매체: ITS Korea
-   - 원문: https://www.etnews.com/20260922000391
-
-8. 크라우드웍스, 모비루스 농업 자율주행 데이터 수주...비정형 농지 학습
+6. 크라우드웍스, 모비루스 농업 자율주행 데이터 수주...비정형 농지 학습
    - 분야: 산업·투자 / 게재일: 2026-09-21 / 매체: 더에이아이
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTkw5V19jR3pPaHVGTUtXVGllQUs3RmpBcTFzLU9NMzNnQkhkNGV1dm5GLVktaWloSEhXeFljaGp1MUdPYXZ4Vi1oQUM5UGNUMFRlYWN5VGtycVY4OFYybzRZcmFOcDZ4VTNN?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. AI·자율주행 앞세운 한국…APEC에 스마트 모빌리티 협력 제안
+7. AI·자율주행 앞세운 한국…APEC에 스마트 모빌리티 협력 제안
    - 분야: 자율주행 / 게재일: 2026-09-22 / 매체: edaily.co.kr
    - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxOcVl2QUJYUFlWSUR3R1hKaDM0bUZsRmx0SFNBMWJVaGJjVHhwTUlvNHF1RDFSQThOb1pFSE5nNnJkM3VHMnB4Wk1Vejl3VS1OeDBlTDV5dEFFZlZZUVY0S3lpLXBTTi1HaldpVVpFa29reVhua1NlQWVwdjFic0VSdQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. [회원사/동향] 크래프톤·쏘카 자율주행 협업…'공동 출자'→'데이터 공유' 단계 진입
-   - 분야: 자율주행 / 게재일: 2026-09-22 / 매체: ITS Korea
-   - 원문: https://www.mt.co.kr/amp/tech/2026/09/22/2026092110292373323
-
-11. 부산시, AI·ICT 융합 '지능형교통체계(ITS) 고도화 사업' 본격 전개… 스마트 교통 도시 도약
+8. 부산시, AI·ICT 융합 '지능형교통체계(ITS) 고도화 사업' 본격 전개… 스마트 교통 도시 도약
    - 분야: 기타 / 게재일: 2026-09-23 / 매체: 선데이뉴스신문
    - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EYk9YOTF1c05wLUdMZW4yTTZoTjJJaTdwSUt3ekptd2taQktyN0FrRV83Qi11cHRiWmhfTDFhdFF1MkJLNUw2bU1zRHBrNzZDaE9JSjRkU1Z1cXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. [지자체] 90개국 모이는 강릉 ITS 총회… '중소도시 교통해법' 제시
-   - 분야: 기타 / 게재일: 2026-09-20 / 매체: ITS Korea
-   - 원문: https://news.mtn.co.kr/news-detail/2026091922550017631
-
-13. [회원사/동향] 핀텔, 해병대 경계 현장서 AI 관제 실증 착수
-   - 분야: 기타 / 게재일: 2026-09-22 / 매체: ITS Korea
-   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=23551
-
-14. [회원사/동향] 핀텔, '다기능 무인교통단속장비' 혁신장터 등록
-   - 분야: 단속·집행 / 게재일: 2026-09-22 / 매체: ITS Korea
-   - 원문: https://www.newspim.com/news/view/20260922000481
-
-15. [국토부/보도자료] APEC 교통장관회의서 AI·스마트 모빌리티 미래협력 제안 나선다
-   - 분야: 기타 / 게재일: 2026-09-23 / 매체: ITS Korea
-   - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092447
-
-16. 익산시, 미래형 대중교통 자율주행 ‘마룡e버스’ 첫 출발
+9. 익산시, 미래형 대중교통 자율주행 ‘마룡e버스’ 첫 출발
    - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: 쿠키뉴스
    - 원문: https://news.google.com/rss/articles/CBMiY0FVX3lxTE15d2NHdC1OelgtU2xtUkhNNXhwUHQxUXFDbHlCX2Nab0hRd1V4ZUJtVEZMOTBMSnNXM0l3VnRFcUJNRjFZeHd1ZGg2eFFjLVQ5b1h3V0hkRzJ0ZG5VT1hHWTFtRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 지능형교통체계협회 ‘차량과 도로 인프라간 무선통신 기술’ 공인시험기관 인정
+10. 에티포스, 국산 5G-V2X칩 실도로 검증…통신IP부터 RSU까지 내재화
+   - 분야: C-ITS·V2X / 게재일: 2026-09-21 / 매체: 전자신문
+   - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE11bEw1bU1KeGJlaWhKbGZIWEhtTllDMEpaOWpuVVc1UDQ0QnViTzRVU3M1R2FHbHV2Q04wRUlfYU9POW5uX0VncmZrT3MtZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+11. 지능형교통체계협회 ‘차량과 도로 인프라간 무선통신 기술’ 공인시험기관 인정
    - 분야: 기타 / 게재일: 2026-09-23 / 매체: 부산일보
    - 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE1RX2MxS0RKekxXbDRsaEVvZF93d01oem04UkxONjNkb2FaNzVxZVAxdUpOejNkbHl2OFg1RGcyOVpDOThIZ2NMeVFUeVJwWC1JeldSMGtiOGkyNk1iNFBzT1YzeUNRUVpIQS0yck05SndLNS1X?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. “자율주행 넘어 일상이 바뀐다”…교통학계, ‘피지컬 AI’ 미래 모색
-   - 분야: 자율주행 / 게재일: 2026-09-17 / 매체: ekn.kr
-   - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UNGRVYmU0QXZpZ3pkQUpMZ3dNTGx5bk5wbXVTVHZEbzM3Sk1DUVNsV0p0MHhtOXNQZEFOQi15T05HRXRmUTkxaXZra1lXdTd1MmJCLU1Pa0lPZFU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. [포커스] 세종테크노파크 자율주행 관제센터 용역 ‘복마전’ 논란
-   - 분야: 신호·관제 / 게재일: 2026-09-17 / 매체: SR타임스
-   - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE83cnFpV21yQkVnQ2lCemg3azdTRWRSd01IaXdUTnozVDlsQ05sY1ZNdGRjNnMwWl9idGtDeXRnTFNjOGIyQVVKWXh1SDBiSU00c2hiYmVEeTI3Nm9tbzRHZUFEaTRqbGvSAWtBVV95cUxPTGpnRGJEelFrNzlDcDRmSWtiY05uT19tdmRyalhvZklDSEV4MmUyYTBSMTd2U0lyRG5URHBXaUJaS0pIS24wQ2MzQkV5TmFnc0o4TVV1czFrb1lZTTl3VklzTU94cUtRU2d4WQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. 16년 만에 돌아온 '교통 올림픽'…강릉서 AI·자율주행 미래 펼친다
+12. 16년 만에 돌아온 '교통 올림픽'…강릉서 AI·자율주행 미래 펼친다
    - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJcG0xQXZCTmxfalVnV2RBbnhoazFlTi0yMFRKVm1QX1RUblF3bzRCYVJ3Tk1YSUxwdmlZR1BRekx0MmptU2F2VlJuTE1sVkVSYm1LTkdBN3NCc3JN?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+13. 에티포스, V2X 반도체 탑재 기지국 판교에 설치 - 조선비즈
+   - 분야: C-ITS·V2X / 게재일: 2026-09-21 / 매체: Chosunbiz
+   - 원문: https://news.google.com/rss/articles/CBMikAFBVV95cUxQaV9JdkdvMGViandsVEJraFZyU1Rial9kcHJnVWkyeGhOSGtYamtxUDFObmhreUxMOE1qNDBBLVg2dGd5WWViTEVNSmZZMXRWcVFYaDUzRkJhS1ZpRmx0amdWQVBPVHRSR05OZlh3a3MyY190ekZyLVZ4UE5CcU5pTXR0SUs3NjNjT05sb3ZibjXSAaQBQVVfeXFMTkRORmF3NjY2T3dMczJfWjE0Ui1pV0NqczJXVEQ3QkNzRmx0VzdEbzZZc1hpMWxFZjJRczNRa0ZqN1A4c21mLVh3R3pHT2JwZmg0QjBzVHd4VlBNcFVneUVueE1TOUotTFYzQldCaWNWOV91cmZjOHpyZzhNLUYybU54MlFZb3poXzFGcGFyWHRnM2lSX3NJdndjNDZKdHZ2T3hPYXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+14. 에티포스, 판교에 '세계 첫 5G-V2X 국산 도로' 깐다…시리즈C 유치 탄력 - 머니투데이
+   - 분야: C-ITS·V2X / 게재일: 2026-09-23 / 매체: 머니투데이
+   - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE14QVBSQ0t3dmRUc2JvNHNVeWVqeEd6dG5JZXFieXVtTy04dkc0SzlqWjk2SldlWnNyY2lkREE3Uncwa1g0MFN3Z1g1TVBycVh2LUxCNFZNMGRFend6a2dUOXRxelMxSlBnNmfSAW9BVV95cUxOWEJCLXFJS1hleEhnYXlyRV9BRld6NHBxTl9ZNzBScE5kR3U4bm1uRW44NzZQNXZHV2JhUlVfbVhZMVUtdjNxMGtYQWt1U3V4MmoxaVVfYk5oNEJGMEdHOV9oUExLd0ZmX2ZZWDI5QUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+15. 고양시, AI로 보행자·차량 실시간 분석...지능형 교통신호로 안전 강화
+   - 분야: 신호·관제 / 게재일: 2026-09-18 / 매체: cwn.kr
+   - 원문: https://news.google.com/rss/articles/CBMiYkFVX3lxTFA1UmlEeVRGbUxQYTg5UXlmX2Z4Qmp2eDJhdGtOb3E2VnFYdnBUMkNCUUk1Yng5ZFcwLVhoSGdyM1hoUlV0dzg1VWtXMHd5RzNWWjNRT1loRTN4R0psM2FKZWZR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+16. 샤오펑, 스마트 콕핏·자율주행 라이선스 사업화…테슬라와 대비
+   - 분야: 자율주행 / 게재일: 2026-09-19 / 매체: 디지털투데이
+   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBJOFZjMXR3ckZXUGQyZlpJM1loVlY0TzlYREhabFc4ZUg3bWZKNm1qRXBfQ3dEUVBtei1ueE5zd1dpdGwzbTdTdDJISmdMMGRNdE9NYmw0dERhQm9jclBIM3R5VWFxMmpRelNYX1JrQ1BGdFU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. 리치텍 로보틱스, 전국 규모 소매업체와 자율주행 청소 로봇 200대 공급 계약 체결
+   - 분야: 산업·투자 / 게재일: 2026-09-21 / 매체: datatooza.com
+   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE5abW42bTdTNmh2M3VRdVBlTU1rLVh3ejZUakhid3hsSGhzMDdtRnJ0X05NQTdpbXJldWlpVThFaHFidF90aDRuTGxQVGpRcXJ3TzlyOUEtYlpLVHpVbTU2b1k3RThmcVJ6QjdCYWNiSVdrMjA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+18. [중국 특징주] 中 푸룽마, 화웨이와 자율주행 위생차량 개발
+   - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: 뉴스핌
+   - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE40cGhyTFR0TzBsZUxucUQ2MERMSkxqMnllaHJMZ0lSTGNsZ3R3ZURIZUEtbnZTQ1B3WjFlVUJsbmVyTkl1THdpNU9maGxJS3hVQmlZQnJiVExCeGc3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. ITS Korea, LTE-V2X 공인시험기관 인정
+   - 분야: C-ITS·V2X / 게재일: 2026-09-23 / 매체: BBS불교방송
+   - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE8zYlFqYXdKLTg3bGJIM1BQckx4T2gtN3BYYjh2U1o0dHNGbHc5NnRmNHo4TnBfSWgzRU12b19WXzhQS2c2a2hfejZ5YkFNdnctWUR1M0I2am9WMDFYT1dqQWJvRFJSVkFhMnF3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 시장 6배 커진다…부품업계 "AI 데이터센터 다음은 '자율주행차'"
+   - 분야: 자율주행 / 게재일: 2026-09-23 / 매체: 아시아경제
+   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4dHlLZEFCcnhXZ2lYVzVoMDRGd0hhRlYyc2hjWVd6Y1YyNkNOdjFFRW52Y0U2c0pSM1RuMUV1XzVDX05pRUtQQk40aUh4V3Btd1gxbTNmcTQzalJtckh5Ug?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
 ## 진행 중 해외 발주 (마감 전)
-
-- [China] Consulting Services for Construction Supervision of the Terrestrial Wildlife Disease Surveillance System.（1.3.1）
-  - 마감 2026-09-24 / 발주처 Hainan Provincial Forestry Bureau
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470176
-
-- [폴란드] Poland – Software package and information systems – Rozbudowa SOSRD o udostępnianie w czasie rzeczywistym danych o natężeniu ruchu wraz z ich klasyfikacją
-  - 마감 2026-09-25 / 발주처 Gmina Miasto Rzeszów - Urząd Miasta Rzeszowa
-  - 원문: https://ted.europa.eu/en/notice/-/detail/641156-2026
 
 - [인도] Financial Management Expert for Jaipur Metro Rail Project Phase-2
   - 마감 2026-09-25 / 발주처 Bangalore Metro Rail Corporation Ltd.
@@ -238,6 +230,10 @@
   - 마감 2026-09-30 / 발주처 GRAD ZAGREB
   - 원문: https://ted.europa.eu/en/notice/-/detail/647641-2026
 
+- [조지아] Road Safety Awareness Plan and Campaign Manager
+  - 마감 2026-09-30 / 발주처 Asian Development Bank Regional
+  - 원문: https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=B5A3375BD7999BCD535F6928E815C4A59CA2F7036205264C153D930923DA8F35
+
 - [모잠비크] Senior Economist
   - 마감 2026-09-30 / 발주처 Ministry of Transport and Logistics
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00467469
@@ -245,3 +241,7 @@
 - [폴란드] Poland – Software package and information systems – Rozbudowa SOSRD o udostępnianie w czasie rzeczywistym danych o natężeniu ruchu wraz z ich klasyfikacją
   - 마감 2026-10-01 / 발주처 Gmina Miasto Rzeszów - Urząd Miasta Rzeszowa
   - 원문: https://ted.europa.eu/en/notice/-/detail/659807-2026
+
+- [동티모르] Procurement Specialist (International)
+  - 마감 2026-10-01 / 발주처 Project Management Unit
+  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469418
