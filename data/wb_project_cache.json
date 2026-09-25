@@ -482,6 +482,13 @@
   "impagency": "Road Works and Management Agency (Agence des Travaux et de Gestion des Routes, AGEROUTE)",
   "total": 202000000.0
  },
+ "P176548": {
+  "borrower": "Solomon Islands",
+  "closing": "2029-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Communication and Aviation,Ministry of Infrastructure Development",
+  "total": 89210000.0
+ },
  "P176549": {
   "borrower": "People's Republic of Bangladesh",
   "closing": "2028-06-30",
@@ -586,6 +593,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Ministry of Communications, Infrastructure and Housing",
   "total": 150000000.0
+ },
+ "P178701": {
+  "borrower": "Republic of Madagascar",
+  "closing": "2028-03-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Digital Development, Digital Transformation, Posts and Telecommunications (MDDDTPT),Ministry of Energy and Hydrocarbons (MEH)",
+  "total": 300000000.0
  },
  "P178720": {
   "borrower": "Republic of El Salvador",
@@ -712,6 +726,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "The National Road Fund Agency (NRFA)",
   "total": null
+ },
+ "P180915": {
+  "borrower": "Republic of Chad         ",
+  "closing": "2031-02-27",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministere des Infrastructures, du desenclavement et de l'entretien routier                                                                        ,Ministere des Transports, de l'Aviation Civile et de la Meteorologie",
+  "total": 400000000.0
  },
  "P181079": {
   "borrower": "Republic of Ecuador",
