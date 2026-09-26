@@ -37,7 +37,7 @@
    - 원문: https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUJ6VURmN1dSZWlhNnRpSFJQcTFLVUhxWjZhaXJpb3dwYzJNUmdVMnhfcHkxSWQzVlp0TlhDNnM1azk2a3h2SEFnTlB2YXhkRTVZUjk2UDFSWU9aTVB6YTJGbUJhR0h1QUx4elZNZmNGMVpjSWNIb2NqQ2JJLVcxaXZzR2d2UzFZd3VUT0FwUTBGNWh5dl84RTB1LW1sUUM2eFlz0gG3AUFVX3lxTE0tYjhSNlZ2aTdrQVJuSEJmd3JZU00wQXpCQkRaOTZaMk8yM2lXaDBza0tsOFFqdEtIZjBTM3RmX0pUSzR4OENoSkZZY2M1TU9rYXI5N2ZWNkxvVkdZeDU2dVlBQ2NDVmZ3elhfV0JuVzJ2V1gyNmw2VVNaZTVnZ2FPTGpUci1MVTBLR0hGZHBPcUc5Z1BhVG1aVnR3RkZiRXZhekNvbjVGRkI4cnlzckQ0RzZLZmJQNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 6. Open-Road Tolling on Bay Area bridges to debut next year at Richmond-San Rafael Bridge
-   - 분야: 요금·통행료 / 게재일: 2026-09-21 / 매체: contracostaherald.com
+   - 분야: 요금·통행료 / 게재일: 2026-09-21 / 매체: Contra Costa Herald
    - 원문: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUo5ZEZlMkVESVFwQjM2NjlMeVF3TkRQZGxQQXFNTnRFbGZ0VVBtTHVmY0tPbkFkMkdLOEV4SlZwZk1kb3dGZFR5S1BXRE5vVVB2VkRjMjV0M0s5dEpXOFJ2amRDMHozQ1BjQjVtZXFQeHIwUVRMYWZaM20wd1FXQWZKLTdEVGJtNWhRb1g1eGpkZ3ozN1UxY3NaejZqUHZzb05ncWpGUWYyMVVQWjE4eVhIeUYxbFEz?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 7. Toll collection will become faster under integrated tolling system: Bridge Secy
@@ -68,23 +68,19 @@
    - 분야: 신호·관제 / 게재일: 2026-09-24 / 매체: Hackaday
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE0tdTllVWFuMHI3ci13R19YN2xCZ0FmVnMzc0dDa3BPWUZSa21IbHVnY0NiUVZjQnBjQUZaLTRDVjFoNDdLdjhJVV9FbllJeVBPeWExcnFGUHNuMjlQVklqdHd4LS1ZWjBwQzh4bHl0aGtIV2c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. Faulty traffic signals expose traffic police to health hazards
-   - 분야: 신호·관제 / 게재일: 2026-09-25 / 매체: The Hindu
-   - 원문: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcXlTdjUyc3VhQ2YteEhacy1aNlQ1c2JXNkp6eVVqWUJuX19QeVV3Rzg4clR2aEt2MXVVeTQ5VG1BNjVEOVJOZzRRRkZBVVk4NjhsQThJRElLRVFSVnFDT2NxWF9MUVYycEdUSkE1TlJiVmJiYlJuTENMTnlSNVhjR0UzU0R0SkE0RXcwa3JGYUR1d2wyNzRGbjdZQ2ZUVEg5c1B1dUV0SWlpNjFFZjJuRVhnVUc4azcteTdhR3E1NFd0bHA5ODIza3hRSWxGa0kzWmfSAdIBQVVfeXFMTXF5U3Y1MnN1YUNmLXhIWnMtWjZUNXNiVzZKenlVallCbl9fUHlVd0c4OHJUdmhLdjF1VXk0OVRtQTY1RDlSTmc0UUZGQVVZODY4bEE4SURJS0VRUlZxQ09jcVhfTFFWMnBHVEpBNU5SYlZiYmJSbkxDTE55UjVYY0dFM1NEdEpBNEV3MGtyRmFEdXdsMjc0Rm43WUNmVFRIOXNQdXVFdElpaTYxRWYybkVYZ1VHOGs3LXk3YUdxNTRXdGxwOTgyM2t4UUlsRmtJM1pn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-15. Vadzo Imaging Validates Innova-662CRE Sony STARVIS 2 IMX662 2MP GigE Camera with HDR Imaging for Smart Traffic Monitoring
-   - 분야: 신호·관제 / 게재일: 2026-09-25 / 매체: financialcontent.com
+14. Vadzo Imaging Validates Innova-662CRE Sony STARVIS 2 IMX662 2MP GigE Camera with HDR Imaging for Smart Traffic Monitoring
+   - 분야: 신호·관제 / 게재일: 2026-09-25 / 매체: FinancialContent
    - 원문: https://news.google.com/rss/articles/CBMijwJBVV95cUxOcWdyZUptOF9QSURLZV9Pa3RENldUbVJ0NHZoLWlLN05SWklvbU5BeWZOT1BsM1ltMGlxc0l2SkE1R1RCS2lRbjYxMkd6dmY3ZmQyc2M3UkFfdC13QVVjVWo1ZnVKVW5zQzlRbG9YMXBFTDNkTmNib3drbGliWWRvb1N0cjR6RUhWVE1uU1NReFRPV2gwU0gxMHVqRWtzY0dieXEteThVMFlsVTF0TFBUamRaUFZlUFJYX28zczg0d1VaMWx0VGFFcDUwZGZaYWY1U1R1LXRwLWMzdE1MWmZUb3YwcWRxWm8xTzR3MEhzWTR5eEh1TTZlNTE1cDNocHlyVTdlb2t1TTh3NWlTZ1g4?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. Bangladesh's toll system needs transparency, time limits and technology
+15. Bangladesh's toll system needs transparency, time limits and technology
    - 분야: 요금·통행료 / 게재일: 2026-09-25 / 매체: bdnews24.com
    - 원문: https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NTXduRHZwRnpYZGM5SzE5OTF3MU1HdUlXSkxjQ2MtVWRmckRhRFVNR1UtSnFWV0pUbmpVQmZydHJYRXJBQ1NzUXVhS01hLU91?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. Starting October 1, Romania is changing its road toll system and eliminating tolls on number of bridges across Danube
+16. Starting October 1, Romania is changing its road toll system and eliminating tolls on number of bridges across Danube
    - 분야: 요금·통행료 / 게재일: 2026-09-25 / 매체: Ukraine open for business
    - 원문: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM3VFcy1zS2pzalo0Z3prYXZFR3RXa2E3QzFZLXNUeGZDX21Dc2xSc05GakxKUjhQQjNJRGU3NmN6eDBpVXhKbV9uTzJwX0V1cHZ6eVdoNEZnaXJMdXpMdWd3WGtoNjZTWElpZ2tVc0NzR3ZNRGtmS0IxM3hMWGFvdlFwd080Y1Z5aENlSExmcmJTazhGRmFDRW5jUk9GdkVsanhjZUtlaTBzLWdHWmZ3QWVyNlV1MnBqc3cySEp5VHZhMEQ5MDVJU2lsREliVFhCWWNLczNza1lyN212NUJ2Sk1lTQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. Uganda Launches Mobile Money Toll Payments on Kampala-Entebbe Expressway
+17. Uganda Launches Mobile Money Toll Payments on Kampala-Entebbe Expressway
    - 분야: 요금·통행료 / 게재일: 2026-09-25 / 매체: SoftPower News
    - 원문: https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3NjbUhpcllWb1VxSEY4bWRiTlFQMDhIaHNOOGtxc3JlVW5CNThxbm42el9TR3MwUTBkT1BHc3VfYjF1UGRnZy1lWlozaWdCQVAxOWVmUFh6czQ5ZWJ5aDBFQS0wckRYbDgwUm9wd1ZwUUN2eVRkNEZSZ2lIRW5FNnpGb28wLXFNTWtOdzRrSVJHUHBManRlMFJR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
@@ -108,7 +104,7 @@
 
 4. 자율주행·스마트물류 띄운 K-모빌리티… APEC서 협력 확대 - 머니투데이
    - 분야: 자율주행 / 게재일: 2026-09-22 / 매체: 머니투데이
-   - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTFBHTUJGVDllN3RWVkwzT2NMbXd3RTVzTmdpWWVrbzQzM1dFaExNc3p0NTM3V001NjhKazRkYTlYX2FqTTdOajI5UGtjbDVnYWc4ZXJ6MzRnOXRFaERQOTBUc01vQUNnck9kSEljazd2LUdOSXdwdlFB0gF8QVVfeXFMT0tvR1AxUlhpTTJxTVowOFl2WnZrb2dxZHZrbDVFcVhNNUJtLUxiV2FtWk56N21EQ1hkTWZHM1FHNW81dVc2S0N3eW9vMHpudWRGNWlhWThlSXB3dTh0UXNDaUFXWFo1TndvZWVBNktGT1kwN2VzeGxvM1NnMQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFBfZVhna0g0ZzN5dDIya1E5cGpXSU05dFBkankxcFE0VnJwRUhHOXl4dnAtMzdZMFozRXd1SklLQUFGQVMySkUyaS1ZUC1MYjZkcUFrU1p0Q1MycjdFOGJMbGdRdG01ajlBN0HSAW9BVV95cUxNQUxUMlFuVU9CRWVWN2tmWjRWV0RQSXdHdUZYbUg3cFAyWkd4X2Fyb01ZVjNOTkc2dFRxRUNiYksyYTZXeXF4bGtqa0FyTWFzYVBHNTJnU1pGaXh5ZzJPVGJKdnJrdWozeVF0RU9UWkU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 5. [모빌리티핫이슈] 中 자율주행 글로벌 정조준…현대車 로보택시로 간다
    - 분야: 자율주행 / 게재일: 2026-09-22 / 매체: 디지털투데이
@@ -119,7 +115,7 @@
    - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBYb2pLS09IeE1FdWJVSkt6THBGWFVqX0pPVWltVXNHRWhOb2FvUFNVNndjN0ZWVzJpWWNjRWI0UWVCemtoekFPX192TDV2amtfR21uamJ3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 7. 크라우드웍스, 모비루스 농업 자율주행 데이터 수주...비정형 농지 학습
-   - 분야: 산업·투자 / 게재일: 2026-09-21 / 매체: newstheai.com
+   - 분야: 산업·투자 / 게재일: 2026-09-21 / 매체: 더에이아이
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE5mTkw5V19jR3pPaHVGTUtXVGllQUs3RmpBcTFzLU9NMzNnQkhkNGV1dm5GLVktaWloSEhXeFljaGp1MUdPYXZ4Vi1oQUM5UGNUMFRlYWN5VGtycVY4OFYybzRZcmFOcDZ4VTNN?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 8. AI·자율주행 앞세운 한국…APEC에 스마트 모빌리티 협력 제안
@@ -158,21 +154,21 @@
    - 분야: C-ITS·V2X / 게재일: 2026-09-23 / 매체: 머니투데이
    - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTFA5NGk5NktoODJxTEpNMUFGMWdBOG12RGZDTEwxZXZ3ZnA0eVVlRUwzSXJkUVR5VmR5Mm5UTmdmMWRtWGtma3hJLXdnUmdUMXBUNlNKSFl1b2xMd3V4eTJHTGttSG8ySHlkUERfbnNpN3ZpRFBwYkVz0gF8QVVfeXFMTUxIU2xGXzdGT1ItejZhNGxvbWFfYXRJNmVfT0pSWWY5ZGxnd3BsLU8wUWJfN0VFLUJ6Nk9IaVA4OGI1ZjJHbVI4bnU0YS1admpXTnZ3Wm9jbGt4OTN4YnM3WGFaNlAwQktzdzQ2LWJHcWtheFpxdm1PYmd6MQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 샤오펑, 스마트 콕핏·자율주행 라이선스 사업화…테슬라와 대비
-   - 분야: 자율주행 / 게재일: 2026-09-19 / 매체: 디지털투데이
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBJOFZjMXR3ckZXUGQyZlpJM1loVlY0TzlYREhabFc4ZUg3bWZKNm1qRXBfQ3dEUVBtei1ueE5zd1dpdGwzbTdTdDJISmdMMGRNdE9NYmw0dERhQm9jclBIM3R5VWFxMmpRelNYX1JrQ1BGdFU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+17. 농경지 달리는 피지컬 AI…크라우드웍스, 자율주행 데이터 구축
+   - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: 지디넷코리아
+   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE50Qm90NjA3RHlkbmMzWk0wQ1JJaWdmeUd3WFJaTjRfNTludDljWVp6TVJIVU5QX0VYbXloOElIZzhPeDJDNWg1STVrd3FPOGNMTDhhbDBB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. [중국 특징주] 中 푸룽마, 화웨이와 자율주행 위생차량 개발
-   - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: 뉴스핌
-   - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE40cGhyTFR0TzBsZUxucUQ2MERMSkxqMnllaHJMZ0lSTGNsZ3R3ZURIZUEtbnZTQ1B3WjFlVUJsbmVyTkl1THdpNU9maGxJS3hVQmlZQnJiVExCeGc3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. ITS Korea, LTE-V2X 공인시험기관 인정
+18. ITS Korea, LTE-V2X 공인시험기관 인정
    - 분야: C-ITS·V2X / 게재일: 2026-09-23 / 매체: BBS불교방송
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE8zYlFqYXdKLTg3bGJIM1BQckx4T2gtN3BYYjh2U1o0dHNGbHc5NnRmNHo4TnBfSWgzRU12b19WXzhQS2c2a2hfejZ5YkFNdnctWUR1M0I2am9WMDFYT1dqQWJvRFJSVkFhMnF3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. 시장 6배 커진다…부품업계 "AI 데이터센터 다음은 '자율주행차'"
-   - 분야: 자율주행 / 게재일: 2026-09-23 / 매체: asiae.co.kr
+19. 시장 6배 커진다…부품업계 "AI 데이터센터 다음은 '자율주행차'"
+   - 분야: 자율주행 / 게재일: 2026-09-23 / 매체: 아시아경제
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4dHlLZEFCcnhXZ2lYVzVoMDRGd0hhRlYyc2hjWVd6Y1YyNkNOdjFFRW52Y0U2c0pSM1RuMUV1XzVDX05pRUtQQk40aUh4V3Btd1gxbTNmcTQzalJtckh5Ug?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 메르세데스-벤츠, 웨이브와 제휴…도심 자율주행 구현
+   - 분야: 자율주행 / 게재일: 2026-09-24 / 매체: 전자신문
+   - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOZF9WdlNaY2lZbzdHQU8wVjNDNVJTaHh0dWJzVE5HNHJsMk9iMVZXS2ZkMlRNaTAwdjRkYnd6OHhnUkhwZl9HLXhvQm5jQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
