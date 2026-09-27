@@ -29,11 +29,11 @@
    - 원문: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMDNuT0VIZ3czRmtRRVI0dmMxdEJDVUlvZk5fbFZUZDVXTkVxa2w0MDRLTnZud0ZUSkMwSEtXOGNPQ09oYjhJZmRneEhlcDZOcXZoUkpodU52SDE5b05ZQWw2SjNlSnRxWmRtbmFBWWk0Y21kaHZxdEZ2eG1WSHEyRWtDOE9qM1pwWTZIcWJVNktXOFNRdzhvLXBRbFYtcHZnRWNQaTBzVEJNMVhYZFpRWE1MdFQ2UUZ0TGd0OTZySEVhT2NzeEVmTXZCd0k3M0loZXfSAdcBQVVfeXFMT24waGd5Vk02ODZuczVpaGZzQkI0UkZJdFNHdkFST3lZM1RMcUs1N2c4RjZuU3BJWmYwejB1WVRXV3QxNEhiRi1LdXVTTWhjaE5GVE9KMF80cnhpelVtclE1eWZWNjk2WUk0bHI1c3N1VGFKekNZZjl5eUNaWUJjQUpERzlZSkxxbEUzdERtb2RKaWFtcENIWDdKeFlVdm9mY3dWZHJVWlBmRWR1MVE2LWJKRjhFN1llNXluMWJHMkowQ0Z3N21CRlF3Z3p1Q0NaTXZrRUFVMnM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 4. Busy Dauphin County road to get $1.2M traffic signal upgrade
-   - 분야: 신호·관제 / 게재일: 2026-09-21 / 매체: PennLive.com
+   - 분야: 신호·관제 / 게재일: 2026-09-21 / 매체: pennlive.com
    - 원문: https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUJ6VURmN1dSZWlhNnRpSFJQcTFLVUhxWjZhaXJpb3dwYzJNUmdVMnhfcHkxSWQzVlp0TlhDNnM1azk2a3h2SEFnTlB2YXhkRTVZUjk2UDFSWU9aTVB6YTJGbUJhR0h1QUx4elZNZmNGMVpjSWNIb2NqQ2JJLVcxaXZzR2d2UzFZd3VUT0FwUTBGNWh5dl84RTB1LW1sUUM2eFlz0gG3AUFVX3lxTE0tYjhSNlZ2aTdrQVJuSEJmd3JZU00wQXpCQkRaOTZaMk8yM2lXaDBza0tsOFFqdEtIZjBTM3RmX0pUSzR4OENoSkZZY2M1TU9rYXI5N2ZWNkxvVkdZeDU2dVlBQ2NDVmZ3elhfV0JuVzJ2V1gyNmw2VVNaZTVnZ2FPTGpUci1MVTBLR0hGZHBPcUc5Z1BhVG1aVnR3RkZiRXZhekNvbjVGRkI4cnlzckQ0RzZLZmJQNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 5. Open-Road Tolling on Bay Area bridges to debut next year at Richmond-San Rafael Bridge
-   - 분야: 요금·통행료 / 게재일: 2026-09-21 / 매체: contracostaherald.com
+   - 분야: 요금·통행료 / 게재일: 2026-09-21 / 매체: Contra Costa Herald
    - 원문: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSUo5ZEZlMkVESVFwQjM2NjlMeVF3TkRQZGxQQXFNTnRFbGZ0VVBtTHVmY0tPbkFkMkdLOEV4SlZwZk1kb3dGZFR5S1BXRE5vVVB2VkRjMjV0M0s5dEpXOFJ2amRDMHozQ1BjQjVtZXFQeHIwUVRMYWZaM20wd1FXQWZKLTdEVGJtNWhRb1g1eGpkZ3ozN1UxY3NaejZqUHZzb05ncWpGUWYyMVVQWjE4eVhIeUYxbFEz?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 6. Toll collection will become faster under integrated tolling system: Bridge Secy
@@ -60,9 +60,9 @@
    - 분야: 신호·관제 / 게재일: 2026-09-24 / 매체: LiveChennai
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE40b3ZhdzdsT1p0SjY2LXloeFVqdjMxUXFGSmp1cEk3SkVrOGZYMXFxZTNxSTNxSTFnai1VLTJaSVlyamlXOUg1d2VhUFlpcDFGdV9yLWcxY3pwSFU1a21ETzVwOUwxbUZVQmxleEJYYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. Solar Powered Traffic Monitoring
-   - 분야: 신호·관제 / 게재일: 2026-09-24 / 매체: Hackaday
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE0tdTllVWFuMHI3ci13R19YN2xCZ0FmVnMzc0dDa3BPWUZSa21IbHVnY0NiUVZjQnBjQUZaLTRDVjFoNDdLdjhJVV9FbllJeVBPeWExcnFGUHNuMjlQVklqdHd4LS1ZWjBwQzh4bHl0aGtIV2c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+12. Serbia to increasingly use drones for traffic monitoring
+   - 분야: 신호·관제 / 게재일: 2026-09-24 / 매체: eKapija
+   - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxNcXhXclVGLTFDV29vMGw0MmpvUG96bXRDX0lONmRmZjhHZDM5d2w2WDNrcC1ZU1hscklaa0VfblAyU3IwdXVtTnNpYnlaMkM1Y0RaT1ZvX25nZUR4TEdlTTlhaVVuWVAxR0M3ZUxSR2ZJdnZzdVhPVklRZlI2bnAxTGl2blZRN3JMcTY0YXdyWmdmRVZpVkFNTmdOa3o?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 13. Faulty traffic signals expose traffic police to health hazards
    - 분야: 신호·관제 / 게재일: 2026-09-25 / 매체: The Hindu
@@ -99,7 +99,7 @@
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTFAtYlE1aWVITHNRQi1Tbld3c1pYZFZxMVpVWFlZdmlDMHlyWWVhR2puRVJjOXJaLVV2SHh4RWJ1a1VaTDh6dDlKQjNuUkp3TGlqLWZFY2tTOGpyamR1WTRfLWVibjJyN3hNMG5BZy14QdIBZkFVX3lxTE9Cejh0NTY3ZXZpMVNuVTdCZ2RMaW42SWZmZ2E4a3RHeFcwY0RkT213cGRWcmdkMUN4QVA1T3hxdTdJVndIcllMWmlva0pTWGo3UE1PMDczd1FPM1U4aXJEV0sybFBVUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 2. 태국·체코 교통당국, 카카오모빌리티 자율주행 서비스 체험
-   - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: 지디넷코리아
+   - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: zdnet.co.kr
    - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE56UG5iUThFSnBOUm5ocVhSWWlyTHg4YkF0THE2cDNCSlNDUjl4d0JPTGUzUjljU3p5dWxhcUFkZTJ6Nk9hLWdmVC1Jbi16ejJoTXpSeUxB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 3. 자율주행·무인 모빌리티의 상용화 확산…로보택시에서 트럭·드론·건설장비까지
@@ -131,48 +131,48 @@
    - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EYk9YOTF1c05wLUdMZW4yTTZoTjJJaTdwSUt3ekptd2taQktyN0FrRV83Qi11cHRiWmhfTDFhdFF1MkJLNUw2bU1zRHBrNzZDaE9JSjRkU1Z1cXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 10. [발주자의 책상③] 자율주행 발주 제대로 하려면…‘원개발사’까지 확인해야
-   - 분야: 자율주행 / 게재일: 2026-09-26 / 매체: jodaleconomy.com
+   - 분야: 자율주행 / 게재일: 2026-09-26 / 매체: 조달경제신문
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE5kdXY0QUxVODdGMENkeUdpUkhWQjhEU1Q0U0VMS3NQSzlIZ0Z1TUNJSmV5b1YwUldkTUVjNmU1WFFuUmUxUWZCZUdqUGwwN1F2SEdBbjMtVEIwcWZsU1FFM01IMzJjMW52SUNqTVpB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 11. 익산시, 미래형 대중교통 자율주행 ‘마룡e버스’ 첫 출발
    - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: 쿠키뉴스
    - 원문: https://news.google.com/rss/articles/CBMiY0FVX3lxTE15d2NHdC1OelgtU2xtUkhNNXhwUHQxUXFDbHlCX2Nab0hRd1V4ZUJtVEZMOTBMSnNXM0l3VnRFcUJNRjFZeHd1ZGg2eFFjLVQ5b1h3V0hkRzJ0ZG5VT1hHWTFtRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 버스는 무료인데 운전은 누가 하나…일본이 지방에 자율주행차 넣는 이유
-   - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: jodaleconomy.com
-   - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE9MYkVsZUtXX2tybUJCZHJoY0huZzRPSHJaVndwZEhNdGw4OV92VUNVVVByX01CbWZBQ1FESC1heDkwczdrS0dvTGNWWTZsdHZkeVMxM25hZHRDc19tOEh3WUx1TFFCNE93ZXk2WjdB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-13. 에티포스, 국산 5G-V2X칩 실도로 검증…통신IP부터 RSU까지 내재화
+12. 에티포스, 국산 5G-V2X칩 실도로 검증…통신IP부터 RSU까지 내재화
    - 분야: C-ITS·V2X / 게재일: 2026-09-21 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE11bEw1bU1KeGJlaWhKbGZIWEhtTllDMEpaOWpuVVc1UDQ0QnViTzRVU3M1R2FHbHV2Q04wRUlfYU9POW5uX0VncmZrT3MtZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 지능형교통체계협회 ‘차량과 도로 인프라간 무선통신 기술’ 공인시험기관 인정
+13. 지능형교통체계협회 ‘차량과 도로 인프라간 무선통신 기술’ 공인시험기관 인정
    - 분야: 기타 / 게재일: 2026-09-23 / 매체: 부산일보
    - 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE1RX2MxS0RKekxXbDRsaEVvZF93d01oem04UkxONjNkb2FaNzVxZVAxdUpOejNkbHl2OFg1RGcyOVpDOThIZ2NMeVFUeVJwWC1JeldSMGtiOGkyNk1iNFBzT1YzeUNRUVpIQS0yck05SndLNS1X?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 16년 만에 돌아온 '교통 올림픽'…강릉서 AI·자율주행 미래 펼친다
+14. 16년 만에 돌아온 '교통 올림픽'…강릉서 AI·자율주행 미래 펼친다
    - 분야: 자율주행 / 게재일: 2026-09-20 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTFBJcG0xQXZCTmxfalVnV2RBbnhoazFlTi0yMFRKVm1QX1RUblF3bzRCYVJ3Tk1YSUxwdmlZR1BRekx0MmptU2F2VlJuTE1sVkVSYm1LTkdBN3NCc3JN?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 에티포스, V2X 반도체 탑재 기지국 판교에 설치 - 조선비즈
+15. 에티포스, V2X 반도체 탑재 기지국 판교에 설치 - 조선비즈
    - 분야: C-ITS·V2X / 게재일: 2026-09-21 / 매체: Chosunbiz
    - 원문: https://news.google.com/rss/articles/CBMikAFBVV95cUxQaV9JdkdvMGViandsVEJraFZyU1Rial9kcHJnVWkyeGhOSGtYamtxUDFObmhreUxMOE1qNDBBLVg2dGd5WWViTEVNSmZZMXRWcVFYaDUzRkJhS1ZpRmx0amdWQVBPVHRSR05OZlh3a3MyY190ekZyLVZ4UE5CcU5pTXR0SUs3NjNjT05sb3ZibjXSAaQBQVVfeXFMTkRORmF3NjY2T3dMczJfWjE0Ui1pV0NqczJXVEQ3QkNzRmx0VzdEbzZZc1hpMWxFZjJRczNRa0ZqN1A4c21mLVh3R3pHT2JwZmg0QjBzVHd4VlBNcFVneUVueE1TOUotTFYzQldCaWNWOV91cmZjOHpyZzhNLUYybU54MlFZb3poXzFGcGFyWHRnM2lSX3NJdndjNDZKdHZ2T3hPYXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 에티포스, 판교에 '세계 첫 5G-V2X 국산 도로' 깐다…시리즈C 유치 탄력 - 머니투데이
+16. 에티포스, 판교에 '세계 첫 5G-V2X 국산 도로' 깐다…시리즈C 유치 탄력 - 머니투데이
    - 분야: C-ITS·V2X / 게재일: 2026-09-23 / 매체: 머니투데이
    - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTFA5NGk5NktoODJxTEpNMUFGMWdBOG12RGZDTEwxZXZ3ZnA0eVVlRUwzSXJkUVR5VmR5Mm5UTmdmMWRtWGtma3hJLXdnUmdUMXBUNlNKSFl1b2xMd3V4eTJHTGttSG8ySHlkUERfbnNpN3ZpRFBwYkVz0gF8QVVfeXFMTUxIU2xGXzdGT1ItejZhNGxvbWFfYXRJNmVfT0pSWWY5ZGxnd3BsLU8wUWJfN0VFLUJ6Nk9IaVA4OGI1ZjJHbVI4bnU0YS1admpXTnZ3Wm9jbGt4OTN4YnM3WGFaNlAwQktzdzQ2LWJHcWtheFpxdm1PYmd6MQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. [중국 특징주] 中 푸룽마, 화웨이와 자율주행 위생차량 개발
+17. [중국 특징주] 中 푸룽마, 화웨이와 자율주행 위생차량 개발
    - 분야: 자율주행 / 게재일: 2026-09-21 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE40cGhyTFR0TzBsZUxucUQ2MERMSkxqMnllaHJMZ0lSTGNsZ3R3ZURIZUEtbnZTQ1B3WjFlVUJsbmVyTkl1THdpNU9maGxJS3hVQmlZQnJiVExCeGc3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. ITS Korea, LTE-V2X 공인시험기관 인정
+18. ITS Korea, LTE-V2X 공인시험기관 인정
    - 분야: C-ITS·V2X / 게재일: 2026-09-23 / 매체: BBS불교방송
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE8zYlFqYXdKLTg3bGJIM1BQckx4T2gtN3BYYjh2U1o0dHNGbHc5NnRmNHo4TnBfSWgzRU12b19WXzhQS2c2a2hfejZ5YkFNdnctWUR1M0I2am9WMDFYT1dqQWJvRFJSVkFhMnF3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. 시장 6배 커진다…부품업계 "AI 데이터센터 다음은 '자율주행차'"
+19. 시장 6배 커진다…부품업계 "AI 데이터센터 다음은 '자율주행차'"
    - 분야: 자율주행 / 게재일: 2026-09-23 / 매체: 아시아경제
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4dHlLZEFCcnhXZ2lYVzVoMDRGd0hhRlYyc2hjWVd6Y1YyNkNOdjFFRW52Y0U2c0pSM1RuMUV1XzVDX05pRUtQQk40aUh4V3Btd1gxbTNmcTQzalJtckh5Ug?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 메르세데스-벤츠, 웨이브와 제휴…도심 자율주행 구현
+   - 분야: 자율주행 / 게재일: 2026-09-24 / 매체: 전자신문
+   - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTFBOZF9WdlNaY2lZbzdHQU8wVjNDNVJTaHh0dWJzVE5HNHJsMk9iMVZXS2ZkMlRNaTAwdjRkYnd6OHhnUkhwZl9HLXhvQm5jQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
