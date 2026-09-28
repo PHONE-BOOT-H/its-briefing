@@ -169,6 +169,16 @@
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=999ED02D3112E9C373CC2FED73E4AF8E9E63A17BBD577C744EB6A5BA59303AC5": {
+  "budget": {
+   "amount": 2931000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Khyber Pakhtunkhwa Urban Mobility Authority Pakistan",
+  "selection_method": "Quality and Cost-Based Selection (QCBS)",
+  "source_scope": "International"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=9E8343B411BFBAD3C4E9037FE2C4B06DE5B447C2BB6FDEE6FA7580DDBBCA2801": {
   "budget": {
    "amount": 160600.0,
