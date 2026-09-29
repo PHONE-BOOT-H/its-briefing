@@ -314,6 +314,13 @@
   "impagency": "Ministry of Infrastructure, Equipment and Housing,Ministry of Trade, Transport, Industry and Tourism",
   "total": 120000000.0
  },
+ "P173019": {
+  "borrower": "People's Republic of Bangladesh",
+  "closing": "2027-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Bangladesh Police,Bangladesh Road Transport Authority,Directorate General of Health Services,Roads and Highways Division",
+  "total": 527000000.0
+ },
  "P173114": {
   "borrower": "The Union of Comoros",
   "closing": "2028-06-30",
@@ -362,6 +369,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "ADR",
   "total": 90000000.0
+ },
+ "P174485": {
+  "borrower": "Federal Democratic Republic of Ethiopia",
+  "closing": "2029-10-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ethiopian Roads Administration,Ministry of Transport and Logistics",
+  "total": 650000000.0
  },
  "P174495": {
   "borrower": "Republic of Chad",
@@ -488,6 +502,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Road Works and Management Agency (Agence des Travaux et de Gestion des Routes, AGEROUTE)",
   "total": 202000000.0
+ },
+ "P176450": {
+  "borrower": "The Central African Republic",
+  "closing": "2027-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Equipment and Public Works  (METP)",
+  "total": 86500000.0
  },
  "P176548": {
   "borrower": "Solomon Islands",
