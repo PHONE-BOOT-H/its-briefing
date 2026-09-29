@@ -319,7 +319,7 @@
    "cpv:34996000",
    "signalling"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "ted",
   "first_seen": "2026-09-25",
   "notes": null
@@ -2628,8 +2628,8 @@
   "org_type": null,
   "project_title": "Support to the Preparation of the Absheron Circle Line Project",
   "budget": {
-   "currency": "USD",
    "amount": 15000.0,
+   "currency": "USD",
    "is_project_total": false
   },
   "selection_method": "Individual Consultant Selection (ICS)",
