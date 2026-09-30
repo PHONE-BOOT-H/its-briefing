@@ -53,7 +53,7 @@
    - 원문: https://www.itsinternational.com/road-safety-markings-association-urges-20mph-limit/
 
 10. TECH PROFILE: Cameras replace servers in free-flow parking
-   - 분야: 대중교통·물류 / 게재일: 2026-09-30 / 매체: ITS Korea
+   - 분야: 대중교통·물류 / 게재일: 2026-09-29 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/news/smart-parking/tech-profile-cameras-replace-servers-in-free-flow-parking.html
 
 11. New Telent contract supports reliable Herefordshire traffic signal operations
@@ -65,7 +65,7 @@
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxNZGZwOVVSaGsyNkpYMk84eFJ2RmFIdjJ1dGNfclkyRzdVb0QxZkJacE01UUpSdWxPeW1BYmY1eVVYbER6aUpHYUpXUEt3M1hjWENkN1B4djJVTlNVaHlrX3d6V2ZzdHFoQVVHWEQtVEl4c0M0OExUV1pKSmRwSmg3dkRMLXJpWFpRdTNXbklwbVkwa0h0dVVCNnpWRkE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 13. Chennai AI Traffic Signals: ATCS & ITS Smart Traffic System | See This Full Video
-   - 분야: 신호·관제 / 게재일: 2026-09-24 / 매체: livechennai.com
+   - 분야: 신호·관제 / 게재일: 2026-09-24 / 매체: LiveChennai
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE40b3ZhdzdsT1p0SjY2LXloeFVqdjMxUXFGSmp1cEk3SkVrOGZYMXFxZTNxSTNxSTFnai1VLTJaSVlyamlXOUg1d2VhUFlpcDFGdV9yLWcxY3pwSFU1a21ETzVwOUwxbUZVQmxleEJYYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 14. LiDAR Traffic Signal Upgrades On Tap In Middletown
