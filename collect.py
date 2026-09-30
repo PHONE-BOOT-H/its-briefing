@@ -1401,8 +1401,13 @@ def rss_items(xml):
                 iso = email.utils.parsedate_to_datetime(d).date().isoformat()
             except Exception:
                 pass
+        su = re.search(r'<source[^>]*url="([^"]+)"', b)
         out.append({'title': tag('title'), 'link': tag('link'),
-                    'date': iso, 'media': tag('source')})
+                    'date': iso, 'media': tag('source'),
+                    # 매체 도메인. 구글뉴스 링크는 토큰이라 원문 도메인을 여기서만 알 수 있다 —
+                    # 게시판에 실제로 올라간 글과 대조할 때 매체명보다 이게 정확하다.
+                    'media_host': re.sub(r'^www\.', '', urllib.parse.urlparse(
+                        html_mod.unescape(su.group(1))).netloc.lower()) if su else None})
     return out
 
 
@@ -1674,6 +1679,7 @@ def fetch_news(days=7):
                 'type': BOARD_TYPE[board],
                 'country': None, 'country_ko': None,
                 'title': title, 'media': media, 'org': media,
+                'media_host': x.get('media_host'),
                 # 카드 배지가 매체명 대신 이걸 쓴다. 매체명은 상세 모달에만 남는다.
                 'category': classify(title, board),
                 'flag': flag,          # '재가공 의심' / '기고·칼럼' — 화면에서 접는다

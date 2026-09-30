@@ -53,3 +53,28 @@ jobs:
             git pull --rebase origin main
             git push
           fi
+
+      # 사용 대조 — 게시판에 올라간 글이 이 도구 재료였는지 비공개 저장소에 기록한다.
+      # 실패해도 수집 결과에는 영향이 없어야 하므로 continue-on-error.
+      - name: 사용 대조 저장소
+        continue-on-error: true
+        uses: actions/checkout@v4
+        with:
+          repository: PHONE-BOOT-H/its-usage
+          ssh-key: ${{ secrets.USAGE_DEPLOY_KEY }}
+          path: usage
+
+      - name: 사용 대조 실행
+        continue-on-error: true
+        run: |
+          python usage/usage.py --data data --days 21
+          cd usage
+          git config user.name  "its-briefing-bot"
+          git config user.email "its-briefing-bot@users.noreply.github.com"
+          git add usage.json usage.md
+          if git diff --cached --quiet; then
+            echo "새 등록 없음"
+          else
+            git commit -m "usage: $(TZ=Asia/Seoul date +%Y-%m-%d)"
+            git push
+          fi
