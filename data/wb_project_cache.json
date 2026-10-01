@@ -244,6 +244,13 @@
   "impagency": "Saint Lucia Air and Sea Ports Authority",
   "total": 45000000.0
  },
+ "P170868": {
+  "borrower": "Republic of Serbia",
+  "closing": "2026-12-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Ministry of Construction, Transport and Infrastructure,Railways Directorate,Serbia Cargo,Serbia Railways Infrastructure,Serbia Voz",
+  "total": 125000000.0
+ },
  "P170907": {
   "borrower": "Republic of Haiti",
   "closing": "2027-12-31",
@@ -474,6 +481,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Environmental Protection Fund of the Federation of Bosnia and Herzegovina,FBiH Ministry of Environment and Tourism,Herzegovina-Neretva Canton,Sarajevo Canton,Tuzla Canton,Zenica-Doboj Canton",
   "total": 50000000.0
+ },
+ "P176088": {
+  "borrower": "Lao People's Democratic Republic",
+  "closing": "2028-05-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Public Works and Transport",
+  "total": 201900000.0
  },
  "P176114": {
   "borrower": "PJSC “Ukrhydroenergo\"",
