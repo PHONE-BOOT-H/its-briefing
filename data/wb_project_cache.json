@@ -608,6 +608,13 @@
   "impagency": "Secretaria de Planejamento e Assuntos Estratégicos (SMPAE)",
   "total": 162000000.0
  },
+ "P178176": {
+  "borrower": "Democratic Republic of Congo",
+  "closing": "2029-08-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Small and Medium Enterprises and Entrepreneurship (Ministry of SMEs)",
+  "total": 300000000.0
+ },
  "P178207": {
   "borrower": "Ministry of Public Works",
   "closing": "2029-06-30",
@@ -936,6 +943,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Ministry of Transport and Infrastructure",
   "total": 8272440300.0
+ },
+ "P510062": {
+  "borrower": "Government of India",
+  "closing": "2031-12-03",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Gurugram Metro Rail Limited (GMRL)",
+  "total": 574000000.0
  },
  "P510427": {
   "borrower": "Republic of Mozambique",
