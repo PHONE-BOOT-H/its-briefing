@@ -188,6 +188,13 @@
   "impagency": "Ministry of Infrastructure and Accessibility, Burkina Faso,Ministry of Public Works and Infrastructure, Togo,Ministry of Transport and Equipment, Niger",
   "total": 470000000.0
  },
+ "P168862": {
+  "borrower": "Bosnia and Herzegovina Ministry of Finance,Republic of Serbia Ministry of Finance",
+  "closing": "2027-11-30",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Bosnia and Herzegovina Ministry of Communication and Transport,Brcko District,FBiH Ministry of Agriculture, Water Management and Forestry,International Sava River Basin Commission,Montenegro Ministry of Agriculture, Forestry and Water Management ,Republic of Serbia Ministry of Agriculture, Forestry and Water Management,Republic of Serbia Ministry of Construction, Transport and Infrastructure,Republika Srpska Ministry of Agriculture, Forestry and Water",
+  "total": 151500000.0
+ },
  "P169021": {
   "borrower": "Democratic Republic of Congo",
   "closing": "2027-12-31",
