@@ -59,6 +59,16 @@
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=2BDFE37B41BA2571062CD65A1A8A074C94574D1DCFC63E3C10AE3418762F7E82": {
+  "budget": {
+   "amount": 50000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Committee of Roads Kazakhstan",
+  "selection_method": "Resource Person Selection (RPS)",
+  "source_scope": "International"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=2C1FE006695293A28694805691C79B9CBC370D4DFCB5A802DD1F565C859E9596": {
   "budget": {
    "amount": 1608000.0,
