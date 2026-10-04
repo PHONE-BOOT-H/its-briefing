@@ -45,7 +45,7 @@
    - 원문: https://news.google.com/rss/articles/CBMiywFBVV95cUxPRHZyMkxkME5pVkFFYmNPdEhhUS1lMjZIbEFHN18xcnZVNVpYekxILWpKOVYzVTFmV0wyQnhOMzFhb0dtZlYxeWloVmx5MXVxWEU5X0kwVG5waVFqZG1NVjBOLXlWQVN4bWVtcXQ3WENhUXkwdkpDRk5pNGxPZ1JpdzFIcElrVE5CYXNia21QWUR4dG52MUhFZm5ZWFdUZ0NRZ0VjSEpQdTdnU2VnM25RYXlvdEtkcl92VXYtSmJoWTd4b1ZmbWFBemltRdIB0gFBVV95cUxOb3UzVTBXZHl0NzNES0NfODgyWHJRcE1weG0yNzBnejVmaUdCNkh3OWNrVHBsUlZDLXJRRE00RmtKb24wMm1nWFIzaUc3VnZSVTljOC03RTNRcUNOdkJGVGF4cFRiandJcU9OTmUtbkkxdWxpck1WME54UUlXS2JldXlaS2Y5RDh1UUZrMFplU0w3UDQtTUt0amhCOGFkcEFrSXhBRzNlU1NsRjJNZjQ2alpjcGxfVXVReDBNS1hPTWl6NHRjNnUwTzdzODNsSmJLdWc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 8. Cabinet Clears 3 Key Measures: Higher Rabi MSPs, Rs. 1.86 Lakh Cr Green Energy Corridor, & Delhi AI Traffic Management
-   - 분야: 신호·관제 / 게재일: 2026-09-30 / 매체: APAC Media
+   - 분야: 신호·관제 / 게재일: 2026-09-30 / 매체: apacnewsnetwork.com
    - 원문: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSFBUdDAwYVRJQ3ZuY3dYYVlpWEViYWlqczg5b0J6eXJob0RPZHFuV28ydWpLMXFuYlVFMGVQcTQzeW1QN2tOcC0wSjI3MWpicW1tc1pkZEoxUDh6RktaeTl3dTFpVDE1bGJsZDk3WGpXeFNLVHZ1c2E4Z01UWlFndV9QYkVSWGEtZzMtb0tzaWJraHlnRjBVaVp0Qk1UcF8tX2tiblF6OExhNmEwb0ZUZFRHMVE5eDB1Q00yY0d0MkRjSHc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 9. AI-powered traffic management coming to Delhi, 42 corridors in first rollout
@@ -56,45 +56,45 @@
    - 분야: 신호·관제 / 게재일: 2026-10-02 / 매체: The Assam Tribune
    - 원문: https://news.google.com/rss/articles/CBMirgFBVV95cUxPX2pLQ1cxdWl3Nnk5VnpWbTNzRk5qNUhSamRsOHJTOFVFUTNTakQ2OS1zWE44cDE0ZEE1RDRjZ1hYM2xvRkhHNVlRUnpEdU9JZ2ZrUVJnVkxGQUl0OGpsUG9zYlFObFJZVnJKVUEyNW9yRkY0dkdMQUNtNEsycGwtQmQ0SXdnQXdfcFpLeW5YZi02UmxNdldfVHBudVM3TjNBZDN5Ry1NWGd6eFNGQnfSAbMBQVVfeXFMTndYZ3lGdWJ2MFJud1MteXMtS3RxMXdPeTRFQ0NYRFN6dXdQYXJub1hmTFlCbGx5d2lkRFQ0MVcyRWpPYVNMeTlRak9MWEVQeERzbGxRQTVxRnJXeWVFcEZoMlVjUk8yWUEyUmE1MnU2ZzlyeFZjWTh2cS1XOTJpSmQzRjFRdkx0RVh4YXR4TlhKWjcyaS1RZVFIUmZiWmsydUl0dkpPcHlxc0FvbmRsSHdSX0k?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. India’s barrier-free tolling explained: No more stopping as FASTag & number plate recognition will help collect toll automatically
-   - 분야: 요금·통행료 / 게재일: 2026-09-27 / 매체: The Times of India
+11. Cause of Lowari Accident: Unsafe Tunnel Traffic Management
+   - 분야: 신호·관제 / 게재일: 2026-10-03 / 매체: Chitral News
+   - 원문: https://news.google.com/rss/articles/CBMiigFBVV95cUxOUjBBMTZKdzlkZVN3NGV2bjZCZFNhWGJGWlc3cmtQQ2hlLXZzMUhMTVlhS1REM1pOOVZIWmhtNEcycG9YcnVRaHAzdDIwOWtrSXo3azFoaUhqMUpOWHI0SnVBNE5Yci1wUlBOMlFDZzlSRGxrUDlJd2pCczN5aFRDamJOeFltM1NaSFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+12. India’s barrier-free tolling explained: No more stopping as FASTag & number plate recognition will help collect toll automatically
+   - 분야: 요금·통행료 / 게재일: 2026-09-27 / 매체: timesofindia.indiatimes.com
    - 원문: https://news.google.com/rss/articles/CBMitwJBVV95cUxNN1dOdVVIemhXV0p1WV8yaFFCQkNISlVkeHIyRm9iXzVEX21hUjRxSk9qdENLYlhWMExDYS1pcExJTGllWXJDZnNiVlpiLUc4MVhGVXZQSllFVFB6OGFJUTdIa2tNSWw0eFhXTEh6RVNzX0V2ZEo5RG9wSGVkSE5RMmszWEdSRmtpU1ZQSXNPcWdmLTNMSXJFSG0xOE41YWQtbDlVakJSSWZoallGVUdmNXhhTlZEQXE2ZC1XWTkwaEFoT0Z5X0lWX0F1a3YzV3ctYmtZSVdmXzlCTHpiSmhaaDNkd2t2a1lpQ2NTWFU3OHBxZ1FEWTREcDBFV3kxQk92M3I4NXhlVTFBN3BPckQ4NU56QkktMV9oQXY2aWJnc2txZlFjYTEyUzZ0SThUQ3lxeWo0NjRSYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. [영국] Road Safety Markings Association urges 20mph limit
+13. [영국] Road Safety Markings Association urges 20mph limit
    - 분야: 신호·관제 / 게재일: 2026-09-28 / 매체: ITS Korea
    - 원문: https://www.itsinternational.com/road-safety-markings-association-urges-20mph-limit/
 
-13. TECH PROFILE: Cameras replace servers in free-flow parking
+14. TECH PROFILE: Cameras replace servers in free-flow parking
    - 분야: 대중교통·물류 / 게재일: 2026-09-29 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/news/smart-parking/tech-profile-cameras-replace-servers-in-free-flow-parking.html
 
-14. [미국] Campus parking insight from EnSight
+15. [미국] Campus parking insight from EnSight
    - 분야: 대중교통·물류 / 게재일: 2026-09-30 / 매체: ITS Korea
    - 원문: https://www.itsinternational.com/campus-parking-insight-from-ensight/
 
-15. Smart City Corporation to monitor all 70 traffic signals in Nashik city
-   - 분야: 신호·관제 / 게재일: 2026-10-02 / 매체: The Times of India
+16. Smart City Corporation to monitor all 70 traffic signals in Nashik city
+   - 분야: 신호·관제 / 게재일: 2026-10-02 / 매체: timesofindia.indiatimes.com
    - 원문: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOangteHo1b3BNc0FXeTVQMnhjb2hzRGtvSlIxQWhwN1UxR0FBYjJGWG9OZUpCaXZ3NVNMVDI0LUxsM0xKV092LUszQm90em4zYUczQ21HWXFkc1pvcjhCMU5XZGJGMkNDdVA5NkRLYndVcUR5OXkzTlEwRzBETkFMcV9TOGRjQ3VWZ1kyX0ZmSHNwRUJnYUdnWVNqekVrTGhDS3JLbXI5anVVamRoVEstdmpYQkZpRzNCd2t5bGZEVzQ2Y3ZYLUx6UUw3d0xVLUJZODh6UHBYdWh4ekpjcVHSAeMBQVVfeXFMUFJXd0xQOGRkUE55V1FPbklMMDF6SHF1R1QwTjdjd180cXpCVUtJV2tYSHdqYlpIdEgySldQQVlsZG5vMm94dUprRFJmRUtOVkhTUFFZQmZ2TFhFTkdjODFJZ3liZUtTdjNDQWtZYWw4eUxldm0zVS0xTXoxZzIwcTNGbWVFdU4yeWlVdmE0S29WUGVPaVV5eFJ5Q3phb0tGMUJCREZZQWVTcFhHbWpyVWNEaG51bkJobzAzOWVSNUlzaFpxSUlsd2RTT1gxRXlMRTlqVXUzeXpMdjFILVFVRldRRDA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. Delhi approves 2,500 AI-enabled cameras for traffic monitoring and enforcement
-   - 분야: 단속·집행 / 게재일: 2026-10-02 / 매체: dig.watch
+17. Delhi approves 2,500 AI-enabled cameras for traffic monitoring and enforcement
+   - 분야: 단속·집행 / 게재일: 2026-10-02 / 매체: Digital Watch Observatory
    - 원문: https://news.google.com/rss/articles/CBMifkFVX3lxTE1YMFNFX3FCbTNuT0Z6OS1fV3NfTUtkUWowX0lqdWs4WnI5bFZ4UEVza2hJUm9RdTkxOTNYaktHV1M3VmJfelMxMGhkekd5ZkJwQndrekFZSEQzREh4YU95cVFnbW90YXlBLWwzVTczaEhHZ1J6RFVGTVJzWEtUQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. [유럽] NextETRUCK concludes with three operative trucks and several innovations for logistics decarbonisation
+18. [유럽] NextETRUCK concludes with three operative trucks and several innovations for logistics decarbonisation
    - 분야: 대중교통·물류 / 게재일: 2026-10-01 / 매체: ITS Korea
    - 원문: https://ertico.com/nextetruck-concludes-with-three-operative-trucks-and-several-innovations-for-logistics
 
-18. NIHTE seeks AI-powered traffic enforcement to curb road violations
+19. NIHTE seeks AI-powered traffic enforcement to curb road violations
    - 분야: 단속·집행 / 게재일: 2026-09-27 / 매체: Tribune Online
    - 원문: https://news.google.com/rss/articles/CBMimwFBVV95cUxPRFE0OVVkejlUUFZvU0dGNnE0MDlJZ0k2Y251YlBoY3lUNFB2bzFPTXUweGpQck01YzNqUWJCY08yVFd3bEdQQVBQX1BMQ05CZTM4a1ZvUTYxVVl2SUQ4LUUwRUdCNHNtU0FJamtpOURRWWNoZkNELWhheF9ORU9mVktSdHFMdlVqMHEwOU54YmF4UFNJNnM2aTloTdIBoAFBVV95cUxNRno5cC01LWk5czdGRWczSUsyQS05Z2lmTFJzWndZMF9PS1F6ZnNpcmxHUWdlOTN1RjgtaGYwVC1FNkVuY05Yc1Z0VTR0T25UblRncWcycEdTWTFyR2FJYl9kaGhkbnktVlQ5N2xLSUcyb2FwdUJwa2RjNDlUX1RqYjNZSE82UGpkVERuaHFPdktHUHhVM2lWSHlyNms3MHlY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. Will Hong Kong’s new AI ‘city brain’ really stop at traffic monitoring?
+20. Will Hong Kong’s new AI ‘city brain’ really stop at traffic monitoring?
    - 분야: 신호·관제 / 게재일: 2026-09-28 / 매체: Hong Kong Free Press HKFP
    - 원문: https://news.google.com/rss/articles/CBMipAFBVV95cUxOS1FZcFE4eTZ5YnRBdFhIMnNWMDZfYW1VZU12d2Qxd2hPYlREa0dYUkNSVHFlQVExRWxqWm1IdEd0NmpybWRBdmpsSml4M0U1b3Vyd1FHb0JsMTJkRDNhNFBILVBtSDdvOGQtUFJpeGFwWmJxcGs2TVl1NjVGVFhWNW9mbVB5UmZPUnJHOVE2TE1EbUtBWDdTZWp3V2M0Yy03TVZ0Zw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. Bacolod installs smart traffic lights
-   - 분야: 신호·관제 / 게재일: 2026-09-29 / 매체: negrosnowdaily.com
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBFTU51S1hCbzRkd0VJcXEtN0JWM25pSVEzY3JtRmw3NUZtNHdVZEpmX1lnQTZiSWlfbHNkTmpuWGhJeTJTdXJERTI4VG1URVJnRkM5WjhzZ04ybHZ6WHQ5anpYZDJBZEhza0xWelh0RFhsYWc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -115,15 +115,15 @@
    - 원문: https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JakNJdlBmb3AwR00wdlN1S3NiUWtjd1JKTldiSlVNNEVZdC1JclJtd2lXbWZEUkR1dTVqX0JtT1BqQ3F2UWE0UF9DMXZEMkJYRGM2VWVzR2dRY3YtZ3BNVHBTU3BYdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 4. 현대차·기아, 특화 버스·관제 플랫폼 투입 레벨4 자율주행 대중교통 상용화
-   - 분야: 자율주행 / 게재일: 2026-10-01 / 매체: 오토헤럴드
-   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE8yWEJBNE5oS1QxakFtYld2dGNxQm0wTV9nN0phb0F1RENRSkhxTklCcnVpZjVsOFZiNElnZ2xMZXJibE01eWMyVTllOVBiWnZNUldsdkhuM2xESjdqWnd6ZXgyZUVmdjVfY3ZZNnViejVlZ9IBckFVX3lxTE8yWEJBNE5oS1QxakFtYld2dGNxQm0wTV9nN0phb0F1RENRSkhxTklCcnVpZjVsOFZiNElnZ2xMZXJibE01eWMyVTllOVBiWnZNUldsdkhuM2xESjdqWnd6ZXgyZUVmdjVfY3ZZNnViejVlZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 분야: 자율주행 / 게재일: 2026-10-01 / 매체: mauto.danawa.com
+   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBZS1JwR3VOWkJwM0JzeGhjdzZWWE9uRUV1RHFHWTh4OWp2TklGWVhqcGpidG56SG5JaWh5OTFoZnh2MWpTeUk4eWxvMWZDSWg4M0dnWXdWMDBNb3NxUENudjJvXzdPOVlNN1czUw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 5. 대전교통공사, 자율주행 레일마모 계측장비 실증사업 진행
    - 분야: 자율주행 / 게재일: 2026-09-28 / 매체: 뉴시스
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5kc3dVSUQ3Q3AyeXA3bEhGb3RnWXRCNUpYNUlVMWdRMkZIbmtkWjdhVEx4MkhyaUtJUF9JRElHenV0VEhfdVlnNDJQY0NpYmxKTHhLUEgxajAxZF9DbXlyRtIBeEFVX3lxTE50TEE3endXRVVLOWtLeENhNWFoMGRqazFyWV94YUFfNGMzUnFTWkF5c0xsdFBxX3hxN1IzeFdKLWY4Ull0LTYtMURLQzZBLVppQjBrTmphU1E1SjJZd01raDB2R1V1aVNoWVlhMURGNWtiV0I3NXRsLQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 6. LG이노텍, 국내 도로서 자율주행 데이터 수집…해외 수주 노린다
-   - 분야: 산업·투자 / 게재일: 2026-09-29 / 매체: 메트로신문
+   - 분야: 산업·투자 / 게재일: 2026-09-29 / 매체: metroseoul.co.kr
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OM2tWZkxjRXBzaGNHZVBuTVdiengxNVd1V1RLa3ZBY18wVktFdzcxUS1GLTNjQ3RqRkpYNi1TZVNEb3ZkUVBVa2NNR1FlX05tYzBkM1ZwQWkwaDRYVWRkbA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 7. [지자체] 10월부터 대구서물류 자율주행차 달린다
@@ -158,29 +158,29 @@
    - 분야: 자율주행 / 게재일: 2026-10-01 / 매체: 데일리안
    - 원문: https://news.google.com/rss/articles/CBMiowJBVV95cUxPNVpBZmttZURSUXExMkVXVUVjeWNLR2xJa1lQYmZqdnEtdzFHeVpReHV2X0dhcFBzaGd5alE1UjRBVW5vR3MzOGhSOXJwSkxnVl9NeTdYR2RJT2k0NzBUR0lTMGctYnpKV202SXBnYldmaUJiZTdob3FUTlVqZGdqT1V4MU84MGJfUjJmTG1KRFlHekw2dGtpbVlIdlkzUlRtbmdlSE5nZ0lxd1VRZ0lxdXdyNHB4RmJRaDdHVjNWcC1SYUJJWVdPbHhCb3pGeGRqelZBSk84M1Y3LXNvX0piMGIzSXNLRmpJel9PeXVZU1dtNnpuWmZjSWJaNWR4dHNZWGtxc1poXzVXejR1NVpZb0tzNkFRa05oWFQ1NUdVWlVSMjQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 자율주행 자동차부터 비행 택시까지, 하노이는 기술을 일상생활에 접목하는 데 앞장서고 있습니다.
-   - 분야: 자율주행 / 게재일: 2026-10-02 / 매체: Vietnam.vn
-   - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2Q3V25BeFpFX2U3UlR0U1dyZzJiMTdzenlWOTd1ckJ4NkZ4eTBVWW1FUC1XZHo2UlRPUUN2T2hqUzZJRU5zd0pVbkhzMGk4eWlTMlBub3BuRThYS052djdINjRFR1ZJYm1xMnJ0ZEV0N0kzUWwyQ0FwaERPM1FjdUE1RWREVHJraDZXM01RaG9MQXlqSVhSQXJOV2s?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-16. LG이노텍, 자율주행 센싱 경쟁력 강화…'눈' 달고 국내 도로 주행
-   - 분야: 자율주행 / 게재일: 2026-09-28 / 매체: 글로벌이코노믹
+15. LG이노텍, 자율주행 센싱 경쟁력 강화…'눈' 달고 국내 도로 주행
+   - 분야: 자율주행 / 게재일: 2026-09-28 / 매체: g-enews.com
    - 원문: https://news.google.com/rss/articles/CBMihgFBVV95cUxPdWVxMFRkQ1VzcE9WaXl2bm51UmpmRGhGb1NRdV8xcXhJUWY2NGw0RmdhaGFQdmFBbk1VOTFPb05SdE1feERqdkJMQmpzbWFhWjExak9IQUxOZTMxdjlraU5iYjBrZV93Z1NpOTBtOFlEMzlxSndLdlpMMkNualI1UFVRMGZ5QQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 무선통신부터 자율주행까지, '세계 상위 2% 연구자' 조한신 교수
+16. 무선통신부터 자율주행까지, '세계 상위 2% 연구자' 조한신 교수
    - 분야: 자율주행 / 게재일: 2026-09-30 / 매체: 뉴스H
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTFBVanBLNUE4Q3ZMREl4Sms4TS04LXJUUE9tajBQcVVqRlM1ZlNSbFpCNm1Xczl2X2lWakJsZ0VIb1JWZjF0RXN1WlFwa2FBSXlNT0tvNzh4SUVaaDg1QUNLbFo1Y3JlbVdaczdz?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
+17. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
    - 분야: C-ITS·V2X / 게재일: 2026-10-01 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMi5AVBVV95cUxQeFFYT01ZSU5fY25HZW5oU04yeDVyUW1kblQ1NUMzZks5cy1nNHVuME4wQUozbE9LbVdmeHpOUW0zMVUyRVZPVnF2eUhPVzlzcmNBNFh0UHR3R211TUtnd0F2aDBOTVNCd0lUTWpzbjAweDlEenpKUU9FUjZBNUdtM3Q3a1FNcGpZdnFYOG5yeWZFeUp4LVVZVm9uemhJazFhOGR1MUctVG1mY3lHX0otclozb0ZiZTJQT2xsVFpKWjdBZVdYT1Y5Tmpwd01ZbHZDa1MwR0FRM2w5d0hfNDJ3S3hwNHN5V3lKaXVwcTRsdUJ1VWxheER3VEtYYXpnSVM1RGVhd0JZaGtpSWgzOHJEOExwbG8tbklmV3lrdzhQR1JlcncwQ0NreGhqa1BYX3kzR1RJd0NPTUJwMDBXd2VwM2hsSnphSDRSM2RSWERJWU9VTzF4SkhjaDhCY0R3V2VoY1g0aUpHdUR5UG43QktSaHIxRVVfX1YwYkN4ODVBN3YtN2xQV01DdDlPMS1LQVU4WFBoV1pXaVVqWm9zSHNYNkVfQVB5QTI0OUVsTGhqSFFiU05KeVpzVHZ3VEFHUkw5ZWE1ZWJkU2NWMDlTN0kzQjdnUGoxUFRyZjdadmZkSzJQSzZZZlRqaHFMNlQtUTc0MzUyVDZwN3doaTFDeTBNVWYybkZ1QmNuMVQ5SWZrNUx1MndYdzNZeEhFTnlfcThGN3V3RUs2cUlGMnRlcjNxclJVS3ZvMUVFV1FyRXVnU2RpeE1GSkFQOEYxVW9oTlFIdDJBR28tOEVJS2xvOGZjeHgycGJIS0FnU0p2UXRaX3JxOW1QenVWcm5UeVVPcWE3OGhGaW5rYmVKeWkyVzA3MTlsNGtOMnhhSHVjSWtsc0xuMjhLa3VsNDZKUmc1NDA5Q3hJTVhRMHlHUjJxbld0bEFpSHdjclpIUEJtOHU2Tmh1bmNja3MycEg4bUVuVzhkMjhZNQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. 도로 침수감지-신호 잔여시간 알림… 부산, AI 교통 체계 도입
+18. 도로 침수감지-신호 잔여시간 알림… 부산, AI 교통 체계 도입
    - 분야: 신호·관제 / 게재일: 2026-09-28 / 매체: 동아일보
    - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTE5OczhGbVRDdlhVeEdNOEEzYUlERWVkamxEVEpEZjNpSWNCVWZ5VUNoNzBrMXlteFhSS3RhbFJ3dmpDR0xxb3hNNlo1X3dqMURmalpMeXU0NnlrTFVxQ1B2dmsxV3QtN0o2QUo3U1RUT2lGTS1hSHfSAWZBVV95cUxOaFU5bE5UbnhMY1JJY3oyV3ZiSUNNbnFyWkZOc1pOZEczYUM1aGh4Q0l6TEtDSXAyYWtraHFrd0tfTkl2X1BVME5NeWhFNk9PdEphS2F0ZmNkbzJYMDQtUm8yRnppQUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. “운전대 없는 시내버스 시대 연다”…현대차·기아, 서울시와 레벨4 상용화 추진
+19. “운전대 없는 시내버스 시대 연다”…현대차·기아, 서울시와 레벨4 상용화 추진
    - 분야: 자율주행 / 게재일: 2026-10-01 / 매체: 더게이트
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE1yU2ZlZlRQNHNkMDVWT2JwT05CZ1dUVWhac19MZ3Z3Nm9xVVRIb0FGb0l2dENpbkh0Z25mNHJPVHJ2QUoyTzk5ZHNCeTl0RnNpRVJaSmpYeDRTTGNzeHc4VmJMMVJ0ZndlVkFId9IBbEFVX3lxTE1yU2ZlZlRQNHNkMDVWT2JwT05CZ1dUVWhac19MZ3Z3Nm9xVVRIb0FGb0l2dENpbkh0Z25mNHJPVHJ2QUoyTzk5ZHNCeTl0RnNpRVJaSmpYeDRTTGNzeHc4VmJMMVJ0ZndlVkFIdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 테슬라, 전기트럭 ‘세미’ 인도 시작…자율주행 도입 예고
+   - 분야: 자율주행 / 게재일: 2026-09-27 / 매체: 지디넷코리아
+   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBPWFRZOVVHeFVhTkFuSFJvcF9uMnRrd2JCOFpHTWdCN2h6U0ZIclhLY2FRdFFIdF9tMlZ3d2o0eERXZVZwY2x4dk5uU0tJY04yMkNJc2xn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
