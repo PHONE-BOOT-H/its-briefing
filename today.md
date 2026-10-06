@@ -76,25 +76,25 @@
    - 분야: 요금·통행료 / 게재일: 2026-09-29 / 매체: urbanacres.in
    - 원문: https://news.google.com/rss/articles/CBMigwFBVV95cUxNeVE4XzBWcGd5eHo0UGRTdzBqOW1ndWFWTTN3OTEtMHZYQXJINDZvaTBuRmhDRXRUS1cyQ0kyZFNkSDUtLXJvb2o3dUMwNXcyQnEyYV9ZZTJlNVhOTlhNQXdYQ3NHZFc5dEE3bkRGZGdkSUdKUWI1cXhSVzBsQ0tIeGYzbw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. Police, NTSA Turn to Japan as Kenya Prepares for Digital Speed Cameras
-   - 분야: 단속·집행 / 게재일: 2026-09-30 / 매체: Kenyans.co.ke
-   - 원문: https://news.google.com/rss/articles/CBMipAFBVV95cUxORkxLU193YjdwXzFZSWxSdGJlVm1PMG96LWZLdkJCbWtWMEdONV9HTFM2aXF1TEcyM3dNVHdNQm40ek00eW1FUmd6VTk2N0ZOcGw0U1RndnZnTmR4OTN2VGpQVndGdnZKUmZvNmRrQ1Z1NTlNX2tDNVhXMFBOOTB3ZmNpNERZTDlYck9jNDhuWGliR0x5czMwNEhsNEtYY0w1eG5IYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-17. Traffic signal refurbishment underway at Carlisle’s Hardwicke Circus
-   - 분야: 신호·관제 / 게재일: 2026-09-30 / 매체: cumbriacrack.com
+16. Traffic signal refurbishment underway at Carlisle’s Hardwicke Circus
+   - 분야: 신호·관제 / 게재일: 2026-09-30 / 매체: Cumbria Crack
    - 원문: https://news.google.com/rss/articles/CBMipwFBVV95cUxOWFZHOEMwN2w2Tk55MzJla1BBaHJhQjJna3paUk9MbG5BUnFPZGF2SFB0Z3JXX3RMUWJXdTNZY2lGMlNrV0c3VUtqS1hhMTRxbTFmUHRBXy1mMXNVajJhVnhkQi1QbnV1eXUwOTFWMUlHUUdQVzdsT3o0X2RnQ0s2YUk4MjZjVHpfMmZVbkgyQmRwM3NpVC1ieTBxaU5jeGw4dGdtTnVjYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. [미국] TOMI Environmental Solutions Targets Next Phase of Growth in the Scaling Robotaxi, Drone and Robotics Economy
+17. [미국] TOMI Environmental Solutions Targets Next Phase of Growth in the Scaling Robotaxi, Drone and Robotics Economy
    - 분야: 자율주행 / 게재일: 2026-09-30 / 매체: ITS Korea
    - 원문: https://www.globenewswire.com/news-release/2026/09/29/3370847/34752/en/tomi-environmental-solutions-targets-next-phase-of-growth-in-the-scaling-robotaxi-drone-and-robotics-economy.html
 
-19. Delhi’s traffic lights to ‘see’ traffic and decide when to turn green
+18. Delhi’s traffic lights to ‘see’ traffic and decide when to turn green
    - 분야: 신호·관제 / 게재일: 2026-10-01 / 매체: The Indian Express
    - 원문: https://news.google.com/rss/articles/CBMitwFBVV95cUxPMmtLaWJXVnI3c1VoLXQyT2w4eXFYNlNGMUJrWmgtbDJDWXN4RG5JdnphZmh6MC1OV1lwUV9ra2c2a0J4cE13NDl0X19UMDFCNFFnVXd3M25EcTB6SWxSZE1iLW40WUI1ZHhKd01YWjBSTHhnV0JMUFEtRmlORlVLRm9jNWtaeXY4eVFCRDVBLXlBMWZsbEZ3UWZaTUZJMV94ZE9TY3NnNzRCLUZlMHJlS3QtZW03ZXfSAb4BQVVfeXFMTWR6cUdpa0VJeWtqaG1ZM28wbW1TZ0ZNcFFXbjB4REQtTEw3RlVlY3ZQYU5xNF9iT2k4T01uWHhsZDRheTFGTjZoY09PRnJETE9LS2ZtWWs3TTFBRmpkOUZENFlhNzJLMjY3OG1RbXJpNXVmN3pGaDdmenBFWS1ocUhGWG9oQUpJdk9fYVRzT0xfbE9rQ1YtN19nZmF0YU1FbU9FaUpiRkJpSk1rcnBWVWtCYzZoTlljWFVwcXZvUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. Bharatpur Smart Traffic Lights Near Operation at Six Junctions
+19. Bharatpur Smart Traffic Lights Near Operation at Six Junctions
    - 분야: 신호·관제 / 게재일: 2026-10-01 / 매체: Khoj Samachar
    - 원문: https://news.google.com/rss/articles/CBMiekFVX3lxTE5YWVNKa012SmJpQ1RuRGt3QXJCdEhZRjY3OWNzQVlVMkQ4dk5yeWJkOWdhTnZrM0FjY3dJZ2V1N3ZlR2U4Y2JVU3U1VnNINFdDRDBkWWJtQmNRZzYxWnZfaDNYV01INjUtekhaaVNmWlZuRE9pS2pwaXdR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. Stuck at Delhi traffic lights? A ₹1,789.52-crore plan aims to change signal timings across 42 corridors
+   - 분야: 신호·관제 / 게재일: 2026-10-01 / 매체: Business Today
+   - 원문: https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYUJKTExqNUM1QTJzdmxUTE5kNnFvelhJVEpHN0hCZllzN0dYYVNCQUxxc0RPc2FjNkdJSkcyS29vbkhzNlNJaVBhdkh2YU13S3dNbXBBSzh5MnlLOWlkaG93V3dlVXBSb0Uwa2ZhSVBzQ1hIU200NHAteFQ2YUdjVncwOVBWekNoR3ZXZnliR2xIV2VEeUtoT1UtTklXTFN5VVZla3piQ01FV0JNaEIzX2Jwdk5DQWRSZ0tXanVKYU5yUUplemg0QUE1TlBja05IdVVEQS1wSTBqb0pCa3N4OHNnZDREOFFfMk9DMl91eWtNOUxxNGRRUklUblZFQdIBgwJBVV95cUxPa1ZDenBvTEFQanl5X2RBRm9pczF1cW1yMy10bmJKdDlaWTFkdF80Q1RTMGp0cVRzcjJRemtwbWd1Nk1jZ2dvYlFXVUpOUlhmdXJYWFhuMVFyTGx0NDdfWmtxX1lrSF83LUg3SHVuYzF3X1pNZGl0bnhnR2xSeElsLVQzclJ4bVFfaDhUNzlFMlJoMk14NXU3WEFDOXg2REtfeW82OTUtSFJscnEwWkdJdU1jZWVVbFhRSmpmYjFLZEVJcHFYOVpnY1Rtb3VUWnp0enFBb3hWQzUxNE8zOGY1QlBsdmhvbVVUbjNMY2ZQdW9PanB1ZVBuMUwwRFZwRHZWSHY4?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -114,17 +114,17 @@
    - 분야: 자율주행 / 게재일: 2026-10-01 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XLURFdWFPWEhkTkRSNXBfbTljdThWdnhSMlU4RjRZdnh6NUhnVUdIZVpoSTRkenFqWFVPdVNaWnBabks2anMzVnlwMkRid0hjNlVNUGp0Z1drUnJr?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. LG이노텍, 국내 도로서 자율주행 데이터 수집…해외 수주 노린다
+4. 현대차·기아, 특화 버스·관제 플랫폼 투입 레벨4 자율주행 대중교통 상용화
+   - 분야: 자율주행 / 게재일: 2026-10-01 / 매체: 다나와 자동차
+   - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE9sQ0ppSXZfLXFLVGlsbU1LSXBaVE1yU21HMWNEWkJHYXJRb1VhYUpFTWNlcXVqZHlKUGlqdkJqQzQyVHNfck82eHByNXAtMUFUZUlycjlIZlF3dWV2aUhmMXlDNVNwVVp6b284OHc3UHM2Z1l2aG0xWHBZbw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+5. LG이노텍, 국내 도로서 자율주행 데이터 수집…해외 수주 노린다
    - 분야: 산업·투자 / 게재일: 2026-09-29 / 매체: 메트로신문
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OM2tWZkxjRXBzaGNHZVBuTVdiengxNVd1V1RLa3ZBY18wVktFdzcxUS1GLTNjQ3RqRkpYNi1TZVNEb3ZkUVBVa2NNR1FlX05tYzBkM1ZwQWkwaDRYVWRkbA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. [지자체] 10월부터 대구서물류 자율주행차 달린다
+6. [지자체] 10월부터 대구서물류 자율주행차 달린다
    - 분야: 자율주행 / 게재일: 2026-09-30 / 매체: ITS Korea
    - 원문: https://www.munhwa.com/article/11620318
-
-6. 현대차·기아, 레벨4 자율주행 대중교통 상용화 박차... 서울시와 업무협약
-   - 분야: 자율주행 / 게재일: 2026-10-01 / 매체: 다나와 자동차
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBZS1JwR3VOWkJwM0JzeGhjdzZWWE9uRUV1RHFHWTh4OWp2TklGWVhqcGpidG56SG5JaWh5OTFoZnh2MWpTeUk4eWxvMWZDSWg4M0dnWXdWMDBNb3NxUENudjJvXzdPOVlNN1czUw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 7. [지자체] 인천시, 강화·옹진·신도시 교통 공백 메울 ‘무인 자율주행 DRT’ 도입 추진
    - 분야: 자율주행 / 게재일: 2026-09-30 / 매체: ITS Korea
@@ -167,15 +167,15 @@
    - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LNGhudzZyc2QzdW9aS2d5d3o4M0V2ZlZyUUxSR2pCTGVXWE82d2lfQVpZOG1CVmEzU3FvWFB0RktPZks1V1drRUVfVTVYMGFybUFQUEYtWVFyMGJrek5kQlVaTXI?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 17. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
-   - 분야: C-ITS·V2X / 게재일: 2026-10-01 / 매체: etnews.com
+   - 분야: C-ITS·V2X / 게재일: 2026-10-01 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMi5AVBVV95cUxQeFFYT01ZSU5fY25HZW5oU04yeDVyUW1kblQ1NUMzZks5cy1nNHVuME4wQUozbE9LbVdmeHpOUW0zMVUyRVZPVnF2eUhPVzlzcmNBNFh0UHR3R211TUtnd0F2aDBOTVNCd0lUTWpzbjAweDlEenpKUU9FUjZBNUdtM3Q3a1FNcGpZdnFYOG5yeWZFeUp4LVVZVm9uemhJazFhOGR1MUctVG1mY3lHX0otclozb0ZiZTJQT2xsVFpKWjdBZVdYT1Y5Tmpwd01ZbHZDa1MwR0FRM2w5d0hfNDJ3S3hwNHN5V3lKaXVwcTRsdUJ1VWxheER3VEtYYXpnSVM1RGVhd0JZaGtpSWgzOHJEOExwbG8tbklmV3lrdzhQR1JlcncwQ0NreGhqa1BYX3kzR1RJd0NPTUJwMDBXd2VwM2hsSnphSDRSM2RSWERJWU9VTzF4SkhjaDhCY0R3V2VoY1g0aUpHdUR5UG43QktSaHIxRVVfX1YwYkN4ODVBN3YtN2xQV01DdDlPMS1LQVU4WFBoV1pXaVVqWm9zSHNYNkVfQVB5QTI0OUVsTGhqSFFiU05KeVpzVHZ3VEFHUkw5ZWE1ZWJkU2NWMDlTN0kzQjdnUGoxUFRyZjdadmZkSzJQSzZZZlRqaHFMNlQtUTc0MzUyVDZwN3doaTFDeTBNVWYybkZ1QmNuMVQ5SWZrNUx1MndYdzNZeEhFTnlfcThGN3V3RUs2cUlGMnRlcjNxclJVS3ZvMUVFV1FyRXVnU2RpeE1GSkFQOEYxVW9oTlFIdDJBR28tOEVJS2xvOGZjeHgycGJIS0FnU0p2UXRaX3JxOW1QenVWcm5UeVVPcWE3OGhGaW5rYmVKeWkyVzA3MTlsNGtOMnhhSHVjSWtsc0xuMjhLa3VsNDZKUmc1NDA5Q3hJTVhRMHlHUjJxbld0bEFpSHdjclpIUEJtOHU2Tmh1bmNja3MycEg4bUVuVzhkMjhZNQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 18. 한지형 오토노머스에이투지 대표 - 이동의 빈틈을 메우는 자율주행
-   - 분야: 자율주행 / 게재일: 2026-09-29 / 매체: forbeskorea.co.kr
+   - 분야: 자율주행 / 게재일: 2026-09-29 / 매체: 포브스코리아
    - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE1GeTdNOEt2cU5COXRJX3RQRl9tNHQ1REdwaHZkLWhXQXhTZ21lNTRMLW80SVk5Q2lzRElLZ0NzSHdhd1R4QTB4ZXBidEVWd1dZOUlEeGU5UXRUZTZrTDlpbmY1S2dRZGxVRlQwNWh1RUJYZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 19. [출근길포인트]LG이노텍, 자율주행 '플릿' 띄워 데이터 직접 캔다
-   - 분야: 자율주행 / 게재일: 2026-09-29 / 매체: pointdaily.co.kr
+   - 분야: 자율주행 / 게재일: 2026-09-29 / 매체: 포인트데일리
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE1WMmNjZno1UFlRU1Ywc0hucHBkbWJVVkY0TU5pNnRHNGZNSUloUWVBamd5QjhEMEJNeWQ4ZlZhRW1ZampYZ2h6NVdXZ3FabGJaTnFVbUQ0eGR2dnlHSjI3LW1NaTZVOTJ0UThudnhFSUfSAXRBVV95cUxQWDY0SFB5d3ZxTk11OWl1eURYTk9CWm8tUHpqODhZZWJoYnFvOXBMcmxYRExxcUV3aEMwV043RWFYTkNLbjRub1RZLVhnOTRFYm5pQ1FmVUtHMFEzN3ZDNTNWZC1UdmN3S0Roa19xSVh3WjFETg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 20. [장종태 국회의원] 자율주행 기술, 중국은 치고 나가는데… 한국은 홀로 뒷걸음질
