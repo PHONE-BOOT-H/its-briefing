@@ -594,6 +594,13 @@
   "impagency": "Ministry of Rural Development (MRD)",
   "total": 171850000.0
  },
+ "P177210": {
+  "borrower": "Ministry of Finance",
+  "closing": "2028-05-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Unite Centrale d'execution of Ministry of Transport, Public works and Communications",
+  "total": 120000000.0
+ },
  "P177918": {
   "borrower": "BURKINA FASO,Ministry of Economy, Finance and Prospective",
   "closing": "2028-09-29",
