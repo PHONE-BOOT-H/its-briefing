@@ -118,69 +118,69 @@
    - 분야: 자율주행 / 게재일: 2026-10-01 / 매체: ER 이코노믹리뷰
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBWSW9YZHN2SmJFOFhvdjV6cjFOVXZZeWlNY2NqWTRQY0lZTnUwRC1KRzdtUmx1QVQ1OFpQd2JXcFM4MFF3YW9Yb1BmdVRzVHBROUZBdjhfNUhsZHN4TVFfVEd2Mkgxak1ReUtpUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. [회원사/동향] “테슬라 잡는다”…현대차·엔비디아·LG ‘자율주행 삼각동맹’
+5. [회원사/동향] "로보버스·트럭 이미 달린다"…라이드플럭스, 자율주행 상용화 성과 공개
+   - 분야: 자율주행 / 게재일: 2026-10-07 / 매체: ITS Korea
+   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=23713
+
+6. [회원사/동향] “테슬라 잡는다”…현대차·엔비디아·LG ‘자율주행 삼각동맹’
    - 분야: 자율주행 / 게재일: 2026-10-05 / 매체: ITS Korea
    - 원문: https://www.sedaily.com/article/20098195
 
-6. [지자체] 강원도 '지능형교통체계(ITS) 활성화 조례' 공포
+7. [지자체] 강원도 '지능형교통체계(ITS) 활성화 조례' 공포
    - 분야: 기타 / 게재일: 2026-10-06 / 매체: ITS Korea
    - 원문: https://www.mbceg.co.kr/post/140690
-
-7. [회원사/동향] 현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력
-   - 분야: 기타 / 게재일: 2026-10-01 / 매체: ITS Korea
-   - 원문: https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-korea-expressway-next-gen-charging-infrastructure-physical-ai
 
 8. [지자체] 택시 호출, 실시간 교통정보에 여객선 예약까지…통영시, 통합교통 플랫폼 서비스
    - 분야: 신호·관제 / 게재일: 2026-10-01 / 매체: ITS Korea
    - 원문: https://www.busan.com/view/busan/view.php?code=2026093007165578221
 
-9. 자율주행 자동차부터 비행 택시까지, 하노이는 기술을 일상생활에 접목하는 데 앞장서고 있습니다.
+9. [회원사/동향] 현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력
+   - 분야: 기타 / 게재일: 2026-10-01 / 매체: ITS Korea
+   - 원문: https://www.hyundaimotorgroup.com/ko/news/hyundai-motor-group-korea-expressway-next-gen-charging-infrastructure-physical-ai
+
+10. 자율주행 자동차부터 비행 택시까지, 하노이는 기술을 일상생활에 접목하는 데 앞장서고 있습니다.
    - 분야: 자율주행 / 게재일: 2026-10-02 / 매체: Vietnam.vn
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxOY2Q3V25BeFpFX2U3UlR0U1dyZzJiMTdzenlWOTd1ckJ4NkZ4eTBVWW1FUC1XZHo2UlRPUUN2T2hqUzZJRU5zd0pVbkhzMGk4eWlTMlBub3BuRThYS052djdINjRFR1ZJYm1xMnJ0ZEV0N0kzUWwyQ0FwaERPM1FjdUE1RWREVHJraDZXM01RaG9MQXlqSVhSQXJOV2s?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. 무선통신부터 자율주행까지, '세계 상위 2% 연구자' 조한신 교수
+11. 무선통신부터 자율주행까지, '세계 상위 2% 연구자' 조한신 교수
    - 분야: 자율주행 / 게재일: 2026-09-30 / 매체: 뉴스H
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTFBVanBLNUE4Q3ZMREl4Sms4TS04LXJUUE9tajBQcVVqRlM1ZlNSbFpCNm1Xczl2X2lWakJsZ0VIb1JWZjF0RXN1WlFwa2FBSXlNT0tvNzh4SUVaaDg1QUNLbFo1Y3JlbVdaczdz?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
+12. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
    - 분야: C-ITS·V2X / 게재일: 2026-10-01 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMi5AVBVV95cUxQeFFYT01ZSU5fY25HZW5oU04yeDVyUW1kblQ1NUMzZks5cy1nNHVuME4wQUozbE9LbVdmeHpOUW0zMVUyRVZPVnF2eUhPVzlzcmNBNFh0UHR3R211TUtnd0F2aDBOTVNCd0lUTWpzbjAweDlEenpKUU9FUjZBNUdtM3Q3a1FNcGpZdnFYOG5yeWZFeUp4LVVZVm9uemhJazFhOGR1MUctVG1mY3lHX0otclozb0ZiZTJQT2xsVFpKWjdBZVdYT1Y5Tmpwd01ZbHZDa1MwR0FRM2w5d0hfNDJ3S3hwNHN5V3lKaXVwcTRsdUJ1VWxheER3VEtYYXpnSVM1RGVhd0JZaGtpSWgzOHJEOExwbG8tbklmV3lrdzhQR1JlcncwQ0NreGhqa1BYX3kzR1RJd0NPTUJwMDBXd2VwM2hsSnphSDRSM2RSWERJWU9VTzF4SkhjaDhCY0R3V2VoY1g0aUpHdUR5UG43QktSaHIxRVVfX1YwYkN4ODVBN3YtN2xQV01DdDlPMS1LQVU4WFBoV1pXaVVqWm9zSHNYNkVfQVB5QTI0OUVsTGhqSFFiU05KeVpzVHZ3VEFHUkw5ZWE1ZWJkU2NWMDlTN0kzQjdnUGoxUFRyZjdadmZkSzJQSzZZZlRqaHFMNlQtUTc0MzUyVDZwN3doaTFDeTBNVWYybkZ1QmNuMVQ5SWZrNUx1MndYdzNZeEhFTnlfcThGN3V3RUs2cUlGMnRlcjNxclJVS3ZvMUVFV1FyRXVnU2RpeE1GSkFQOEYxVW9oTlFIdDJBR28tOEVJS2xvOGZjeHgycGJIS0FnU0p2UXRaX3JxOW1QenVWcm5UeVVPcWE3OGhGaW5rYmVKeWkyVzA3MTlsNGtOMnhhSHVjSWtsc0xuMjhLa3VsNDZKUmc1NDA5Q3hJTVhRMHlHUjJxbld0bEFpSHdjclpIUEJtOHU2Tmh1bmNja3MycEg4bUVuVzhkMjhZNQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 광명시 자율주행버스 GM1 시승기, “스스로 달리지만 아직은 사람이 필요했다”…광명 자율주행버스 ‘GM1’ 직접 타보니
+13. 광명시 자율주행버스 GM1 시승기, “스스로 달리지만 아직은 사람이 필요했다”…광명 자율주행버스 ‘GM1’ 직접 타보니
    - 분야: 자율주행 / 게재일: 2026-10-05 / 매체: 시사팩트
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE8xeFBSR0MySG4tVWc2VnJRVmpMeDRUalB5U3RGNmNYQnBxS1F0dGpfWjBDME9NenRrWk95OHJFRE05eDFueDJGTkY5ZFpxaE52U0sxVWNvNVdXZXB0U1N6NVpmV3lFVWFQNXfSAWxBVV95cUxNTWQtaDhZS0RjLVkzWUxrYTcwSmI5NHBiVnRDalJtM0NfU3lkMkZLMnBoZ1RuRXA0UXlka28ySkdrNlBQelNNcklnR2hGSWRXQ1l1WXVFcE1DNVg4dDl0cUVFcjFWWWdudGZFQl8?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 오토노머스에이투지, 광명시 자율주행 버스 ‘GM1’ 시범운행 시작
+14. 오토노머스에이투지, 광명시 자율주행 버스 ‘GM1’ 시범운행 시작
    - 분야: 자율주행 / 게재일: 2026-10-06 / 매체: 와우테일
    - 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mdHRZUlI3VmlsMXNGS0xMS3dxWnA1ZTJ4OXA1aDZXb3NJb0NlRi1lendIQzZwVFVwbzQ2ZXpGRmc5TDNKTjloSEtpVHJPZWs?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. LG이노텍, 광학 매출 비중 82.5%… 자율주행으로 의존도 낮출까
+15. [지자체] 춘천시, 도내 최초 AI로 장애인전용주차구역 지킨다
+   - 분야: 대중교통·물류 / 게재일: 2026-10-07 / 매체: ITS Korea
+   - 원문: https://www.kwnews.co.kr/article/20261006500971
+
+16. LG이노텍, 광학 매출 비중 82.5%… 자율주행으로 의존도 낮출까
    - 분야: 자율주행 / 게재일: 2026-09-30 / 매체: IT조선
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFBZaVZwZGJoQ0JuMDBxMVcwdUVzUnJjVXQ4UGRubTI1QmJ0ZmJ6Ym5CRURYcFl5a1VmQkdrT3k0NmthVWZNcktQRUVyOW9nOWppRXIwN1J4ZnM1R3FpZTJKbFdBX2VlQ0xNYUVCRFV1UjLSAXRBVV95cUxNTE1SZTMtX3YtYmNFTjlGMnlMazlrMmlMbkdhc0NvNGthS2FpWGcwLWdWZHg2M29ndlNlcHZCQkxVeTVFVnk1bHByRFhYNF9nbDlQbmVJX1MtNHByYV8wT19OTUZfakVmSGNmQ0NHSTBpb2JUWA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. [현장을 가다] “자율주행 넘어 피지컬 AI 시장으로”
+17. [현장을 가다] “자율주행 넘어 피지컬 AI 시장으로”
    - 분야: 자율주행 / 게재일: 2026-09-30 / 매체: 컴퓨터월드
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE5RLUFrVHBPamY1bGhHUmltdkhxUmY4ZFNacjZqb3J2WjlkZ1h1T3hWb2RjdTUxZV9nVHFoWlVjM1JuS3BXNW9jVFA2QXRiWUNlbW5qZ0Iwa0d1Y09Wa0o0RXpzSjgyNU0wZ3laVg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 라이드플럭스, KGM·현대모비스와 자율주행 SW 탑재 협력⋯양산차 B2B 진출 추진
+18. 라이드플럭스, KGM·현대모비스와 자율주행 SW 탑재 협력⋯양산차 B2B 진출 추진
    - 분야: 자율주행 / 게재일: 2026-09-30 / 매체: 엠투데이
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE9rNzFuYkxIVUU3a1JqY1I4MDQwcDdCdzhNN0pnbnhZV1h0TzI2QXBnUnZzZFduaWtacFk0UHNjM21zVVZObW9USEs4Uk9uV1BkMEFRZ3lLX2dFT1VsVHdOV2xvcmdsWWdzQTNXaFhtMA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 동해해경청, 동해·포항광역VTS 개국…속초~경주 '해상교통 관제망' 구축
+19. 동해해경청, 동해·포항광역VTS 개국…속초~경주 '해상교통 관제망' 구축
    - 분야: 기타 / 게재일: 2026-09-30 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zSl9GSGJ0WDByaG1fQlBqVXdkT083Qy1TMFNzOEVLNHc2R0Z6a2tGOUR0TGhTQWo2Q0lrd3l4bl80d1ZQM1J2UndVLWRzbWZMb3kxTmNDUHJaQ0RQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 자율주행 표준 따로 놀지 않게…ICT·ITS 인증체계 잇는다
+20. 자율주행 표준 따로 놀지 않게…ICT·ITS 인증체계 잇는다
    - 분야: 자율주행 / 게재일: 2026-10-01 / 매체: 파이낸셜뉴스
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1MNFVEV2J6TGhFWll3bmFSWkdrbnFxVWlkeG93TXdEeVI4LVNVOGFtblJRMkF3ekFtLTFQOC1KWVJHZDExOTZSNG5HVXEzUkFVTlNOSUZHMTRFZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. 에티포스, 시리즈C 투자 유치 시동…V2X 장비 韓·美 인증 확보 - 머니투데이
-   - 분야: C-ITS·V2X / 게재일: 2026-10-01 / 매체: 머니투데이
-   - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTE5tWEZDY3dCc0hrczlpTFIyeC1mbmRDUGNnMWVsMUsyWmJ5M2Y2LVE5d2hUa1Q1d2ZzMjlhczZycnRGOG1Wc2tiLVM3ajRlcHZIbFhoOC1ESVI5bG5BcWVWWC16Zk1LQl9JM2syMXdJWHVYejdoSDJv0gF8QVVfeXFMTWtPUTNrVWFGMzRtQWg0VmZ3dVBYZ1ExUnIyM0FtTVFDbkROU1gwT2NoTW9lSjFEVmtsbnJHZ1hkMURPYWJTbVYtcERlb0ZqZ2R3dW5iWUd2WTd5UnpEZXI3S0pGUF9sVE5HemF5V1BuWHVwWFd5V2ZrMUhUTw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. “美 테슬라같은 자율주행 우린 언제쯤”…국내 3사 서비스 비교해보니
-   - 분야: 자율주행 / 게재일: 2026-10-03 / 매체: 매일경제
-   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTFBuTWx6LXk4cFZxekFlbVgtMUVZSHphU3hfbWhhMWlSd0xRZEVtOUx3RHViXzBZU3NHRzlrMHZodXUwOC1ueGJWdGVfQVhCcnByTHdTdGdn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
