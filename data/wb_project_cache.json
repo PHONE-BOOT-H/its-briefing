@@ -209,12 +209,26 @@
   "impagency": "BHTRANS,SMOBI,SMPU,URBEL",
   "total": 100000000.0
  },
+ "P169425": {
+  "borrower": "United Republic of Tanzania represented by the Ministry of Finance",
+  "closing": "2028-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Prime Minister's Office – Regional Administration and Local Government",
+  "total": 260000000.0
+ },
  "P169548": {
   "borrower": "Republic of Indonesia",
   "closing": "2027-06-30",
   "funder": "IBRD (세계은행)",
   "impagency": "Ministry of Transportation",
   "total": 363995968.0
+ },
+ "P169880": {
+  "borrower": "People's Republic of Bangladesh",
+  "closing": "2026-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Local Government Engineering Department (LGED),Roads and Highways Department (RHD)",
+  "total": 758200000.0
  },
  "P169954": {
   "borrower": "Socialist Republic of Viet Nam",
@@ -509,6 +523,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Ministry of Transport, Highways, and Urban Development",
   "total": 558000000.0
+ },
+ "P176272": {
+  "borrower": "Independent State of Samoa",
+  "closing": "2029-08-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Land Transport Authority,Ministry of Finance,Samoa Airport Authority",
+  "total": 66000000.0
  },
  "P176303": {
   "borrower": "Federal Republic of Ethiopia",
