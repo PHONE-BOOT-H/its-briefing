@@ -60,17 +60,17 @@
    - 분야: 자율주행 / 게재일: 2026-10-07 / 매체: ITS Korea
    - 원문: https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/
 
-12. Detroit tests traffic signal priority for firefighters
-   - 분야: 신호·관제 / 게재일: 2026-10-03 / 매체: Cities Today
-   - 원문: https://news.google.com/rss/articles/CBMihwFBVV95cUxQSHNoSE1uUUJobG5VQzh3TEFzc293MFFkUVItakRheU5PQTV4Y2N6SDgyT2dITTRTR0FWZjU4MC1WQ2lXQmZ6ZE9ZR0VoY0Z5MmZyZkpuT2tjWHgycnZvaUZNYlF0OGFTR2MteEVHdGlGZ1RvSndDbTN5RkVnVERaUjVaRmlxX28?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-13. Drivers Receive Incorrect Hornafjörður Toll Bills
+12. Drivers Receive Incorrect Hornafjörður Toll Bills
    - 분야: 요금·통행료 / 게재일: 2026-10-03 / 매체: Iceland Review
    - 원문: https://news.google.com/rss/articles/CBMiigFBVV95cUxObk4yNnp3N1BNX3NlajcyRnIzdy1iX2tBZDRNaDZITnllME1lLVdwQ3V1b1JjYWhsbUFFTFJhU0ZLbERGZTY1b19mUHJ1TlRRSWc4UTFVQnFJREtsRXlVcHk5WHNwMGU2TlhKbXhUQmtwU056ekgyZzVYaEtHV2ZObnM0ZlNRZmo1Z1E?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. Collector proposes barrier-less toll collection at Paliyekkara
+13. Collector proposes barrier-less toll collection at Paliyekkara
    - 분야: 요금·통행료 / 게재일: 2026-10-03 / 매체: The Times of India
    - 원문: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeG1ZR0NQZENUamVhNlFhR2xSMEp3NUZUSXJxd1N2eUh4bHp2eUVDVXJEUzA0LWIyS21NOUFxZVhRNk1uem0xV0FPeWVRbGpiRmNvdXhqakRGZDF3dDdrWnF0RDh1cUVCaFF2bjc4YVdoVXRWNGhEdkhEYzhtX0c1TWR0d2pTQ2FNMDVCbDlva2ltalZMN1BuQlBPRkE3RXNfSFNYNmJ3bGhMUGJ5RjhELUU1UzBYS2g0Wmc0VEVhTlRadkFqWEVIdllPOUVLYnNG0gHWAUFVX3lxTE1LVHN3cHpuRGRKMXkxZVNjakE1NUtLcWtBNmVLaXpZY1hpdXM5d05VMjk4YWF2YnNEX1Y1eTkwTTFNLXJhLW1XamhtSWFCSFRqZTk3S3hCclZmN2czRG5PWTk0cmdDZEVSaExKRGVJdGRMOWN4YVlRNUt0Q0IxLS05N21xS0Qzd3JQYml3MkcyYlRFV2M2Tl9MVFpYWGR2YjB6NDFTOWtqajRBeXctWnJ4OGpBTlNqSVI4R21yVW9sYmlVWXVpVF9iS3ZoT3JGZmZnV0MwWHc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+14. Uzbekistan sets tolls and rules for Urgench–Khiva road
+   - 분야: 요금·통행료 / 게재일: 2026-10-03 / 매체: UzDaily.uz
+   - 원문: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUTB3NTZrcTZYeWJrcUF4VlBrOVNRSEZKemJFWnpiZW9aZU5RdDkzUHlqSXJIclZ1aFVVX0tRVVJ4R3FGSUJRZmY3YWN5RU9GQW5fa3c3Ry1lQWZaV2pJU19KUHpvcTltbjl3cGVmYkxQMnN3VGtHYzZMX3RSdEJwQXRQaUlyWFN5?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 15. 2026 Toll Fee Guide for NLEX, SLEX, and other Luzon Expressway
    - 분야: 요금·통행료 / 게재일: 2026-10-04 / 매체: Out of Town Blog
