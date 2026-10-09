@@ -76,6 +76,13 @@
   "impagency": "Ministry of Agriculture",
   "total": 107000000.0
  },
+ "P164330": {
+  "borrower": "Government of Ghana",
+  "closing": "2027-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Health,Ministry of Local Government. Chieftaincy, and Religious Affairs,Ministry of Works, Housing and Water Resources",
+  "total": 200000000.0
+ },
  "P164847": {
   "borrower": "Republic of Malawi,Republic of Mozambique",
   "closing": "2027-06-30",
@@ -173,6 +180,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Ministry of Equipment and Water",
   "total": 283000000.0
+ },
+ "P167900": {
+  "borrower": "Republic of Tunisia",
+  "closing": "2030-05-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Caisse des Dépots et Consignations,Ministere de l’Equipement et de l'Habitat",
+  "total": 395000000.0
  },
  "P168132": {
   "borrower": "Government of Benin",
