@@ -80,21 +80,21 @@
    - 분야: 신호·관제 / 게재일: 2026-10-06 / 매체: Азия-Плюс
    - 원문: https://news.google.com/rss/articles/CBMijgFBVV95cUxNajMxRzBEZFl3OGYyeGxpRjUxMF9aMC02aW9kWVlwNGYzMzV5ZmY4QUszS3VUMFBFRU0zSE92aTFBSWRwQjlqUnFnVTk0cHpZUUJDMFhYbWZjSEUzc29NQ0VnUWEzMFgydzh2c0ZKbTZMV3g1OTREWDR3R1VrTlhCMmZfdnc2Y2xxUk04M2VR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. N.C. ferry toll recommendations headed to Board of Transportation on Thursday
-   - 분야: 요금·통행료 / 게재일: 2026-10-06 / 매체: Island Free Press
-   - 원문: https://news.google.com/rss/articles/CBMivwFBVV95cUxORjRwd0xDSnVadEtSWlNfU0FXWTdNMFR6ZjlpU3JfWjJjWGhGaUJxWG5hS0ExMU1ZRFJiWjVNNlpRRHBRT3ZEREhwXzVFSnVKU0RlaDEtbjFwSklaWEtwSEFjSUNmZS1SdXE4UVJNSWxwb24wZkNzU1VBaWdHa0VpVkRtTGczUUFHOFZxM09RMzRNbUhCSE5vSXhpZTJjU3lCaFhuWVRrZHhsamwwUWlub0RzWXhBdDRiNHNVT043dw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-18. Recap: Delays amid report of traffic light failure at busy A483 junction
+17. Recap: Delays amid report of traffic light failure at busy A483 junction
    - 분야: 신호·관제 / 게재일: 2026-10-06 / 매체: Wrexham and Flintshire News, Sport, Events | The Leader
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxQcE44S1Rub3dabVhfOUZLY3Brdlk5VVNkaDhQdEhTaXQ0MEpSNkNILXkwTkVmUUkyczNzSHlRSWJTRHk3VXpubnhwY1J2My1zU012NjJDai0tdVVVOWJnamxWTUpTb29ReDhvZ2NINUpCVFlDVHNSYWVWR2xfWU5aN3pZZXJYVW5BdGpXOGg1STVIUERfOUNDdnczZHo?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. 美 롤리시, 드론·AI로 행정용 디지털 트윈 제작
+18. 美 롤리시, 드론·AI로 행정용 디지털 트윈 제작
    - 분야: 기술·표준 / 게재일: 2026-10-05 / 매체: ITS Korea
    - 원문: https://www.irobotnews.com/news/articleView.html?idxno=48831
 
-20. What to know about Dallas’ $12.5 million traffic signal project
+19. What to know about Dallas’ $12.5 million traffic signal project
    - 분야: 신호·관제 / 게재일: 2026-10-07 / 매체: Dallas News
    - 원문: https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWwyUXYzeGhvYUR3ODJaazZqTXZjMmF1M2dDVW52V3pPOXFwNzBuNFl2RUxqWVBJei11aXE3Rkxmam4yck50RWdnUUw1eU8taUxVRmNobHR1WmVRcWpuQjBSQWJHVzYybTlEbThQbEx1YllocHJzcWlCQ29uYWNMOHpTME9fc1dMbldEdGNvdE94T2RlMjlkTFBDb3pvbDRHZU1PUmlBV1RMXzBrSTZwSGwtSnY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. Toll collection at Nattika from Thursday; residents protest over unfinished works, lack of safety measures
+   - 분야: 요금·통행료 / 게재일: 2026-10-07 / 매체: Onmanorama
+   - 원문: https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZW5iQmVoaUluVEN3NWMtNDBpNl9aSk1vWnFUQ0lVREhDWFBkLUVMVWF4ZEZlakd1X3JMZk1KRFNCc0JVZi15WTVlWGRrNHNpTjFNang5RkZscXpGYmRacVdCVGl2bUE1UlUtYURhUGVzbEQtTWJqUjVnMjZTdzZIMzlZMFU4V3RhZDRQWTlxNDd3b0FnenJ2MXlEejQwT0VzRWxYSUdod05Fb3ZSODNPNnJIX25XLU9wRDM3SjJ1YVdNWHllWFE0dHVyTC1VUXl3eUtSSzhxTnNZS2FuWUlMcWdtdnp5QUJ4WXFlcnh0M3g?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
