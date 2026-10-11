@@ -28,8 +28,8 @@
   "score_hits": [
    "자율주행",
    "실증",
-   "버스",
-   "교통"
+   "교통",
+   "버스"
   ],
   "already_posted": false,
   "collector": "news",
@@ -106,6 +106,42 @@
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-10-07",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
+  "id": "news-f4ed43f0734f",
+  "kind": "news",
+  "board": "P",
+  "source": "Google News",
+  "type": "국내동향",
+  "country": null,
+  "country_ko": null,
+  "title": "충남도, ‘자율주행 버스’ 실증 운행 개시",
+  "media": "헤럴드경제",
+  "org": "헤럴드경제",
+  "media_host": "mbiz.heraldcorp.com",
+  "category": "자율주행",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-10-08",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5zWkJveS1uWkFfUlQ3eTNkRk9odGV5d2M0V2MzSHQ1eUI2Zk1YQWI4YmhyYUxkX1lJQ2pWc3llbkRkOEllRmZ3ZmdsM1hVcGNsVjRfNFV5SnZubWVOYTB4R3NB?oc=5",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 38,
+  "score_hits": [
+   "자율주행",
+   "실증",
+   "버스"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-10-11",
   "notes": null
  },
  {
@@ -458,7 +494,7 @@
   "score_hits": [
    "자율주행",
    "고속도로",
-   "버스"
+   "교통"
   ],
   "already_posted": false,
   "collector": "news",
@@ -606,41 +642,6 @@
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-10-08",
-  "notes": null
- },
- {
-  "schema_version": 3,
-  "id": "news-b3dc1995a313",
-  "kind": "news",
-  "board": "P",
-  "source": "Google News",
-  "type": "국내동향",
-  "country": null,
-  "country_ko": null,
-  "title": "KGM, 구역형 자율주행 로보택시 확대…토레스 EVX 추가 운영",
-  "media": "와이즈경제",
-  "org": "와이즈경제",
-  "media_host": "wiseenews.com",
-  "category": "자율주행",
-  "flag": null,
-  "pinned": null,
-  "published": "2026-10-07",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5rNDZla3pvRTJua3pPc2JYTUpnTHlPZkplbG1OQlhuRl9fN0k1bDFLVWFKSmZMOUJROGtqU0IydkxtcmJtUmVXVGpoaDE2M3pBQkVjczhXR3lBUHVLbGNQNk5kWnpBLXREMWc?oc=5",
-  "cpv": [],
-  "orig_link": null,
-  "orig_published": null,
-  "stale": null,
-  "score": 26,
-  "score_hits": [
-   "자율주행",
-   "택시"
-  ],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-08-25",
   "notes": null
  },
  {
@@ -1643,40 +1644,6 @@
   "score": 12,
   "score_hits": [
    "tolling"
-  ],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-10-11",
-  "notes": null
- },
- {
-  "schema_version": 3,
-  "id": "news-4a7e9c816d03",
-  "kind": "news",
-  "board": "A",
-  "source": "Google News",
-  "type": "해외기사",
-  "country": null,
-  "country_ko": null,
-  "title": "Rawalpindi Ring Road Opening Delayed Over Incomplete Toll Plazas",
-  "media": "TechJuice",
-  "org": "TechJuice",
-  "media_host": "techjuice.pk",
-  "category": "요금·통행료",
-  "flag": null,
-  "pinned": null,
-  "published": "2026-10-04",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTBOQWZNOTVVcldLYXJFYTV3aFBBbHlydEQwRGVHSmwtdktidGcydGFPQnNQM0duN3E3eVJ4UDBJMmdpZmxMUDU0aWN0Rng5dkUtYmUtamVId2pSNFJUWVNpNXFLbC16RGVLWElkWHh1ZVg2bV85Y3FUbnFTWXlpS1F1U2tzMXEzc2JTLXBQVmRMTDVf?oc=5",
-  "cpv": [],
-  "orig_link": null,
-  "orig_published": null,
-  "stale": null,
-  "score": 12,
-  "score_hits": [
-   "toll"
   ],
   "already_posted": false,
   "collector": "news",
@@ -2731,7 +2698,7 @@
   "link": "https://itskorea.kr/boardDetail.do?type=8&idx=23729",
   "cpv": [],
   "orig_link": "https://www.mediaissue.net/3569294",
-  "orig_published": null,
+  "orig_published": "2026-10-07",
   "stale": null,
   "score": 12,
   "score_hits": [

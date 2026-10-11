@@ -48,53 +48,53 @@
    - 분야: 요금·통행료 / 게재일: 2026-10-04 / 매체: Urban Acres
    - 원문: https://news.google.com/rss/articles/CBMijwFBVV95cUxOUlpmelpCVl9RQ2U0eFl2STBwSkFIQnlZODNwREE4R0YybkVqTS1oYm1RNU9qYTBUcllGLWJJSHZhY2hvYXY5WHUzUUpHNFNlT0FsX3ZJbjFCVlRjU2lBSERnLUJfN2hWZ2pJdGZ2UmxILTJPMmdZdXFaakdkOFFLZmdHS2dCWDQxajZvbzJ3QQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. Rawalpindi Ring Road Opening Delayed Over Incomplete Toll Plazas
-   - 분야: 요금·통행료 / 게재일: 2026-10-04 / 매체: TechJuice
-   - 원문: https://news.google.com/rss/articles/CBMilAFBVV95cUxOOTBOQWZNOTVVcldLYXJFYTV3aFBBbHlydEQwRGVHSmwtdktidGcydGFPQnNQM0duN3E3eVJ4UDBJMmdpZmxMUDU0aWN0Rng5dkUtYmUtamVId2pSNFJUWVNpNXFLbC16RGVLWElkWHh1ZVg2bV85Y3FUbnFTWXlpS1F1U2tzMXEzc2JTLXBQVmRMTDVf?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-10. New traffic signal coming to Morganton Road at Northview Drive in Fayetteville: NCDOT
+9. New traffic signal coming to Morganton Road at Northview Drive in Fayetteville: NCDOT
    - 분야: 신호·관제 / 게재일: 2026-10-05 / 매체: CBS17.com
    - 원문: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPUDZfUmNzX0Iyd3NLUFZHZERSRFBMaFVUQ2pSWDF2STlwbjVNVWJWc1Z2aWg1WEN1TUNfWTlQT0V4VWJMdGVIdGh1MEJudkNtdFhEbWpZaktDakNjbGdLbG15QWtQaVZmc0kxMXpYd1Bsa2RYaHZiSGhNb2dJWjFmZ0JKOVlMaWg5T3d3TERHSWNUV3NqTlJueXVJbWY4ckRwdkxBQnA0SFg0SG9aOTc4V3hjQUZGRmdxZ0ZVTEhWSDZuLW9EbHF0ZlE0aDAyUnMxeC1YRlBCbG9CUHJ1eVZB0gHkAUFVX3lxTFBQenlBajVNY3hMWkR0dTJtZkdzYjlId1NSZHgzWDdCZkhjLVRYUmFfZzNlcEZ0eGl1THRGZFQ2VXhkcVUzNFFKMHpNcWtqT1k2NDdDeXZuNC1sbDNaRE1jX1NnWHlVakVueWFYdDdlNy1pSnNHY3pNRGZ1VWRZeVZEYXpxRko2Wk03RXY1MFdXVlM0Z1JYczNSelM1Q1JoYUlLRDc0WXRoY1ZNYjF3MElITVE3NmtEeEdtNXNMWWlCa3gwMEhwcDhrcWtiaDZLOHktT05JUHY0RndSbWlaT3pjM1lpbw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. Moja Expressway on the Spot Over Allegations of Expired Toll Points
+10. Moja Expressway on the Spot Over Allegations of Expired Toll Points
    - 분야: 요금·통행료 / 게재일: 2026-10-05 / 매체: Kenyans.co.ke
    - 원문: https://news.google.com/rss/articles/CBMirwFBVV95cUxPQzI0UmRhQWI1dFNkUlBxalQ5b2lFX3FTZkJPNnZNbzlMUE9zOWF0bTJwYllzaEMxQkZHeDBkdjFvS1FrbFFtaHN1V0pRdW92Z05RNkdYWGNxeXNCbHNKZGFETkVWLUFpRGpweWhzTld4d29XMC1yVnVTb21yOXdXeWU3ZnpNVWt2NkF2MXBMR0JPbktCeFhrc0ZCM3dfUXV0eDVuaUNSLUhHcG5vRXJR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. India’s tolling system moves beyond FASTag: How MLFF could reshape highway revenue
+11. India’s tolling system moves beyond FASTag: How MLFF could reshape highway revenue
    - 분야: 요금·통행료 / 게재일: 2026-10-05 / 매체: The Financial Express
    - 원문: https://news.google.com/rss/articles/CBMi1wFBVV95cUxORDQzOEsyNGpsSXd5N04wcW11NHdGbll5MUZGUUpmZW9ERWQ1dVlhSkxYT3NNS2dUdXdSSHBUYmNEM2ZVWmxzVjMwQVJCdDIzd2FPYWFEVGhndU56cTVYR0ZZUGVBYWw4enlvc0VYeXNEYXdyVDFLdG1tQ1pDOUJkajFNS3VQcHhkdEVhQ0YxQTBwNWdzZHlhYjZUaWRoWXhTT21PNE5ERmNmRkxhQXd5RVVVYVFTRXEzVlVEQmxkOUxicEwwaDNCRVgxTGd2NGt1WFlwZndSONIB3gFBVV95cUxQWmxVMUJKTWRhOFloT05yb1pud1p5cHFBM3J5SmlwTGtvUTJrcW53eTBoYndvZy1rMmE3UHE0dkFWY3FGQnB0aDZWUkxub3BBSWF5VFpxMXl3U2YxN1lINHY3dmJRSHR4OWd4ZnVSNTRXdnl6eUJ6ek94WmNSTFNrYUgyUVhlaDhkYjZhMzhkd0MyVWdSZktwcGpzZlNVMHF5TTF4MTFTVWxCSmpEejRpLUNSb2NKajlmdFdMMU5LMDdSZzhHVVFZWmxMVWJlVEFYUkc0M252TzJFdWtxTEE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. SSP traffic reviews traffic monitoring, Pehchan app systems
+12. SSP traffic reviews traffic monitoring, Pehchan app systems
    - 분야: 신호·관제 / 게재일: 2026-10-05 / 매체: | Associated Press Of Pakistan
    - 원문: https://news.google.com/rss/articles/CBMijgFBVV95cUxPek41NHFYV0lSV2lGTlZoaWdnTVNJelhXUlNoem5jMXBWSzdYQThKYzJuX0pJal9wLTRBQWNhWWt3WGdqakg5QWliaWNpNWVsSEFsQ1I5NDhYVVFPelRaVC14UHNiYTdOZXJIZDVuRGdMbVA2eXdLZHJybVEtVWZhcVJYcnpjcGRUa2hYUnJB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. New traffic signal planned for Conway intersection near elementary school
+13. New traffic signal planned for Conway intersection near elementary school
    - 분야: 신호·관제 / 게재일: 2026-10-06 / 매체: WMBF
    - 원문: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQc2lHS0w0ZllacXJseHZNT3hEaER4X2pCNER1VzIxajVIQ0p4M2Z2RnNXazlZX0pNVWVQeGVHbUV5VGhzM2o1ZWZXWUlycnJQcE84eVdCREoxdldrSWszZ1BsRC11cl8yRWEyNk5haFJ2OTVibVQyaXphT3J1Zk1ZSHJnT1V4NlJVZXozS3c0LXFxRjZ1VEoybjg1YVBOUWlrNWlERXg5eHpDQdIBvgFBVV95cUxNeVQ3U0lVRzNEd2ZPN3hmVU9yZ1lqRmNNWXJGSjRqZEdJUUhfTXdQYldobTVEUk90NDNGV3ZPZVRmU2k1T1BSZkZneG9NbmtMTXFYaFhJUlBDSWw1Rmh5Yms4MzlSYm1rMlVtX3pkbklpYzZ1MjJkU3lzNVlPQWVUQlhLTXpQQzk0dTg5UjNrX01xeEdDYWhYZHVSMUpjeDlwbHBVMkJvRHRkb1lsQ1JlMC1GSEFmZ0Q0Z3NkSnF3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. Beaumont allocates nearly $932K for traffic signal installation
+14. Beaumont allocates nearly $932K for traffic signal installation
    - 분야: 신호·관제 / 게재일: 2026-10-06 / 매체: Banning Record Gazette
    - 원문: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOSFNsZ3ZYYk9wVHp2c0tfYmUxdlZQcTBGNHdnOFZWVVJSWWNqY2FaNGFYTDVJYzlpQWQ5aUhWWjNjZ0dBMGplenhHTE52UUFtWWJ0RzhnMVRXTzNjTnNsbjVaM1JQOUpvYjk2a3l6R2hPSXdmc0VoX21jT0F6U2x3SmVzbFdpVTFMRk8ybWZ4RWlBMV9TTTBldjRaclBKUUw4WFZXOWZzSlhoRlhjc1k4cURHYW1nWV9tQk44d3dkUXZ5NUFhd3VHOUtaSHlhWTk3d1RaTjVNcWtMWVphaERxRw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. AI-powered traffic lights being installed at two Dushanbe intersections
+15. AI-powered traffic lights being installed at two Dushanbe intersections
    - 분야: 신호·관제 / 게재일: 2026-10-06 / 매체: Азия-Плюс
    - 원문: https://news.google.com/rss/articles/CBMijgFBVV95cUxNajMxRzBEZFl3OGYyeGxpRjUxMF9aMC02aW9kWVlwNGYzMzV5ZmY4QUszS3VUMFBFRU0zSE92aTFBSWRwQjlqUnFnVTk0cHpZUUJDMFhYbWZjSEUzc29NQ0VnUWEzMFgydzh2c0ZKbTZMV3g1OTREWDR3R1VrTlhCMmZfdnc2Y2xxUk04M2VR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. Recap: Delays amid report of traffic light failure at busy A483 junction
+16. Recap: Delays amid report of traffic light failure at busy A483 junction
    - 분야: 신호·관제 / 게재일: 2026-10-06 / 매체: Chester Standard
    - 원문: https://news.google.com/rss/articles/CBMiowFBVV95cUxNVzBscVFMNWJlZGU4QVR6U2NYeE5xakIweHk5eEpkUE5Ka014T0NORy1TbG5ldmRqUDNWWmdNZ2ItNVh3QXNocVdZMi1VRXgwcHNENTV2YUJYQXFhS2tzT1FoTy0tdUtCSzc5cjA5YkRHeXl4ZVFxNGNaaDFLbkUxUlItV25nN0ROZmNUMUZrRExtX2U5YTBfazNocHJZelJlV1Jn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 美 롤리시, 드론·AI로 행정용 디지털 트윈 제작
+17. 美 롤리시, 드론·AI로 행정용 디지털 트윈 제작
    - 분야: 기술·표준 / 게재일: 2026-10-05 / 매체: ITS Korea
    - 원문: https://www.irobotnews.com/news/articleView.html?idxno=48831
 
-19. What to know about Dallas’ $12.5 million traffic signal project
+18. What to know about Dallas’ $12.5 million traffic signal project
    - 분야: 신호·관제 / 게재일: 2026-10-07 / 매체: Dallas News
    - 원문: https://news.google.com/rss/articles/CBMitAFBVV95cUxQLWwyUXYzeGhvYUR3ODJaazZqTXZjMmF1M2dDVW52V3pPOXFwNzBuNFl2RUxqWVBJei11aXE3Rkxmam4yck50RWdnUUw1eU8taUxVRmNobHR1WmVRcWpuQjBSQWJHVzYybTlEbThQbEx1YllocHJzcWlCQ29uYWNMOHpTME9fc1dMbldEdGNvdE94T2RlMjlkTFBDb3pvbDRHZU1PUmlBV1RMXzBrSTZwSGwtSnY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. Toll collection at Nattika from Thursday; residents protest over unfinished works, lack of safety measures
+19. Toll collection at Nattika from Thursday; residents protest over unfinished works, lack of safety measures
    - 분야: 요금·통행료 / 게재일: 2026-10-07 / 매체: Onmanorama
    - 원문: https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZW5iQmVoaUluVEN3NWMtNDBpNl9aSk1vWnFUQ0lVREhDWFBkLUVMVWF4ZEZlakd1X3JMZk1KRFNCc0JVZi15WTVlWGRrNHNpTjFNang5RkZscXpGYmRacVdCVGl2bUE1UlUtYURhUGVzbEQtTWJqUjVnMjZTdzZIMzlZMFU4V3RhZDRQWTlxNDd3b0FnenJ2MXlEejQwT0VzRWxYSUdod05Fb3ZSODNPNnJIX25XLU9wRDM3SjJ1YVdNWHllWFE0dHVyTC1VUXl3eUtSSzhxTnNZS2FuWUlMcWdtdnp5QUJ4WXFlcnh0M3g?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. Robotaxi Fleets Could Scale to 1.5 Million Vehicles Worldwide by 2036
+   - 분야: 자율주행 / 게재일: 2026-10-06 / 매체: ITS Korea
+   - 원문: https://iotbusinessnews.com/2026/10/06/robotaxi-fleets-could-scale-to-1-5-million-vehicles-worldwide-by-2036/
 
 ---
 
@@ -186,6 +186,10 @@
 
 ## 진행 중 해외 발주 (마감 전)
 
+- [크로아티아] Croatia – Passenger information system – E-ticketing faza 2; Grupa 1 - Unapređenje sigurnosti postojećeg sustava implementacijom video nadzora; Grupa 2 - Nadogradnja e-ticketing sustava
+  - 마감 2026-10-13 / 발주처 PROMET d.o.o.
+  - 원문: https://ted.europa.eu/en/notice/-/detail/678661-2026
+
 - [네덜란드] Netherlands – Road signs – Verkeersveiligheid
   - 마감 2026-10-13 / 발주처 Gemeente Rotterdam
   - 원문: https://ted.europa.eu/en/notice/-/detail/689036-2026
@@ -241,7 +245,3 @@
 - [케냐] Rail Civil Engineering Expert
   - 마감 2026-10-27 / 발주처 Kenya Railways Corporation
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00448572
-
-- [덴마크] Denmark – Car park control equipment – Parkeringssystem
-  - 마감 2026-10-28 / 발주처 Danmarks Tekniske Universitet - DTU
-  - 원문: https://ted.europa.eu/en/notice/-/detail/692244-2026
