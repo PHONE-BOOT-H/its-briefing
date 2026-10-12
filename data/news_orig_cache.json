@@ -2063,7 +2063,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mediaissue.net/3569294",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23730": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -2075,7 +2075,7 @@
   "body": "- 노‧사‧정 및 전문가가 함께 참여해 향후 검토사항, TF 운영 일정 등 논의 고용노동부(장관 김영훈)와 국토교통부(장관 홍지선)는 10월 8일(목) 오전 9시, 서울 직업능력심사평가원 회의실(중구 소재)에서 택시업종 노‧사 및 전문가와 함께 가칭｢택시업종 근로시간 등 노동환경 실태조사 TF｣ 킥오프 회의를 개최했다. 동 TF는 택시업 종사자들의 노동환경 실태를 객관적으로 파악하기 위해 출범했다. TF에는 택시업 노동계(전국택시노동조합연맹, 전국민주택시노동조합연맹, 공공운수노조 택시지부), 경영계(전국택시운송사업조합연합회), 정부(고용노동부, 국토교통부) 및 노‧사‧정이 추천한 전문가가 참여했다. 이날 회의에서 참석자들은 택시업이 일하고 싶은, 보다 좋은 일자리로 변모해야 한다는 것에 공감하고, TF 운영 방향 및 향후 일정에 대해 의견을 나눌 예정이다. 앞으로 TF는 전문가 등의 발제를 통해 택시업 노동환경에 대한 그간의 조사, 해외사례 등을 살펴보고, 노‧사의 의견을 충분히 수렴하여 택시업 관련 실태조사 추진계획을 구체화할 예정이다. 붙임. 가칭｢택시업종 근로시간 등 노동환경 실태조사 TF｣ 킥오프 회의 개요 - 노‧사‧정 및 전문가가 함께 참여해 향후 검토사항, TF 운영 일정 등 논의 고용노동부(장관 김영훈)와 국토교통부(장관 홍지선)는 10월 8일(목) 오전 9시, 서울 직업능력심사평가원 회의실(중구 소재)에서 택시업종 노‧사 및 전문가와 함께 가칭｢택시업종 근로시간 등 노동환경 실태조사 TF｣ 킥오프 회의를 개최했다. 동 TF는 택시업 종사자들의 노동환경 실태를 객관적으로 파악하기 위해 출범했다. TF에는 택시업 노동계(전국택시노동조합연맹, 전국민주택시노동조합연맹, 공공운수노조 택시지부), 경영계(전국택시운송사업조합연합회), 정부(고용노동부, 국토교통부) 및 노‧사‧정이 ",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092486",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23733": {
   "body": "...중략...자동차 업계 관계자는 \"한국 로보택시는 이제 막 출발선에 선 단계\"라며 \"지금 필요한 건 기업과 자본이 들어와 차량 규모를 키울 수 있는 토대를 만드는 동시에 기존 택시산업과의 룰을 미리 정하는 것\"이라고 했다. 이어 \"규제도 단순히 운행 통제에 그치지 않고 기업이 안정적인 수익을 내고 다시 투자할 수 있는 시장을 만드는 방향으로 설계돼야 한다\"고 말했다. ...중략...자동차 업계 관계자는 \"한국 로보택시는 이제 막 출발선에 선 단계\"라며 \"지금 필요한 건 기업과 자본이 들어와 차량 규모를 키울 수 있는 토대를 만드는 동시에 기존 택시산업과의 룰을 미리 정하는 것\"이라고 했다. 이어 \"규제도 단순히 운행 통제에 그치지 않고 기업이 안정적인 수익을 내고 다시 투자할 수 있는 시장을 만드는 방향으로 설계돼야 한다\"고 말했다. Copyright © 2018 ITS Korea. All rights reserved.",
@@ -2087,6 +2087,84 @@
   "body": "...중략...도는 ‘내포신도시 자율주행 실증사업’의 일환으로 오는 12일부터 내년 1월 11일까지 ‘자율 1004번’ 자율주행 순환버스를 운행한다고 8일 밝혔다. 이 사업은 자율주행 차량이 실제 버스 노선을 운행하며 일상적인 대중교통 수단으로 활용될 수 있는지를 검증하고, 실제 운행 데이터를 확보하고자 추진한다...중략... ...중략...도는 ‘내포신도시 자율주행 실증사업’의 일환으로 오는 12일부터 내년 1월 11일까지 ‘자율 1004번’ 자율주행 순환버스를 운행한다고 8일 밝혔다. 이 사업은 자율주행 차량이 실제 버스 노선을 운행하며 일상적인 대중교통 수단으로 활용될 수 있는지를 검증하고, 실제 운행 데이터를 확보하고자 추진한다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": "2026-10-08",
   "link": "https://www.dawonnews.co.kr/news/articleView.html?idxno=112814",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23735": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-12",
+  "link": "https://news.tf.co.kr/read/ptoday/2374844.htm",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23736": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-10",
+  "link": "https://www.hellot.net/news/article.html?no=115360",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23737": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.eanews.kr/news/1013167",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23738": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-12",
+  "link": "https://www.journal25.com/news/articleView.html?idxno=562518",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23739": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.news1.kr/industry/sb-founded/6313146",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23740": {
+  "body": "한화시스템이 인공지능(AI) 기반 방산전자 기술을 중심으로 중동 방공체계 시장과 우주사업 영역을 확대하고 있다. 11일 웹이코노미 취재 등을 종합하면, 한화시스템은 아랍에미리트(UAE) 통합대공망 구축 협력을 추진하는 한편, 국가 우주감시위성 개발과 위성영상 AI 분석 기술의 해외시장 진출에도 나섰다. 한화시스템이 인공지능(AI) 기반 방산전자 기술을 중심으로 중동 방공체계 시장과 우주사업 영역을 확대하고 있다. 11일 웹이코노미 취재 등을 종합하면, 한화시스템은 아랍에미리트(UAE) 통합대공망 구축 협력을 추진하는 한편, 국가 우주감시위성 개발과 위성영상 AI 분석 기술의 해외시장 진출에도 나섰다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-11",
+  "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2329825",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23741": {
+  "body": "1990년대 후반 인도 시장에 첫발을 내디딘 현대자동차가 현지 진출 30여 년 만에 누적 판매량 1000만 대 돌파라는 대기록 완성을 눈앞에 두고 있다. 인도자동차공업협회(SIAM) 집계에 따르면 현대차는 1998년 첸나이 제조 시설에서 소형 해치백 ‘쌍트로’를 양산하기 시작한 이래 올해 3분기까지 총 988만4960대의 누적 실적을 올렸다. 1990년대 후반 인도 시장에 첫발을 내디딘 현대자동차가 현지 진출 30여 년 만에 누적 판매량 1000만 대 돌파라는 대기록 완성을 눈앞에 두고 있다. 인도자동차공업협회(SIAM) 집계에 따르면 현대차는 1998년 첸나이 제조 시설에서 소형 해치백 ‘쌍트로’를 양산하기 시작한 이래 올해 3분기까지 총 988만4960대의 누적 실적을 올렸다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-11",
+  "link": "https://www.donga.com/news/Economy/article/all/20261011/134822757/1",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23742": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-12",
+  "link": "https://www.insweek.co.kr/news/articleView.html?idxno=72644",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23743": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1071652&parentSeq=1071652",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23744": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=130099",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23745": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1071653&parentSeq=1071653",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23749": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-12",
+  "link": "https://www.asiae.co.kr/article/2026101116195359618",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23754": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-12",
+  "link": "https://www.kado.net/news/curationView.html?idxno=2077339",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -3281,6 +3359,48 @@
   "body": "...중략... Parallel Systems might have a way to keep freight moving while allowing railroads to recapture market share. The startup has developed a rail vehicle capable of moving over several tons of freight as far as 500 miles without an operator. If the company can scale production of its Panther vehicles, it stands to make railroads profitable over short hauls once again...중략... [SpaceX 출신들이 자율 화물 열차를 통해 운송 방식을 혁신하기 위해 1억 달러를 투자받았습니다.] Parallel Systems는 철도 회사들이 시장 점유율을 되찾는 동시에 화물 운송을 지속할 수 있는 방법을 제시할지도 모릅니다. 이 스타트업은 운전자 없이 최대 500마일(약 800km)까지 수 톤의 화물을 운송할 수 있는 철도 차량을 개발했습니다. 만약 이 회사가 Panther 차량의 생산을 확대할 수 있다면, 철도 회사들은 단거리 운송에서 다시 수익을 창출할 수 있을 것입니다. ...중략... Parallel Systems might have a way to keep freight moving while allowing railroads to recapture market share. The startup has developed a rail vehicle capable of moving over several tons of freight as far as 500 miles without an opera",
   "date": "2026-10-07",
   "link": "https://techcrunch.com/2026/10/07/spacex-alumni-nab-100m-to-rethink-shipping-with-autonomous-freight-trains/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23746": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-10",
+  "link": "https://cleantechnica.com/2026/10/09/xpeng-launches-yoyo-robotaxi/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23747": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-08",
+  "link": "https://www.traffictechnologytoday.com/news/artificial-intelligence-ai/feature-the-its-world-congress-and-south-koreas-self-driving-buses.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23748": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://dailybruin.com/2026/10/11/californias-high-speed-rail-faces-rising-costs-delays-ahead-of-2040-debut",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23750": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-11",
+  "link": "https://nepalitimes.com/a-transportation-system-ahead-of-its-time",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23751": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://gulfbusiness.com/en/2026/transport/no-driver-dedicated-tracks-dubai-launches-four-week-glydways-trial/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23752": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://tech-insider.org/tesla-assisted-driving-name-change-eu-2026/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23753": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://af.net/realtime/waymo-launches-robotaxi-service-in-sao-paulo-brazil-expanding-into-latin-america/",
   "tries": 1
  }
 }
