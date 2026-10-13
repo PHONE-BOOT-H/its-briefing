@@ -149,6 +149,16 @@
   "selection_method": "Quality and Cost-Based Selection (QCBS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=64A9E2D2C4009C589A18212EA528DB938ACE7E8C8742810158B6CFD80328603E": {
+  "budget": {
+   "amount": 400000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Asian Development Bank Regional",
+  "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
+  "source_scope": "International"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=73164446ADB191B44558A6368C30EAB702005C5B58DF84320BA5A78551B8A607": {
   "budget": {
    "amount": 50000.0,
