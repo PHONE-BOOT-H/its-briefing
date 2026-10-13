@@ -148,7 +148,7 @@
 
 12. APEC 스마트 모빌리티 포럼서 AI·자율주행 협력 논의
    - 분야: 자율주행 / 게재일: 2026-10-13 / 매체: 연합뉴스
-   - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pXzVqNFY2TnFWcVZvdFhwQ1dFSzRwemoxY2VMM2haUFBiTlFValJSSU9vZ05McjZUcXNVNEhKaXJ4S2NqWDMtLXJNcGQwcko2OS0xMkl5ZmZPT2fSAWBBVV95cUxOUzFoVE91aEo5bU5Cb2NodzdTUEQ3WXJsNHVvWHM2akgwV05PM2JVUlFsNzJaU0xYLTVlRGIxX3dncXNWRnpQXzdwbnB0M1ZaXzFaYjMyRnhCM1lpSW84ZWs?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TMWhUT3VoSjltTkJvY2h3N1NQRDdZcmw0dW9YczZqSDBXTk8zYlVSUWw3MlpTTFgtNWVEYjFfd2dxc1ZGelBfN3BucHQzVlpfMVpiMzJGeEIzWWlJbzhla9IBYEFVX3lxTE5TMWhUT3VoSjltTkJvY2h3N1NQRDdZcmw0dW9YczZqSDBXTk8zYlVSUWw3MlpTTFgtNWVEYjFfd2dxc1ZGelBfN3BucHQzVlpfMVpiMzJGeEIzWWlJbzhlaw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 13. 자율주행부터 포트홀까지 한눈에… 엔제로, 통합 교통 관제 시스템 눈길
    - 분야: 자율주행 / 게재일: 2026-10-08 / 매체: 산업일보
