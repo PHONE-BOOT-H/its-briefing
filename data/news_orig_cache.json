@@ -2105,7 +2105,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.eanews.kr/news/1013167",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23738": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -2117,7 +2117,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.news1.kr/industry/sb-founded/6313146",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23740": {
   "body": "한화시스템이 인공지능(AI) 기반 방산전자 기술을 중심으로 중동 방공체계 시장과 우주사업 영역을 확대하고 있다. 11일 웹이코노미 취재 등을 종합하면, 한화시스템은 아랍에미리트(UAE) 통합대공망 구축 협력을 추진하는 한편, 국가 우주감시위성 개발과 위성영상 AI 분석 기술의 해외시장 진출에도 나섰다. 한화시스템이 인공지능(AI) 기반 방산전자 기술을 중심으로 중동 방공체계 시장과 우주사업 영역을 확대하고 있다. 11일 웹이코노미 취재 등을 종합하면, 한화시스템은 아랍에미리트(UAE) 통합대공망 구축 협력을 추진하는 한편, 국가 우주감시위성 개발과 위성영상 AI 분석 기술의 해외시장 진출에도 나섰다. Copyright © 2018 ITS Korea. All rights reserved.",
@@ -2141,19 +2141,19 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1071652&parentSeq=1071652",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23744": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=130099",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23745": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mss.go.kr/site/smba/ex/bbs/View.do?cbIdx=86&bcIdx=1071653&parentSeq=1071653",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23749": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -2165,6 +2165,54 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-10-12",
   "link": "https://www.kado.net/news/curationView.html?idxno=2077339",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23774": {
+  "body": "고시 제2026-550호 ◉ 국토교통부고시 제2026–550호 자율주행자동차 시범운행지구 지정 ｢자율주행자동차 상용화 촉진 및 지원에 관한 법률｣(이하 “자율주행자동차법”이라 한다) 제7조제1항 및 제4항에 따라 자율주행자동차 시범운행지구를 변경하였으므로 같은 법 제7조제5항에 따라 다음과 같이 고시합니다. 2026년 10월 13일 국 토 교 통 부 장 관 고시 제2026-550호 ◉ 국토교통부고시 제2026–550호 자율주행자동차 시범운행지구 지정 ｢자율주행자동차 상용화 촉진 및 지원에 관한 법률｣(이하 “자율주행자동차법”이라 한다) 제7조제1항 및 제4항에 따라 자율주행자동차 시범운행지구를 변경하였으므로 같은 법 제7조제5항에 따라 다음과 같이 고시합니다. 2026년 10월 13일 국 토 교 통 부 장 관 Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/BORD0201/m_69/DTL.jsp?id=N01_B&cate=&mode=view&idx=270049&key=&search=&search_regdate_s=2025-10-13&search_regdate_e=2026-10-13&order=&desc=asc&srch_prc_stts=&item_num=0&search_dept_id=&search_dept_nm=&srch_usr_nm=N&srch_usr_titl=N&srch_usr_ctnt=N&srch_mng_nm=N&old_dept_nm=&search_gbn=&search_section=&source=&search1=&lcmspage=1",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23775": {
+  "body": "- 피지컬 AI 얼라이언스를 중심으로 정부·산업계·연구계가 함께하는 종합 협력의 장 - 범부처 사업설명회, 글로벌 기술강연, 얼라이언스 네트워킹으로 실증·사업화 연계 - 피지컬 AI 기술전시, 토크 콘서트 등을 통해 국민이 체감하는 피지컬 AI 소개 【관련 국정과제】 22-5. 피지컬 AI 핵심기술 확보 및 산업 육성 지원 과학기술정보통신부(부총리 겸 과기정통부 장관 배경훈, 이하 ‘과기정통부’)는 10월 13일(화)부터 14일(수)까지 이틀간 서울 코엑스에서 「피지컬 AI Tech Week」를 개최한다. 이번 행사는 과기정통부가 주최하고, 피지컬 AI 얼라이언스와 정보통신산업진흥원이 주관하는 피지컬 AI 종합행사로, 정부 사업 설명회 및 네트워킹, 글로벌 기술강연, 기술 전시·시연, 토크콘서트 등 다양한 프로그램으로 구성된다. 특히, 피지컬 AI 얼라이언스를 중심으로 피지컬 AI의 기술·산업·정책을 연계하고, 산·학·연과 관계부처가 함께 최신 기술 동향과 미래 발전 방향을 공유하는 협력의 장을 마련하는 한편, 기술 전시와 시연을 통해 국민이 피지컬 AI를 직접 보고 이해할 수 있도록 구성했다. 이번 행사에는 피지컬 AI 얼라이언스 참여 기업·기관 400여 개사를 비롯해 벤처캐피탈(VC), 유관기관 관계자 등 500명 이상이 참여할 예정이다. 행사는 ▲피지컬 AI 얼라이언스 데이(10.13.), ▲피지컬 AI 테크 데이(10.14.), ▲피지컬 AI 기술 전시(10.13.~14.) 등으로 진행된다. 행사 첫날인 13일에는 ‘피지컬 AI 얼라이언스 데이’가 열린다. 2027년도 정부의 피지컬 AI 사업 방향을 공유하고, 얼라이언스 참여 기업·기관 간 교류를 통해 기술 개발부터 실증·사업화까지 이어지는 협력 기반을 강화하는 자리다. 오전에는 크래프톤 이강욱 CAIO, 엔비디아 코리아 정소",
+  "date": null,
+  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187856&searchOpt=ALL&searchTxt=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23776": {
+  "body": "➊ 자율운항선박 분과를 공정으로 확산, ｢조선 M.AX 얼라이언스｣ 출범 ➋ 민관합동으로 ‘30년까지 1.4조원+α 규모 ｢3대 플래그십 프로젝트｣ 추진 ➌ 첫 프로젝트인 AI 조선소 등대공장, 4,000억원 규모 민간투자 MOU 체결 ➍ 자율운항선박 로드맵, 「제1차 자율운항선박 기본계획(’26~‘35)」 발표 산업통상부(장관 김정관, 이하 ‘산업부’)·해양수산부(장관 황종우, 이하 ‘해수부’)는 10월 12일(월) 13시 호텔 현대바이라한 목포에서「조선 M.AX 얼라이언스 전략회의」를 개최했다. 이날 행사에는 김정관 산업부 장관, 민형배 전남광주통합특별시장, 우승희 영암군수를 비롯해 조선·해운사, 기자재사, 대학·연구기관 등 100개 기관 200여 명이 참석했다. 오늘 회의에서는 그간 운영되어 오던 “자율운항선박 M.AX 얼라이언스”를 조선업 공정 M.AX까지 확대하여 「조선 M.AX 얼라이언스」로 재편하고, 대형조선소·중소조선·기자재사 등이 밀집한 산단을 중심으로 5년간 1.4조원 규모의 ｢3대 플래그십 프로젝트｣를 추진하기로 했다. ‘25.12월 산업부와 해수부는 AI 자율운항선박 시장 선점을 위해 자율운항선박 M.AX 얼라이언스를 본격 가동했다. HMM, 팬오션 등 얼라이언스 참여 해운사와 협의해 총 500TB 이상의 운항데이터를 공유받아 공공데이터셋 구축에 활용하기로 했다. 아울러 총 33건의 자율운항 국제표준 수요를 발굴했고, IMO·ISO 국제표준을 조기 개발하여 선점할 예정이다. 얼라이언스 참여 기관의 수요를 적극 반영하여 IMO Lv.4 수준 자율운항 기술 개발을 위한 4,600억원 규모 AI 완전자율운항선박 R&D 사업도 ‘26.7월 착수했다. 그러나 최근 경쟁국의 시장잠식과 인력부족 문제가 대두되는 상황에서 ‘선박’의 지능화만으로는 우리 조선업의 지속가능한 성장을",
+  "date": null,
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172280/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23781": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20261012000335",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23783": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-12",
+  "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215011",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23784": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-13",
+  "link": "https://www.onews.tv/news/articleView.html?idxno=288972",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23785": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-13",
+  "link": "https://www.asiae.co.kr/article/2026101307022516861",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23786": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-12",
+  "link": "https://www.srtimes.kr/news/articleView.html?idxno=214526",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -3377,7 +3425,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://dailybruin.com/2026/10/11/californias-high-speed-rail-faces-rising-costs-delays-ahead-of-2040-debut",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23750": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -3389,18 +3437,60 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://gulfbusiness.com/en/2026/transport/no-driver-dedicated-tracks-dubai-launches-four-week-glydways-trial/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23752": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://tech-insider.org/tesla-assisted-driving-name-change-eu-2026/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23753": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://af.net/realtime/waymo-launches-robotaxi-service-in-sao-paulo-brazil-expanding-into-latin-america/",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23777": {
+  "body": "The UK Government should give Transport for London (TfL) the power to cap the number of autonomous passenger vehicles operators can deploy in the capital, according to a new London Assembly Transport Committee report, which says it has not yet heard sufficient evidence to persuade it that London should welcome autonomous passenger services...중략... 런던 시의회 교통위원회의 새로운 보고서에 따르면, 영국 정부는 런던 교통국(TfL)에 자율주행 여객 차량 운영업체가 수도에 배치할 수 있는 차량 대수를 제한할 권한을 부여해야 합니다. 이 보고서는 런던이 자율주행 여객 서비스를 환영해야 한다는 충분한 증거를 아직 접하지 못했다고 밝혔습니다. The UK Government should give Transport for London (TfL) the power to cap the number of autonomous passenger vehicles operators can deploy in the capital, according to a new London Assembly Transport Committee report, which says it has not yet heard sufficient evidence to persuade it that London should welcome autonomous passenger services...중략... 런던 시의회 교통위원회의 새로운 보고서에 따르면, 영국 정부는 런던",
+  "date": null,
+  "link": "https://www.traffictechnologytoday.com/news/autonomous-vehicles/new-report-tfl-should-get-power-to-cap-london-robotaxi-numbers.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23778": {
+  "body": "...중략...The council found that speeds from connected vehicles aligned with automatic traffic counters speeds and were more accurate than those recorded by radar. A recurring survey from the connected vehicle data source shows how speeds change over a month and gives a more accurate before-and-after picture when something changes. Founded in 2018, Compass IoT is a connected vehicle data aggregator with clients across Australia, New Zealand, North America and Europe. 위원회는 커넥티드 차량의 속도가 자동 교통량 측정기의 속도와 일치하며 레이더로 기록된 속도보다 더 정확하다는 것을 발견했습니다. 커넥티드 차량 데이터 소스에서 정기적으로 실시되는 설문조사는 한 달 동안 속도가 어떻게 변하는지 보여주며, 어떤 변화가 있을 때 변화 전후를 더욱 정확하게 파악할 수 있도록 해줍니다. 2018년에 설립된 Compass IoT는 호주, 뉴질랜드, 북미 및 유럽 전역에 고객을 보유한 커넥티드 차량 데이터 통합 ​​업체입니다 ...중략...The council found that speeds from connected vehicles aligned with automatic traffic counters speeds and were more accurate than those recorded by radar. A recurring surv",
+  "date": "2026-10-12",
+  "link": "https://www.itsinternational.com/uk-council-measures-speed-with-data-not-radar/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23779": {
+  "body": "Data for Road Safety (DFRS)’s lastest Impact Report suggests that safety-related messages from vehicles and infrastructure in Europe have ramped up massively over the last year. From June 2025 to June 2026, the European DFRS ecosystem exchanged an average of 39.9 million messages per month, approximately eight times the typical monthly volume recorded between 2024 to 2025, it says...중략... 도로 안전 데이터(DFRS)의 최신 영향 보고서에 따르면 유럽에서 차량 및 인프라를 통한 안전 관련 메시지가 지난 한 해 동안 대폭 증가한 것으로 나타났습니다. 보고서에 따르면 2025년 6월부터 2026년 6월까지 유럽 DFRS 생태계는 월평균 3,990만 건의 메시지를 교환했는데, 이는 2024년부터 2025년 사이에 기록된 일반적인 월별 거래량의 약 8배에 달하는 수치입니다. Data for Road Safety (DFRS)’s lastest Impact Report suggests that safety-related messages from vehicles and infrastructure in Europe have ramped up massively over the last year. From June 2025 to June 2026, the European DFRS ecosystem exchanged an average of 39.9 million messages per month, a",
+  "date": "2026-10-12",
+  "link": "https://www.itsinternational.com/eight-fold-increase-in-road-safety-data-messages-says-dfrs/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23780": {
+  "body": "Yoshihiro Nakata, Toyota Motor Europe President and CEO , explained the philosophy that drives Toyota’s wide-ranging approach to decarbonisation: “At Toyota, our vision has always been bigger than the car. Our purpose is to provide mobility for all, leaving no one behind. That means supporting the transition to carbon neutrality in a way that is inclusive, practical and focused on real-world impact. We are on a journey towards carbon neutrality across our entire value chain while also reducing our reliance on finite resources through circular approaches that keep valuable materials in use for longer. But our ambition does not stop when a vehicle leaves the factory. We are working to decarbonise our manufacturing operations, increase renewable electricity use, improve energy efficiency and explore new ways to reduce environmental impact throughout the vehicle lifecycle.”..중략.. 도요타 자동차 유럽 ",
+  "date": "2026-10-12",
+  "link": "https://ertico.com/toyota-to-start-carbon-neutral-production-at-its-uk-engine-plant",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23782": {
+  "body": "XPeng Inc. launched the G9L Next-Gen AI Flagship SUV for Europe at the 2026 Paris Motor Show on October 12, 2026, with French pricing starting from €74,990, public test rides of its Next Generation Pilot (NGP) driving software and a new technology-collaboration offering for global automotive partners...중략... [XPENG, 유럽에서 G9L SUV 출시 및 NGP 공개 시승 행사 개최] XPeng Inc.는 2026년 10월 12일 파리 모터쇼에서 유럽 시장을 위한 차세대 AI 플래그십 SUV인 G9L을 출시했으며 , 프랑스 판매 가격은 74,990유로부터 시작합니다. 또한, 차세대 파일럿(NGP) 주행 소프트웨어의 시승 행사와 글로벌 자동차 파트너를 위한 새로운 기술 협력 프로그램도 공개했습니다. XPeng Inc. launched the G9L Next-Gen AI Flagship SUV for Europe at the 2026 Paris Motor Show on October 12, 2026, with French pricing starting from €74,990, public test rides of its Next Generation Pilot (NGP) driving software and a new technology-collaboration offering for global automotive partners...중략... [XPENG, 유럽에서 G9L SUV 출시 및 NGP 공개 시승 행사 개최] XPeng Inc.는 2026",
+  "date": "2026-10-12",
+  "link": "https://www.unite.ai/xpeng-launches-g9l-suv-in-europe-opens-ngp-public-test-rides/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23787": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://tech-insider.org/self-driving-trucks-5-year-beacon-exemption-2026/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23788": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-08",
+  "link": "https://www.tcabmobility.com.au/autonomous-vehicle-regulation-australia",
   "tries": 1
  }
 }

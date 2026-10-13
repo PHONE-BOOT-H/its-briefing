@@ -965,6 +965,13 @@
   "impagency": "Ministry of Infrastructure and Public Works / Cellule Infrastructure ",
   "total": 440200000.0
  },
+ "P507260": {
+  "borrower": "Ministry of Finance and Planning",
+  "closing": "2028-11-30",
+  "funder": "무상원조(Grant)",
+  "impagency": "Palestinian Energy and Natural Resources Authority (PENRA)",
+  "total": null
+ },
  "P507659": {
   "borrower": "Republic of Kosovo",
   "closing": "2031-12-16",
