@@ -60,41 +60,41 @@
    - 분야: 신호·관제 / 게재일: 2026-10-12 / 매체: ITS Korea
    - 원문: https://www.itsinternational.com/eight-fold-increase-in-road-safety-data-messages-says-dfrs/
 
-12. 300 cameras to intensify traffic surveillance in capital
+12. [일본] Japan Mobility Show Opens with Record 218 Exhibitors, Companies Race to Commercialize Autonomous Driving
+   - 분야: 자율주행 / 게재일: 2026-10-13 / 매체: ITS Korea
+   - 원문: https://finance.biggo.com/news/bf6c4b4b-c72d-4f96-ae0a-822e5f0c222f
+
+13. 300 cameras to intensify traffic surveillance in capital
    - 분야: 신호·관제 / 게재일: 2026-10-08 / 매체: The Times of India
    - 원문: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRlZjTnpDclFlOWFQV25LR24wRmFRSFU0eE1aRWF0emRXN3BHRWQ2WEFMeWpDOUpsOHpGYm4tM1Z0RXRma1d2blFQamdsaFM0ZXpmVGdSYnBQVVlTR3M0aC1SNzdOc0dFNW5XSE03T1Z5ZFllM2RSYU1JbE5ud29UMGM0NF9aUUczRHJ2MTlPeWZFUnBuaWNHekZ0Q2hsUGRJZ3J5UDlYalVDMTZjdUhiSjVoZUc4TUtJd3ZmSm5aejVmUEZlNmNIeWY4dUgySDZmTTZzam1kWHNvd9IB3wFBVV95cUxOX0JyVTdaU1g5SmdIWktKXzcxZVoxMnNrQmRNeWFlb0JGZXo1R2E0WDg0VnZGTW01b2VwQ2ViVGdUS083LXhZb0J5SmtOWkJXcGFpbG4xenhDOFZVTmpOVG82WndxNzBVLUJIbTVwd1hnSDJZQWMzRzlKcUZITDVYMzRjVG9LaWgyRTFuQ3RLWmVCMTBCTkxWUjJnd2VncDZtZV9STHdONHIwTVh6UjEwd1ZmWFl2bGpQckR2eFJ1dGZMY0VzR3ljVlVBd25yVndVOEpUZGFEeDhLX21FM1dz?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. Ferry Tolling
+14. Conway considers $350,000 upgrade for new traffic signal at U.S. 701 and Janette Street
+   - 분야: 신호·관제 / 게재일: 2026-10-08 / 매체: WPDE
+   - 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxNcVgyM1F0OUZIa1hsVmxRdWNScWIyTldLYncteDNmWjdxSDJkajQ4R1ViaHdqbGR0WHNvN0lQVHFySjYwZXlmUUZQU1Y4VFY5c2haMGVydi16MngxX3BLTEhCSlFZNFFvUmI3MWJOcHNrQjFSS2hsYjNUaEZ5S3k5MmxrUlplbFZQRkR2YnBKYTk1S0EyU1JTQ0o3SzBjMmlJNW9VUlFyY3BjQUg0OG1TWQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+15. Ferry Tolling
    - 분야: 요금·통행료 / 게재일: 2026-10-08 / 매체: N.C. Department of Transportation (.gov)
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBEeDBUcTdkUkthZ3NKLWYyc1JOWVhpY1FneFhtMmIwWmlGcFJ1dHZtREFGZTVoV1NwcVMyRVU0S1B0bEdkS1ZfU0ljbWk4Sy16N0lJTXFBckN6RzMxNzhkVGVyWHp1ZE1jRDExNQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. NHAI Launches Barrier-Free Tolling on Tamil Nadu Highway
+16. NHAI Launches Barrier-Free Tolling on Tamil Nadu Highway
    - 분야: 요금·통행료 / 게재일: 2026-10-08 / 매체: Construction World
    - 원문: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOV3VQa2JmY080ckZmZ2tIQVA2SV84cUZFTWUyR1p4RThyZDZwRFEzWklWUGVzZTlTNG9fSGpHeVVNb0dHQW95Zk5nVFAwWVZ4TTQzN1EtVV9qaW1tdmtiejVfUDk2UTAwMFVPWUstYnRMakpVTnRHSHpnMkk2WHQyd19zZXFZRS1jRXBVNXFoSnc3NUM2bkZaOGZNSFRVTXhnYS1SQTBBQjJLdFllRGJsaFFhVy1UTVB0U3g4MnBmdGVCRjR6UEZDd0g4dXdqTllHV2M2TVhsVXlnWjVGYjhpbkxQSWNubE9rMXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. NICE Project Toll Claims Raise Bengaluru Infrastructure Questions
-   - 분야: 요금·통행료 / 게재일: 2026-10-08 / 매체: Urban Acres
-   - 원문: https://news.google.com/rss/articles/CBMioAFBVV95cUxNcVFkaEpXcG5tSG5wUGlwVmE2QVVLb095cjdOSGQzR3FBTlZqZklaREdOSURaZzBRdmdMXzdMenRRcGZIVEpMd05UZG5DeFptNnIydl83eERQNVFtZnYzZTNtbmRPUHpscEphd3ZWeEJtb3hlWlp0WUJLalYxZ0VMMlprdklOT043VUk1M180THR0ZVFxMVE4RHBGRGxRaTdV?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+17. Council OKs golf management contract, mailbox damage policy, traffic signal agreement
+   - 분야: 신호·관제 / 게재일: 2026-10-09 / 매체: Pascack Press & Northern Valley Press
+   - 원문: https://news.google.com/rss/articles/CBMirwFBVV95cUxPOUQ4TENhNkh0YjFQSmstMkxqT2FrVWxOWVROaDRsX3ZaU256SzkwSkY2VEEzbHp2blNfZUprNGdFUUtObHhmRzFlaV94MjE4ZEwwR1dwODFwS1FGbGdUcUVMWWJiMFhfUTM4UHQ2VnRRNG5XQjJ1UEVXQjdJVDhYdUVOLVlOUW9nUlBRdVRUU1VwNmF2S1pQWkpJOXlnRXB6MjNaM1ZWRDZ3RUtSNTNZ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. Transportation board requests more time to set up ferry tolls
+18. Transportation board requests more time to set up ferry tolls
    - 분야: 요금·통행료 / 게재일: 2026-10-09 / 매체: Coastal Review
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxOa004NGNObXp0NXFRMUNaaXFEVUU0MnRJTXA2VWo3T1hRNnptd3pzRmhiaUd1LXJyYnl5ZEJqM29QOWFwVnhxZ0RxdExJUDJMcExIX2F2N2t6WHM4blJENFp4RVRBWDdlazIyMEc0YnN6MDhQTmdnOE9CNHpkaWNWbHlsblNqYWdaRGtqNC1fWjh0bzhaZkhJeDRBZlA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. Recommendations for ferry toll rates presented to North Caro...
+19. Recommendations for ferry toll rates presented to North Caro...
    - 분야: 요금·통행료 / 게재일: 2026-10-10 / 매체: The Coastland Times
    - 원문: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcksyVG9JUElPZUk2Q1luV24xWEg5MHFuYmk3S09uSFlPVmR5TENrZjZNemNZMzU4MWlUQ0tUd2FZZUF2QzZJdzhQYTFBVjZuX0dvSW5paWNoelB5TzhPWU0zeWh3VllGalREX3VudVRYbUIzUThWRFZ5WlhxTzdSTGxrZWEzOXUwRm5fUDV6NHY3MGZFV1I4WVV2SEtmdE5xQVRFR21fSnFMak9xa3AxaDBROXY2U29IVG9FREhJYTlHUW5FV2U0OWxVNFdoV3lOYnc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. Toll collection resumes at Nattika amid protests
+20. Toll collection resumes at Nattika amid protests
    - 분야: 요금·통행료 / 게재일: 2026-10-10 / 매체: The Times of India
    - 원문: https://news.google.com/rss/articles/CBMivgFBVV95cUxQX0NDUXZNNEJpVE1aTG1JWGM4TXI4dnJxQzNoREFBRm1BbDhTbEpKemhBSDJDdW1meDN2QngzQUtrbDBUVEprRkh5c0tEVUczaTBGei01VngzRnBGRnlvMW1uRjNMUmhNblcyYkNJWlY3OEhWUGxZUi1nQ0tvSlMtWjFUYVNHYlJpVnNmT0VEY3BHNHBhOEhyMDVRRzVkdWU5TUJQSlhPZzNXcVZsUFJJaUdTRzhscEFLczhCajR30gHDAUFVX3lxTFB5U29mbmZ5UzJDYXV4R2h4WEVuV2k3SWNoUnMxQ18tT0xhQlI0eWNnRGdTdzNCSl9YNXRUSzFoN01oa21Db2VRMFh1azFkWWhoUnpKdmNLRUdmMUZMcWZqMVQ5eTNQbXRDQ1lONzFYZnNUcUcxdldkLTlKdm1qTVlUNHAyLWpBUFJULTJIbzdQSk9VOHdONmJuOEZlR2FMNy1oVGZCd0hlM1JmYzRGRVVPSlJxdk43UG40UWNfSTI1Mlh2Zw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. Radars are monitoring phones on the streets of Iraq.. No room for distractions behind the wheel!
-   - 분야: 기타 / 게재일: 2026-10-10 / 매체: www.video-agencyia.iq
-   - 원문: https://news.google.com/rss/articles/CBMiV0FVX3lxTE9FQW04b3BJSlE5YTZQbjk5VDJlTUNZNmtzWTBFaVQ3ZFh0ODg4TG1zNXVhRzNPV1Z1ZmJpSUhsYUNnd29XMThfYUFLRmotWE1FV0hDNHpKMA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. Shri H. D. Kumaraswamy demands halt to NICE toll collection, alleges revenue of INR 4,756 crore since 2008
-   - 분야: 요금·통행료 / 게재일: 2026-10-12 / 매체: Prop News Time
-   - 원문: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOT1YzbWRac3pZN0ZoQmFvQ1RCT0dTYWNWWUNnRzZPN3lvMzJ2NDVpb2pWdWVaUTY2X010ODNUcFhRMnBYRnp6LVN4NkNKb2dpOXltdVY1WkNiN0pBRzdEVkI2c0xNNW14a0xYemJuV0o1T3pUUExqNm5xdmlGYTBBM0tyVkxJVUk1TEx4RW4zR2RTMUMwdFd2RzBXdUF6QjIzSVdrWVlOekliUWdoNmdmcnN3d0hDeFhmd3dJWVVJdGMtd21WbnlWUnUyNU1hREl5TmlRNFU1dmNodjVjVlZmcnR1ckJyT3Z5YjBR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -106,9 +106,9 @@
    - 분야: 자율주행 / 게재일: 2026-10-12 / 매체: ITS Korea
    - 원문: https://www.insweek.co.kr/news/articleView.html?idxno=72644
 
-2. [지자체] 내포신도시 ‘자율주행 버스’ 무료 운행
-   - 분야: 자율주행 / 게재일: 2026-10-08 / 매체: ITS Korea
-   - 원문: https://www.dawonnews.co.kr/news/articleView.html?idxno=112814
+2. [국토부/보도자료] 인공지능(AI)·자율주행 시대, APEC 스마트 모빌리티 협력 서울서 넓힌다
+   - 분야: 자율주행 / 게재일: 2026-10-14 / 매체: ITS Korea
+   - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092492
 
 3. 롯데, 日서 모빌리티 협력 넓힌다 … 소재·자율주행·물류 6개사 출격
    - 분야: 자율주행 / 게재일: 2026-10-11 / 매체: 뉴데일리
@@ -126,25 +126,25 @@
    - 분야: 자율주행 / 게재일: 2026-10-12 / 매체: 디지털데일리
    - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3eExzRjQ4Q0VYcEZTMWc3V0lpbm1zdnhKbU1nVmRyVmtVSjlvRG5IdFZDZVB2b3hlTFVyc3NMVUdWRlBabzlxWERaeUl6UzlITGhSV1F5YVZhaElwM24zcmdvOC0?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. [회원사/동향] 사고 예방 C-ITS…교통사고 다발구간 설치 20곳 중 1곳뿐
-   - 분야: C-ITS·V2X / 게재일: 2026-10-12 / 매체: ITS Korea
-   - 원문: https://news.tf.co.kr/read/ptoday/2374844.htm
-
-8. [국토부/보도자료] 자율주행자동차 시범운행지구 지정 고시
+7. [국토부/보도자료] 자율주행자동차 시범운행지구 지정 고시
    - 분야: 정책·법제도 / 게재일: 2026-10-13 / 매체: ITS Korea
    - 원문: https://www.molit.go.kr/USR/BORD0201/m_69/DTL.jsp?id=N01_B&cate=&mode=view&idx=270049&key=&search=&search_regdate_s=2025-10-13&search_regdate_e=2026-10-13&order=&desc=asc&srch_prc_stts=&item_num=0&search_dept_id=&search_dept_nm=&srch_usr_nm=N&srch_usr_titl=N&srch_usr_ctnt=N&srch_mng_nm=N&old_dept_nm=&search_gbn=&search_section=&source=&search1=&lcmspage=1
 
-9. 반년 늦어진 광주 자율주행 실증도시…피해는 스타트업 ′몫′
+8. 반년 늦어진 광주 자율주행 실증도시…피해는 스타트업 ′몫′
    - 분야: 자율주행 / 게재일: 2026-10-07 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE1xSnE4N1BIeEpwLXdyNnBzMFViZFJRd2dJUXkzdGZhalhrOW91NzU2TzQyaUpfYnN0aDVlM0gzcXA2cUM0N1BPdi1SMml2ME1Zd0tlOTZDV19lRGJI?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. APEC 스마트 모빌리티 포럼서 AI·자율주행 협력 논의
-   - 분야: 자율주행 / 게재일: 2026-10-13 / 매체: 연합뉴스
-   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TMWhUT3VoSjltTkJvY2h3N1NQRDdZcmw0dW9YczZqSDBXTk8zYlVSUWw3MlpTTFgtNWVEYjFfd2dxc1ZGelBfN3BucHQzVlpfMVpiMzJGeEIzWWlJbzhla9IBYEFVX3lxTE5TMWhUT3VoSjltTkJvY2h3N1NQRDdZcmw0dW9YczZqSDBXTk8zYlVSUWw3MlpTTFgtNWVEYjFfd2dxc1ZGelBfN3BucHQzVlpfMVpiMzJGeEIzWWlJbzhlaw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+9. [회원사/동향] 에스오에스랩-세뮤나이트, 자율주행 사업기회 같이 찾는다
+   - 분야: 자율주행 / 게재일: 2026-10-13 / 매체: ITS Korea
+   - 원문: https://www.hankyung.com/article/202610138889i
 
-11. 자율주행부터 포트홀까지 한눈에… 엔제로, 통합 교통 관제 시스템 눈길
+10. 자율주행부터 포트홀까지 한눈에… 엔제로, 통합 교통 관제 시스템 눈길
    - 분야: 자율주행 / 게재일: 2026-10-08 / 매체: 산업일보
    - 원문: https://news.google.com/rss/articles/CBMiREFVX3lxTE91cDljYmhjc3MweExGSDVPNG5zWEVlaWtZUmVWemJwdnItZFNWY3R3dndWM2NjcjdMWFMzNnJ2bTE0c2o5?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+11. [회원사/동향] 쿠도커뮤니케이션, 카메라로 생체신호 분석…공항·조사실 등 보안 분야 활용 모색
+   - 분야: 신호·관제 / 게재일: 2026-10-13 / 매체: ITS Korea
+   - 원문: https://www.mt.co.kr/amp/industry/2026/10/13/2026101309532265456
 
 12. 도로교통공단, 전 세계에 자율주행 기술력 입증한다
    - 분야: 자율주행 / 게재일: 2026-10-08 / 매체: 강원도민일보

@@ -3443,8 +3443,8 @@
   "org_type": null,
   "project_title": "Advancing Climate-Focused Transport Systems",
   "budget": {
-   "currency": "USD",
    "amount": 400000.0,
+   "currency": "USD",
    "is_project_total": false
   },
   "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
