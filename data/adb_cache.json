@@ -199,6 +199,16 @@
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "International"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=8E67DC9DDF50BF3E58F923E7A60FEF2F605CE9FE955F409508ED81A9516E9DA1": {
+  "budget": {
+   "amount": 30000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Ministry of Transport Tajikistan",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "International"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=93BA6B151020BFCBD133FC050FB964B6D0E2B00615C35FB711F0BAF4C9816333": {
   "budget": {
    "amount": 191300.0,
@@ -298,6 +308,16 @@
   "org": "Ministry of Territorial Administration and Infrastructure Armenia",
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=D28686861525974030E1C1B3911DBE05B244C68E4832D000792615CDE0725265": {
+  "budget": {
+   "amount": 200000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Asian Development Bank Regional",
+  "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
+  "source_scope": "International"
  },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=E1B545EE89B0137BD0E27EEF09ED85001C13B52A79CE57C21BFB7219054A2B12": {
   "budget": {

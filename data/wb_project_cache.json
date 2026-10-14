@@ -34,6 +34,13 @@
   "impagency": "National Road Fund Agency",
   "total": 200000000.0
  },
+ "P160865": {
+  "borrower": "Federal Republic of Nigeria",
+  "closing": "2028-03-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Federal Ministry of Agriculture and Rural Development",
+  "total": 500000000.0
+ },
  "P161305": {
   "borrower": "Republic of Kenya",
   "closing": "2030-06-30",
@@ -215,6 +222,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Ministry of Agriculture",
   "total": 520000000.0
+ },
+ "P169125": {
+  "borrower": "Ministry of Finance",
+  "closing": "2027-10-01",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Dirección de Obras Municipales,Fondo de Inversion Social para el Desarrollo Local de El Salvador - Ministerio de Desarrollo Local,Ministerio de Obras Publicas y Transporte",
+  "total": 200000000.0
  },
  "P169134": {
   "borrower": "Municipio de Belo Horizonte",
