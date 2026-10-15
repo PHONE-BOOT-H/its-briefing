@@ -881,6 +881,13 @@
   "impagency": "African Union Commission (AUC),MW-Ministry of Finance and Economic Affairs",
   "total": 260000000.0
  },
+ "P181428": {
+  "borrower": "REPUBLIC OF TÜRKİYE",
+  "closing": "2030-12-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "MINISTRY OF AGRICULTURE AND FORESTRY",
+  "total": null
+ },
  "P181499": {
   "borrower": "Burkina Faso",
   "closing": "2030-12-30",
@@ -1127,6 +1134,13 @@
   "total": null
  },
  "P518023": {
+  "borrower": null,
+  "closing": null,
+  "funder": null,
+  "impagency": null,
+  "total": null
+ },
+ "P519832": {
   "borrower": null,
   "closing": null,
   "funder": null,
