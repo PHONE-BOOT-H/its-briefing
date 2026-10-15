@@ -2829,8 +2829,8 @@
   "org_type": null,
   "project_title": "Preparing Transport Projects (formerly Preparing the Road Network Sustainability Project)",
   "budget": {
-   "currency": "USD",
    "amount": 30000.0,
+   "currency": "USD",
    "is_project_total": false
   },
   "selection_method": "Individual Consultant Selection (ICS)",
@@ -3526,8 +3526,8 @@
   "org_type": null,
   "project_title": "Implementing the E-Mobility Program",
   "budget": {
-   "currency": "USD",
    "amount": 200000.0,
+   "currency": "USD",
    "is_project_total": false
   },
   "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
