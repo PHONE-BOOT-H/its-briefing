@@ -140,8 +140,8 @@
   "score_hits": [
    "자율주행",
    "주차",
-   "버스",
-   "교통"
+   "교통",
+   "버스"
   ],
   "already_posted": false,
   "collector": "news",
@@ -177,8 +177,8 @@
   "score": 41,
   "score_hits": [
    "자율주행",
-   "도로",
    "교통",
+   "도로",
    "협회게시판"
   ],
   "already_posted": false,
@@ -582,6 +582,41 @@
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-10-12",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
+  "id": "news-077a2278f881",
+  "kind": "news",
+  "board": "P",
+  "source": "Google News",
+  "type": "국내동향",
+  "country": null,
+  "country_ko": null,
+  "title": "롯데, 일본서 미래 모빌리티 협력 모색… 소재부터 자율주행까지",
+  "media": "뉴시안",
+  "org": "뉴시안",
+  "media_host": "newsian.co.kr",
+  "category": "자율주행",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-10-12",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lWE5pV00xSk9hVFhfNHlrQm43VXRrRld6Y01iNG13SVFlNlVNRFc3ZUtWNFdSTjhURlh6Z3VzVWR4OEhUQUNSS3pyY0h5b2Z5NGxBcTFBaXQ0U01WUGM1SkN4VnFFblRaeVHSAW5BVV95cUxQejNtdC1TZTRudU1Zb2tzeDRhVEkzbHhUOUVoZlpNQVRqcEJEWThpcUZVU0NuTnpjZzlWaHA0SFU4c3cteUxGTE5zSjNBNWtVaVZXX3BWVmJXblZYTUk3a1pHclNEY1RtV1JvNTB0Zw?oc=5",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 32,
+  "score_hits": [
+   "자율주행",
+   "모빌리티"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-10-13",
   "notes": null
  },
  {
@@ -1109,12 +1144,48 @@
   "score": 29,
   "score_hits": [
    "자율주행",
-   "버스",
-   "교통"
+   "교통",
+   "버스"
   ],
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-10-13",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
+  "id": "news-3bed54d3f834",
+  "kind": "news",
+  "board": "B",
+  "source": "Google News",
+  "type": "국내기사",
+  "country": null,
+  "country_ko": null,
+  "title": "“택시보다 트럭이 빠르다” 텍사스 고속도로는 이미 ‘자율주행’이 대세",
+  "media": "비즈한국",
+  "org": "비즈한국",
+  "media_host": "bizhankook.com",
+  "category": "자율주행",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-10-13",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBITFU0Z3FuNjNmVHVSOERrWWFLUmhmVTZKWXczN3RBWF9lUE11eGdHa2FuY0NxeFpUQUctRWhJSjl4R1llRTg5N2ZYVndjVDBETDhnT3R0VkNFdkt1cnJoM0V3QUkwZGhEc1g2ZHNLQ0JuWkR3LWln?oc=5",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 29,
+  "score_hits": [
+   "자율주행",
+   "고속도로",
+   "택시"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-10-14",
   "notes": null
  },
  {
@@ -1401,6 +1472,41 @@
  },
  {
   "schema_version": 3,
+  "id": "news-157a34bc09be",
+  "kind": "news",
+  "board": "P",
+  "source": "Google News",
+  "type": "국내동향",
+  "country": null,
+  "country_ko": null,
+  "title": "춘천 레고랜드~강원대 자율주행버스 다음달 시범운행",
+  "media": "뉴스1",
+  "org": "뉴스1",
+  "media_host": "news1.kr",
+  "category": "자율주행",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-10-16",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE03LUJuenMwVFFPTU0tVUYwamJ6TjUweEt2M2c5bnpVdGgxcmdrd2xtYmdLc3pZUXRhSWkyU0FiQ21CdElWSWk4aE9paTd2U1pkb2t2Sw?oc=5",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 26,
+  "score_hits": [
+   "자율주행",
+   "버스"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-10-17",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
   "id": "news-dfed2e3a9607",
   "kind": "news",
   "board": "A",
@@ -1603,7 +1709,7 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "운전",
+   "교통",
    "도로"
   ],
   "already_posted": false,
@@ -1639,8 +1745,8 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "도로",
-   "교통"
+   "교통",
+   "도로"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1675,8 +1781,8 @@
   "score": 21,
   "score_hits": [
    "개정",
-   "도로",
-   "교통"
+   "교통",
+   "도로"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1711,8 +1817,8 @@
   "score": 21,
   "score_hits": [
    "brt",
-   "운전",
-   "도로"
+   "도로",
+   "운전"
   ],
   "already_posted": false,
   "collector": "news",
@@ -2336,17 +2442,17 @@
  },
  {
   "schema_version": 3,
-  "id": "news-c5d014f1e248",
+  "id": "news-f2445a13b812",
   "kind": "news",
   "board": "B",
   "source": "Google News",
   "type": "국내기사",
   "country": null,
   "country_ko": null,
-  "title": "볼보, 엔비디아 손잡고 차세대 자율주행 시스템 개발",
-  "media": "디지털투데이",
-  "org": "디지털투데이",
-  "media_host": "digitaltoday.co.kr",
+  "title": "Element, 2028년 Waymo 토론토 진출 때 자율주행 차량 운영 관리",
+  "media": "Investing.com 한국어",
+  "org": "Investing.com 한국어",
+  "media_host": "kr.investing.com",
   "category": "자율주행",
   "flag": null,
   "pinned": null,
@@ -2354,7 +2460,7 @@
   "deadline": null,
   "budget": null,
   "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zNXNLMElqa0dpTUloenR4OFlSNi1WTkY4SVY5M2p4UkJFU29IYWZ2X21fcFhtTmMyaThtRW9WM3FZMk1neXVEdVZUOXZ1TDVFUzl1UjBKMjR5NThCWHBiaUNEdmdELWtuWml1a2dDYWZlYUE?oc=5",
+  "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTeDRzb3VKUU9TeXhrcmFUclZfVHNrMHBPV3l6U0JSTXpnU2p1QUFMLUlfVmhWdzhLU3NLbnlsUGVqWWtmel81cloyZ3VFSFppdld2R2ViX3VxSjFYRHFURS1SS1N0SVFIOVFtRnlHc2o?oc=5",
   "cpv": [],
   "orig_link": null,
   "orig_published": null,
@@ -3941,7 +4047,7 @@
   "ref_no": null,
   "link": "https://itskorea.kr/boardDetail.do?type=9&idx=23825",
   "cpv": [],
-  "orig_link": null,
+  "orig_link": "https://5gaa.org/5gaa-and-car-2-car-communication-consortium-sign-mou-to-strengthen-industry-collaboration/",
   "orig_published": null,
   "stale": null,
   "score": 12,
