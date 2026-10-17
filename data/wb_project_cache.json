@@ -748,6 +748,13 @@
   "impagency": "Local Government Engineering Department, Ministry of Local Government, Rural Development and Cooperatives",
   "total": 600000000.0
  },
+ "P179284": {
+  "borrower": "Lao People's Democratic Republic",
+  "closing": "2030-08-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Public Works and Transport",
+  "total": 34000000.0
+ },
  "P179749": {
   "borrower": "India",
   "closing": "2029-06-30",
@@ -922,6 +929,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Administração Nacional de Estradas (National Road Administration),Fundo de Estradas (Road Fund),Ministério das Obras Públicas, Habitação e Recursos Hídricos (Ministry of Public Works, Housing, and Water Resources)",
   "total": 125000000.0
+ },
+ "P500565": {
+  "borrower": "KazAvtoZhol National Company JSC",
+  "closing": "2032-06-30",
+  "funder": "IBRD (세계은행)",
+  "impagency": "KazAvtoZhol National Company  JSC",
+  "total": 650000000.0
  },
  "P500625": {
   "borrower": "The Republic of Malawi ",
