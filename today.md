@@ -44,9 +44,9 @@
    - 분야: 신호·관제 / 게재일: 2026-10-13 / 매체: Bangladesh Sangbad Sangstha (BSS)
    - 원문: https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ySUZaXzYyNTctTXc4Yno4ZzRFLTVscEZQN0hmMFFBVUZhOG4yQUFldkxDTEhvTDVMSldsbnZXMk5PZWhMTjVOZUpEME5QSXA3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. Alstom brings KiwiRail traffic management system into service across New Zealand’s Lower North Island
-   - 분야: 신호·관제 / 게재일: 2026-10-16 / 매체: Global Railway Review
-   - 원문: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNdVVPS2hkZU1sZGl6VmhKQzRNRUNKeDhiaE5aVnlqdVktSXNTdHRRTm5EUWpFYVpPOTZWWTRndVltZGZMU0lwQ1ZfYUNlR1prS1hiM1piR09CN3FCUmc2STdSWVF4VkZHMW1kX2NDc0x6N25hbUppLUhRdUFqYXhGMzhBTm9HQldrQlJTdndRVnZQT0Z0aDd0aXpZeXB3ZlNIWjd3MkxLVTNsLW0zVTNHd2VvTzMxenU5SlFFbUJfejBVWHJKYkFrRm1yblBlNjVSTDZyMWpCSUFmM3pWVVB1RVEwWkt0MTg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+8. Alstom rolls out new traffic management system in New Zealand
+   - 분야: 신호·관제 / 게재일: 2026-10-15 / 매체: International Railway Journal
+   - 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxNVEZTZnIxRU0wMEdSVUFJc3RGUTNMczdBNXlmQnJXYXJOU2YtbnBCMzE5MFE3VGhBODFLWEt3RHNKMGVtcHZ1a0JBREFkQ2J6d2QyTGc3ZGtDM0czWHVhWFVETklTTHhzekQ1NW5GcFpRWVpIeWVkWGk5RVFjUjNqNmFYbGRTX2NwQ0E0S1hfVDBGVkhsa2VuaUhIRDZFaks0S3lLMjdYR0ZrcGRsQ1FjYg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 9. CS Dulloo Reviews Multi-Pronged Traffic Management Plan For Jammu, Srinagar
    - 분야: 신호·관제 / 게재일: 2026-10-16 / 매체: Daily Excelsior
@@ -175,8 +175,8 @@
    - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTE5UaDd1QzJueDZhdlpWSjFKVVdLeWpaOFkxZWlIblZzdGZJc1h3UHpwbERGSjV0YVFyZjNCa2YyWVlhQTFKR1VDYU1ZWmpCSjRFUDZsdVNuem1JdzZ1NHJUMUlqeUNLUnhCWWE0LXhyWTgzWk1PR0NR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 19. [단독] 사고 예방 C-ITS…교통사고 다발구간 설치 20곳 중 1곳뿐
-   - 분야: C-ITS·V2X / 게재일: 2026-10-13 / 매체: 더팩트
-   - 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTFByLU5NMFM3MVZIZE1QMC12Mld0XzFQYXI2elRuRGFSTjBnbkRndUFQVHFSSnl4NHp6RWdkS0tDb3FPYnBSWi1xRG5ySGRUZURUVjNZSVlxZlBFNVdjMmF4YzVkTmhZRE9vd1ZDT3IxVUg5bDlN0gFzQVVfeXFMTkw4ZURXSG5qcGk0VUE3MkVnV25MNzBxSDRBd1g5SDd5ckhRaHRQWGdwdW5XNDFKSTN4LWJUY3pGeGdRb2RtRFZXWDAxZnFjYWdIQm5KeFNzdFhoY3c0eE1KTXpfQy05OE1FWkwwcHlxSy16NA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 분야: C-ITS·V2X / 게재일: 2026-10-11 / 매체: 더팩트
+   - 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlVjhXMkVsQWZDVmtzQkZfTjU2WWFTT0ljbnRCN05EdWJ1cndaeVBRQXZfX3pQeXlHOC1EX2lXRXh5bTJzenpIZU05UXdaYU1OY0NKeFZ4TC3SAVNBVV95cUxPRlJxeHZuRjJXTDZGTFhHM04xczhYblZBXzVPVTZqdG04RUhHWVU3aFlUZjRHbTZpWFFidkJnQlNZaFZkLXdxUlo4bW1uTWlUd3ZZMA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 20. 인천 자율주행버스, 2027년 하반기 시민 태운다…청라~강서 심야 운행
    - 분야: 자율주행 / 게재일: 2026-10-13 / 매체: 쓰담미디어
