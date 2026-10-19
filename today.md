@@ -126,9 +126,9 @@
    - 분야: 자율주행 / 게재일: 2026-10-18 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wYmJtX2pUYmE0QkRDMS1PMEROdnhzU3VzcVNhX0lHNC1BV0xwRWp2RFdQSmRjWGNmNlFoU28xWjBmbWlBczBHQ2lSbGZFN3k5SFRJdXRVN3JmZnlw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. 롯데, 日 모빌리티쇼 2년 연속 간다… 소재·자율주행 계열사 6곳 총출동 - 조선비즈
-   - 분야: 자율주행 / 게재일: 2026-10-12 / 매체: Chosunbiz
-   - 원문: https://news.google.com/rss/articles/CBMiigFBVV95cUxOZDBvTjRPU0U4dmRLLTc3ZnduRnQxd1UyZ21aeTNWd3NFbF9Wa0hHdEtPVG11UXBUTHpYcGduaWJWQ0JMWFVPZktXTm5SbFRxQ3pOTWZNSUpjT0MyLTh2ejFPbFFhNmF2bm1sWGxORExZWThjV0NrRTFDOXd6M3R0eTRTWnNlODB2aWfSAZ4BQVVfeXFMTkZuWWRoNnhwRzZ0UGlyY2dlZ216WlBDa0xyU2F4aWpQTWJSa1FvWW5tV2p6NllPTGRENGkwX25yRXNyaFQwUGI0aDlETmFxcDNscU8tNzc1eUlSUm1qdE5Od1lpUms4QjYwdVBCcVU5VTREczRiamNLd3NHYUJLc0M3b1BIOW9NNUQwc0ZlUkFZS2NsRlhJZ2Z0MlVZN1E?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+7. [2026 APEC 스마트 모빌리티 포럼] 자율주행 상용화, 기술보다 제도·인프라가 관건… 협력 로드맵 논의
+   - 분야: 자율주행 / 게재일: 2026-10-14 / 매체: 에너지경제신문
+   - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QSHBjeFd3anhCZkh2ZzNhVTZOcXlwT2xiUVlESTZndjlENXp6NHRpNFFNdFlLTFZFWEJ4QnlUYVlMV1hqQkNGcGVYb2NLS2hGX09YUDBXMmFJdkE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 8. [회원사/동향] 에스오에스랩-세뮤나이트, 자율주행 사업기회 같이 찾는다
    - 분야: 자율주행 / 게재일: 2026-10-13 / 매체: ITS Korea
@@ -202,13 +202,13 @@
   - 마감 2026-10-22 / 발주처 ORASUL BECLEAN
   - 원문: https://ted.europa.eu/en/notice/-/detail/701968-2026
 
-- [부탄] Construction of Gelephu - Tareythang roads and bridges on Southern East-West Highway; Package-II; from Ch 3868.0 to 8453.0m
-  - 마감 2026-10-22 / 발주처 Department of Surface Transport, Ministry of Infrastructure and Transport
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00457048
-
 - [부탄] Construction of Gelephu - Tareythang roads on Southern East-West Highway; Package-III from Ch. 8453.0m till 14,141.0m
   - 마감 2026-10-22 / 발주처 Department of Surface Transport, Ministry of Infrastructure and Transport
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00457051
+
+- [부탄] Construction of Gelephu - Tareythang roads and bridges on Southern East-West Highway; Package-II; from Ch 3868.0 to 8453.0m
+  - 마감 2026-10-22 / 발주처 Department of Surface Transport, Ministry of Infrastructure and Transport
+  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00457048
 
 - [아제르바이잔] Loan 4497-AZE:  Azerbaijan Railways Digital Transformation Project - IT-09 – Procurement HR (SAP Succes Factors – SaaS)
   - 마감 2026-10-22 / 발주처 -
