@@ -629,12 +629,26 @@
   "impagency": "Economic Community of Central African States (ECCAS),Economic Community of West African States (ECOWAS),Ministry of Development Planning and Cooperation Togo,Ministry of Economic Prospects and International Cooperation Chad,Ministry of Health Burkina Faso,Ministry of Health The Gambia,Ministry of Women, Family and Child Protection Senegal",
   "total": 589000000.0
  },
+ "P176811": {
+  "borrower": "Republic of Madagascar",
+  "closing": "2027-09-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Public Works,Road Agency",
+  "total": 200000000.0
+ },
  "P176812": {
   "borrower": "People's Republic of Bangladesh",
   "closing": "2031-06-30",
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Chittagong Port Authority,Ministry of Shipping",
   "total": 350000000.0
+ },
+ "P176885": {
+  "borrower": "Republic of Rwanda",
+  "closing": "2030-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "City of Kigali",
+  "total": 100000000.0
  },
  "P176948": {
   "borrower": "Republic of Guinea-Bissau",
