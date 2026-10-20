@@ -2435,7 +2435,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092501",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23859": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -2489,6 +2489,90 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.etnews.com/20261016000049",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23873": {
+  "body": "산업통상부(장관 김정관, 이하 ‘산업부’)는 10월 19일(월) 서울 양재동 엘타워 5층(오르체홀)에서 삼성전자 IP센터 출원팀장 윤성환 상무, 80여 개 기술나눔 수혜기업 대표 등이 참석한 가운데,「2026년 산업부-삼성전자 기술나눔 행사」를 개최하였다. 삼성전자는 2015년부터 금년까지 매년 빠짐없이 기술나눔에 참여해 총 7,210건의 기술을 제공해 왔으며, 이 중 1,461건의 기술을 871개 중소·중견기업에 무상으로 이전하였다. 올해 삼성전자는 모바일, 디스플레이, 가전 분야의 우수기술 202건을 나눔기술로 제공하였으며, 이 중 126건의 기술이 99개 기업에 이전되었다. 특히, 올해는 삼성전자가 선도하는 모바일 분야 기술이 가장 많은 기업에 이전되었고, 가장 많은 관심을 모은 기술은 모바일·가전 분야의‘복수 IoT 장치 제어 방법 및 장치’였다. 이는 특정 위치에 있는 IoT 장치를 모바일 기기를 통해 제어하는 기술이다. ▲ 이동 로봇 시스템, 이동 로봇 및 제어 방법: - 주행로봇이 생성한 주행정보를 서버에 저장하고 이를 他로봇에 공유하는 기술 ▲ 음성 데이터 처리 방법 및 지원 전자 장치: - 단말기의 화면 내 텍스트와 입력된 음성을 대조하여 특정한 기능을 실행하는 기술 ▲ 공유 업무 처리 방법 및 장치: - 입력된 공유 업무에 맞춰 관련자에게 업무를 전파하고 결과를 입력하도록 하는 기술 ▲ 키워드 검색 방법 및 장치: - 메시지 어플리케이션에서 특정 위치 언급 텍스트가 존재하는 경우 해당 위치 관련 SNS 서비스에 진입하는 기술 산업부는 “앞으로도 기술나눔이 중소·중견기업의 혁신성장에 필요한 우수기술을 제공함으로써 상생형 혁신생태계를 구축하는 계기가 될 수 있도록 지원하겠다”라고 밝혔다. 산업통상부(장관 김정관, 이하 ‘산업부’)는 10월 19일(월) 서울 양재동 엘타워",
+  "date": null,
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172303/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23874": {
+  "body": "자동차 수출(△5.5%), 내수(△14.3%)는 감소, 생산(3.7%)은 증가 - 산업통상부(이하 산업부)는 '26년 9월 자동차 수출이 금액 기준으로는 전년 동월 대비 5.5% 감소한 60.5억 달러, 판매 대수 기준으로는 23.7만대(4.1%)를 기록하였으며, 내수는 13.5만대(△14.3%), 생산은 34.7만대(3.7%)로 집계되었다고 밝혔다. 9월 자동차 수출은 지역별로는 주력 시장인 북미(30.7억불, 9.2%)와 EU(11.1억불, 15.3%)에서 증가하였으나, 아시아(3.3억불, △60.0%)와 중동(3.5억불, △7.1%) 등의 수출 감소로 전년 동월 대비 5.5% 감소한 60.5억불을 기록하였다. 이는 신차 수출량은 전년 동월 대비 4.1% 증가했음에도, 중동전쟁, 주요국의 규제 강화에 따른 중고차 수출 감소 등의 영향으로 분석된다. 한편, 친환경차 수출액은 전기차와 하이브리드차의 수출 증가에 힘입어 전년 동월 대비 5.9% 증가한 28.9억불을 달성하였다. 9월 내수 판매량은 13.5만대로 전년 동월 대비 14.3% 감소하였다. 이는 추석 연휴(‘25년 10월 → ’26년 9월) 이동에 따른 평균 영업일수 감소(3일)와 신차에 대한 대기수요, 보조금 소진에 따른 전기차 판매 둔화 등이 반영된 것으로 보인다. 이 중 친환경차 판매량이 8만대로 전체 내수 판매의 약 59%를 차지하며 지속적으로 높은 비중을 유지하였다. 9월 자동차 생산량은 전년 동월 대비 3.7% 증가한 34.7만대를 기록하였다. 주요 완성차사 임금협상 타결에 따른 생산 차질 물량 만회, 일부 업체의 전년도 파업에 따른 기저효과 등이 생산 증가를 뒷받침하였다. 산업부는 최근 중국업체의 해외시장 진출 확대에 따른 글로벌 경쟁이 심화되고 있는 만큼, 업계와 긴밀히 소통하며 자동차산업의 지속적인 성장을 위한",
+  "date": null,
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172302/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23882": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-19",
+  "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4113285",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23883": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-19",
+  "link": "https://biz.chosun.com/it-science/ict/2026/10/19/XHRVGI5BQ5D3RLZXK4PVNQZRWM/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23884": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20261019000324",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23885": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-19",
+  "link": "https://www.hankyung.com/article/202610191239i",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23886": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-19",
+  "link": "https://www.edpl.co.kr/news/articleView.html?idxno=21816",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23887": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20261019000249",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23888": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20261019000326",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23890": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.mbceg.co.kr/post/141132",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23891": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20261019000397",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23892": {
+  "body": "- 세계은행과 공동으로 「글로벌 AI‧디지털 서밋」 개최(10월 19~22일, 서울) - 배경훈 부총리, 50여 개국 장‧차관급 대표들과 AI‧디지털 장관회의 개최(10.19.) 과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 ‘과기정통부’)는 인공지능(AI)‧디지털 분야의 국제협력 방안을 모색하기 위해 세계은행과 함께 10월 19일(월)부터 22일(목)까지 서울 그랜드하얏트에서「글로벌 AI·디지털 서밋(Global AI ‧ Digital Summit, GADS)」을 개최한다고 밝혔다. 세계은행은 189개 회원국을 보유하고 개발도상국의 경제‧사회 발전을 위한 금융‧정책‧기술 등을 지원하는 국제기구이다. 과기정통부는 세계은행의 개발협력 경험과 글로벌 네트워크를 활용하여 한국의 AI‧디지털 기술 및 정책 경험을 국제사회와 공유하고, 개발도상국과의 실질적인 협력 기회를 확대하기 위해 이번 행사를 공동 개최하였다. 특히 이번 행사는 세계은행이 미국 외 국가에서 최초로 개최하는 AI‧디지털 서밋 행사라는데 의의가 있다. 이번 행사는 19일(월) AI‧디지털 분야의 주요 정책과 국제협력 방안을 논의하는 장관회의를 시작으로 20일(화)부터 21일(수)까지 정책 포럼과 국내외 기업이 참여해 혁신 기술과 서비스를 선보이는 기업 전시 등이 진행된다. 마지막 날인 22일(목)에는 한국의 AI‧디지털 기술 활용 현장을 직접 살펴보는 스터디투어가 진행될 예정이다. 과기정통부는 2005년부터 디지털 장관회의를 개최하여 지속적으로 국제사회와 협력 논의를 해왔으며, 지난해 21개 회원경제가 참석한 APEC 계기 AI‧디지털 장관회의에 이어 올해 장관회의에는 50여 개국의 장‧차관급 대표들이 참석하는 등 AI와 디지털 협력에 대한 국제사회의 높은 관심과 참여 의지를 확인할 수 있었다. 19일(월)",
+  "date": null,
+  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mPid=208&mId=307&bbsSeqNo=94&nttSeqNo=3187874",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23895": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.etnews.com/20261019000191",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23896": {
+  "body": "- 직원 주도 ‘인하우스 TF’, AI 에이전트 10종·업무 프로그램 12종 개발 조달청(청장 백승보)은 성과 중심의 조직 운영을 위해 올해부터 ‘실험형 혁신부서’를 운영하는 가운데 ‘인하우스(In-House) AI 개발 TF’에서 다양한 AI 에이전트를 개발, 실무에 적용하는 등 가시적인 성과를 거두고 있는 것으로 나타났다. 조달청은 AI 확산 등 급변하는 외부 환경에 신속히 대응하기 위해 ‘인하우스 TF’를 신설하는 등 일하는 방식의 혁신을 실험하고 있다. 이번 혁신 실험은 기존의 경직된 근무 환경을 벗어나 성과와 효율 중심으로 조직을 운영하기 위한 시도라는 점에서 의미가 큰 것으로 평가된다. 우선, 조달업무를 가장 잘 아는 내부 직원이 AI 개발 대상을 발굴하고 직접 개발까지 수행하는 ‘인하우스 TF’에서는 성과물을 많은 직원이 활용할 수 있도록 ‘조달 AI 포털’을 구축하기도 했다. 현재 포털에서는 AI 에이전트 10종과 업무 프로그램 12종이 현업에서 활용되고 있다. * AI 에이전트: 지능형 예정가격 작성, 입찰참가자격 분석, 국회요구자료 관리 등 10종 ** 업무 프로그램: 계약 통합 관리 프로그램, 공사 공종별 단가기준 비교조회 프로그램, 혁신제품 스카우터 추천제품 중복성 검토 프로그램 등 12종 아울러 조달청은 지난 9월 행정안전부에서 지원하는 ‘기관 맞춤형 AI챔피언 운영기관’으로 선정되어 향후 AI 인재 양성에 더욱 박차를 가할 계획이다. * AI챔피언: 공공행정 분야 AI 전환을 주도하는 현장 실무형 역량을 갖춘 인재로 행정안전부에서는 ‘25~’30년 약 2만 명을 양성할 계획 ** 기관 맞춤형 AI챔피언 운영기관: 행정안전부에서 AI챔피언 양성을 위해 조달청, 지방자치인재개발원(행정안전부), 국가보훈부, 관세청, 부산시, 인천시, 경기도 등 7개 기관을 선정, ",
+  "date": null,
+  "link": "https://www.pps.go.kr/kor/bbs/view.do?bbsSn=2610200007&key=00634&pageIndex=1&orderBy=bbsOrdr+desc&sc=&sw=",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -3911,12 +3995,66 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.taylorwessing.com/en/insights-and-events/insights/2026/07/unece-establishes-global-rules-for-automated-driving",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23871": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-10-08",
   "link": "https://www.tcabmobility.com.au/autonomous-vehicle-regulation-australia",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23875": {
+  "body": "Korean drumming group Inpungnyu turned up the volume at the spectacular start of the 2026 ITS World Congress Opening Ceremony in Gangneung, South Korea. The session saw three ITS experts inducted into the ITS Hall of Fame...중략... 한국의 북 연주단 인풍뉴는 대한민국 강릉에서 열린 2026 ITS 세계 총회 개막식의 화려한 시작을 알리는 공연으로 관객들을 열광시켰습니다. 이번 행사에서는 ITS 전문가 세 명이 ITS 명예의 전당에 헌액되었습니다. Korean drumming group Inpungnyu turned up the volume at the spectacular start of the 2026 ITS World Congress Opening Ceremony in Gangneung, South Korea. The session saw three ITS experts inducted into the ITS Hall of Fame...중략... 한국의 북 연주단 인풍뉴는 대한민국 강릉에서 열린 2026 ITS 세계 총회 개막식의 화려한 시작을 알리는 공연으로 관객들을 열광시켰습니다. 이번 행사에서는 ITS 전문가 세 명이 ITS 명예의 전당에 헌액되었습니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-19",
+  "link": "https://www.itsinternational.com/its-world-congress-2026-opens-with-a-bang/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23876": {
+  "body": "Australian innovators, researchers and industry leaders will share their expertise with the global transport technology community at the 2026 ITS World Congress in Gangneung, South Korea, this week. Among the Australians contributing to the Congress are ITS Australia members National Transport Research Organisation (NTRO); TomTom; HMI Technologies; JYW Consulting; Toyota Australia; Aurecon; NGIS; and University of Melbourne...중략... 호주 혁신가, 연구원 및 업계 리더들이 이번 주 대한민국 강릉에서 열리는 2026 ITS 세계 총회에서 전 세계 교통 기술 커뮤니티와 전문 지식을 공유할 예정입니다. 이번 학술대회에 참여하는 호주 기업으로는 ITS Australia 회원사인 국립교통연구기구(NTRO), TomTom, HMI Technologies, JYW Consulting, Toyota Australia, Aurecon, NGIS, 그리고 멜버른 대학교가 있습니다. Australian innovators, researchers and industry leaders will share their expertise with the global transport technology community at the 2026 ITS World Congress in Gangneung, South Korea, this week. Among the Australian",
+  "date": "2026-10-18",
+  "link": "https://www.itsinternational.com/aussie-experts-share-knowledge-at-its-world-congress-2026/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23877": {
+  "body": "Safety, efficiency and collaboration were the common threads as senior figures from across the ITS community shared their hopes for the week on the opening day of ITS World Congress 2026 in Gangneung, South Korea. This video features comments from Seval Oz, Laura Chace, Silje Troseth, Shailen Bhatt, John Gaffney and Darren Capes...중략... [ITSWC 코리아 영상: 지도자들이 안전과 데이터에 대한 공동 해결책을 촉구하다 안전, 효율성, 그리고 협력은 ITS 커뮤니티의 주요 인사들이 대한민국 강릉에서 열린 2026 ITS 세계 총회 개막일에 이번 주에 대한 기대를 나눈 공통된 주제였습니다. 이 영상에는 세발 오즈, 로라 체이스, 실예 트로세스, 셰일렌 바트, 존 개프니, 그리고 대런 케이프스의 발언이 담겨 있습니다. Safety, efficiency and collaboration were the common threads as senior figures from across the ITS community shared their hopes for the week on the opening day of ITS World Congress 2026 in Gangneung, South Korea. This video features comments from Seval Oz, Laura Chace, Silje Troseth, Shailen Bhatt, John Gaffney and Darren Capes...중략... [ITSWC 코",
+  "date": "2026-10-19",
+  "link": "https://www.traffictechnologytoday.com/news/its/itswc-korea-video-leaders-call-for-shared-solutions-on-safety-and-data.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23878": {
+  "body": "Rivian is going full steam ahead on developing autonomous vehicle software for its EVs, to the point that it is willing to delay profitability . Founder and CEO RJ Scaringe said last week at TechCrunch Disrupt that he thinks autonomy will allow his company to build radically different kinds of vehicles than the outdoorsy SUVs and trucks it currently makes...중략... [리비안 CEO는 자율주행 기술이 '획기적으로 다른' 차량 디자인을 가능하게 할 것이라고 말했습니다.] 리비안은 전기차용 자율주행 소프트웨어 개발에 전력을 다하고 있으며, 수익성 확보를 미루는 것까지 고려하고 있습니다 . 창립자 겸 CEO인 RJ 스카린지는 지난주 테크크런치 디스럽트 에서 자율주행 기술을 통해 현재 생산하는 오프로드용 SUV와 트럭과는 완전히 다른 종류의 차량을 만들 수 있을 것이라고 밝혔습니다. Rivian is going full steam ahead on developing autonomous vehicle software for its EVs, to the point that it is willing to delay profitability . Founder and CEO RJ Scaringe said last week at TechCrunch Disrupt that he thinks autonomy will allow his company to build radically different kinds of vehicl",
+  "date": "2026-10-19",
+  "link": "https://techcrunch.com/2026/10/19/rivians-ceo-says-autonomy-will-enable-dramatically-different-vehicle-designs/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23879": {
+  "body": "As autonomous driving moves toward large-scale commercial operations, global markets are calling for vehicles purpose-built for fully driverless services. From October 19 to 24, the 2026 OMODA & JAECOO International User Summit will take place in Wuhu, Anhui Province, China, under the theme“DRIVE TO THE NEXT VIBE.”...중략... [오모다와 재쿠는 맞춤형 레벨 4 로보택시를 선보이며 글로벌 시장에 새로운 무인 이동 경험을 제공할 예정이다. 자율주행 기술이 대규모 상용화 단계로 접어들면서, 전 세계 시장은 완전 무인 서비스를 위해 특별히 설계된 차량에 대한 수요를 보이고 있습니다. 10월 19일부터 24일까지 중국 안후이성 우후에서 \"차세대 드라이빙 경험(DRIVE TO THE NEXT VIBE)\"이라는 주제로 2026 오모다 & 재쿠 국제 사용자 서밋이 개최됩니다. As autonomous driving moves toward large-scale commercial operations, global markets are calling for vehicles purpose-built for fully driverless services. From October 19 to 24, the 2026 OMODA & JAECOO International User Summit will take place in Wuhu, Anhui Province, China, under the theme“DRIVE TO THE NEXT VIBE.”...중략... [오",
+  "date": "2026-10-19",
+  "link": "https://www.financialcontent.com/article/marketersmedia-2026-10-19-omoda-and-jaecoo-to-showcase-purpose-built-l4-robotaxi-bringing-a-new-driverless-mobility-experience-to-global-markets",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23880": {
+  "body": "U.S. Transportation Secretary Sean P. Duffy today announced over $1.6 billion in emergency relief funding to help states accelerate critical repairs to roads, bridges, and other transportation infrastructure damaged by recent natural disasters and catastrophic events. The funding will go toward repair needs in 34 states, the District of Columbia, U.S. Virgin Islands, Puerto Rico, Guam, and the Northern Mariana Islands...중략... [트럼프 행정부의 숀 P. 더피 교통부 장관은 미국 전역의 자연재해로 피해를 입은 도로와 교량을 복구하기 위해 16억 달러 이상의 긴급 구조 자금을 지원한다고 발표했습니다.] 션 P. 더피 미국 교통부 장관은 오늘 최근 발생한 자연재해 및 대규모 재해로 피해를 입은 도로, 교량 및 기타 교통 기반 시설의 긴급 복구를 가속화하기 위해 16억 달러 이상의 긴급 구호 자금을 지원한다고 발표했습니다. 이 자금은 34개 주, 워싱턴 D.C., 미국령 버진아일랜드, 푸에르토리코, 괌, 북마리아나 제도의 복구 필요에 사용될 예정입니다. U.S. Transportation Secretary Sean P. Duffy today announced over $1.6 billion in emergency relief funding to help states accelerate critical repairs to roads, bridges, and ot",
+  "date": null,
+  "link": "https://www.transportation.gov/briefing-room/trumps-department-transportation-secretary-sean-p-duffy-announces-over-16-billion",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23881": {
+  "body": "Arity, a subsidiary of The Allstate Corporation, has entered into an agreement to acquire substantially all the assets of Inrix, a provider of transportation intelligence and mobility analytics. The acquisition is expected to close this year, subject to customary closing conditions...중략... 올스테이트 코퍼레이션의 자회사인 아리티(Arity)는 교통 정보 및 모빌리티 분석 제공업체인 인릭스(Inrix)의 거의 모든 자산을 인수하는 계약을 체결했습니다. 이번 인수는 통상적인 계약 조건들을 충족하는 대로 올해 안에 완료될 것으로 예상됩니다. Arity, a subsidiary of The Allstate Corporation, has entered into an agreement to acquire substantially all the assets of Inrix, a provider of transportation intelligence and mobility analytics. The acquisition is expected to close this year, subject to customary closing conditions...중략... 올스테이트 코퍼레이션의 자회사인 아리티(Arity)는 교통 정보 및 모빌리티 분석 제공업체인 인릭스(Inrix)의 거의 모든 자산을 인수하는 계약을 체결했습니다. 이번 인수는 통상적인 계약 조건들을 충족하는 대로 올해 안에 완료될 것으로 예상됩니다. Copyright © 2018 ITS Korea. All rights",
+  "date": "2026-10-19",
+  "link": "https://www.traffictechnologytoday.com/news/smart-cities/arity-to-acquire-transport-intelligence-firm-inrix.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23893": {
+  "body": "QCraft , a leading autonomous driving technology company, signed a memorandum of understanding (MOU) with HERE Technologies, the leading mapping and location data platform, at HERE Directions 2026 in Munich...중략... [ QCraft, HERE Technologies와 유럽 내 지역화된 자율 주행 기술 발전을 위한 양해각서 체결] 자율주행 기술 선도 기업인 QCraft 는 지도 및 위치 데이터 플랫폼 선도 기업인 HERE Technologies와 뮌헨에서 열린 HERE Directions 2026에서 양해각서(MOU)를 체결했습니다. QCraft , a leading autonomous driving technology company, signed a memorandum of understanding (MOU) with HERE Technologies, the leading mapping and location data platform, at HERE Directions 2026 in Munich...중략... [ QCraft, HERE Technologies와 유럽 내 지역화된 자율 주행 기술 발전을 위한 양해각서 체결] 자율주행 기술 선도 기업인 QCraft 는 지도 및 위치 데이터 플랫폼 선도 기업인 HERE Technologies와 뮌헨에서 열린 HERE Directions 2026에서 양해각서(MOU)를 체결했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.businesswire.com/news/home/20261016280213/en/QCraft-Signs-MOU-with-HERE-Technologies-to-Advance-Localized-Autonomous-Driving-in-Europe?utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23894": {
+  "body": "Alphabet's self-driving unit Waymo plans to expand its fleet five-fold to 20,000 by the end of next year using $5 billion it raised earlier this month, Semafor reported on Monday,..중략... [웨이모는 함대를 2만 대로 5배 늘릴 계획이라고 세마포는 보도했습니다] 알파벳의 자율주행 사업부 웨이모는 이달 초 조달한 50억 달러를 활용해 내년 말까지 차량을 5배인 20,000대로 확대할 계획이라고 세마포가 월요일에 보도했습니다, Alphabet's self-driving unit Waymo plans to expand its fleet five-fold to 20,000 by the end of next year using $5 billion it raised earlier this month, Semafor reported on Monday,..중략... [웨이모는 함대를 2만 대로 5배 늘릴 계획이라고 세마포는 보도했습니다] 알파벳의 자율주행 사업부 웨이모는 이달 초 조달한 50억 달러를 활용해 내년 말까지 차량을 5배인 20,000대로 확대할 계획이라고 세마포가 월요일에 보도했습니다, Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-19",
+  "link": "https://www.aol.com/articles/waymo-plans-quintuple-fleet-20-232801000.html",
   "tries": 1
  }
 }

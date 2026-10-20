@@ -16,33 +16,33 @@
 
 등록 게시판: ITS국제협력센터 > 수출정보 > 국가별 ITS 시장정보
 
-1. [미국] 미 연방도로교통안전청(FMCSA), 자율주행 트럭 '차붕 탑재 경고등' 사용 5년 규제 면제 최종 승인
-   - 분야: 신호·관제 / 게재일: 2026-10-13 / 매체: ITS Korea
-   - 원문: https://tech-insider.org/self-driving-trucks-5-year-beacon-exemption-2026/
-
-2. [미국] 자율주행 차량용 반도체 칩 시장 연 18.9% 고성장… 레벨 4 E2E AI 통합 속도전
+1. [미국] 자율주행 차량용 반도체 칩 시장 연 18.9% 고성장… 레벨 4 E2E AI 통합 속도전
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: ITS Korea
    - 원문: https://www.einpresswire.com/article/949275997/the-automotive-self-driving-chip-market-is-projected-to-grow-rapidly-at-an-18-9-cagr-until-2030
 
-3. AI applications on highways: From incident detection to intelligent traffic management.
+2. AI applications on highways: From incident detection to intelligent traffic management.
    - 분야: 신호·관제 / 게재일: 2026-10-14 / 매체: Vietnam.vn
    - 원문: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNcGpCeHVBSThMODNDNTB1eHJ5MWRwdURDaHU5WDVFb0Q2N05ZcVZQZnpPdjZxbklVOVFqdWE0MV9ibnRDTDdBaWJIc2lwR3Y0ZXRNbEJSVmoxclVQaGIxVHpWeS14VjFsdm1XQTB2aEZqaDdwbVdLZFBBeUtUTU81OU1rSWZDVy0xRTJidFVjN0RQQUt6SFV2Vk1SLW1NNzBiekxYWjhEVnM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. [유럽연합] 유엔 유럽경제위원회(UNECE), L4 무인 자율주행 통합 승인 규정 발효 및 글로벌 안전 표준화 통합
+3. [유럽연합] 유엔 유럽경제위원회(UNECE), L4 무인 자율주행 통합 승인 규정 발효 및 글로벌 안전 표준화 통합
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: ITS Korea
    - 원문: https://www.taylorwessing.com/en/insights-and-events/insights/2026/07/unece-establishes-global-rules-for-automated-driving
 
-5. [영국] HIGHWAYS UK: Roadside Technologies showcases new Vecta hazard detection
+4. [영국] HIGHWAYS UK: Roadside Technologies showcases new Vecta hazard detection
    - 분야: 기타 / 게재일: 2026-10-14 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/news/incident-detection/highways-uk-roadside-technologies-showcases-new-vecta-hazard-detection.html
 
-6. Indore Traffic Management Under High Court Scrutiny As Petitioners Flag 64 Unlinked Signals And Parking
+5. Indore Traffic Management Under High Court Scrutiny As Petitioners Flag 64 Unlinked Signals And Parking
    - 분야: 신호·관제 / 게재일: 2026-10-13 / 매체: Free Press Journal
    - 원문: https://news.google.com/rss/articles/CBMi5gFBVV95cUxONXJiN2haa0lDT2kxMEJrcHlRSkkyYmVJTFdPYVNvdFI5cjNWWFU3Y1VHVzJTdWVZRm4wck9maFdTZTVCVTdpa3g4SmpDRTlCOE5WOUdhOGNZMVd0RGt5bjBjY050M2lHYW1UMHFXc3RlWnRtTFBxd0QxeVF4VHZZdEhJa3lEMHhOY1VPaEE1VFg2OXMyWkdpOEFIaVpDMFl5X1VZV2JIb2FoR01od1pMSDBOMlR2NHY0NHM5b1QwQWk5bERuakVGajhpWkhIVEktU2pSRnlkcVVMMU1fNGF4bXhsWjY0UdIB6wFBVV95cUxONlN6VzUwbVl5RXJPNDdmaG05OFB4dmFyRVdVZ0lZUjRMZnJXVFMyRzB3R3d1SDBfaTBUY2RBVHJIYWNBMGtFWi14eEtCZGlMdE83MndYWXZFb015Wk11ZmRaay1vNk1LcEFESVdyT0o2S3FkU2w3aXVvdmZvS2ZRWkVXSnpneVhlMEJVWjhwcDdfWko3S2R2eTE5T3FOdkdQaTM3NjQ0aklXN1FqYVFheGk0cWJqZ2JVangzMDNlQkhkTzlkZGRpd1NnYk9uYmkzWC1jalpQT0plNGtXTk1MVlBBczBfd2RBa0Z3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. Intelligent Road Safety System Market To 2035: AI Traffic Management and V2X Drive Growth - News and Statistics
+6. Intelligent Road Safety System Market To 2035: AI Traffic Management and V2X Drive Growth - News and Statistics
    - 분야: C-ITS·V2X / 게재일: 2026-10-17 / 매체: IndexBox
    - 원문: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOGZBbmFCNjNDUElMSWdWaFVmNFFUSGRPMmRYeUFpaWxJU3lPQzdhd01XakF5Q2pZbzJLdDg1TXl5UFA0c0w4MXNWMHlxUWRfUm5nM21HWXItcE5BZWxPWFdSb2F6b2FrcGEtaHZfN1RQemNDQW5wbTRTMFN3ZXNwaUpJZV9BNFFMWXY4RlV1ZE41aHMxMzMwVzhHU1gzbk5YTUNLbnMwM2hUXzlsYUppZTNfdy1uYzd1Sk5QQTRiM2tBbHRnOUpxLU1XeU4xUFBjRms1Y3ZfTDc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+7. [중국] OMODA & JAECOO to Showcase Purpose-Built L4 Robotaxi, Bringing a New Driverless Mobility Experience to Global Markets
+   - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: ITS Korea
+   - 원문: https://www.financialcontent.com/article/marketersmedia-2026-10-19-omoda-and-jaecoo-to-showcase-purpose-built-l4-robotaxi-bringing-a-new-driverless-mobility-experience-to-global-markets
 
 8. KCC to introduce AI-based traffic management
    - 분야: 신호·관제 / 게재일: 2026-10-13 / 매체: Bangladesh Sangbad Sangstha (BSS)
@@ -110,77 +110,77 @@
    - 분야: 자율주행 / 게재일: 2026-10-14 / 매체: ITS Korea
    - 원문: https://www.bloter.net/news/articleViewAmp.html?idxno=675582
 
-3. LIG아큐버, 위성신호 안 닿는 터널서도 'V2X 통신'…세계 첫 실도로 시연
+3. 현대차·기아, 레벨4 자율주행 대형트럭 실증…물류 노선서 상용화 검증
+   - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 더트래커
+   - 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2VWF4bzJuSlVzcDlUaTV2VWxoQkY4TG1ybGRzLVZRZ1ZsZms3cEhZNU1Wb1lURTEyRDRrNjB3NEZsY3RPMkZVb0dkN2tOSVlOMHlQYnR1Mzk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+4. LIG아큐버, 위성신호 안 닿는 터널서도 'V2X 통신'…세계 첫 실도로 시연
    - 분야: C-ITS·V2X / 게재일: 2026-10-18 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DbEI3R2JMeDd1UEVHaU44Y1F1a05LblJOVV95ZGlaaE15U0VWOGdHUm82RC1GNEdPUlZqT0FNUU0ySHA3eFEyQzY2OExxUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. 롯데이노베이트, 자율주행 넘어 AI 교통 인프라로…모빌리티 사업 확대
+5. LG전자, 차량·도로 연결해 사고 예방… V2X 교통안전 기술 실증
+   - 분야: C-ITS·V2X / 게재일: 2026-10-20 / 매체: Korea IT Times
+   - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE10ejlzalh5SkduMEdHVDJob3ZlTnlMeE1QNW5xVUNDamllUUVLajMxb1JtN3RkcU1UbHNVQjVKb1VlSVBqOS0zRUFHeFBXSUgxVkgwUDBRd0FSMVZJV3lxcFhVc1ZHaUljdFFQc0FqVQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+6. 롯데이노베이트, 자율주행 넘어 AI 교통 인프라로…모빌리티 사업 확대
    - 분야: 자율주행 / 게재일: 2026-10-15 / 매체: 지디넷코리아
    - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MM1lSMS0ydkZ4N1pXTWxnSTFFNVdka1lHZ2VDREdGcFY1YnAwVmdfSzJ4Skw2MWhZdExOMUFzR2VEdWx1MzhmQTVmVDdWQWpKbWphbWVB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. 자율주행부터 주차로봇까지…강릉서 미래 교통 만난다
+7. 자율주행부터 주차로봇까지…강릉서 미래 교통 만난다
    - 분야: 자율주행 / 게재일: 2026-10-18 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wYmJtX2pUYmE0QkRDMS1PMEROdnhzU3VzcVNhX0lHNC1BV0xwRWp2RFdQSmRjWGNmNlFoU28xWjBmbWlBczBHQ2lSbGZFN3k5SFRJdXRVN3JmZnlw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. 내달 상암서 서울 첫 레벨4 자율주행 택시…라이드플럭스가 맡는다
+8. 내달 상암서 서울 첫 레벨4 자율주행 택시…라이드플럭스가 맡는다
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tay11WjdfRV9jU0lpUXJTRjVJMTlZdTdQRndjNTZ6Q0NuSnotb2tZRlp0WkdpMWJLYU5EOXE1YmJTQnpRNmc2MGx6SmFPQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. 신호등이 알아서 척척…의왕시, 지능형교통체계 ITS 밑그림 착수 - 머니투데이
+9. LG전자, ‘ITS 세계총회’서 V2X 통합 교통안전 솔루션 공개..모빌리티 시장 공략
+   - 분야: C-ITS·V2X / 게재일: 2026-10-20 / 매체: 데일리카
+   - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTE9PSWx5aHVzVU8wV1h1RkktLWp3dm92cEsyZUlFbXlHMW96dW1MSmZHcXotX0FzMmxHZGZFNXRPY1JaLXdIUTNRMkNIRTRRZjNRbHR3WFBMdW9MVDdEWHlmUFpZUUpZV0RtMkhZaU9kcmM0UUlkWkE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+10. [회원사/동향] 퀄컴, 강릉 ITS 세계총회서 V2X 기술 공개…“한국 지능형 교통체계 구축 협력”
+   - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: ITS Korea
+   - 원문: https://biz.chosun.com/it-science/ict/2026/10/19/XHRVGI5BQ5D3RLZXK4PVNQZRWM/
+
+11. 신호등이 알아서 척척…의왕시, 지능형교통체계 ITS 밑그림 착수 - 머니투데이
    - 분야: 신호·관제 / 게재일: 2026-10-15 / 매체: 머니투데이
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE9YWjBaeG5pcE1tQjBVNUNfSDV4Ny1YeFJmVXItYzY4cDk3WHpIZ2s5MUV0OUsxQ1JFUUYtMlN3RWN4MDNJRUtfUWVRcUM4SlRiQ1R4SlZqNGZmd1hNVm1YalFITFVUaTU3alAydGZDa9IBb0FVX3lxTE9YWjBaeG5pcE1tQjBVNUNfSDV4Ny1YeFJmVXItYzY4cDk3WHpIZ2s5MUV0OUsxQ1JFUUYtMlN3RWN4MDNJRUtfUWVRcUM4SlRiQ1R4SlZqNGZmd1hNVm1YalFITFVUaTU3alAydGZDaw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. [심층분석] HL로보틱스, 실외 자율주행 주차 시장 진입…로봇·디지털 트윈 결합해 주차 자동화 확장
+12. [심층분석] HL로보틱스, 실외 자율주행 주차 시장 진입…로봇·디지털 트윈 결합해 주차 자동화 확장
    - 분야: 자율주행 / 게재일: 2026-10-15 / 매체: 뉴스밸류
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFBwQzNvU0RIUGdlbHJKTW9zU1hXUEQtdWpLbFFkWFA3NmRPTWJIbTlfRFpaTWFnUkxkWVYxSF95dFludnJXZW4weWZOTVJfUEdTRGJRcV95ZTZGRzZ6S0VTaE5ReVp2ekY4MGc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. 에이투지, 강릉 ITS 총회에 레벨4 자율주행 셔틀 투입
+13. 에이투지, 강릉 ITS 총회에 레벨4 자율주행 셔틀 투입
    - 분야: 자율주행 / 게재일: 2026-10-15 / 매체: 디지털투데이
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE1JQTlQMW00aDlwTnZsNGR5WDN0amwyMUxEZG5DVzlKM2dBdFpkRlo3SEd2ZTJjdHJ3ZjJoS19fbHplSkg4dmxEM1BWUTlKTzhIMlpXTjlWNTlYWlNRbjQ2eFpSZDA4Rm5jbHJRQmYzQWxqRjg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. [지자체] 의왕시, 지능형교통체계 기본계획 수립 용역 보고회 개최!
+14. [지자체] 의왕시, 지능형교통체계 기본계획 수립 용역 보고회 개최!
    - 분야: 기타 / 게재일: 2026-10-15 / 매체: ITS Korea
    - 원문: https://www.ghtimes.kr/news/article.html?no=117285
 
-11. 롯데이노베이트, '실증 도시' 강릉서 자율주행 기술 선보인다
+15. 롯데이노베이트, '실증 도시' 강릉서 자율주행 기술 선보인다
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 테크M
    - 원문: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYQzJzbS11NFdlb0FDSS1WODNWay1PY2k2WHVvdDRsbUFuYlFfRm5qYktSdXdzeEZLVmN5VHdjN3N5cEZWSm5NNk5BWUQ3VHh2bGpCR0RZS1lneEk2SzdIUFJueEtId9IBakFVX3lxTFB6eENHVnFpMUI5TUVPaDBKVGNyOTJONWN2M1VnRE95MWR1cms0WVNua2JRYUZ4WjYtV191cEhkLXlVTkgycVMtQVBDLVJCQ1pFQnJqVTdQT2x3b05HTm1OZVhSeDNkVUQ0cFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 롯데이노베이트, 강릉 'ITS 세계총회'서 AI·자율주행으로 미래 모빌리티 제시
+16. 롯데이노베이트, 강릉 'ITS 세계총회'서 AI·자율주행으로 미래 모빌리티 제시
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 뉴데일리
    - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzRLZ0dsTTFwRTdkampCVWZRRXI5cUxYd1Jad2gwTkNiemZsWmQwMHNvYTk1TUE4Tnl5TGtRTWpPem9JcHRVRXR5U3dxSlhXbHdTbkd4ckthODJUbkV4UnFMUEo2Z09GeEFTZVhWUXRqeEhYNVp0cFZIeUpmLVZjVdIBgAFBVV95cUxQZzRLZ0dsTTFwRTdkampCVWZRRXI5cUxYd1Jad2gwTkNiemZsWmQwMHNvYTk1TUE4Tnl5TGtRTWpPem9JcHRVRXR5U3dxSlhXbHdTbkd4ckthODJUbkV4UnFMUEo2Z09GeEFTZVhWUXRqeEhYNVp0cFZIeUpmLVZjVQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 모빌위더스·경기도, C-ITS 양자내성암호 실증 성과 공유
+17. 모빌위더스·경기도, C-ITS 양자내성암호 실증 성과 공유
    - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: 프라임경제
    - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE9TYjI4RjhVMWRWbzdtY3NuLUwxR1VWeUlURGJ3V1Z0TDZOdHJoQXZXeFR6SlFnaEdqalp2ZW80ZzBteDlLZF9nd1lMSGlydWZnLW1aR0VZbkFVUzRTaVhTOXFOOXF2amlFbm9uMkE0QlBXQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 퀄컴, 심장마비 C-ITS에 V2X 심폐소생술 시작한다
-   - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: ER 이코노믹리뷰
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE56NUhDNkI2Ti1KMTVVLTFiWmVGLTRidGFJV0J0RXRqUjAzeUczNHNObXVUektpanpKelpBd1dGSHJZQmE3M0w2b0JfNFFfcTRzTERUTEZ1a1YtUEJKR2pIN3NMV29CM2RUdlFTRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+18. 롯데이노베이트, AI·자율주행 앞세워 통합 모빌리티 시장 공략
+   - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 정보통신신문
+   - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNeExuTnprQm9Xd3k0WmhHZVozMWFIRTFkLUV1cmhFLWVsN1JvZF8wNDRLd29ITmJLWWdSdUVaTjQ0bGFkLU5YNVdhdFUwVjM1b3pWWmlzekc0TmFTMEJOOUtPRHBDd3kw0gFsQVVfeXFMTTZtQUlKa09NLVMxTUxzZGFlVWFFMDl5VkY4TlExS2Y0VDdNVGlhcldvS3BwNHhDLWVYU29QNWNjdEFHVGMtWWRUbWk5dlN1NndmbFhBak1HdnVRY0gtWExTOUM0TXpPVnZldXFw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. “택시보다 트럭이 빠르다” 텍사스 고속도로는 이미 ‘자율주행’이 대세
-   - 분야: 자율주행 / 게재일: 2026-10-13 / 매체: 비즈한국
-   - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTFBITFU0Z3FuNjNmVHVSOERrWWFLUmhmVTZKWXczN3RBWF9lUE11eGdHa2FuY0NxeFpUQUctRWhJSjl4R1llRTg5N2ZYVndjVDBETDhnT3R0VkNFdkt1cnJoM0V3QUkwZGhEc1g2ZHNLQ0JuWkR3LWln?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+19. 현대차·기아, 레벨 4 트럭 자율주행 실증 돌입... 내년 초 엑시언트 공급 MOU
+   - 분야: 산업·투자 / 게재일: 2026-10-20 / 매체: 오토헤럴드
+   - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE1vUkhJOFEwTDBiUGp3eDVJNHhnSVhvM2ZGQ1FFUjNYRmVCSV9LX3ZjR1Fqb2tfWkg2RXN4NzI1NWdJTTBiY3VGbzJCQU9YVE5xMXlER1RaS1haU09aZHg4d2lveEp2NnVITFZ3aDQxZ9IBckFVX3lxTFBuMWx2aC1RTDB5WDhjQTViNWZ4VFR0c2tfREIweVFfX0JYc3NueEVsVFQ2OS04bTZvZm15MWN0d2hsZVpPeG9EcjNNeWpnYU9GWldNdER6RXcwTG9aYVpISlNjaHNhRTZmX0dkVmtwelVidw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. "운전 맡겨 달라는 중국" 결국 머리가 됐다…'지프·푸조·마세라티' 명차들 파고든 中 '자율주행'[C쇼크, 벼랑 끝 K산업｜자동차]②
-   - 분야: 자율주행 / 게재일: 2026-10-14 / 매체: 아시아경제
-   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zZzg0MUxVMHVraVpmY3Q4VVFGRXYzb1lBYVNxOFVaNklHeUdxSHdYb19ERnZzS3dxMEJIOHE4dzh6THlCd0tZRVNHM1N4RXNKbk9uR1VWS0xVSUFNaXV1Yg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-17. 인천 자율주행버스, 2027년 하반기 시민 태운다…청라~강서 심야 운행
-   - 분야: 자율주행 / 게재일: 2026-10-13 / 매체: 쓰담미디어
-   - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBzZGR0ZnE5Z0JNdDN3LXJDU0c2cjFQTUxfOFY4YTdQNjQtVVlrZEVLX193WElzZFNnVlc5MGNLMGJYb25wNHl3bDh5dDBwU3JmdlYyWXZiNmJpbHVzOHdlNXVlUHlIXzQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-18. “차량 통신 오류 한계 극복”… 김상덕 학생, 자율주행 연구로 국내외 학술대회서 쾌거
-   - 분야: 자율주행 / 게재일: 2026-10-16 / 매체: 뉴스H
-   - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE5kZHpyMGkyWWhHRHpTeVpPeml3UFJiY3NxQ2xCdE5EdDA1Wmc4VjNVdklxV0pNMkw5UzZhZ08zVTR5N255cDd5V2RNS0gyUEdpbUUtSWk0RUlHS1Fvdy1aZ3QwWmQtTl9ha01V?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. 자율주행·스마트교차로에 ‘깜짝’…강릉서 교통올림픽 열린다
-   - 분야: 신호·관제 / 게재일: 2026-10-17 / 매체: 중앙일보
-   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jTG9GdlM2N2NBamk5amR3bFF4RWI0aUNJSFZ3al9hQzgwa0wwZ2tDSGhvdzdDM0NGR1RwaTJ5WlJlbWQ1ZTVQVTgxUWx3R3hmMnpTWkd3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. [지자체] 양산시, 24시간 교통량 조사…"정책 기초자료 활용"
-   - 분야: 신호·관제 / 게재일: 2026-10-14 / 매체: ITS Korea
-   - 원문: https://mobile.newsis.com/view_amp.html?ar_id=NISX20261014_0003826013
+20. 현대차·기아, 완전자율주행 트럭 실증…내년까지 500㎞ 목표
+   - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 중앙신문
+   - 원문: https://news.google.com/rss/articles/CBMiygJBVV95cUxPZTAtbXZLR3pRS25SLWdaOFhGOTdtTVBXQlpWTkJLeS1CdWpnWDRIUXFnYi1QdnM0bE81N25hNGNmVDFybWtvUEFxblBjVEU5RG0yM2xFNEpUNEdjQnhRNmdWaUdhR1NKaDNwRE8tYmhOU2ItTmhkNkdhMmlsT1dHX1JMaUlaS3o3Y0UzdUZzQ09zbktwM0NBUm1jbGxxZkFCN2RpUFlQZmJhVW5zcWJtSWdiSVNoR1Vhb2VidGhJSEVTVV81M0Njd19BZFZXYzhEVklFc3lWbk0yZ0JCU2lwenl0ZUhMNmNxNHFHa29jX0xMLVVNNVpTdEJ3anYxbTB5RnVlT3gwZ3pHTnpoOVpQSS14NzlEbzhSZzk1RGY1eGVkVTd0NVRvRmtnMjVWVEx2Y3NSazBueGk1cC1CX3lpTHlPSm5qcTNNQUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
