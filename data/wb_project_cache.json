@@ -1161,6 +1161,13 @@
   "impagency": null,
   "total": null
  },
+ "P517267": {
+  "borrower": "The National Treasury",
+  "closing": "2032-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "ICT Authority,Kenya National Highways Authority,Kenya Rural Roads Authority,National Construction Authority,National Transport and Safety Authority,State Department for Roads",
+  "total": 1108000000.0
+ },
  "P518023": {
   "borrower": null,
   "closing": null,
@@ -1169,6 +1176,13 @@
   "total": null
  },
  "P519832": {
+  "borrower": null,
+  "closing": null,
+  "funder": null,
+  "impagency": null,
+  "total": null
+ },
+ "P519954": {
   "borrower": null,
   "closing": null,
   "funder": null,
