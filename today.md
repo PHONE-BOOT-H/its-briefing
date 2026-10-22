@@ -60,33 +60,33 @@
    - 분야: 신호·관제 / 게재일: 2026-10-20 / 매체: شفق نيوز
    - 원문: https://news.google.com/rss/articles/CBMiggFBVV95cUxQcWx3Y3RGcTdINEJVQU9yUktqVzlqbDBjcUVhZXphTElUbDdDMG9pS19SR0JJVEhKOXlhcU9Dc2cwLUpfR2VOOURnOHVDNWE0TEs1aFJfMGF4QzRxZFdyVzJxZnFiellOaXYwVk5tODRZZDZjM09OanJCNFlwNllBdTJB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. [미국] Trump’s Transportation Secretary Sean P. Duffy Delivers $200 Million Truck Parking Expansion Across the Country in Major Win For American Truckers
-   - 분야: 대중교통·물류 / 게재일: 2026-10-15 / 매체: ITS Korea
-   - 원문: https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-delivers-200-million-truck-parking
-
-13. FASTag (2016): Digitalising Toll Collection And Transforming Highway Mobility In India
+12. FASTag (2016): Digitalising Toll Collection And Transforming Highway Mobility In India
    - 분야: 요금·통행료 / 게재일: 2026-10-19 / 매체: IMPRI Impact and Policy Research Institute
    - 원문: https://news.google.com/rss/articles/CBMijwFBVV95cUxOSmVsX2JsWG9wYkJhUVZ1eVhZMVR2c0ItTVBKZktJdmFBakhmWlRyM0puSk5RdWY0ckNPX2ZRMF9vUlpfM1p0bUxHc3ZzSUN0bWZBRnV1eVR5WlhZVlJPdEM2QktZME5tNFY5WUNEQnBZUm9YaGxzaFFtdUxCY0otLS1oQ2JxcUFZNlRFOTlIdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. [캐나다] 웨이모(Waymo), 캐나다 토론토를 첫 해외 진출 도시로 선정 및 2028년 상용 로보택시 목표 도심 주행 시험 착수
+13. [캐나다] 웨이모(Waymo), 캐나다 토론토를 첫 해외 진출 도시로 선정 및 2028년 상용 로보택시 목표 도심 주행 시험 착수
    - 분야: 자율주행 / 게재일: 2026-10-16 / 매체: ITS Korea
    - 원문: https://electrek.co/2026/10/16/waymo-toronto-canada-robotaxi-2028/
 
-15. [미국] Self-driving taxis are in Las Vegas. Now what?
+14. [미국] Self-driving taxis are in Las Vegas. Now what?
    - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: ITS Korea
    - 원문: https://knpr.org/show/knprs-state-of-nevada/2026-10-20/self-driving-taxis-are-in-las-vegas-now-what
 
-16. Monotch joins Data for Road Safety as provider and service creator
+15. Monotch joins Data for Road Safety as provider and service creator
    - 분야: 신호·관제 / 게재일: 2026-10-20 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/news/connected-vehicles-infrastructure/monotch-joins-data-for-road-safety-as-provider-and-service-creator.html
 
-17. MCD sets December 31 deadline for automated, barrier-free toll collection in winter anti-pollution plan
+16. [유럽] European Mobility Leaders Build Safe Vehicles and Robotaxi Fleets on NVIDIA Hyperion
+   - 분야: 자율주행 / 게재일: 2026-10-22 / 매체: ITS Korea
+   - 원문: https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion
+
+17. [미국] Trump’s Transportation Department Hosts Freight Leaders at FLOW Annual Meeting to Unleash Innovation Across America’s Supply Chains
+   - 분야: 대중교통·물류 / 게재일: 2026-10-22 / 매체: ITS Korea
+   - 원문: https://www.transportation.gov/briefing-room/trumps-transportation-department-hosts-freight-leaders-flow-annual-meeting-unleash
+
+18. MCD sets December 31 deadline for automated, barrier-free toll collection in winter anti-pollution plan
    - 분야: 요금·통행료 / 게재일: 2026-10-15 / 매체: ET Infra
    - 원문: https://news.google.com/rss/articles/CBMijgJBVV95cUxNMHFrSnZ1ZjJEczVoTWRWOXlYVlI2TWFSWnA0alA5N2FGdVhRRnhUWFZkYTZhU1RmT2JCOHFFVW41dEd1TllyV0MwSU1LWjVvODJSeXpMZWxuaHZTRkdVdHhDekpxZFMyaUxhbGtCNS16NkVFUnJsekxNNmZMTURSbGx0NVBIbVZLY0tjUnl1RUVLdjA4UjY4UjZnNUotTmlUTDQxWGpRWmxxdnNPTGd3a3R0RmFReHNaNEFBMWNpMno1dHpZc1cxdHU5VS13Z3ZyRDJWb1hPN2VIOUNCb3JPV2JVQ05oX2JWeG81YmF5ckkxbjlERGpRX1VESW1zUFp2bUFXZ3VYZ3pjYTNpaGfSAZMCQVVfeXFMTzl3Wk44RE8wX1FDNmY4aTh6Sl9CN3FXNVAxMC1vclZGY0J5eUpTdjgyOTFwb2VOcTNsYTl1WkxwYVd6OE1DMmZIU2hBMHdDZndyMURNX19FeXpYN2J3bFRWSWtYQnpTV3RsNURMWTZKRm13bVdjMklscjlCajdXcDFyQm9JRVpaOURzMHlOMk1uOG1rcl8zYWR6bmNPN01OUU9XSEdJLXViTjQ1M2ltb1E5ejNWZVlWa3NEcy0yQnVpVmduXzdxVFZuZWJ0elR6SmYyX29PaElpWXJDR09iSG9qRUxVWXE3VERDNG00T3djT1NYUHdhbVc5WjZxVnZHOV9fUjBjRG05T1Axck1FYVl2UFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-18. 5GAA and CAR 2 CAR Communication Consortium Sign MoU to Strengthen Industry Collaboration
-   - 분야: 산업·투자 / 게재일: 2026-10-15 / 매체: ITS Korea
-   - 원문: https://5gaa.org/5gaa-and-car-2-car-communication-consortium-sign-mou-to-strengthen-industry-collaboration/
 
 19. City of Brownsville, TX - Municipal Government. . The Brownsville City Commission will meet on Tuesday, October 20, at 5:00 p.m. Key agenda items include proposed infrastructure funding, municipal zoning adjustments, and traffic signal improvements. View
    - 분야: 신호·관제 / 게재일: 2026-10-16 / 매체: Facebook
@@ -106,9 +106,9 @@
    - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 파이낸셜신문
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE9nc2k1WkRPVlB0X2RkX3lXamp1by0xcmdET2xrQ0M5VENVNC01a1E5QUlKMGxRblU0UUo2a2gwdkcybkV6X0Z0WXVXeVVSSzFsb3Bma3JGNGFKbnBwWlNjMlRyeEFjWWlSdTNV?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-2. [회원사/동향] [강릉 ITS 세계총회] 엠큐닉, KADIF 공동관서 범부처 자율주행 실증 현황 공개
-   - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: ITS Korea
-   - 원문: https://www.boannews.com/news/articleView.html?idxno=146511
+2. [회원사/동향] [강릉 ITS 세계총회] 웨이티즈, V2X 검증 플랫폼으로 자율주행 안전성 높인다
+   - 분야: C-ITS·V2X / 게재일: 2026-10-21 / 매체: ITS Korea
+   - 원문: https://www.boannews.com/news/articleView.html?idxno=146565
 
 3. LIG아큐버, 위성신호 안 닿는 터널서도 'V2X 통신'…세계 첫 실도로 시연
    - 분야: C-ITS·V2X / 게재일: 2026-10-18 / 매체: 전자신문
@@ -122,17 +122,17 @@
    - 분야: 자율주행 / 게재일: 2026-10-15 / 매체: 지디넷코리아
    - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1MM1lSMS0ydkZ4N1pXTWxnSTFFNVdka1lHZ2VDREdGcFY1YnAwVmdfSzJ4Skw2MWhZdExOMUFzR2VEdWx1MzhmQTVmVDdWQWpKbWphbWVB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. 자율주행부터 주차로봇까지…강릉서 미래 교통 만난다
-   - 분야: 자율주행 / 게재일: 2026-10-18 / 매체: 뉴스핌
-   - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wYmJtX2pUYmE0QkRDMS1PMEROdnhzU3VzcVNhX0lHNC1BV0xwRWp2RFdQSmRjWGNmNlFoU28xWjBmbWlBczBHQ2lSbGZFN3k5SFRJdXRVN3JmZnlw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+6. 내달 상암서 서울 첫 레벨4 자율주행 택시…라이드플럭스가 맡는다
+   - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 전자신문
+   - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tay11WjdfRV9jU0lpUXJTRjVJMTlZdTdQRndjNTZ6Q0NuSnotb2tZRlp0WkdpMWJLYU5EOXE1YmJTQnpRNmc2MGx6SmFPQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 7. 퀄컴, V2X 기반 교통 안전 시장 공략…차량·인프라 연결로 미래 모빌리티 확장
    - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: 테크데일리
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE4tR2dpWE92dmN4WlJTLTNVWXQ2Mnl3dERXN1BPTGNqQ3p6NENZdl84SU9lUUZhTGN5R2puNFN0OVZjLV9xdUhlOXJqVUJhMk5qUWZLVXV5Y2xjdjN3OG5EUE1oSHc3TnhzTVVuM2dR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. 내달 상암서 서울 첫 레벨4 자율주행 택시…라이드플럭스가 맡는다
-   - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 전자신문
-   - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tay11WjdfRV9jU0lpUXJTRjVJMTlZdTdQRndjNTZ6Q0NuSnotb2tZRlp0WkdpMWJLYU5EOXE1YmJTQnpRNmc2MGx6SmFPQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+8. 로봇 주차부터 자율주행까지...강릉서 만나는 미래 교통
+   - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: YTN
+   - 원문: https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2ejJQOUJBNXpScFY5VDA0YVZFbXVLaS1ZSllDRF9uTkZWR0NyYVRsM20yVHh5dGRwb2dGaG5kSTNtaVczQXBCaUZiTXhlelV5a1U3SHlDUGNjOUZpUkE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 9. 현대차그룹 트럭 완전자율주행, 내년 도로서 실증 나선다
    - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 동아일보
@@ -146,13 +146,13 @@
    - 분야: 자율주행 / 게재일: 2026-10-21 / 매체: 파이낸셜신문
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE45UU9PaXdZM3ZQRmlGV1M3X0NFU3BtcDNud084cUp1TDFJQUdRTlhwN3BxNkw2ZzQxZVpKakEzOU5BdWlpTGJzdGtjY09kN19GNTVJLVhjYzhtX2dHZzdIUUEyMndKVmhERm9Z?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 신호등이 알아서 척척…의왕시, 지능형교통체계 ITS 밑그림 착수 - 머니투데이
+12. [회원사/동향] 유티정보, 강릉 ITS 세계총회서 자율주행 통합 관제 플랫폼 시연
+   - 분야: 자율주행 / 게재일: 2026-10-21 / 매체: ITS Korea
+   - 원문: https://www.gbnews.kr/news/articleView.html?idxno=74817
+
+13. 신호등이 알아서 척척…의왕시, 지능형교통체계 ITS 밑그림 착수 - 머니투데이
    - 분야: 신호·관제 / 게재일: 2026-10-15 / 매체: 머니투데이
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE9telZlR1RUZ0JieWdZOTNhZS1oSmJmNG5GMnN0bVllV2xzc192djhHek5BSjVlWVZWZjRRTS10b3djQ1JtbjJfdXlQV1poOXpkR0RRNVFnZzNqOGY1MUF0UFdmS0RMWFdpMHfSAW9BVV95cUxPWFowWnhuaXBNbUIwVTVDX0g1eDctWHhSZlVyLWM2OHA5N1h6SGdrOTFFdDlLMUNSRVFGLTJTd0VjeDAzSUVLX1FlUXFDOEpUYkNUeEpWajRmZndYTVZtWGpRSExVVGk1N2pQMnRmQ2s?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-13. 에이투지, 강릉 ITS 총회에 레벨4 자율주행 셔틀 투입
-   - 분야: 자율주행 / 게재일: 2026-10-15 / 매체: 디지털투데이
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE1JQTlQMW00aDlwTnZsNGR5WDN0amwyMUxEZG5DVzlKM2dBdFpkRlo3SEd2ZTJjdHJ3ZjJoS19fbHplSkg4dmxEM1BWUTlKTzhIMlpXTjlWNTlYWlNRbjQ2eFpSZDA4Rm5jbHJRQmYzQWxqRjg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 14. 모빌위더스·경기도, C-ITS 양자내성암호 실증 성과 공유
    - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: 프라임경제
@@ -162,25 +162,25 @@
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 뉴데일리
    - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxQZzRLZ0dsTTFwRTdkampCVWZRRXI5cUxYd1Jad2gwTkNiemZsWmQwMHNvYTk1TUE4Tnl5TGtRTWpPem9JcHRVRXR5U3dxSlhXbHdTbkd4ckthODJUbkV4UnFMUEo2Z09GeEFTZVhWUXRqeEhYNVp0cFZIeUpmLVZjVdIBgAFBVV95cUxQZzRLZ0dsTTFwRTdkampCVWZRRXI5cUxYd1Jad2gwTkNiemZsWmQwMHNvYTk1TUE4Tnl5TGtRTWpPem9JcHRVRXR5U3dxSlhXbHdTbkd4ckthODJUbkV4UnFMUEo2Z09GeEFTZVhWUXRqeEhYNVp0cFZIeUpmLVZjVQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 롯데이노베이트, AI·자율주행 앞세워 통합 모빌리티 시장 공략
-   - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 정보통신신문
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE02bUFJSmtPTS1TMU1Mc2RhZVVhRTA5eVZGOE5RMUtmNFQ3TVRpYXJXb0twcDR4Qy1lWFNvUDVjY3RBR1RjLVlkVG1pOXZTdTZ3ZmxYQWpNR3Z1UWNILVhMUzlDNE16T1Z2ZXVxcNIBbEFVX3lxTE02bUFJSmtPTS1TMU1Mc2RhZVVhRTA5eVZGOE5RMUtmNFQ3TVRpYXJXb0twcDR4Qy1lWFNvUDVjY3RBR1RjLVlkVG1pOXZTdTZ3ZmxYQWpNR3Z1UWNILVhMUzlDNE16T1Z2ZXVxcA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+16. [회원사/동향] 한국 팹리스 에티포스, 美 애리조나 V2X 공급·6G 모뎀 개발
+   - 분야: C-ITS·V2X / 게재일: 2026-10-22 / 매체: ITS Korea
+   - 원문: https://www.g-enews.com/article/Global-Biz/2026/10/2026102118573069302bd56fbc3c_1
 
-17. [회원사/동향] ITS '숨은 지배자' 유티정보..."자율주행시대 '안전 오케스트라'로 진화"
-   - 분야: 자율주행 / 게재일: 2026-10-21 / 매체: ITS Korea
-   - 원문: https://zdnet.co.kr/view/?no=20261020145947
-
-18. 퀄컴, 심장마비 C-ITS에 V2X 심폐소생술 시작한다
+17. 퀄컴, 심장마비 C-ITS에 V2X 심폐소생술 시작한다
    - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: ER 이코노믹리뷰
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE56NUhDNkI2Ti1KMTVVLTFiWmVGLTRidGFJV0J0RXRqUjAzeUczNHNObXVUektpanpKelpBd1dGSHJZQmE3M0w2b0JfNFFfcTRzTERUTEZ1a1YtUEJKR2pIN3NMV29CM2RUdlFTRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. [회원사/동향] [2026 강릉 ITS 세계총회] 허청회 ITS협회장 “교통장비 넘어 도시 전체 수출…K-ITS 해외시장 넓힌다”
-   - 분야: 기술·표준 / 게재일: 2026-10-20 / 매체: ITS Korea
-   - 원문: https://www.etnews.com/20261019000191
+18. [국토부/공지사항] 모빌리티 규제샌드박스 실증특례 승인 공고
+   - 분야: 기타 / 게재일: 2026-10-22 / 매체: ITS Korea
+   - 원문: https://www.molit.go.kr/USR/BORD0201/m_69/DTL.jsp?id=N01_B&cate=&mode=view&idx=270182&key=&search=&search_regdate_s=2025-10-22&search_regdate_e=2026-10-22&order=&desc=asc&srch_prc_stts=&item_num=0&search_dept_id=&search_dept_nm=&srch_usr_nm=N&srch_usr_titl=N&srch_usr_ctnt=N&srch_mng_nm=N&old_dept_nm=&search_gbn=&search_section=&source=&search1=&lcmspage=1
 
-20. [강릉 ITS 세계총회] 웨이티즈, V2X 검증 플랫폼으로 자율주행 안전성 높인다
-   - 분야: C-ITS·V2X / 게재일: 2026-10-21 / 매체: 보안뉴스
-   - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE1ud2xyVUxyeE1JdklSMkFrN0lETXdETlo5SXZnNHZIWENlbHdPM3ZTRFY2X1hqaGt6bFFPdjN1bjRkNFBXNGx2TDhtazdOWWFsWG5NMjlVTVdoMEdxZFdMRThBRHZKcW8xdXVB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+19. 운전자 없는 자율주행차... 사고나면 책임은 누가?
+   - 분야: 자율주행 / 게재일: 2026-10-15 / 매체: 조선일보
+   - 원문: https://news.google.com/rss/articles/CBMigwFBVV95cUxNV0d2NVR1QV9ycVA2WnExUU9HZ3JCeUxWUnlWUUYxRmtzbmkyT0FGVGhQdTdta2NtRzVSNnVnMEE2UkVVVVdNSVVHaFVKVE9xU29HRmREMHRIVjBXV1YyR2JoUDlhbkF3eG13aFFNOGxXczVfbUl4ZTY4ZEhSMlBMV29TMA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 자율주행·스마트교차로에 ‘깜짝’…강릉서 교통올림픽 열린다
+   - 분야: 신호·관제 / 게재일: 2026-10-17 / 매체: 중앙일보
+   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jTG9GdlM2N2NBamk5amR3bFF4RWI0aUNJSFZ3al9hQzgwa0wwZ2tDSGhvdzdDM0NGR1RwaTJ5WlJlbWQ1ZTVQVTgxUWx3R3hmMnpTWkd3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -198,13 +198,13 @@
   - 마감 2026-10-29 / 발주처 Bratislavský samosprávny kraj
   - 원문: https://ted.europa.eu/en/notice/-/detail/713613-2026
 
-- [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S11c oraz S5e na odcinku od węzła Poznań Północ do węzła Mosina w latach 2027-2031.
-  - 마감 2026-10-30 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
-  - 원문: https://ted.europa.eu/en/notice/-/detail/716512-2026
-
 - [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S5 na odcinku od węzła Mieleszyn do węzła Poznań Wschód w latach 2027- 2031
   - 마감 2026-10-30 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
   - 원문: https://ted.europa.eu/en/notice/-/detail/718514-2026
+
+- [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S11c oraz S5e na odcinku od węzła Poznań Północ do węzła Mosina w latach 2027-2031.
+  - 마감 2026-10-30 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
+  - 원문: https://ted.europa.eu/en/notice/-/detail/716512-2026
 
 - [카자흐스탄] Construction Supervision Consultant for Jezkazgan–Karagandy Section of the Trans-Caspian International Transport Route (Middle Corridor)
   - 마감 2026-10-30 / 발주처 JSC National Company KazAutoZhol
