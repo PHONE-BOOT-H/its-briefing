@@ -34,6 +34,13 @@
   "impagency": "National Road Fund Agency",
   "total": 200000000.0
  },
+ "P159577": {
+  "borrower": "Islamic Republic of Pakistan (acting through Economic Affairs Division [EAD])",
+  "closing": "2029-05-28",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "National Highways Authority (NHA),Planning and Development Department, Government of Khyber Pakhtunkhwa.",
+  "total": 482750016.0
+ },
  "P160865": {
   "borrower": "Federal Republic of Nigeria",
   "closing": "2028-03-31",
@@ -761,6 +768,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Local Government Engineering Department, Ministry of Local Government, Rural Development and Cooperatives",
   "total": 600000000.0
+ },
+ "P179128": {
+  "borrower": "Republic of Türkiye",
+  "closing": "2030-12-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Ministry of Transport and Infrastructure",
+  "total": 800000000.0
  },
  "P179284": {
   "borrower": "Lao People's Democratic Republic",
