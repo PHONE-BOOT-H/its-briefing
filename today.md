@@ -16,17 +16,17 @@
 
 등록 게시판: ITS국제협력센터 > 수출정보 > 국가별 ITS 시장정보
 
-1. [미국] 자율주행 차량용 반도체 칩 시장 연 18.9% 고성장… 레벨 4 E2E AI 통합 속도전
-   - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: ITS Korea
-   - 원문: https://www.einpresswire.com/article/949275997/the-automotive-self-driving-chip-market-is-projected-to-grow-rapidly-at-an-18-9-cagr-until-2030
-
-2. [유럽연합] 유엔 유럽경제위원회(UNECE), L4 무인 자율주행 통합 승인 규정 발효 및 글로벌 안전 표준화 통합
-   - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: ITS Korea
-   - 원문: https://www.taylorwessing.com/en/insights-and-events/insights/2026/07/unece-establishes-global-rules-for-automated-driving
-
-3. Maruti Suzuki to install 1,000 cameras and radar systems for Integrated Traffic Management in Gurugram
+1. Maruti Suzuki to install 1,000 cameras and radar systems for Integrated Traffic Management in Gurugram
    - 분야: 신호·관제 / 게재일: 2026-10-20 / 매체: HT Auto
    - 원문: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQa0hfU0dscGxUUkdsa3ptcV9Hc3F1Qm1Lbl9ZQWFXdE5fdkwyUmJTZlJiVnZKZHV1eTdTUVZZVzFUTGdDWXlIMXNwR2JYMV9VR0t1dkdHQk1sanUzYndVR01aa1BNQ0FES0s2MU1TWUJuYXFLTGJsTno0dVQ5T2lXelhBdmtoOGIzdmF2d1FJS3A5bGpaeGtvdnNDMTJkQVAzT012MFhWZVJrbi1fSVN3MjJheHpKendfbFpZSVpKMUx0RDNDbDJkcEcydVJBdDZrZkR2MmdLWnRaYmdxVE9KOGZIbjVYNUtnTi1CS2NvNGlWMUJfYmRobUJVYUvSAfwBQVVfeXFMUGtIX1NHbHBsVFJHbGt6bXFfR3NxdUJtS25fWUFhV3ROX3ZMMlJiU2ZSYlZ2SmR1dXk3U1FWWVcxVExnQ1l5SDFzcEdiWDFfVUdLdXZHR0JNbGp1M2J3VUdNWmtQTUNBREtLNjFNU1lCbmFxS0xibE56NHVUOU9pV3pYQXZraDhiM3ZhdndRSUtwOWxqWnhrb3ZzQzEyZEFQM09NdjBYVmVSa24tX0lTdzIyYXh6Snp3X2xaWUlaSjFMdEQzQ2wyZHBHMnVSQXQ2a2ZEdjJnS1p0WmJncVRPSjhmSG41WDVLZ04tQktjbzRpVjFCX2JkaG1CVWFL?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+2. [미국] 헤사이(Hesai), 완전 자율주행 전용 차세대 6D 풀컬러 라이다(Lidar) 플랫폼 정식 공개
+   - 분야: 자율주행 / 게재일: 2026-10-23 / 매체: ITS Korea
+   - 원문: https://www.gurufocus.com/news/9134442/hesai-hsai-advances-6d-fullcolor-lidar-technology-amid-market-valuation-challenges
+
+3. [미국] 메르세데스-벤츠·엔비디아, 엔드투엔드 AI 자율주행 및 하이페리온 컴퓨팅 파트너십 전격 확대
+   - 분야: 자율주행 / 게재일: 2026-10-23 / 매체: ITS Korea
+   - 원문: https://www.wardsauto.com/news/mercedes-benz-and-nvidia-extend-strategic-technology-partnership/833391/
 
 4. Roadways Intelligent Transportation System Market To 2035: Growth Driven by Smart City and Safety Mandates - News and Statistics
    - 분야: 신호·관제 / 게재일: 2026-10-16 / 매체: IndexBox
@@ -102,85 +102,85 @@
 
 등록 게시판: ITS국제협력센터 > 소통창구 > 공지사항(영어)
 
-1. [회원사/동향] [강릉 ITS 세계총회] 웨이티즈, V2X 검증 플랫폼으로 자율주행 안전성 높인다
+1. [회원사/동향] [강릉 ITS 세계총회] 도로공사, 하이패스 기술 말레이시아에 수출
+   - 분야: 요금·통행료 / 게재일: 2026-10-23 / 매체: ITS Korea
+   - 원문: https://www.newscj.com/news/articleView.html?idxno=3442545
+
+2. [회원사/동향] [강릉 ITS 세계총회] 웨이티즈, V2X 검증 플랫폼으로 자율주행 안전성 높인다
    - 분야: C-ITS·V2X / 게재일: 2026-10-21 / 매체: ITS Korea
    - 원문: https://www.boannews.com/news/articleView.html?idxno=146565
 
-2. LIG아큐버, 위성신호 안 닿는 터널서도 'V2X 통신'…세계 첫 실도로 시연
+3. LIG아큐버, 위성신호 안 닿는 터널서도 'V2X 통신'…세계 첫 실도로 시연
    - 분야: C-ITS·V2X / 게재일: 2026-10-18 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DbEI3R2JMeDd1UEVHaU44Y1F1a05LblJOVV95ZGlaaE15U0VWOGdHUm82RC1GNEdPUlZqT0FNUU0ySHA3eFEyQzY2OExxUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-3. LG전자, 차량·도로 연결해 사고 예방… V2X 교통안전 기술 실증
+4. LG전자, 차량·도로 연결해 사고 예방… V2X 교통안전 기술 실증
    - 분야: C-ITS·V2X / 게재일: 2026-10-20 / 매체: Korea IT Times
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE10ejlzalh5SkduMEdHVDJob3ZlTnlMeE1QNW5xVUNDamllUUVLajMxb1JtN3RkcU1UbHNVQjVKb1VlSVBqOS0zRUFHeFBXSUgxVkgwUDBRd0FSMVZJV3lxcFhVc1ZHaUljdFFQc0FqVQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. 자율주행부터 주차로봇까지…강릉서 미래 교통 만난다
+5. 자율주행부터 주차로봇까지…강릉서 미래 교통 만난다
    - 분야: 자율주행 / 게재일: 2026-10-18 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wYmJtX2pUYmE0QkRDMS1PMEROdnhzU3VzcVNhX0lHNC1BV0xwRWp2RFdQSmRjWGNmNlFoU28xWjBmbWlBczBHQ2lSbGZFN3k5SFRJdXRVN3JmZnlw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. 퀄컴, V2X 기반 교통 안전 시장 공략…차량·인프라 연결로 미래 모빌리티 확장
+6. 퀄컴, V2X 기반 교통 안전 시장 공략…차량·인프라 연결로 미래 모빌리티 확장
    - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: 테크데일리
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE4tR2dpWE92dmN4WlJTLTNVWXQ2Mnl3dERXN1BPTGNqQ3p6NENZdl84SU9lUUZhTGN5R2puNFN0OVZjLV9xdUhlOXJqVUJhMk5qUWZLVXV5Y2xjdjN3OG5EUE1oSHc3TnhzTVVuM2dR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. 내달 상암서 서울 첫 레벨4 자율주행 택시…라이드플럭스가 맡는다
+7. 내달 상암서 서울 첫 레벨4 자율주행 택시…라이드플럭스가 맡는다
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tay11WjdfRV9jU0lpUXJTRjVJMTlZdTdQRndjNTZ6Q0NuSnotb2tZRlp0WkdpMWJLYU5EOXE1YmJTQnpRNmc2MGx6SmFPQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. 현대차그룹 트럭 완전자율주행, 내년 도로서 실증 나선다
+8. 현대차그룹 트럭 완전자율주행, 내년 도로서 실증 나선다
    - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 동아일보
    - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTE1HUjdFZkM4ZTdGSFUxNWRVMThDR1ZlWDRURkNURENZSnNTWW1fMHVVZVEwaHk0V2hPSktiVnBHYmY3UjJlSUVRQmlaYktjYUo3aU1RckRubzhxTkh2d2tWRVNrMUxtSGRiNlg4cjhHR1I1RFpOaGfSAWZBVV95cUxNOS1YV2FoSGZwUUw2MnAzUTByS3F2STAwU29RMWdwU2NjTVBNS3VUbHMyaVBrTTFCTWd3WWpRZHNXNFRqUHMtMS1RVFZpMng1Z2FSQkVnZ0FHcmdyR1Nhd2hTVl9tT2c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. LG전자, V2X·V2N 결합 교통안전 기술 공개 … 글로벌 모빌리티 시장 공략
+9. LG전자, V2X·V2N 결합 교통안전 기술 공개 … 글로벌 모빌리티 시장 공략
    - 분야: C-ITS·V2X / 게재일: 2026-10-20 / 매체: 워크투데이
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBDcmF2bGF1TlQ3TmNsTlBHUk80X1VqbzN0bmVtMTZBTnVSbDNjaExpQzhjdVl3d0RqanJzaTFYTG1VOWQybU16eWc4b21zaGEtVTVqUnBtcXVKWFdTdXdYNFczb3JsMERFWkhPSw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. 티머니모빌리티, 자율주행택시 상용화 앞두고 택시업계와 상생 강조
+10. 티머니모빌리티, 자율주행택시 상용화 앞두고 택시업계와 상생 강조
    - 분야: 자율주행 / 게재일: 2026-10-21 / 매체: 파이낸셜신문
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE45UU9PaXdZM3ZQRmlGV1M3X0NFU3BtcDNud084cUp1TDFJQUdRTlhwN3BxNkw2ZzQxZVpKakEzOU5BdWlpTGJzdGtjY09kN19GNTVJLVhjYzhtX2dHZzdIUUEyMndKVmhERm9Z?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. 경기도·네덜란드, 반도체·미래모빌리티 협력 논의…자율주행 기술 교류 확대
+11. 경기도·네덜란드, 반도체·미래모빌리티 협력 논의…자율주행 기술 교류 확대
    - 분야: 자율주행 / 게재일: 2026-10-22 / 매체: 포커스경제
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBHV1hvY3A2aGdXazR2UlRJeERGaEZ3eWhQNDZSb3p6b3didVB6WUtxeTVXTFhFOU9aNGwwcXJKMnFjd0w3U1E5NTM0cjVSYXJQMzVmaVdVSlNYdkJmRW94aUN1UkRHNFVyQjhJLQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTFBjdk44WmhVU25BSUlxZjRFbS1mVEhGSjVfTmt3NGNLR2hyTm1ZTkpzTWNwT3o3cnhPS25tdFdhREpxOGk5WWpYRDFNU0FycFJZeWdYVzFDeDdPMEViSHMtY3NDYko5WUF2dm1iWnJR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. [회원사/동향] 유티정보, 강릉 ITS 세계총회서 자율주행 통합 관제 플랫폼 시연
+12. [회원사/동향] 유티정보, 강릉 ITS 세계총회서 자율주행 통합 관제 플랫폼 시연
    - 분야: 자율주행 / 게재일: 2026-10-21 / 매체: ITS Korea
    - 원문: https://www.gbnews.kr/news/articleView.html?idxno=74817
 
-12. 모빌위더스·경기도, C-ITS 양자내성암호 실증 성과 공유
-   - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: 프라임경제
-   - 원문: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5MWnF6b2lSR0dISE4xNjNlUjVVbks4amRXamQ1R3hNR1hULTRUb0Y2RU5vMFJMQ2pvZFBmbUNkbTZlbmtBUmZuRzRVejJnLVliUFFJMXZvZjE2V2dfT1pOalp1RQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+13. [회원사/동향] ‘도로 위에서 답 찾았다’…오토노머스에이투지, 자율주행 115만km·허가 101대 달성
+   - 분야: 자율주행 / 게재일: 2026-10-22 / 매체: ITS Korea
+   - 원문: https://digitalchosun.dizzo.com/m/article.amp.html?contid=2026102180052
 
-13. 롯데이노베이트, 강릉 'ITS 세계총회'서 AI·자율주행으로 미래 모빌리티 제시
+14. 모빌위더스·경기도, C-ITS 양자내성암호 실증 성과 공유
+   - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: 프라임경제
+   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE9TYjI4RjhVMWRWbzdtY3NuLUwxR1VWeUlURGJ3V1Z0TDZOdHJoQXZXeFR6SlFnaEdqalp2ZW80ZzBteDlLZF9nd1lMSGlydWZnLW1aR0VZbkFVUzRTaVhTOXFOOXF2amlFbm9uMkE0QlBXQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+15. 롯데이노베이트, 강릉 'ITS 세계총회'서 AI·자율주행으로 미래 모빌리티 제시
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 뉴데일리
    - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE8zWjI5LWhnQ0RPX3hxU2ZSdnkxOFE1UWNwRkRuYVRJOUdGSTd3VExPa1c4NXdGOHZnWk03bkZqMGZPLUJ2TzRIdk5JamJsdmZRZzdfWXZPSUQtNU5KNmg3ZFNsdDV3VFJNZkh2b1RrN05GZjZDN2VNbDdPTdIBgAFBVV95cUxQZzRLZ0dsTTFwRTdkampCVWZRRXI5cUxYd1Jad2gwTkNiemZsWmQwMHNvYTk1TUE4Tnl5TGtRTWpPem9JcHRVRXR5U3dxSlhXbHdTbkd4ckthODJUbkV4UnFMUEo2Z09GeEFTZVhWUXRqeEhYNVp0cFZIeUpmLVZjVQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 롯데이노베이트, AI·자율주행 앞세워 통합 모빌리티 시장 공략
+16. 롯데이노베이트, AI·자율주행 앞세워 통합 모빌리티 시장 공략
    - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 정보통신신문
-   - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNeExuTnprQm9Xd3k0WmhHZVozMWFIRTFkLUV1cmhFLWVsN1JvZF8wNDRLd29ITmJLWWdSdUVaTjQ0bGFkLU5YNVdhdFUwVjM1b3pWWmlzekc0TmFTMEJOOUtPRHBDd3kw0gFsQVVfeXFMTTZtQUlKa09NLVMxTUxzZGFlVWFFMDl5VkY4TlExS2Y0VDdNVGlhcldvS3BwNHhDLWVYU29QNWNjdEFHVGMtWWRUbWk5dlN1NndmbFhBak1HdnVRY0gtWExTOUM0TXpPVnZldXFw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE02bUFJSmtPTS1TMU1Mc2RhZVVhRTA5eVZGOE5RMUtmNFQ3TVRpYXJXb0twcDR4Qy1lWFNvUDVjY3RBR1RjLVlkVG1pOXZTdTZ3ZmxYQWpNR3Z1UWNILVhMUzlDNE16T1Z2ZXVxcNIBbEFVX3lxTE02bUFJSmtPTS1TMU1Mc2RhZVVhRTA5eVZGOE5RMUtmNFQ3TVRpYXJXb0twcDR4Qy1lWFNvUDVjY3RBR1RjLVlkVG1pOXZTdTZ3ZmxYQWpNR3Z1UWNILVhMUzlDNE16T1Z2ZXVxcA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. LG전자 VS연구소장 이상용 “차량·V2X를 지속 고도화해 미래 모빌리티 생태계 구축해 나갈 것”
+17. LG전자 VS연구소장 이상용 “차량·V2X를 지속 고도화해 미래 모빌리티 생태계 구축해 나갈 것”
    - 분야: C-ITS·V2X / 게재일: 2026-10-20 / 매체: elec4
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE1QeVI3RUtrRWVQZFBSTFlLUy1Cb0hTRjU1aVFNa2Y5NHY1NTFaM3U1Zzl0cWRYUUM1YzA3QlgxOUFQOWVrNWpXTWZ6MDdqekxuNk00MUFoVnc0b3UyZ0NDU0ZTYi1MVnZQamRXWUVn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 현대차·기아,레벨 4 자율주행 대형트럭 실증 추진
+18. 현대차·기아,레벨 4 자율주행 대형트럭 실증 추진
    - 분야: 자율주행 / 게재일: 2026-10-21 / 매체: 모토야
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE0wWUNoemVBcU9vd3dUc3kwcXJDNlJOVXRiUzhPM2hWVjhicGs2eGhXUzcwS1B3MjFUODlWVlZYWXoxejV3ZERLZWpJTlg0eHBQOHJ6OEdORlhHN3l5ZUxoYVo4V2cwc2R4QXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 강릉 ITS 세계총회 성황…'자율주행 실증도시' 발판
+19. 강릉 ITS 세계총회 성황…'자율주행 실증도시' 발판
    - 분야: 자율주행 / 게재일: 2026-10-22 / 매체: 연합뉴스
    - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VOGh6ODRSMzczRXNsWU0tRzNlTUlBbmFrWHVPX0FJVTNtUi00Z0lZeHIzRGlQWUltWU1Bc3NWbTRvaEUybVBuY3o1NmFnbmZPWUM2ODhyZWFPNkHSAWBBVV95cUxQUUY4UUtEYkNrYnlRSTFXcGhveDZ0NVVOOUpFa2Q2UENCaEphM3FOa05qRGpVVmZxRW9XT2J3RlpFN1pPQWpOLTl1amhNamhhOGpkZlBaX3VEdHBXXzRFTno?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. [회원사/동향] 한국 팹리스 에티포스, 美 애리조나 V2X 공급·6G 모뎀 개발
+20. [회원사/동향] 한국 팹리스 에티포스, 美 애리조나 V2X 공급·6G 모뎀 개발
    - 분야: C-ITS·V2X / 게재일: 2026-10-22 / 매체: ITS Korea
    - 원문: https://www.g-enews.com/article/Global-Biz/2026/10/2026102118573069302bd56fbc3c_1
-
-19. 퀄컴, 심장마비 C-ITS에 V2X 심폐소생술 시작한다
-   - 분야: C-ITS·V2X / 게재일: 2026-10-19 / 매체: ER 이코노믹리뷰
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE56NUhDNkI2Ti1KMTVVLTFiWmVGLTRidGFJV0J0RXRqUjAzeUczNHNObXVUektpanpKelpBd1dGSHJZQmE3M0w2b0JfNFFfcTRzTERUTEZ1a1YtUEJKR2pIN3NMV29CM2RUdlFTRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. [국토부/공지사항] 모빌리티 규제샌드박스 실증특례 승인 공고
-   - 분야: 기타 / 게재일: 2026-10-22 / 매체: ITS Korea
-   - 원문: https://www.molit.go.kr/USR/BORD0201/m_69/DTL.jsp?id=N01_B&cate=&mode=view&idx=270182&key=&search=&search_regdate_s=2025-10-22&search_regdate_e=2026-10-22&order=&desc=asc&srch_prc_stts=&item_num=0&search_dept_id=&search_dept_nm=&srch_usr_nm=N&srch_usr_titl=N&srch_usr_ctnt=N&srch_mng_nm=N&old_dept_nm=&search_gbn=&search_section=&source=&search1=&lcmspage=1
 
 ---
 
@@ -194,13 +194,13 @@
   - 마감 2026-10-27 / 발주처 Die Autobahn GmbH des Bundes - NL Rheinland
   - 원문: https://ted.europa.eu/en/notice/-/detail/721467-2026
 
-- [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S5 na odcinku od węzła Mieleszyn do węzła Poznań Wschód w latach 2027- 2031
-  - 마감 2026-10-30 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
-  - 원문: https://ted.europa.eu/en/notice/-/detail/718514-2026
-
 - [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S11c oraz S5e na odcinku od węzła Poznań Północ do węzła Mosina w latach 2027-2031.
   - 마감 2026-10-30 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
   - 원문: https://ted.europa.eu/en/notice/-/detail/716512-2026
+
+- [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S5 na odcinku od węzła Mieleszyn do węzła Poznań Wschód w latach 2027- 2031
+  - 마감 2026-10-30 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
+  - 원문: https://ted.europa.eu/en/notice/-/detail/718514-2026
 
 - [카자흐스탄] Construction Supervision Consultant for Jezkazgan–Karagandy Section of the Trans-Caspian International Transport Route (Middle Corridor)
   - 마감 2026-10-30 / 발주처 JSC National Company KazAutoZhol

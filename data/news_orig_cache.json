@@ -2717,31 +2717,31 @@
   "body": "산업통상부(장관 김정관)는 10월 21일(수) 유럽연합(EU)과 제14차 한-EU 자유무역협정(FTA) 상품무역위원회를 화상으로 개최하였다. 상품무역위원회는 한-EU FTA에 따라 상품무역에 관한 관세 및 비관세 현안을 논의하는 협의 채널로, 양측은 FTA 이행상황을 점검하는 한편, 주요 통상현안과 양측 기업의 시장진출 애로 해소방안 등을 논의하였다. * (한국측 수석대표) 김영만 통상정책국장 / (EU측 수석대표) Joanna 통상총국 국장 한-EU FTA는 2011년 발효 이후 양측의 경제협력 확대를 위한 핵심 기반으로 역할을 해왔다. 최근 보호무역주의 확산과 글로벌 공급망 재편 등 국제 통상환경의 불확실성이 확대되는 상황에서도 양측은 견조한 경제교류를 이어가고 있다. 특히 양측 교역규모는 FTA 발효 전 833억 달러에서 2025년 1,368억 달러로 약 64% 증가하였다. * 교역(억불) : (발효前)833 → (’22)1,363 → (’23)1,361 → (’24)1,329 → (’25)1,368 한→EU 투자(억불) : (‘20)125 (’21)163 (’22)155 (‘23)108 (’24)119 (‘25)154 (’26.6) 105 / (누적)1,610 EU→한 투자(억불) : (‘20)40 (’21)120 (’22)75 (‘23)62 (’24)51 (‘25)69 (’26.6) 21 / (누적)1,371 이번 회의에서 우리 측은 EU의 산업가속화법(IAA), 탄소국경조정제도(CBAM), 포장 및 포장폐기물 규정(PPWR), 화장품 안전성 평가제도 등 EU의 신규 규제가 우리 기업에 과도한 부담이나 불합리한 무역장벽으로 작용하지 않도록 EU측의 관심과 협조를 요청하였다. 특히 ▴산업가속화법(IAA)과 관련해서는 한국이 자동차·배터리 등 핵심 산업에 대한 투자와 고용 창출을",
   "date": null,
   "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172320/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23934": {
   "body": "▷ 기후에너지환경부 공적개발원조(ODA)로 한국형-녹색모빌리티의 동남아 진출 기반 마련 기후에너지환경부(장관 김성환)는 10월 22일 인도네시아 발리의 바즈라 산디 기념탑에서 ‘인도네시아 전기자동차 및 충전 기반시설(인프라) 구축 시범사업’ 출범식*을 개최한다고 밝혔다. * 전기버스와 충전소 설치를 알리는 행사로, 이관 후 사업자 선정을 거쳐 11월 중 운행 예정 이번 출범식은 글로벌녹색성장기구(GGGI)와 발리 주정부 등이 협력하여 개최되며, 현지 정부와 민관 협력 기관 관계자 등 300여 명이 참석할 예정이다. 이날 행사에는 윤순구 주인도네시아 대한민국 대사, 라흐마트 팜부디(Rachmat Pambudy) 인도네시아 국가개발기획부 장관, 와얀 코스터(Wayan Koster) 발리 주지사, 로완 프레이저(Rowan Fraser) 글로벌녹색성장기구 인도네시아 국가사무소장과 현대자동차·채비 등 기업 관계자가 함께한다. 이 사업은 기후에너지환경부의 공적개발원조(ODA) 사업으로 관광·교통 수요가 집중되는 발리 지역에 현대자동차 전기버스 11대와 전기자동차 충전기 설비 회사인 채비의 100kW급 급속충전기 6기를 도입하여 인도네시아에 친환경 대중교통 체계 구축을 지원한다. 관광 및 대중교통 수요가 많은 발리에 공공 전기버스가 공식 도입된 것은 이번이 처음이며 온실가스 배출 저감과 대중교통 환경 개선에 실질적으로 기여할 것으로 기대된다. 특히 이번 사업은 국내 유수 기업의 전기버스 및 급속충전기 설비를 성공적으로 보급·실증함으로써 국산 친환경 운송수단(모빌리티) 기자재의 우수한 품질과 기술 신뢰성을 국제적으로 입증했다는 점에서 큰 의미가 있다. 아울러 이번 실증 운영을 통해 수집되는 배터리 전비, 충전 유형, 승객 수요 등 현장 데이터는 국내 기업의 녹색 운송수단 공급망 경쟁력을 높이는 자산",
   "date": null,
   "link": "https://mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1901110&boardMasterId=939&boardCategoryId=&decorator=",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23935": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.autoelectronics.co.kr/article/articleView.asp?idx=7135",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23936": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.etnews.com/20261022000013",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23937": {
   "body": "인공지능(AI)·로봇으로 진화하는 케이(K)-치안, 『2026 국제치안산업대전』 개막 - 31개국 해외 구매자(바이어) 82명 초청 수출상담회·공공기관 구매상담회 등 사업(비즈니스) 프로그램 강화 - 국제공조협의체 총회·전문 학술회의(콘퍼런스) 40여 건 개최… 시민 체험 프로그램도 풍성 국내 유일의 경찰청 주최 치안산업 전문 전시회인 「2026 국제치안산업대전(KOREA POLICE WORLD EXPO 2026)」이 21일(수) 인천 송도컨벤시아에서 막을 올렸다. 오는 24일(토)까지 나흘간 열리는 이번 전시회에는 국내외 245개 기업이 880여 개 전시칸(부스)에서 인공지능(AI)과 로봇 등 첨단기술을 접목한 치안장비와 다양한 안전기술을 선보인다. 올해로 8회째를 맞는 국제치안산업대전은 경찰청(청장 직무대행 김종철)과 인천광역시(시장 박찬대)가 공동 주최하고, 인천관광공사(사장 유지상)·㈜메쎄이상·대한무역투자진흥공사(KOTRA)가 공동 주관한다. ‘인공지능(AI)과 로보틱스로 여는 케이(K)-치안의 새로운 시대’를 주제로 첨단 치안기술의 발전 방향을 공유하고, 국내 치안기업의 성장과 해외시장 진출을 지원하는 교류의 장으로 마련됐다. 올해 전시회에서는 ▲피지컬 인공지능(AI) ▲로보틱스 ▲정보보호 ▲인공지능(AI) 창업 초기 기업(스타트업) 등 미래 치안산업의 핵심 분야를 집중 조명한다. 인공지능(AI) 영상분석 시스템과 자율주행 순찰로봇, 치안 무인기(드론), 과학수사 장비, 사이버보안 기술 등 다양한 첨단제품을 통해 범죄 예방부터 현장 대응에 이르기까지 경찰 업무에 적용할 수 있는 미래 치안기술을 소개한다. 국내 치안기업의 판로 확대와 해외 진출을 위한 사업(비즈니스) 프로그램도 진행된다. 31개국에서 초청한 해외 구매자(바이어) 82명이 참여하는 수출상담회를 비롯해 ▲공공기관 ",
   "date": null,
   "link": "https://www.police.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1002&q_bbscttSn=20261021162240493&q_tab=&q_searchKeyTy=&q_searchVal=&q_rowPerPage=10&q_currPage=1&q_sortName=&q_sortOrder=&",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23938": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -2795,7 +2795,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.etnews.com/20261021000142",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23952": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -2819,7 +2819,79 @@
   "body": "농림축산식품부(장관 송미령, 이하 ‘농식품부’)는 10월 21일(수) 시·도 및 군 담당자 등 약 150명이 참석하는 「농촌형 교통모델」워크숍을 개최했다. 이번 워크숍은 농촌형 교통모델의 정책 추진방향과 지역의 우수사례를 공유하고 각 지방정부의 사업추진현황을 점검하여 향후 개선방향을 논의하는 등 사업의 실효성을 높이기 위해 마련됐다. 농촌형 교통모델은 대중교통 이용이 어렵거나 교통서비스가 부족한 농촌 주민에게 버스와 택시 등을 활용한 맞춤형 이동서비스를 제공하는 사업으로 전국 82개 군에서 추진하고 있다. 고령자 등 교통약자의 통원·장보기 등 일상생활을 지원하는 중요한 교통수단인 만큼, 지역 여건에 맞는 서비스 운영과 지속적인 품질 개선이 중요하다. 이번 워크숍에서는 ‘AI 기반 교통 플랫폼‘과, ’택시형 DRT(수요응답형 교통)’ 도입·활용에 대한 전남 영암군과 충남 보령시의 우수사례를 통해 지역 여건에 맞춘 서비스 개선 성과를 공유하고 향후 추진방향을 모색했다. 영암군은 ‘24년 삼호읍에 도입한 수요응답형 교통(영암콜버스)의 성과*를 확인 후, 주요 거점은 농어촌버스로 연결(간선)하고 배후 마을 이동은 콜버스와 100원 택시 등으로 보완(지선)하는 방향으로 군 전체의 대중교통 개편을 추진하고 있다. 100원 택시의 배차·정산을 플랫폼 기반으로 전환하고, 콜버스 및 택시 등을 연계하는 통합 공공 모빌리티 플랫폼을 구축할 예정이다. * 영암군 콜버스 성과 : 평균 대기시간 감소(90→26분), 월평균 탑승객 증가(‘23년 4,048명/월→도입 후 평균 9,377명/월) 보령시는 규제 실증특례를 활용해 합승이 가능한 택시형 DRT 서비스를 도입하였다. 기존 버스의 배차간격이 약 70분이었던 데 비해 택시형 DRT의 평균 대기시간은 7.4분으로 나타났으며, 평균 운행시간도 버스 51분에서",
   "date": null,
   "link": "https://mafra.go.kr/home/5109/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaG9tZSUyRjc5MiUyRjU3OTUxNSUyRmFydGNsVmlldy5kbyUzRnJnc0VuZGRlU3RyJTNEJTI2c3JjaENvbHVtbiUzRCUyNnBhc3N3b3JkJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZiYnNDbFNlcSUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhZ2UlM0QxJTI2cm93JTNEMTAlMjZiYnNPcGVuV3JkU2VxJTNEJTI2c3JjaFdyZCUzRCUyNg%3D%3D",
-  "tries": 2
+  "tries": 3
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23962": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-22",
+  "link": "https://www.aitimes.kr/news/articleView.html?idxno=42389",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23963": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-23",
+  "link": "https://www.kwnews.co.kr/article/20261022500928",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23964": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-22",
+  "link": "https://www.koit.co.kr/news/articleView.html?idxno=209621",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23965": {
+  "body": "고정밀 레이더 센서 전문기업 바이다(BYDA)가 2026 강릉 ITS 세계총회에서 교통안전과 스마트도시 구축을 위한 다양한 레이더 기반 솔루션을 선보였다. 고정밀 레이더 센서 전문기업 바이다(BYDA)가 2026 강릉 ITS 세계총회에서 교통안전과 스마트도시 구축을 위한 다양한 레이더 기반 솔루션을 선보였다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-22",
+  "link": "https://www.boannews.com/news/articleView.html?idxno=146609",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23966": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-22",
+  "link": "https://digitalchosun.dizzo.com/m/article.amp.html?contid=2026102280145",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23967": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-22",
+  "link": "https://www.boannews.com/news/articleView.html?idxno=146612",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23968": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-22",
+  "link": "https://digitalchosun.dizzo.com/m/article.amp.html?contid=2026102180052",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23969": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-22",
+  "link": "https://www.boannews.com/news/articleView.html?idxno=146613",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23970": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.mofa.go.kr/www/brd/m_4080/view.do?seq=377684&page=1&pitem=10",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23971": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.nfa.go.kr/nfa/news/pressrelease/press/?boardId=bbs_0000000000000010&mode=view&cntId=3163&category=&pageIdx=&searchCondition=&searchKeyword=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23981": {
+  "body": "...중략...협약에 따라 참여 기관은 △위험 상황 데이터 공유 △교통안전 데이터 표준화와 연동체계 구축 △정례 협의체 운영 △공동 정책 제안·기술 실증·서비스 확산 등에서 협력한다...중략... ...중략...협약에 따라 참여 기관은 △위험 상황 데이터 공유 △교통안전 데이터 표준화와 연동체계 구축 △정례 협의체 운영 △공동 정책 제안·기술 실증·서비스 확산 등에서 협력한다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.news1.kr/realestate/general/6328831",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23982": {
+  "body": "한국도로공사가 하이패스 기술을 말레이시아에 수출한다. 공사는 20일 강릉 컨벤션센터에서 말레이시아 고속도로청(LLM)과 도로·교통 분야 협력 양해각서(MOU)를 맺었다. 말레이시아는 여러 차로에서 멈추지 않고 통행료를 내는 ‘다차로 무정차 톨링’을 전국 유료고속도로에 도입할 계획이다...중략... 한국도로공사가 하이패스 기술을 말레이시아에 수출한다. 공사는 20일 강릉 컨벤션센터에서 말레이시아 고속도로청(LLM)과 도로·교통 분야 협력 양해각서(MOU)를 맺었다. 말레이시아는 여러 차로에서 멈추지 않고 통행료를 내는 ‘다차로 무정차 톨링’을 전국 유료고속도로에 도입할 계획이다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-23",
+  "link": "https://www.newscj.com/news/articleView.html?idxno=3442545",
+  "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -4361,24 +4433,78 @@
   "body": "The U.S. Department of Transportation today brought together the nation’s freight and supply chain leaders for the 2026 Freight Logistics Optimization Works (FLOW) Annual Meeting. The gathering focused on modernizing America’s supply lines to anticipate and prevent delays, bottlenecks, and disruptions–ultimately lowering consumer costs and accelerating the movement of goods for families and businesses nationwide...중략... [트럼프 행정부의 교통부는 미국 공급망 전반에 걸쳐 혁신을 촉진하기 위해 FLOW 연례 회의에서 화물 운송 업계 리더들을 초청했습니다.] 미국 교통부는 오늘 전국의 화물 및 공급망 책임자들을 초청하여 2026년 화물 물류 최적화 워크숍(FLOW) 연례 회의를 개최했습니다. 이번 회의는 미국의 공급망을 현대화하여 지연, 병목 현상 및 차질을 예측하고 예방함으로써 궁극적으로 소비자 비용을 절감하고 전국 가정과 기업의 상품 이동 속도를 높이는 데 중점을 두었습니다. The U.S. Department of Transportation today brought together the nation’s freight and supply chain leaders for the 2026 Freight Logistics Optimization Works (FLOW) Annual Meeting. The gathering focused on modernizing",
   "date": null,
   "link": "https://www.transportation.gov/briefing-room/trumps-transportation-department-hosts-freight-leaders-flow-annual-meeting-unleash",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23947": {
   "body": "NVIDIA today announced that leading automakers in Europe and mobility providers, including Bolt with Lucid , Mercedes-Benz , Volkswagen Commercial Vehicles and Einride, are showcasing selected autonomous-mobility use cases on the NVIDIA Hyperion computing platform, demonstrating potential applications for level 3 and level 4 vehicles as well as future robotaxi fleets...중략... [유럽 ​​모빌리티 선도 기업들이 NVIDIA Hyperion을 기반으로 안전한 차량 및 로보택시 운영 시스템을 구축하고 있습니다.] 엔비디아는 오늘 유럽의 주요 자동차 제조업체와 모빌리티 제공업체( 볼트와 루시드 , 메르세데스-벤츠 , 폭스바겐 상용차, 아인라이드 포함)가 엔비디아 하이페리온 컴퓨팅 플랫폼에서 자율주행 활용 사례를 선보이며, 레벨 3 및 레벨 4 자율주행 차량은 물론 미래의 로보택시에도 적용될 수 있는 잠재적 가능성을 보여준다고 발표했습니다. NVIDIA today announced that leading automakers in Europe and mobility providers, including Bolt with Lucid , Mercedes-Benz , Volkswagen Commercial Vehicles and Einride, are showcasing selected autonomous-mobility use cases on the NVIDIA Hyperion computing platfo",
   "date": null,
   "link": "https://nvidianews.nvidia.com/news/european-mobility-leaders-build-safe-vehicles-and-robotaxi-fleets-on-nvidia-hyperion",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23950": {
   "body": "Ethiopia’s transition to electric mobility is changing the economics of transport for people who depend on vehicles to earn an income. For taxi drivers, delivery riders and fleet operators, electric vehicles offer the potential to reduce operating costs, but realising those benefits depends on more than the vehicle itself. Reliable charging, affordable pricing and services that make charging accessible and convenient are equally important...중략... [충전기 그 이상: 에티오텔레콤이 에티오피아의 전기차 전환에 기여하는 역할 ] 에티오피아의 전기 이동성으로의 전환은 차량에 의존하여 생계를 유지하는 사람들의 교통 경제에 변화를 가져오고 있습니다. 택시 운전사, 배달원, 그리고 차량 관리 업체에게 전기 자동차는 운영 비용 절감의 잠재력을 제공하지만, 이러한 이점을 실현하기 위해서는 차량 자체만으로는 부족합니다. 안정적인 충전, 합리적인 가격, 그리고 편리하고 접근성 높은 충전 서비스 또한 매우 중요합니다. Ethiopia’s transition to electric mobility is changing the economics of transport for people who depend on vehicles to earn an income. For taxi drivers, delivery riders and fleet operators, el",
   "date": null,
   "link": "https://www.gsma.com/solutions-and-impact/connectivity-for-good/mobile-for-development/blog/beyond-the-charger-ethio-telecoms-role-in-ethiopias-e-mobility-transition/",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23953": {
   "body": "...중략...What Toyota didn't show last year, was video footage of these objects actually carrying people. But now they've released one:..중략... 작년에 토요타가 공개하지 않았던 것은 이 물체들이 실제로 사람을 태우고 있는 모습의 영상이었습니다. 하지만 이제 그들은 그 영상을 공개했습니다. ...중략...What Toyota didn't show last year, was video footage of these objects actually carrying people. But now they've released one:..중략... 작년에 토요타가 공개하지 않았던 것은 이 물체들이 실제로 사람을 태우고 있는 모습의 영상이었습니다. 하지만 이제 그들은 그 영상을 공개했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://www.core77.com/posts/145699/Toyota-Releases-Video-of-Wheelchair-Alternative-Mobility-Concepts-in-Action",
-  "tries": 2
+  "tries": 3
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23972": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.wardsauto.com/news/mercedes-benz-and-nvidia-extend-strategic-technology-partnership/833391/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23973": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.gurufocus.com/news/9134442/hesai-hsai-advances-6d-fullcolor-lidar-technology-amid-market-valuation-challenges",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23974": {
+  "body": "Transport data platform Alchera Technologies, which says it turns weeks of data analysis into same-day decisions for highways operators and local authorities, has raised £2.7 million in seed funding...중략... 교통 데이터 플랫폼인 알케라 테크놀로지스(Alchera Technologies)는 수 주간의 데이터 분석을 통해 도로 운영업체와 지방 당국이 당일 의사 결정을 내릴 수 있도록 지원한다고 밝히며, 270만 파운드의 시드 펀딩을 유치했습니다. Transport data platform Alchera Technologies, which says it turns weeks of data analysis into same-day decisions for highways operators and local authorities, has raised £2.7 million in seed funding...중략... 교통 데이터 플랫폼인 알케라 테크놀로지스(Alchera Technologies)는 수 주간의 데이터 분석을 통해 도로 운영업체와 지방 당국이 당일 의사 결정을 내릴 수 있도록 지원한다고 밝히며, 270만 파운드의 시드 펀딩을 유치했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-22",
+  "link": "https://www.itsinternational.com/alchera-gains-2-7-million-in-funding/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23975": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-09-17",
+  "link": "https://www.digitimes.com/news/a20260916PD205/nvidia-autonomous-driving-ai-chip-design-chips.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23976": {
+  "body": "Increasing TEITLD – France’s tax on the operation of long-distance transport infrastructure – would undermine private investment, the transition to sustainable mobility and European competitiveness, says a leading tolling group...중략... 프랑스의 장거리 교통 인프라 운영세인 TEITLD를 인상하면 민간 투자, 지속 가능한 이동성으로의 전환 및 유럽 경쟁력을 저해할 것이라고 한 주요 통행료 징수 단체가 밝혔습니다. Increasing TEITLD – France’s tax on the operation of long-distance transport infrastructure – would undermine private investment, the transition to sustainable mobility and European competitiveness, says a leading tolling group...중략... 프랑스의 장거리 교통 인프라 운영세인 TEITLD를 인상하면 민간 투자, 지속 가능한 이동성으로의 전환 및 유럽 경쟁력을 저해할 것이라고 한 주요 통행료 징수 단체가 밝혔습니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-21",
+  "link": "https://www.itsinternational.com/asecap-warns-against-france-increasing-infrastructure-tax/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23977": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-08",
+  "link": "https://www.tcabmobility.com.au/autonomous-vehicle-regulation-australia",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23978": {
+  "body": "ITS Europe announces the opening of submissions for the Technical Programme at the 33rd ITS World Congress in Birmingham, UK, inviting researchers, academics, transport professionals, policymakers and industry experts from around the world to share their expertise, research findings and experience...중략... ITS Europe는 영국 버밍엄에서 개최되는 제33회 ITS 세계 총회 기술 프로그램 참가 신청 접수를 시작한다고 발표했습니다. 전 세계 연구자, 학계 인사, 교통 전문가, 정책 입안자 및 업계 전문가들이 전문 지식, 연구 결과 및 경험을 공유하기 위해 이번 총회에 참여합니다. ITS Europe announces the opening of submissions for the Technical Programme at the 33rd ITS World Congress in Birmingham, UK, inviting researchers, academics, transport professionals, policymakers and industry experts from around the world to share their expertise, research findings and experience...중략... ITS Europe는 영국 버밍엄에서 개최되는 제33회 ITS 세계 총회 기술 프로그램 참가 신청 접수를 시작한다고 발표했습니다. 전 세계 연구자, 학계 인사, 교통 전문가, 정책 입안자 및 업계 전문가들이 전문 지식, 연구 결과 ",
+  "date": "2026-10-22",
+  "link": "https://ertico.com/2027-its-world-congress-opens-submissions-for-its-technical-programme",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23979": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-04-29",
+  "link": "https://latamobility.com/en/abve-latam-mobility-brazil-2026-market-share-electrified-vehicles-2026/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23980": {
+  "body": "ITSAC 2027, the first Intelligent Transport Systems Africa Conference, will be held over two days in Cape Town, South Africa, next year. ITSAC 2027 is organised by Innovative Transport Solutions in partnership with Ertico – ITS Europe and hosted by the Western Cape government and the city of Cape Town...중략... [Ertico가 주최하는 제1회 ITS 아프리카 컨퍼런스가 2027년에 개최될 예정입니다. 제1회 아프리카 지능형 교통 시스템 컨퍼런스인 ITSAC 2027이 내년 남아프리카공화국 케이프타운에서 이틀간 개최될 예정입니다. ITSAC 2027은 Innovative Transport Solutions가 Ertico – ITS Europe와 협력하여 주최하고 서부 케이프 주 정부와 케이프타운 시가 공동으로 후원합니다. ITSAC 2027, the first Intelligent Transport Systems Africa Conference, will be held over two days in Cape Town, South Africa, next year. ITSAC 2027 is organised by Innovative Transport Solutions in partnership with Ertico – ITS Europe and hosted by the Western Cape government and the city of Cape Town...중략... [Ertico가 주최하는 제1회 ITS 아프리카 컨퍼런스가 2027년에 개최될 예",
+  "date": "2026-10-21",
+  "link": "https://www.itsinternational.com/erticos-inaugural-its-africa-conference-set-for-2027/",
+  "tries": 1
  }
 }
