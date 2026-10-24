@@ -194,14 +194,6 @@
   - 마감 2026-10-27 / 발주처 Die Autobahn GmbH des Bundes - NL Rheinland
   - 원문: https://ted.europa.eu/en/notice/-/detail/721467-2026
 
-- [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S11c oraz S5e na odcinku od węzła Poznań Północ do węzła Mosina w latach 2027-2031.
-  - 마감 2026-10-30 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
-  - 원문: https://ted.europa.eu/en/notice/-/detail/716512-2026
-
-- [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S5 na odcinku od węzła Mieleszyn do węzła Poznań Wschód w latach 2027- 2031
-  - 마감 2026-10-30 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
-  - 원문: https://ted.europa.eu/en/notice/-/detail/718514-2026
-
 - [카자흐스탄] Construction Supervision Consultant for Jezkazgan–Karagandy Section of the Trans-Caspian International Transport Route (Middle Corridor)
   - 마감 2026-10-30 / 발주처 JSC National Company KazAutoZhol
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475091
@@ -245,3 +237,11 @@
 - [폴란드] Poland – Repair and maintenance services – KU.241/pn63_2026/AT - Świadczenie usług polegających na diagnozowaniu usterek, usuwaniu awarii, wykonywaniu napraw oraz zapewnieniu sprawności technicznej tablic Dynamicznej Informacji Przystankowej (DIP) zlokalizowanych na terenie miasta Wrocławia i podłączonych do Systemu Dynamicznej Informacji Pasażerskiej
   - 마감 2026-11-09 / 발주처 Miejskie Przedsiębiorstwo Komunikacyjne Sp. z o.o. we Wrocławiu
   - 원문: https://ted.europa.eu/en/notice/-/detail/726734-2026
+
+- [파키스탄] Karachi Bus Rapid Transit Red Line Project
+  - 마감 2026-11-09 / 발주처 -
+  - 원문: https://www.adb.org/node/1186471
+
+- [프랑스] France – Traffic lights – Fourniture de contrôleurs de feux tricolores et de matériels de visualisation
+  - 마감 2026-11-16 / 발주처 Communauté d'agglomération Bourges Plus
+  - 원문: https://ted.europa.eu/en/notice/-/detail/722654-2026
