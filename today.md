@@ -76,25 +76,25 @@
    - 분야: 대중교통·물류 / 게재일: 2026-10-22 / 매체: ITS Korea
    - 원문: https://www.transportation.gov/briefing-room/trumps-transportation-department-hosts-freight-leaders-flow-annual-meeting-unleash
 
-16. MLFF toll system to use AI and digital technology – Nanta
+16. KiwiRail celebrates major signalling milestone
+   - 분야: 신호·관제 / 게재일: 2026-10-19 / 매체: Rail Express
+   - 원문: https://news.google.com/rss/articles/CBMihAFBVV95cUxOT0psd21JTzdVeDl0d3ZHVUdFd3o5QjloZ1ZpZDhMUTJ0aFRSbTBycEpFdmxZSXl2WV9DNllaZnRJQXd5WnVNNFNHSkhkMW1tdVZBNDY4R21TVFZ5bml1UFQyTDlkbHctWWc5N2t5ZVlyMlh4M1gzdUs3SG01OHhFdTlzZzE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. MLFF toll system to use AI and digital technology – Nanta
    - 분야: 요금·통행료 / 게재일: 2026-10-19 / 매체: The Sun Malaysia
    - 원문: https://news.google.com/rss/articles/CBMihgFBVV95cUxPQ2FyN2VFMC1zcjloNWRjYkxHYTduc1RCU0VYYnVCRWFQS2pPTERnWW96eWtwRXFmUmZuUGJRQUE5aWp5NUY3TW16NXRmeUJURTk2WWgyMDU0czRqN2tqZW9QSzI3MkRBaWpINzFmQVZzMXJUd1ZfX04wUUZCZWZ1cFEybmlpZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. Marco Island traffic signals getting major upgrade at 10 intersections
+18. Marco Island traffic signals getting major upgrade at 10 intersections
    - 분야: 신호·관제 / 게재일: 2026-10-20 / 매체: WINK News
    - 원문: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMTJUWURZbjFRSXJqb1NveV9OXzN6NGRnYkdyVzJqUGE4MFQwWHZiUl9sejZTMUJ0dG5VTkhic3JDeHRrN0JibGNWT2dIMDFyd0NVeGNZOHR4SkpkLXJIYW53QUczQnBiczlpamtTRE90TzR5a191SkMzOG1JSEtjOGZNZkNza05HU2U3Wk1sRFhkbVlPa3ZXMDRqNXhIdFlSOXNYbnVMcEx3dFBrNDg3ODRaUnlfUzBiczRuSWZEcjl5ckZaTDcwOXJiOUs1aHo3TmF6MWVoZzVMTkZCdXY1a29RV0t1MzJMeUJyZGhwMA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. Waymo plans to quintuple fleet to 20,000, Semafor reports
+19. Waymo plans to quintuple fleet to 20,000, Semafor reports
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: ITS Korea
    - 원문: https://www.aol.com/articles/waymo-plans-quintuple-fleet-20-232801000.html
 
-19. [유럽] QCraft Signs MOU with HERE Technologies to Advance Localized Autonomous Driving in Europe
+20. [유럽] QCraft Signs MOU with HERE Technologies to Advance Localized Autonomous Driving in Europe
    - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: ITS Korea
    - 원문: https://www.businesswire.com/news/home/20261016280213/en/QCraft-Signs-MOU-with-HERE-Technologies-to-Advance-Localized-Autonomous-Driving-in-Europe?utm_source=chatgpt.com
-
-20. Traffic signal upgrades in the works for downtown JC, Gray
-   - 분야: 신호·관제 / 게재일: 2026-10-21 / 매체: Johnson City Press
-   - 원문: https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEJ3ODJwT3RmYzVPN0dlaVZGdGp3YnNsaGhJTV9sVVgtc3czUWItT3hSV2QzUkFzUnFseWo5YXdoZF9Ld2hZWGFfMEVMcWI0bGYxeDhva2xiUFdKWXBEZmRNaERxMS1ub1E3bXhIQ0RLNGVZTzlrMGJ3OHlfejdIczNmYzBnMDhjbHV1QU1Lb08td2MyWGQ0Tk50T3dnTmVN?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -122,17 +122,17 @@
    - 분야: 자율주행 / 게재일: 2026-10-18 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wYmJtX2pUYmE0QkRDMS1PMEROdnhzU3VzcVNhX0lHNC1BV0xwRWp2RFdQSmRjWGNmNlFoU28xWjBmbWlBczBHQ2lSbGZFN3k5SFRJdXRVN3JmZnlw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. 현대차·기아, 레벨 4 자율주행 대형트럭 실증 추진 | 뉴스 | 현대자동차그룹
-   - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: Hyundai Motor Group
-   - 원문: https://news.google.com/rss/articles/CBMisgFBVV95cUxPbU5TZVhNdmxSWm85VzQ5ZXVoM3VmbC1GTHJ3MDJ6N1JjSVYtbVBRSTd5U1VqS1BFQ05aMjUxNVRPQl9xYnY0eHRPUU5fVGRLcTRYNF96NGxHYXBRME9tVzh2UEF5c3JzSnBtQ2dwY3hHTDVDYlA2NHFXTWx0U2pPMFl4eWtub1EzV01LZjJ3d3VkdDY1SjNQYlRpdGl1aEZ1N2lTN0h4YXZqMWFVY2NBRnhn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-7. 내달 상암서 서울 첫 레벨4 자율주행 택시…라이드플럭스가 맡는다
+6. 내달 상암서 서울 첫 레벨4 자율주행 택시…라이드플럭스가 맡는다
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tay11WjdfRV9jU0lpUXJTRjVJMTlZdTdQRndjNTZ6Q0NuSnotb2tZRlp0WkdpMWJLYU5EOXE1YmJTQnpRNmc2MGx6SmFPQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. 현대차그룹 트럭 완전자율주행, 내년 도로서 실증 나선다
+7. 현대차그룹 트럭 완전자율주행, 내년 도로서 실증 나선다
    - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 동아일보
    - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTE1HUjdFZkM4ZTdGSFUxNWRVMThDR1ZlWDRURkNURENZSnNTWW1fMHVVZVEwaHk0V2hPSktiVnBHYmY3UjJlSUVRQmlaYktjYUo3aU1RckRubzhxTkh2d2tWRVNrMUxtSGRiNlg4cjhHR1I1RFpOaGfSAWZBVV95cUxNOS1YV2FoSGZwUUw2MnAzUTByS3F2STAwU29RMWdwU2NjTVBNS3VUbHMyaVBrTTFCTWd3WWpRZHNXNFRqUHMtMS1RVFZpMng1Z2FSQkVnZ0FHcmdyR1Nhd2hTVl9tT2c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+8. 현대차·기아, 레벨4 자율주행 대형트럭 실증 추진
+   - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 전자신문
+   - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wZnJvY3IwSUZKdmxUaGJjVXRJcHV1SHpQMGdFemRwS293aFMxc0V0R2ZzUGo1SVhCMms3Q1djazlRMFhvWVA5T2dveHVHUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 9. LG전자, V2X·V2N 결합 교통안전 기술 공개 … 글로벌 모빌리티 시장 공략
    - 분야: C-ITS·V2X / 게재일: 2026-10-20 / 매체: 워크투데이
@@ -158,17 +158,17 @@
    - 분야: 자율주행 / 게재일: 2026-10-24 / 매체: 자본시장뉴스
    - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FZjAwb1RhT0xnSGFjengwSXRmdHJNd0lma3o3b0trXzBReTA2LUJiTjJYV3Q1UlhRaWphMW5IakFhdnVBMDFFU2lZWmhNZ2NvU1dPYzFVTjlGUGdqekNRWW1idjdhUmc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 롯데이노베이트, 강릉 'ITS 세계총회'서 AI·자율주행으로 미래 모빌리티 제시
+15. 롯데이노베이트, '실증 도시' 강릉서 자율주행 기술 선보인다
+   - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 테크M
+   - 원문: https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYQzJzbS11NFdlb0FDSS1WODNWay1PY2k2WHVvdDRsbUFuYlFfRm5qYktSdXdzeEZLVmN5VHdjN3N5cEZWSm5NNk5BWUQ3VHh2bGpCR0RZS1lneEk2SzdIUFJueEtId9IBakFVX3lxTFB6eENHVnFpMUI5TUVPaDBKVGNyOTJONWN2M1VnRE95MWR1cms0WVNua2JRYUZ4WjYtV191cEhkLXlVTkgycVMtQVBDLVJCQ1pFQnJqVTdQT2x3b05HTm1OZVhSeDNkVUQ0cFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+16. 롯데이노베이트, 강릉 'ITS 세계총회'서 AI·자율주행으로 미래 모빌리티 제시
    - 분야: 자율주행 / 게재일: 2026-10-19 / 매체: 뉴데일리
    - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE8zWjI5LWhnQ0RPX3hxU2ZSdnkxOFE1UWNwRkRuYVRJOUdGSTd3VExPa1c4NXdGOHZnWk03bkZqMGZPLUJ2TzRIdk5JamJsdmZRZzdfWXZPSUQtNU5KNmg3ZFNsdDV3VFJNZkh2b1RrN05GZjZDN2VNbDdPTdIBgAFBVV95cUxQZzRLZ0dsTTFwRTdkampCVWZRRXI5cUxYd1Jad2gwTkNiemZsWmQwMHNvYTk1TUE4Tnl5TGtRTWpPem9JcHRVRXR5U3dxSlhXbHdTbkd4ckthODJUbkV4UnFMUEo2Z09GeEFTZVhWUXRqeEhYNVp0cFZIeUpmLVZjVQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 롯데이노베이트, AI·자율주행 앞세워 통합 모빌리티 시장 공략
+17. 롯데이노베이트, AI·자율주행 앞세워 통합 모빌리티 시장 공략
    - 분야: 자율주행 / 게재일: 2026-10-20 / 매체: 정보통신신문
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNeExuTnprQm9Xd3k0WmhHZVozMWFIRTFkLUV1cmhFLWVsN1JvZF8wNDRLd29ITmJLWWdSdUVaTjQ0bGFkLU5YNVdhdFUwVjM1b3pWWmlzekc0TmFTMEJOOUtPRHBDd3kw0gFsQVVfeXFMTTZtQUlKa09NLVMxTUxzZGFlVWFFMDl5VkY4TlExS2Y0VDdNVGlhcldvS3BwNHhDLWVYU29QNWNjdEFHVGMtWWRUbWk5dlN1NndmbFhBak1HdnVRY0gtWExTOUM0TXpPVnZldXFw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-17. LG전자 VS연구소장 이상용 “차량·V2X를 지속 고도화해 미래 모빌리티 생태계 구축해 나갈 것”
-   - 분야: C-ITS·V2X / 게재일: 2026-10-20 / 매체: elec4
-   - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE1QeVI3RUtrRWVQZFBSTFlLUy1Cb0hTRjU1aVFNa2Y5NHY1NTFaM3U1Zzl0cWRYUUM1YzA3QlgxOUFQOWVrNWpXTWZ6MDdqekxuNk00MUFoVnc0b3UyZ0NDU0ZTYi1MVnZQamRXWUVn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 18. 강릉 ITS 세계총회 성황…'자율주행 실증도시' 발판
    - 분야: 자율주행 / 게재일: 2026-10-22 / 매체: 연합뉴스
