@@ -2873,24 +2873,108 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mofa.go.kr/www/brd/m_4080/view.do?seq=377684&page=1&pitem=10",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23971": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.nfa.go.kr/nfa/news/pressrelease/press/?boardId=bbs_0000000000000010&mode=view&cntId=3163&category=&pageIdx=&searchCondition=&searchKeyword=",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23981": {
   "body": "...중략...협약에 따라 참여 기관은 △위험 상황 데이터 공유 △교통안전 데이터 표준화와 연동체계 구축 △정례 협의체 운영 △공동 정책 제안·기술 실증·서비스 확산 등에서 협력한다...중략... ...중략...협약에 따라 참여 기관은 △위험 상황 데이터 공유 △교통안전 데이터 표준화와 연동체계 구축 △정례 협의체 운영 △공동 정책 제안·기술 실증·서비스 확산 등에서 협력한다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://www.news1.kr/realestate/general/6328831",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=23982": {
   "body": "한국도로공사가 하이패스 기술을 말레이시아에 수출한다. 공사는 20일 강릉 컨벤션센터에서 말레이시아 고속도로청(LLM)과 도로·교통 분야 협력 양해각서(MOU)를 맺었다. 말레이시아는 여러 차로에서 멈추지 않고 통행료를 내는 ‘다차로 무정차 톨링’을 전국 유료고속도로에 도입할 계획이다...중략... 한국도로공사가 하이패스 기술을 말레이시아에 수출한다. 공사는 20일 강릉 컨벤션센터에서 말레이시아 고속도로청(LLM)과 도로·교통 분야 협력 양해각서(MOU)를 맺었다. 말레이시아는 여러 차로에서 멈추지 않고 통행료를 내는 ‘다차로 무정차 톨링’을 전국 유료고속도로에 도입할 계획이다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": "2026-10-23",
   "link": "https://www.newscj.com/news/articleView.html?idxno=3442545",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23984": {
+  "body": "- ’27년까지 무인 로보택시 운행을 위한 서비스 사업자 제도화 등 제도 완비 □정부가 글로벌 선도 수준의 제도 정비로 자율주행 AI 개발과 서비스 상용화 지원에 나선다. ㅇ 이동로봇이 공동주택‧공원‧주차장 등 실생활 공간에서 상용화되기 위한 종합적인 정책기반을 마련하고, 창업기업의 행정서류를 획기적으로 정비하여 신산업‧신기술 기업 발전을 지원한다. □ 대통령 소속 ‘규제합리화위원회(위원장 : 대통령)’의 제2차 전체회의가 10월 23일 오후 2시 청와대에서 대통령 주재로 열렸다. ㅇ논의된 내용 중 국토교통부(장관 홍지선)와 관련된 사항은 다음과 같다. □ 자율주행은 피지컬AI의 핵심기술일 뿐만 아니라, 고령화 사회를 대비하여 보편적 이동권을 보장하고 교통안전성 제고 및 지역 균형발전을 뒷받침하는 국가 전략기술로서 AI시대 국가경쟁력을 좌우하는 핵심 산업이다. ㅇ 정부는 그간 두 차례 규제합리화회의(’25.9, ’26.4) 등을 통한 규제개선으로 연구개발 목적의 자율차 특례를 무인 로보택시 운행 및 유상운송까지 가능하도록 정비하였다. □ 이번 ‘자율주행 경쟁국 수준 규제합리화 방안’은 대한민국이 세계 3대 자율주행 강국으로 도약할 수 있는 발판을 마련하는 것을 목표로 하여, ㅇ 실증도시 사업 확대 등 기업의 자유로운 실증 지원을 위해 규제체계를 추가로 정비하고, 무인 자율차 상용화를 대비하여 글로벌 선도 수준의 서비스 체계를 구축해 나갈 계획이다. □ 실증특례 상시 제도화, 인허가 간소화로 기업 편의를 제고하고, 원본 데이터 활용 범위를 확대하여 자율주행 AI 성능을 높이도록 지원한다. □ 무인 자율차는 ｢도로교통법｣ 등에서 부여하는 운전자 의무를 적용하기 곤란하여, 매번 규제 샌드박스 등 특례를 신청해야 했다. □ 실증 단계에서의 행정절차 간소화 및 상용화까지 대비하기 위해 경찰청 ",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092514",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23985": {
+  "body": "- ➀메가프로젝트·5극3특 성장엔진 등 지방주도 성장 조기성과 창출 적극 뒷받침 ▸단일 법률 역대 최대 규제특례 + 범정부 지원을 결합한 초광역특구법 제정 추진 ▸메가프로젝트로봇·반도체·AI데이터센터·5극3특 성장엔진자율차·바이오 경쟁국 수준 규제 합리화 ▸획일적·경직적 창업 인정 기준, 불합리한 금융거래 등 창업 핵심 규제 해소 ▸과도한 서류 폐지, 분량과 양식 합리화 등 창업기업 행정서류 재설계 추진 【관련 국정과제】 19. 민생·안전과 공정·상생을 위한 규제 합리화 36. 경제‧산업 도약을 위한 신산업 규제 재설계 □ 정부는 10.23(금) 오후 2시 청와대 영빈관에서 대통령 소속 ‘규제합리화위원회(위원장 : 대통령)’ 제2차 전체회의를 개최했다. ㅇ 이날 회의는 대통령 주재로 국무총리 및 민간 부위원장(3인), 규제합리화위원회 위원, 현장 전문가 등 100여 명이 참석해 ‘성장에 날개를, 민생에 활력을, 지역에 미래를’이라는 슬로건 아래 지방주도 성장, 국가창업시대 전환 등을 위한 규제합리화 방안에 대한 의견을 나눴다. ㅇ 특히, 현장 중심의 논의를 강화하기 위해 메가프로젝트(로봇·반도체·AI 데이터센터), 5극3특 핵심 신산업(자율차·바이오), 창업 등 다양한 분야의 전문가를 초청해 현장에서 겪는 규제 애로를 듣고, 개선대책을 모색했다. □ 정부는 올해 2월, 규제합리화 全 과정의 강력한 실행력을 확보하기 위해 28년 만에 위원장을 국무총리에서 대통령으로 격상하고, 민간위원 참여를 확대(17→33명)하는 등 규제합리화 추진체계를 대폭 개편했다. ㅇ 개편 이후 처음 개최된 제1차 전체회의(4.15일)에서는「국민주권정부 규제 구조개혁 방향」과 「지방주도 성장을 위한 초광역특구 추진방향」등 규제합리화의 새로운 방향을 제시했다. □ 이번 2차 회의에서는 1차 회의시 논의한 사항을 구",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092515",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23986": {
+  "body": "- 3기 신도시, 직접 인‧허가형 5개 사업 집중 점검 및 대상 확대 등 □ 국토교통부(장관 홍지선) 대도시권광역교통위원회(위원장 김용석, 이하 대광위)는 10월 26일 오후 서울지방국토관리청, 한국토지주택공사(LH) 등 관계기관과 함께 3기 신도시 교통대책의 차질없는 이행을 위해 ｢신도시 교통대책 신속추진 TF*｣ 점검회의를 개최한다. * 신도시 교통대책 중 개선효과가 크거나 갈등, 인허가 장기화 등으로 지연이 우려되는 사업의 집중관리를 위해 대광위‧지자체‧사업시행자 합동으로 매년 운영 중(‘24~) □ 이번 회의는 올해 4월부터 운영 중인 ｢신도시 교통대책 신속추진 TF｣의 추진상황을 점검하고, 특히 국토교통부(지방국토관리청)가 직접 도로사업 계획을 승인하는 ‘직접 인허가형’ 사업*의 추진상황을 집중 점검하기 위해 마련하였다. * 다수의 지방자치단체에 걸치는 도로사업 등에 대해 국토교통부가 직접 도로사업계획을 승인하여 인허가 기간을 단축하는 방식(광역교통법 개정, ‘25.10월~) ㅇ 현재 ‘직접 인‧허가형’으로 관리하고 있는 총 8개 사업 중에서 3기 신도시와 관련된 사업은 ▲하남교산 동남로 연결도로 신설, ▲하남교산 동남로 확장 및 개선, ▲하남교산 서하남IC 입구 교차로 부분확장, ▲인천계양 벌말로 확장 ▲부천대장 경명대로 신설 등 5개 사업이며, ㅇ 사업별로 설계·인허가 등 현재 추진단계와 향후 주요 일정을 면밀히 점검하고, 사업추진 과정에서 발생하는 관계기관 협의 등을 신속하게 진행하여 인‧허가 기간을 최대한 단축할 계획이다. □ 아울러, 이번 회의에서는 3기 신도시 교통대책 중 ‘직접 인‧허가형’으로 관리하는 대상 사업을 확대하는 방안도 논의한다. ㅇ 관계기관과 함께 사업별 추진여건과 직접 인‧허가 필요성 등을 종합적으로 검토하여 인천계양 광역교통개선대책 중 2개 도로사",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092519",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23987": {
+  "body": "- 지역 활성화 정책 공유, 기업·연구기관 간 미래성장산업 협력 방안 모색 산업통상부(장관 김정관, 이하 산업부)는 10월 23일(금) 대구에서 일본 경제산업성 주부(中部) 경제산업국과 함께 「제22회 한·일(호쿠리쿠) 경제교류회의」를 개최하고, 양국 지역산업이 축적해 온 제조 역량을 바탕으로 첨단소재·AI·로봇 등 미래산업 분야의 협력 확대 방안을 논의했다. * 주부(中部) 경제산업국 : 日 경제산업성 지방지국 8개 중 하나로, 중부지역 5개현(아이치·기후·미에·도야마·이시카와) 관할 이번 회의에는 한-일 양국 정부·지자체·경제단체·기업·연구기관 관계자 등 150여 명이 참석했으며, 한일경제협회와 호쿠리쿠경제연합회, 호쿠리쿠AJEC*가 공동 주관했다. * 호쿠리쿠경제연합회 : 도야마·이시카와·후쿠이 등 호쿠리쿠 3현 종합경제단체 호쿠리쿠환일본해경제교류촉진협의회(AJEC) : 국제경제·무역·투자확대 산학관 협의체 한·일(호쿠리쿠) 경제교류회의는 코로나19 기간을 제외하고 2000년부터 26년간 한국 대구·울산·강원·경북과 일본 호쿠리쿠 3개현(도야마·이시카와·후쿠이)이 무역·투자·산업기술 분야에서 협력해 온 양국 지방 정부·기업 간 유서 깊은 경제협력 채널이다. 올해는 「수교 60주년 기념을 넘어, 실천으로」를 주제로, 그간 쌓아온 신뢰와 교류를 바탕으로 미래산업 분야의 구체적인 협력을 모색해 나가는 데 초점을 맞췄다. 먼저 첨단소재 분야에서는 한-일간 제조·연구 역량을 연계한 기술협력 방안을 논의했다. 경북테크노파크와 일본 츠다코마공업·가나자와공업대학 혁신복합재료 연구개발센터는 탄소섬유 복합재 관련 기술과 연구 성과를 공유하고, 공동연구 및 기술교류 방안을 모색했다. AI·로봇 분야에서는 기술의 산업현장 적용과 활용 확대 방안에 중점을 두었다. 클라우드 소프트웨어 기업 (주)틸론과 ",
+  "date": null,
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172323/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23988": {
+  "body": "- 아프리카 5개국 재난관리 공무원 대상 1차년도 초청연수 운영(10.25.~11.5.) 행정안전부 국가재난안전교육원(원장 문영훈)은 10월 25일(일)부터 11월 5일(목)까지 아프리카 5개국* 재난관리 분야 공무원 17명을 초청하여 ‘기후위기 재난대응 역량강화’ 1차년도 연수를 실시한다. 이번 연수는 2026년부터 2028년까지 3개년에 걸쳐 추진되는 초청연수의 첫 번째 과정으로, 홍수·가뭄 등 기후재난의 빈도와 강도가 갈수록 커지는 상황에서 아프리카 5개국의 재난 대응 역량을 강화하기 위해 마련됐다. 연수에서는 한국의 재난관리 체계와 위기관리 정책을 비롯하여 ▴한국의 홍수 재난관리 및 예⋅경보체계 ▴정보통신기술(ICT) 활용 재난안전 통신망 실습 ▴스마트 재난대응 및 현장지휘 시스템 ▴재난복구 및 거버넌스 등 재난관리 정책과 기술을 폭넓게 소개한다. 참가자들은 자국의 기후재난 현황과 재난관리 체계를 공유하는 국가별 보고도 진행한다. 이어 연수 과정에서 배운 한국의 정책과 기술을 자국 여건에 맞게 적용하기 위한 실행계획(액션플랜) 초안을 세워 발표하며, 교육성과가 실제 재난관리 정책과 업무로 이어지도록 한다. 이번 연수는 강의와 현장 견학을 유기적으로 연계해 구성했다. 참가자들은 ▴세종시 도시통합정보센터에서 ICT 기반 도시안전 통합관제시스템을 살펴보고 ▴공주시 수해복구현장과 자연재해위험개선지구에서 실제 홍수피해 복구와 예방사업 사례를 확인하며 ▴한국수자원공사(K-water)에서 종합상황실 및 물관리 현장을 견학하는 등 한국의 재난관리 정책과 기술이 현장에 적용된 모습을 직접 경험한다. 또한 유엔재난위험경감사무국(UNDRR)과 연계해 재난위험경감 국제 프레임워크, 포괄적 재난위험관리, 조기경보체계 등을 학습하며 기후위기 대응을 위한 국제사회의 정책 방향에 대한 이해를 높인다. 국가",
+  "date": null,
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=130455",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23991": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-26",
+  "link": "https://www.edaily.co.kr/News/Read?newsId=01977846645616856&mediaCodeNo=257",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23993": {
+  "body": "에티포스는 지난 15일 경기도 성남시 분당구 본사에서 넥스윌과 '방산 분야 기술개발 및 사업협력 양해각서(MOU)'를 체결했다고 16일 밝혔다. 이번 협약은 에티포스의 통신모뎀·반도체 IP(지식재산권) 설계 역량과 넥스윌의 RF·디지털 신호처리 및 방산장비 기술력을 결합해 방산분야 공동 개발 기회 발굴과 제품화를 목표로 한다. 에티포스는 지난 15일 경기도 성남시 분당구 본사에서 넥스윌과 '방산 분야 기술개발 및 사업협력 양해각서(MOU)'를 체결했다고 16일 밝혔다. 이번 협약은 에티포스의 통신모뎀·반도체 IP(지식재산권) 설계 역량과 넥스윌의 RF·디지털 신호처리 및 방산장비 기술력을 결합해 방산분야 공동 개발 기회 발굴과 제품화를 목표로 한다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-16",
+  "link": "https://www.mt.co.kr/amp/future/2026/10/16/2026101607475956626",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23994": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-25",
+  "link": "https://www.joongboo.com/news/articleView.html?idxno=363740367",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23996": {
+  "body": "빅데이터로 출차 간격 최대 20% 단축 확인 사우디 디리야 실증 이어 해외시장 공략 가속 카카오모빌리티가 16년 만에 국내에서 열린 ‘2026 강릉 ITS 세계총회’에 공식 후원사로 참여해 AI·데이터 기반 주차 기술과 미래 모빌리티 비전을 선보였다고 23일 밝혔다. 빅데이터로 출차 간격 최대 20% 단축 확인 사우디 디리야 실증 이어 해외시장 공략 가속 카카오모빌리티가 16년 만에 국내에서 열린 ‘2026 강릉 ITS 세계총회’에 공식 후원사로 참여해 AI·데이터 기반 주차 기술과 미래 모빌리티 비전을 선보였다고 23일 밝혔다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-26",
+  "link": "https://www.electimes.com/news/articleView.html?idxno=373861",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23997": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-26",
+  "link": "https://www.economytalk.kr/news/articleView.html?idxno=424840",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=23999": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-26",
+  "link": "https://www.yna.co.kr/amp/view/AKR20261025017800004",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24001": {
+  "body": "강릉시가 민선 9기 출범 이후 첫 조직 개편에 나섭니다. 김중남 강릉시장은 16일 기자회견을 열고, 기존 11국 79과에서 13국 81과로 확대하는 내용의 조직개편안을 발표했습니다. 특히 교통정보국은 ITS 세계총회를 계기로 구축한 첨단교통 인프라를 활용해 스마트 도시관리 기능을 강화하고, 서울사무소는 독립된 5급 사업소로 개편해 중앙정부와의 협력을 확대할 계획입니다. 강릉시가 민선 9기 출범 이후 첫 조직 개편에 나섭니다. 김중남 강릉시장은 16일 기자회견을 열고, 기존 11국 79과에서 13국 81과로 확대하는 내용의 조직개편안을 발표했습니다. 특히 교통정보국은 ITS 세계총회를 계기로 구축한 첨단교통 인프라를 활용해 스마트 도시관리 기능을 강화하고, 서울사무소는 독립된 5급 사업소로 개편해 중앙정부와의 협력을 확대할 계획입니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-16",
+  "link": "https://news.lghellovision.net/news/articleViewAmp.html?idxno=558640",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24002": {
+  "body": "- 10월 26~28일, BPEX에서 ‘대한민국 해양모빌리티·안전 엑스포’ 개최 해양수산부(장관 황종우)와 부산광역시(시장 전재수)는 10월 26일(월)부터 28일(수)까지 부산항국제전시컨벤션센터(BPEX)에서 ‘2026 대한민국 해양모빌리티·안전 엑스포’를 개최한다고 밝혔다. 해양모빌리티·안전 엑스포는 국민에게 해양 안전의 중요성을 알리고, 해양 모빌리티 산업의 기술 동향을 소개하기 위해 2015년부터 개최되고 있다. 올해로 9회째를 맞은 이번 행사는 ‘하나의 바다, 하나의 안전’을 주제로 해양수산부와 부산광역시가 주최하고, 부산일보와 (특)한국선박관리산업협회가 주관한다. 특히 올해 엑스포는 대한민국과 국제해사기구(IMO)가 공동으로 개최하는 ‘세계 해사의 날’ 기념행사와 같은 장소에서 열리게 되어 국제기구와 주요국 정부 인사 등 세계 해사 관계자들에게도 우리 해양산업의 기술력을 선보이게 될 예정이다. 이번 엑스포에서는 ▲자율운항·무인 모빌리티 기술관, ▲친환경 모빌리티·탄소중립관, ▲해양 첨단 안전·AI 재난 대응관, ▲비즈니스관 등이 운영되고, 참여 기업과 해외 구매자를 연결하는 수출 상담 지원과 기술·제품 설명회도 진행된다. 아울러, 행사장 인근의 북항 친수공원에서는 가족이 함께 즐길 수 있는 ▲구명조끼 꾸미기 및 미니 런웨이, ▲가상현실(VR) 해양 안전 체험, ▲심폐소생술 및 구명설비 사용 교육 등 다양한 해양 안전 체험 행사도 마련된다. 자세한 내용은 엑스포 공식 누리집(kmse.co.kr)에서 확인할 수 있다. 전재수 부산광역시장은 “해양 수도 부산에서 첨단 해양기술과 다채로운 안전 체험을 만나보시길 바란다.”라며, “이번 엑스포가 해양산업의 활력을 높이고, 일상 속 해양 안전 문화를 넓히는 계기가 되길 바란다.”라고 말했다. 황종우 해양수산부 장관은 “이번 엑스포는 우",
+  "date": null,
+  "link": "https://www.mof.go.kr/doc/ko/selectDoc.do?docSeq=69094&listUpdtDt=2026-10-22++10%3A00&menuSeq=971&bbsSeq=10",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24003": {
+  "body": "“전동킥보드·전기자전거로부터 안전한 보행 환경을”… ‘제도개선’ 위한 국민 생각 모은다 - 국민권익위, 국민생각함에서 오늘(26일)부터 11월 4일까지 전동킥보드·전기자전거 등 개인형 이동장치의 안전관리와 관련한 설문조사 실시 □ 국민권익위원회(위원장 정일연, 이하 국민권익위)는 전동킥보드·전기자전거 등 개인형 이동장치(PM, Personal Mobility)* 이용 과정에서 발생하는 보행 불편과 안전 문제를 살펴보고, 안전한 보행환경 조성을 위한 제도개선 방안을 마련하기 위해 국민생각함**에서 대국민 설문조사를 실시한다. * 시속 25km/h 미만, 중량 30kg 미만의 이동장치(｢도로교통법｣ 제2조 제19호의2) ** 국민권익위가 운영하는 범정부 차원의 정책소통 플랫폼(https://www.epeople.go.kr/idea) □ 현재 개인형 이동장치는 가까운 거리를 이동하는 편리한 교통수단으로 자리 잡았다. 그러나 인도, 횡단보도, 버스정류장, 지하철 출입구, 점자블록 등에 무단으로 방치된 장치들로 인해 보행자가 통행에 불편을 겪거나 안전사고 위험에 노출되는 사례가 발생하고 있다. 특히 어린이, 어르신, 장애인, 유모차 이용자 등 보행 약자는 개인형 이동장치가 길을 막고 세워져 있거나, 보행자 밀집구역에서 이동장치가 운행되면 더 큰 불편과 위험을 겪을 수 있다. □ 현재까지 개인형 이동장치와 관련한 안전대책은 무면허 운전, 보호장구 미착용, 초과 인원 탑승 등 이용자 준수사항에 대한 단속과 계도 중심으로 되어 있다. 그러나 실제 현장에서는 이동장치 무단 방치, 보행자 밀집구역 통행, 이동장치 수거 지연, 주차구역 부족 등 운영·관리상의 문제도 지속적으로 제기되고 있어 보행자 안전을 중심으로 한 제도개선 필요성이 커지고 있다. □ 이에 국민권익위는 이번 설문조사를 통해 ▴보행 중 개",
+  "date": null,
+  "link": "https://www.acrc.go.kr/board.es?mid=a10402010000&bid=4A&act=view&list_no=120397",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -4457,13 +4541,13 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.wardsauto.com/news/mercedes-benz-and-nvidia-extend-strategic-technology-partnership/833391/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23973": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.gurufocus.com/news/9134442/hesai-hsai-advances-6d-fullcolor-lidar-technology-amid-market-valuation-challenges",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23974": {
   "body": "Transport data platform Alchera Technologies, which says it turns weeks of data analysis into same-day decisions for highways operators and local authorities, has raised £2.7 million in seed funding...중략... 교통 데이터 플랫폼인 알케라 테크놀로지스(Alchera Technologies)는 수 주간의 데이터 분석을 통해 도로 운영업체와 지방 당국이 당일 의사 결정을 내릴 수 있도록 지원한다고 밝히며, 270만 파운드의 시드 펀딩을 유치했습니다. Transport data platform Alchera Technologies, which says it turns weeks of data analysis into same-day decisions for highways operators and local authorities, has raised £2.7 million in seed funding...중략... 교통 데이터 플랫폼인 알케라 테크놀로지스(Alchera Technologies)는 수 주간의 데이터 분석을 통해 도로 운영업체와 지방 당국이 당일 의사 결정을 내릴 수 있도록 지원한다고 밝히며, 270만 파운드의 시드 펀딩을 유치했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
@@ -4505,6 +4589,36 @@
   "body": "ITSAC 2027, the first Intelligent Transport Systems Africa Conference, will be held over two days in Cape Town, South Africa, next year. ITSAC 2027 is organised by Innovative Transport Solutions in partnership with Ertico – ITS Europe and hosted by the Western Cape government and the city of Cape Town...중략... [Ertico가 주최하는 제1회 ITS 아프리카 컨퍼런스가 2027년에 개최될 예정입니다. 제1회 아프리카 지능형 교통 시스템 컨퍼런스인 ITSAC 2027이 내년 남아프리카공화국 케이프타운에서 이틀간 개최될 예정입니다. ITSAC 2027은 Innovative Transport Solutions가 Ertico – ITS Europe와 협력하여 주최하고 서부 케이프 주 정부와 케이프타운 시가 공동으로 후원합니다. ITSAC 2027, the first Intelligent Transport Systems Africa Conference, will be held over two days in Cape Town, South Africa, next year. ITSAC 2027 is organised by Innovative Transport Solutions in partnership with Ertico – ITS Europe and hosted by the Western Cape government and the city of Cape Town...중략... [Ertico가 주최하는 제1회 ITS 아프리카 컨퍼런스가 2027년에 개최될 예",
   "date": "2026-10-21",
   "link": "https://www.itsinternational.com/erticos-inaugural-its-africa-conference-set-for-2027/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23989": {
+  "body": "The call for contributions and the call for demonstrations for the 33rd ITS World Congress are now open, with submissions accepted until Friday 22 January 2027 for the event at Birmingham’s NEC from 25 to 29 October 2027...중략... 제33회 ITS 세계 총회 에 대한 논문 및 시연 제안 접수가 시작되었으며, 2027년 1월 22일 금요일까지 제출을 받습니다. 본 행사는 2027년 10월 25일부터 29일까지 버밍엄 NEC에서 개최됩니다. The call for contributions and the call for demonstrations for the 33rd ITS World Congress are now open, with submissions accepted until Friday 22 January 2027 for the event at Birmingham’s NEC from 25 to 29 October 2027...중략... 제33회 ITS 세계 총회 에 대한 논문 및 시연 제안 접수가 시작되었으며, 2027년 1월 22일 금요일까지 제출을 받습니다. 본 행사는 2027년 10월 25일부터 29일까지 버밍엄 NEC에서 개최됩니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-25",
+  "link": "https://www.traffictechnologytoday.com/news/event-news/its-world-congress-2027-opens-call-for-contributions-and-demos.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23990": {
+  "body": "The Asia-Pacific Road User Charging Alliance (AP RUC Alliance) has expanded to seven members with a signing ceremony at last week’s ITS World Congress in Gangneung. ITS Australia has joined ITS Taiwan, ITS New Zealand, ITS India, ITS Thailand, ITS Malaysia and ITS Singapore...중략... 아시아태평양 도로 이용자 요금 부과 연합(AP RUC Alliance)이 지난주 강릉에서 열린 ITS 세계 총회에서 서명식을 갖고 7개 회원국으로 확대되었습니다. ITS 오스트레일리아가 ITS 대만, ITS 뉴질랜드, ITS 인도, ITS 태국, ITS 말레이시아, ITS 싱가포르에 합류했습니다. The Asia-Pacific Road User Charging Alliance (AP RUC Alliance) has expanded to seven members with a signing ceremony at last week’s ITS World Congress in Gangneung. ITS Australia has joined ITS Taiwan, ITS New Zealand, ITS India, ITS Thailand, ITS Malaysia and ITS Singapore...중략... 아시아태평양 도로 이용자 요금 부과 연합(AP RUC Alliance)이 지난주 강릉에서 열린 ITS 세계 총회에서 서명식을 갖고 7개 회원국으로 확대되었습니다. ITS 오스트레일리아가 ITS 대만, ITS 뉴질랜드, ITS 인도, ITS 태국, ITS 말레이시아, ITS 싱가포르에 합류했습니다. ",
+  "date": "2026-10-26",
+  "link": "https://www.itsinternational.com/asia-pacific-road-user-charging-alliance-grows/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23992": {
+  "body": "Singapore Urban Mobility Week (SUMW) will hold its inaugural edition from 4 to 6 November 2026, bringing together bus manufacturers, public transport operators, technology suppliers and mobility authorities, with 110 exhibitors currently listed for the event...중략... [싱가포르 도시 이동성 주간 2026: 110개 전시업체 목록 공개, 전기 버스 및 대중교통 기술에 초점] 싱가포르 도시 이동성 주간(SUMW)이 2026년 11월 4일부터 6일까지 첫 회 개최될 예정이며 , 버스 제조업체, 대중교통 운영업체, 기술 공급업체 및 교통 당국이 한자리에 모일 예정입니다 . 현재 110개 업체가 참가 신청을 마쳤습니다. Singapore Urban Mobility Week (SUMW) will hold its inaugural edition from 4 to 6 November 2026, bringing together bus manufacturers, public transport operators, technology suppliers and mobility authorities, with 110 exhibitors currently listed for the event...중략... [싱가포르 도시 이동성 주간 2026: 110개 전시업체 목록 공개, 전기 버스 및 대중교통 기술에 초점] 싱가포르 도시 이동성 주간(SUMW)이 2026년 11월 4일부터 6일까지 첫 회 개최될 예정이며 , 버스 제조업체, 대중교통 운영업체, 기술 공급업체 및 교통 당국이 한자리에 모일 예정입니다 . ",
+  "date": "2026-10-23",
+  "link": "https://www.sustainable-bus.com/events-public-transport/singapore-urban-mobility-week-sumw/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=23995": {
+  "body": "Tesla (TSLA) has launched a new Robotaxi Safety website that shares critical safety data on its Roboaxi vehicles (Model Y Robotaxis and Cybercabs). The tech & AI-based electric automaker has a live counter on this new website that shows real-time ‘Miles Driven Autonomously’. As of this writing, the total miles driven by Cybercabs and Model Y robotaxis have crossed 3.4 million miles across 6 US cities...중략... [테슬라, 로보택시 4개 도시 추가 도입 발표 및 새 웹사이트를 통해 안전 데이터 공개 테슬라(TSLA)는 자사의 로보택시 차량(모델 Y 로보택시 및 사이버캡)에 대한 주요 안전 데이터를 공유하는 새로운 로보택시 안전 웹사이트를 출시했습니다. 기술과 AI 기반 전기차 제조업체인 이 회사는 새로운 웹사이트 에 '자율주행 거리'를 실시간으로 보여주는 카운터를 마련했습니다 . 현재까지 사이버캡과 모델 Y 로보택시가 미국 6개 도시에서 주행한 총 거리는 340만 마일을 넘어섰습니다. Tesla (TSLA) has launched a new Robotaxi Safety website that shares critical safety data on its Roboaxi vehicles (Model Y Robotaxis and Cybercabs). The tech & AI-based electric automaker has a live counter on this new w",
+  "date": "2026-10-23",
+  "link": "https://www.teslaoracle.com/2026/10/23/tesla-announces-robotaxi-launch-in-four-more-cities-releases-safety-data-via-new-website-no-kittens-were-hurt/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24000": {
+  "body": "US-based Lyft unit ⁠Freenow ⁠and Baidu's Apollo Go unveiled ⁠the Chinese company's RT6 autonomous vehicle in London on Thursday and ​said they hope to launch a driverless robotaxi service in the city in 2027...중략... 미국에 본사를 둔 Lyft 자회사 Freenow와 바이두의 Apollo Go는 목요일 런던에서 바이두의 자율주행 차량 RT6를 공개하고 2027년까지 런던에서 무인 로보택시 서비스를 시작할 계획이라고 밝혔다. US-based Lyft unit ⁠Freenow ⁠and Baidu's Apollo Go unveiled ⁠the Chinese company's RT6 autonomous vehicle in London on Thursday and ​said they hope to launch a driverless robotaxi service in the city in 2027...중략... 미국에 본사를 둔 Lyft 자회사 Freenow와 바이두의 Apollo Go는 목요일 런던에서 바이두의 자율주행 차량 RT6를 공개하고 2027년까지 런던에서 무인 로보택시 서비스를 시작할 계획이라고 밝혔다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://money.usnews.com/investing/news/articles/2026-10-23/chinas-baidu-tests-robotaxi-on-london-streets",
   "tries": 1
  }
 }
