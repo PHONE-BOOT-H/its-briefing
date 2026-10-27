@@ -269,6 +269,16 @@
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=BC2CA3CA85C94C0856EF5C2C1F73D9DE1F38A3F53672432AAE01AA77DB3ED223": {
+  "budget": {
+   "amount": 60000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Asian Development Bank Regional",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "International"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=BD1344E579C5BFE599621C6E07F95FB0A57EB3929A2183057B9BD611FE9B1ACA": {
   "budget": {
    "amount": 50000.0,
