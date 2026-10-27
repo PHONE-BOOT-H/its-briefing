@@ -881,6 +881,13 @@
   "impagency": "Ministry of Transport, Energy and Tourism",
   "total": 18500000.0
  },
+ "P180770": {
+  "borrower": "Ministry of Development Planning,Plurinational State of Bolivia",
+  "closing": "2030-12-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Administradora Boliviana de Carreteras",
+  "total": 200000000.0
+ },
  "P180801": {
   "borrower": "The Republic of Zambia",
   "closing": "2030-02-27",
@@ -1167,6 +1174,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Kenya Railways,Ministry of Roads and Transport ",
   "total": 1501250050.0
+ },
+ "P516619": {
+  "borrower": null,
+  "closing": null,
+  "funder": null,
+  "impagency": null,
+  "total": null
  },
  "P517121": {
   "borrower": null,
