@@ -3041,7 +3041,7 @@
   "body": "▷ 10월 28일부터 청주 국도 17호선에서 동물 찻길 사고 예방시스템 시범 운영 ▷ 경기·강원 3곳에 이어 충청권에 추가 설치, 야생동물 감지해 운전자 감속 유도 기후에너지환경부(장관 김성환)는 10월 28일부터 충청북도 청주시 서원구 남이면 척산리 국도 17호선에서 인공지능(AI)을 활용한 ‘동물 찻길 사고(로드킬) 예방시스템’을 시범 운영한다. 동물 찻길 사고는 야생동물의 생명을 위협할 뿐 아니라 운전자의 인명·재산 피해와 2차 교통사고로 이어질 수 있다. 특히 교차로와 진출입로는 생태통로나 유도 울타리 등 기존 예방시설을 설치하기 어려워 이를 보완할 방안이 필요하다. 이번 예방시스템은 인공지능이 폐쇄회로텔레비전(CCTV) 영상에서 야생동물의 출현을 감지하면, 전방에 설치한 발광다이오드(LED) 전광판과 경광등으로 운전자에게 알리는 방식이다. 운전자가 동물의 출현을 미리 알고 속도를 줄이도록 해 사고 예방을 돕는다. 기후에너지환경부는 포스코디엑스(DX)와 협력하여 지난해(2025년) 경기도 양평군과 강원도 횡성군·평창군 등 3곳에 이 시스템을 설치해 시범 운영을 해 왔다. 이번 청주 구간 설치로 시범 운영 지역을 충청권까지 넓힌다. 이번 사업은 2024년 7월 체결한 민관 업무협약을 바탕으로 추진하고 있다. 기후에너지환경부와 포스코디엑스(DX), 국립생태원, 국립공원공단이 참여해 동물 찻길 사고가 잦은 도로에 예방시스템을 도입하는 사업이다. 기후에너지환경부는 사업 총괄과 행정 지원을, 포스코디엑스는 인공지능 감지 시스템 개발과 설치를 맡았다. 국립생태원은 사고 다발 구간 분석과 설치 지점 선정 등 기술 지원을 담당했다. 기후에너지환경부는 내년(2027년)까지 동물 찻길 사고 다발 구간 1곳에 시스템을 추가로 설치하고, 사고 예방 효과를 분석할 계획이다. 이채은 기후에너지환경부 자",
   "date": null,
   "link": "https://mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1902270&boardMasterId=939&boardCategoryId=&decorator=",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24026": {
   "body": "WB·ADB·IDB 등 다자개발은행과 함께 한국의 스마트시티 정책과 해외 도시개발 협력 방안을 논의했습니다. 국제금융기구와의 양자면담부터 한국의 도시개발 경험과 디지털 기술을 활용한 협력 방안까지. 스마트시티의 새로운 가능성과 한국 기업의 해외 진출 기회를 함께 모색했습니다. WB·ADB·IDB 등 다자개발은행과 함께 한국의 스마트시티 정책과 해외 도시개발 협력 방안을 논의했습니다. 국제금융기구와의 양자면담부터 한국의 도시개발 경험과 디지털 기술을 활용한 협력 방안까지. 스마트시티의 새로운 가능성과 한국 기업의 해외 진출 기회를 함께 모색했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
@@ -3065,7 +3065,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.ihalla.com/article.php?aid=1793086151792095010",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24037": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -3089,12 +3089,96 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://sep.kr/information/news/?uid=1962&mod=document&pageid=1",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24048": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-10-27",
   "link": "https://www.boannews.com/news/articleView.html?idxno=146729",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24050": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-27",
+  "link": "https://mobile.newsis.com/view/NISX20261027_0003842273",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24051": {
+  "body": "- 10월 30~31일 K-City에서 ｢2026 대학생 AI·SW 모빌리티 경진대회｣ 개최 - 전국 50개 팀, 500여 명 참여…시험도로와 가상환경에서 자율주행 기술 겨뤄 □ 국토교통부(장관 홍지선)는 대한민국 자율주행 산업의 미래를 이끌 인재를 발굴·육성하기 위해 10월 30일(금)부터 31일(토)까지 한국교통안전공단 자동차안전연구원 케이 시티(K-City, 경기도 화성시)에서 ｢2026 대학생 AI·SW 모빌리티 경진대회｣를 개최한다. * 인공지능(AI) : 사람처럼 학습·판단하는 기술 / 소프트웨어(SW) : 자동차를 작동하는 프로그램 ㅇ 50개 팀, 500여 명의 대학생이 참여해 직접 개발한 자율주행 기술로 신호교차로 통과, 안개·일조량 변화 등 시각 왜곡변수 대응, GPS 음영구간 속 돌발 장애물 회피 등 다양한 주행과제에 도전한다. □ 2010년에 시작해 17년째를 맞는 이번 대회는 대학생들이 배운 지식을 자율주행 기술로 구현하고, 시험·검증과정에서 문제를 해결하며 자율주행 인재로 성장할 수 있도록 교육과 체험 기회도 제공할 목적으로 마련됐다. ㅇ 경진대회는 직접 제작한 차량으로 실제 신호교차로와 장애물이 있는K-City 도로에서 주행 성능을 겨루는 ‘자작자율차’와 K-city를 정밀하게 재현한 가상환경에서 자율주행 소프트웨어 성능을 겨루는 ‘AI융합자율주행’ 두 부문으로 구성된다. ㅇ 특히, 올해 신설된 ‘AI융합자율주행’ 부문은 자율주행 기술이 AI 학습을 통해 고도화되고 있는 기술 변화에 맞춰 소프트웨어 개발역량을 높이는데 중점을 두면서, 차량 제작에 필요한 비용과 장비 부담을 낮춰 참여기회를 넓히고, 학생들이 알고리즘 개발과 성능 개선에 집중할 수 있도록 했다. ㅇ 이번 대회에서 자율주행 과제 성공률 및 완주 소요시간 평가로 선정된 우수팀들에는 국토교통부장관상 등",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092530",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24054": {
+  "body": "- 30일 기념식에서 한국물류대상 총 58점 포상… 153만 물류인 자긍심 고취의 장 마련 □ 국토교통부(장관 홍지선)는 10월 30일 오전 대한상공회의소(국제회의장)에서 개최되는 “제34회 물류의 날” 기념식*에서 그간 물류산업 발전에 기여한 물류인 및 단체에게 한국물류대상을 수여한다. ㅇ 기념식은 물류산업 발전에 기여한 종사자들을 대상으로 열리는 한국물류대상 시상식(1부, 본행사)에 이어 물류산업 육성에 필요한 최신 정보와 지식을 공유하는 세미나(2부, 부대행사)로 나눠서 진행한다. - 기념식에는 정의경 국토교통부 제2차관을 비롯하여 신영수 한국통합물류협회장 등 500여명의 물류업계 종사자들이 참석할 예정이다. □ 먼저, ‘한국물류대상 시상식’에서는 물류산업 발전에 기여한 기업인과 단체에 훈장 1점, 산업포장 2점, 대통령표창 4점, 국무총리표창 6점, 그리고 국토교통부 장관표창 45점 등 총 58점을 포상한다. ㅇ 최고의 영예인 은탑 산업훈장은 46년간 물류기업의 디지털 전환을 지원하여 물류비 절감 등에 이바지해 온 ㈜한국비즈넷 김용필 대표이사에게 수여된다. - 김용필 대표이사는 국내 최초로 국제화물 운송주선업 전용 정보시스템을 개발하여 1,500여개 중소물류기업의 디지털 전환을 지원하는 등의 공로를 인정받았다. ㅇ 산업포장은 31년간 화물운송주선업에 종사하면서 수도권 콜드체인 인프라 구축에 참여하는 등 국내 신선식품 물류체계 구축에 기여해 온 동원물류(주) 신경용 대표이사와 국내 다수의 물류정책 수립과 제도개선 연구책임자로 참여하여 물류산업 성장과 혁신에 일조한 한국교통연구원 서상범 선임연구위원에게 수여된다. ㅇ 그 외 대통령표창은 ㈜광진티엘에스 김경호(대표), 와이에스엘에이전시(주) 조동제(대표), 강원화물자동차운송주선사업협회 지동화(이사장), 육군종합보급창에게, 국무총리표창",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092531",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24056": {
+  "body": "- 3기 신도시 교통대책 전수점검 계획... 신속추진 TF 통해 사업 지연 최소화 □ 국토교통부(장관 홍지선) 대도시권광역교통위원회(위원장 김용석, 이하 대광위)는 3기 신도시 입주민의 교통불편을 최소화하기 위해 광역교통개선대책 추진상황을 전수점검하고, 사업별 지연 요인을 집중 관리할 계획이다. ㅇ 특히, 관계기관 간 이견과 인허가 협의 지연 등으로 사업 추진에 어려움을 겪는 경우 대광위가 적극적으로 조정에 나서고, 신속추진 TF를 통해 합리적인 해결방안을 마련하는 등 사업 지연을 최소화할 방침이다. □ 앞으로 대광위는 남양주왕숙 지구를 시작으로 연말까지 1~2주 마다 하남교산, 고양창릉, 인천계양, 부천대장 등 3기 신도시 광역교통개선대책 전체 사업의 추진상황을 현장에서 전수점검하고, 지연이 우려되는 사업은 관계기관과 함께 해결방안을 마련할 계획이다. □ 이를 위해 김용석 대광위원장은 10월 29일 오후 3기 신도시인 남양주왕숙 공공주택지구를 방문하여 광역교통개선대책 추진 상황과 사업별 지연 요인을 점검하고, 관계기관과 해결방안을 논의한다. ㅇ 남양주왕숙지구는 남양주시 진접읍, 진건읍, 퇴계원읍 일원 약 1,269만㎡(여의도 4.4배)에 약 8만호의 주택이 공급되는 수도권 동북부의 핵심 거점도시로 대규모 입주에 대비한 광역교통망의 적기 구축이 중요한 지역이다. □ 김 위원장은 경춘선 역사 신설(GTX-B 정차), 한강교량 건설 등 주요 사업별 추진현황과 지연요인을 면밀히 점검하고, 한강교량 신설 현장도 방문할 예정이다. ㅇ 남양주왕숙지구는 서울 방면 접근성 향상과 입주민 이동편의 증진을 위해 서울도시철도 9호선 연장(서울강동~하남~남양주간), 서울도시철도 8호선 연장(별내역~별내별가람역, 서울도시철도 4호선 환승), GTX-B 경춘선 역사 신설과 한강교량 건설, 지방도 383호선 확",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092532",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24057": {
+  "body": "- 9개 정부부처·기관과 11개 로봇기업 참여, 공공현장 로봇 도입 관련 의견 협의 - 산업통상부(장관 김정관, 이하 ‘산업부’)는 10월 28일부터 29일까지 이틀간 서울 SETEC에서 정부부처 및 공공기관 관계자, 로봇기업 등이 참석한 가운데 ‘2026년 공공수요 연계 4륜·4족 로봇 제품 설명회’를 개최했다. AI로봇 산업이 성장하려면 기술개발뿐만 아니라, 로봇이 실제 현장에서 활용되며 데이터를 수집하고, 성능을 높여 갈 기회가 필요하다. 정부는 이를 위해 내년 AI로봇 1,700여 대를 공공부문에 우선 보급해, 초기시장을 여는 '첫 고객' 역할을 할 계획이다. 부처들은 소관업무에 맞춰 연구 및 데이터팩토리(산업부, 과기부), 순찰 및 경계(국방부, 경찰청), 농업현장 지원(농림부)등에 로봇을 투입한다. 또한, 운영 과정에서 축적된 데이터를 로봇기업에 다시 제공해 제품 성능 향상으로 이어지는 선순환 체계를 구축할 방침이다. 이번 설명회는 첫 공공보급에 앞서 수요기관이 공공업무에 필요한 성능과 운용 요건을 로봇기업들과 세부적으로 조율할 수 있도록 마련되었다. 설명회에는 국방부, 육군본부, 소방청, 경찰청, 농림축산식품부, 한국산업단지공단 등 총 9개 수요기관과 레인보우로보틱스, 로보티즈, 현대차, 뉴빌리티 등 국내 주요 4륜·4족 로봇기업 11곳이 참여했다. 행사는 ▲로봇 기업별 제품 및 민간 활용 사례 설명(PT) ▲로봇 제품 전시 및 현장 시연 ▲수요기관과 로봇기업 간 1:1 상담 순서로 진행되었다. 산업부는 로봇 공공보급 사업이 단순한 초기 수요 창출을 넘어 국내 로봇산업 전반의 경쟁력 제고로 이어질 수 있도록, 부품기업과의 연계, 데이터 수집‧활용, 하자보수 등을 포함한 로봇 공공보급 가이드라인을 연말까지 관계부처와 함께 수립할 계획이다. 한편, 산업부는 11월 4일부터 7",
+  "date": null,
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172341/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24058": {
+  "body": "- Level.4 완전 무인 자율 운항 선박 기술 확보로 세계시장 수주 1위 도전 - 피지컬 AI 항만 구현으로 2035년까지 항만 생산성 30% 향상 추진 - 스마트양식 보급률 2030년까지 10%로 확대, 해양수산 전반에 AI 혁신 확산 해양수산부(장관 황종우)는 인공지능(AI)을 활용해 해양수산업의 경쟁력을 높이고 세계시장을 선도하기 위한 ‘해양수산 AX(AI Transformaition)* 전략’을 마련하고, 이를 10월 28(수) 경제관계장관회의·과학기술관계장관회의 연석회의에서 발표했다고 밝혔다. * 인공지능(AI)을 산업과 행정 전반에 적용하여 산업구조를 비롯하여, 업무의 방식과 서비스를 근본적으로 혁신하는 인공지능 전환 최근 국내 해양수산업은 기후변화와 해양 재해 심화, 어촌 고령화와 인력 부족, 글로벌 물류 경쟁과 국제 환경규제 강화 등 복합적인 도전에 직면해 있다. 이에 따라 해양수산부는 AI를 활용해 산업의 생산성과 경쟁력을 높이고, 세계시장에서의 새로운 성장 기회를 창출한다는 구상이다. 경쟁력 있는 기술은 세계시장 진출을 목표로 더욱 고도화하고, 산업을 포함하여 해양 안전과 환경 관리 등 해양수산 현장 전반으로 AI 활용을 확대한다. 이번 전략은 해운·해사, 항만·물류, 수산, 해양 분야의 AI 혁신과 이를 뒷받침할 AX 생태계 조성을 위한 5대 전략과 15대 핵심과제로 구성되었다. 2035년 완전 자율 운항 선박 시장 1위 수주를 목표로, 2032년까지 산업통상부와 함께 완전 무인(Level.4) 자율 운항 선박 핵심기술을 확보한다. 국내외 실제 해역에서 안전성과 신뢰성을 검증하고, 이를 바탕으로 2035년 2천억 달러 규모로 전망되는 세계 자율 운항 선박 시장을 선도해 나갈 계획이다. 해사 안전 분야에서도 AI 활용을 확대하여 해양 사고로 인한 인명피해를 203",
+  "date": null,
+  "link": "https://www.mof.go.kr/doc/ko/selectDoc.do?docSeq=69135&listUpdtDt=2024-10-25++10%3A00&menuSeq=971&bbsSeq=10",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24061": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.metroseoul.co.kr/article/20261028500258",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24062": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-28",
+  "link": "https://www.dailysecu.com/news/articleView.html?idxno=209117",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24065": {
+  "body": "롯데이노베이트가 인공지능 기반 연결형 자동차(AI 커넥티드카) 생태계 조성을 위한 범산업적 협력망을 구축하며 차세대 모빌리티 시장 도약에 속도를 내고 있다. 그동안 축적해 온 자율주행 제어 기술과 지능형 도로 교통망 운영 노하우를 바탕으로, 기술 연구개발부터 실무 현장 적용, 국내외 상용화 사업으로 이어지는 성장 선순환 구조를 다지는 모양새다. 이번 동맹에는 인천광역시를 비롯해 한국자동차연구원 등 공공·연구 기관과 현대모비스, LG이노텍, 현대케피코, 인텔리안테크놀로지스, HL클레무브, 티맵모빌리티, 쏠리드, 아우토크립트, 페스카로 등 관련 산업을 대표하는 12개 핵심 기관 및 기업이 대거 참여했다. 협약식에는 윤태은 모빌리티부문장이 대표로 참석해 협력 의지를 다졌다. 롯데이노베이트가 인공지능 기반 연결형 자동차(AI 커넥티드카) 생태계 조성을 위한 범산업적 협력망을 구축하며 차세대 모빌리티 시장 도약에 속도를 내고 있다. 그동안 축적해 온 자율주행 제어 기술과 지능형 도로 교통망 운영 노하우를 바탕으로, 기술 연구개발부터 실무 현장 적용, 국내외 상용화 사업으로 이어지는 성장 선순환 구조를 다지는 모양새다. 이번 동맹에는 인천광역시를 비롯해 한국자동차연구원 등 공공·연구 기관과 현대모비스, LG이노텍, 현대케피코, 인텔리안테크놀로지스, HL클레무브, 티맵모빌리티, 쏠리드, 아우토크립트, 페스카로 등 관련 산업을 대표하는 12개 핵심 기관 및 기업이 대거 참여했다. 협약식에는 윤태은 모빌리티부문장이 대표로 참석해 협력 의지를 다졌다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-28",
+  "link": "https://www.donga.com/news/Economy/article/all/20261028/134926578/1",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24066": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-28",
+  "link": "https://www.nursenews.co.kr/news/articleView.html?idxno=45711",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24067": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-28",
+  "link": "https://www.leadeconomy.co.kr/news/articleView.html?idxno=10670",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24072": {
+  "body": "■ 오토노머스에이투지에 대한 소개와 함께, 현재 집중하고 있는 자율주행 사업 분야에 대해 설명을 부탁드린다 오토노머스에이투지는 자율주행차의 두뇌라고 할 수 있는 자율주행 소프트웨어 개발부터, 지금 제가 앉아 있는 이 차량 자체까지 만드는 회사다. 자율주행을 위한 A부터 Z까지 모두 하는 회사라고 말씀드릴 수 있겠다...중략... ■ 오토노머스에이투지에 대한 소개와 함께, 현재 집중하고 있는 자율주행 사업 분야에 대해 설명을 부탁드린다 오토노머스에이투지는 자율주행차의 두뇌라고 할 수 있는 자율주행 소프트웨어 개발부터, 지금 제가 앉아 있는 이 차량 자체까지 만드는 회사다. 자율주행을 위한 A부터 Z까지 모두 하는 회사라고 말씀드릴 수 있겠다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-28",
+  "link": "https://www.e4ds.com/sub_view.asp?idx=23991",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24073": {
+  "body": "■ 이번 세계 ITS 총회에서 가장 주목해야 할 기술 트렌드는 무엇이라고 보는지 결국 AI 기술이 본격적으로 ITS에 들어왔다는 점이 상당히 중요하고, 크게 두 가지를 봤으면 좋겠다. 첫째는 자율주행을 어떻게 구현할 것인가, 둘째는 교차로 안전을 AI와 통신을 통해 높이고 있다는 점이다. ■ 이번 세계 ITS 총회에서 가장 주목해야 할 기술 트렌드는 무엇이라고 보는지 결국 AI 기술이 본격적으로 ITS에 들어왔다는 점이 상당히 중요하고, 크게 두 가지를 봤으면 좋겠다. 첫째는 자율주행을 어떻게 구현할 것인가, 둘째는 교차로 안전을 AI와 통신을 통해 높이고 있다는 점이다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-28",
+  "link": "https://www.e4ds.com/sub_view.asp?idx=23993",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24074": {
+  "body": "강릉시는 지난 23일 폐막한 강릉 ITS 세계총회 때 6만 명 이상이 참가한 것으로 파악돼, 최근 20년간 열린 총회 중 가장 많았다고 밝혔습니다. 이와 함께 올림픽파크 야외 광장에 마련된 ITS 파크와 부대 행사장에도 닷새 동안 4만 3천여 명이 방문했다고 덧붙였습니다...중략... 강릉시는 지난 23일 폐막한 강릉 ITS 세계총회 때 6만 명 이상이 참가한 것으로 파악돼, 최근 20년간 열린 총회 중 가장 많았다고 밝혔습니다. 이와 함께 올림픽파크 야외 광장에 마련된 ITS 파크와 부대 행사장에도 닷새 동안 4만 3천여 명이 방문했다고 덧붙였습니다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-28",
+  "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8697283",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -4769,7 +4853,7 @@
   "body": "Aurora Innovation, Inc. (NASDAQ: AUR), the leader in self-driving freight, today announced a memorandum of understanding (MOU) with Charger Logistics under which Charger intends to purchase up to 500 Aurora Driver-powered trucks. The agreement builds upon Charger’s existing contract signed in July, underscoring the carrier’s belief that the Aurora Driver will be critical to expanding its network and strengthening its business...중략... [Charger Logistics와 Aurora는 자율주행 트럭을 500대 규모로 확대할 계획입니다.] 자율주행 화물 운송 분야의 선두 기업인 오로라 이노베이션(Aurora Innovation, Inc., NASDAQ: AUR)은 오늘 차저 로지스틱스(Charger Logistics)와 양해각서(MOU)를 체결했다고 발표했습니다. 이 MOU에 따라 차저는 오로라 드라이버(Aurora Driver) 기술이 적용된 트럭을 최대 500대까지 구매할 예정입니다. 이번 계약은 차저가 지난 7월에 체결한 기존 계약을 기반으로 하며, 오로라 드라이버가 차저의 네트워크 확장 및 사업 강화에 매우 중요할 것이라는 차저의 확신을 보여줍니다. Aurora Innovation, Inc. (NASDAQ: AUR), the leader in self-driving freight, today announced a memorandum of un",
   "date": null,
   "link": "https://ir.aurora.tech/news-events/press-releases/detail/154/charger-logistics-and-aurora-to-begin-scaling-autonomous-fleet-to-500-trucks?utm_source=chatgpt.com",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24027": {
   "body": "PTV Group, part of Umovity, has added an automated model calibration framework to PTV Visum 2027, one of several updates to its transport planning and simulation software unveiled at its Mobility Tech Update 2026...중략... Umovity의 자회사인 PTV 그룹은 Mobility Tech Update 2026에서 공개한 교통 계획 및 시뮬레이션 소프트웨어 업데이트 중 하나로 자동 모델 보정 프레임워크를 PTV Visum 2027에 추가했습니다. PTV Group, part of Umovity, has added an automated model calibration framework to PTV Visum 2027, one of several updates to its transport planning and simulation software unveiled at its Mobility Tech Update 2026...중략... Umovity의 자회사인 PTV 그룹은 Mobility Tech Update 2026에서 공개한 교통 계획 및 시뮬레이션 소프트웨어 업데이트 중 하나로 자동 모델 보정 프레임워크를 PTV Visum 2027에 추가했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
@@ -4799,7 +4883,7 @@
   "body": "To drivers crossing the Guandu Yellow River Bridge in central China's Henan Province, it is just routine on a busy highway, but a sophisticated and invisible network of smart digital technologies is hard at work above and below the asphalt. This system was built to meet a very practical challenge. Opened in October 2019, the eight-lane bridge had long faced heavy pressure in terms of maintenance and safety management. To address blind spots, slow response and low efficiency in traditional upkeep, a full-process smart operations model was introduced to manage the bridge...중략... [중국은 스마트 기술을 활용하여 교통 시스템 업그레이드를 추진하고 있습니다.] 중국 허난성 중부에 있는 관두 황하대교를 건너는 운전자들에게는 그저 일상적인 고속도로 풍경일 뿐이지만, 아스팔트 위아래에서는 정교하고 눈에 보이지 않는 스마트 디지털 기술 네트워크가 활발하게 작동하고 있다. 이 시스템은 매우 현실적인 문제를 해결하기 위해 개발되었습니다. 2019년 10월에 개통된 8차선 교량은 유지보수 및 안전 관리 측면에서 오랫동안 심각한 압박에 직면해 있었습니다. 기존 유지보수 방식의 사각지대, 느린 대응, 낮은 효율성 문제를 해결하기 위해, 교량 관리를 위한 ",
   "date": null,
   "link": "https://en.people.cn/n3/2026/1027/c90000-20512531.html",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24034": {
   "body": "Tesla will let owners add their cars to its robotaxi network around Q2 2027, but those cars will only drive unsupervised inside the zones where Tesla’s robotaxis already operate. Tesla laid out the timeline during its Q3 earnings call, saying that owned cars would run the same software as Tesla’s Cybercabs and Model Y robotaxis, which Tesla plans to release to customers as part of FSD v15. Tesla hasn’t said how revenue sharing, charging, or cleaning will work for owner cars, or address the differences in hardware configurations that the current robotaxis have versus the consumer vehicles...중략... 테슬라는 2027년 2분기경부터 차량 소유주들이 자신의 차량을 로보택시 네트워크에 등록할 수 있도록 할 예정이지만, 해당 차량들은 테슬라의 로보택시가 이미 운행 중인 구역 내에서만 자율 주행이 가능합니다. 테슬라는 3분기 실적 발표에서 이러한 계획을 밝히며, 소유 차량은 테슬라의 사이버캡과 모델 Y 로보택시에 사용되는 것과 동일한 소프트웨어를 탑재할 것이라고 설명했습니다. 이 소프트웨어는 테슬라가 FSD v15의 일부로 고객에게 제공할 예정입니다. 하지만 테슬라는 소유 차량의 수익 분배, 충전, 세차 방식이나 현재 로보택시와 ",
@@ -4811,7 +4895,7 @@
   "body": "U.S. Transportation Secretary Sean P. Duffy today announced a $498 million investment to modernize America’s ports and help secure America’s maritime dominance. From coastal seaports and Great Lakes ports to inland river ports—Secretary Duffy is delivering critical funding to bolster these gateways that keep America’s supply chain moving. The Maritime Administration (MARAD)’s Port Infrastructure Development Program (PIDP) is delivering funding to 35 projects across 19 states, including:...중략... [트럼프 행정부의 숀 P. 더피 교통부 장관, 미국의 항만 현대화 및 공급망 강화에 5억 달러 투자] 션 P. 더피 미국 교통부 장관은 오늘 미국의 항만 현대화와 해상 패권 강화에 4억 9,800만 달러를 투자한다고 발표했습니다. 연안 항구와 오대호 항구부터 내륙 하천 항구에 이르기까지, 더피 장관은 미국의 공급망을 원활하게 유지하는 데 필수적인 이 관문들을 강화하기 위한 중요한 자금을 지원하고 있습니다. 해양청(MARAD)의 항만 인프라 개발 프로그램 (PIDP)은 다음을 포함한 19개 주에 걸쳐 35개 프로젝트에 자금을 지원하고 있습니다. U.S. Transportation Secretary Sean P. Duffy today announced a $498 million investment to mode",
   "date": null,
   "link": "https://www.transportation.gov/briefing-room/trumps-transportation-secretary-sean-p-duffy-invests-half-billion-modernizing",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24040": {
   "body": "Vitoria-Gasteiz has unveiled its new Sustainable Mobility and Public Space Plan , which will define the city's mobility and public space policies for the next five years. The plan includes 77 actions and an investment of 95.8 million euros , aiming to reduce car dependency and promote more sustainable, accessible, and safe mobility...중략... [비토리아-가스테이스는 새로운 교통 및 공공 공간 계획을 발표했습니다.] 비토리아-가스테이스 시는 향후 5년간 도시의 교통 및 공공 공간 정책을 정의할 새로운 지속 가능한 교통 및 공공 공간 계획을 발표했습니다. 이 계획에는 77개의 실행 계획 과 9,580만 유로 의 투자가 포함되어 있으며 , 자동차 의존도를 줄이고 보다 지속 가능하고 접근 가능하며 안전한 교통수단을 촉진하는 것을 목표로 합니다. Vitoria-Gasteiz has unveiled its new Sustainable Mobility and Public Space Plan , which will define the city's mobility and public space policies for the next five years. The plan includes 77 actions and an investment of 95.8 million euros , aiming to reduce car dependency and promote more sustainable, accessible, and safe mobility",
@@ -4829,13 +4913,13 @@
   "body": "...중략...This distinction illustrates the next engineering challenge for in-cabin sensing. Detecting driver and passenger behavior is no longer enough. Vehicles must interpret behavior in relation to the surrounding driving situation and respond in a way that is timely, proportionate, and understandable to the driver...중략... 이러한 차이점은 차량 내부 센싱 기술의 다음 과제를 보여줍니다. 운전자와 승객의 행동을 감지하는 것만으로는 더 이상 충분하지 않습니다. 차량은 주변 주행 상황과 관련하여 행동을 해석하고, 운전자가 이해하기 쉽고 적절한 방식으로 시의적절하게 대응해야 합니다. ...중략...This distinction illustrates the next engineering challenge for in-cabin sensing. Detecting driver and passenger behavior is no longer enough. Vehicles must interpret behavior in relation to the surrounding driving situation and respond in a way that is timely, proportionate, and understandable to the driver...중략... 이러한 차이점은 차량 내부 센싱 기술의 다음 과제를 보여줍니다. 운전자와 승객의 행동을 감지하는 것만으로는 더 이상 충분하지 않습니다. 차량은 주변 주행 상황과 관련하여 행동을 해석하고,",
   "date": null,
   "link": "https://www.mobilityengineeringtech.com/component/content/article/56181-from-driver-monitoring-to-context-aware-cockpits?catid=1654&Itemid=2211",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24043": {
   "body": "The Drive Electric Campaign has announced the 2026 Request for Proposals (RFP) for the Leapfrogging to E-Mobility Acceleration Partnership (LEAP) Fund. This initiative aims to support local non-profit organizations in Africa and Southeast Asia in advancing the electric vehicle (EV) transition. Applications are open until 6 November 2026...중략... 드라이브 일렉트릭 캠페인(Drive Electric Campaign)은 전기차 전환 가속화 파트너십(LEAP) 기금 조성을 위한 2026년도 사업 제안 요청서(RFP)를 발표했습니다. 이 사업은 아프리카와 동남아시아 지역의 비영리 단체들이 전기차로의 전환을 촉진할 수 있도록 지원하는 것을 목표로 합니다. 신청 마감일은 2026년 11월 6일입니다. The Drive Electric Campaign has announced the 2026 Request for Proposals (RFP) for the Leapfrogging to E-Mobility Acceleration Partnership (LEAP) Fund. This initiative aims to support local non-profit organizations in Africa and Southeast Asia in advancing the electric vehicle (EV) transition. Applications are open until 6 November 2026...중략... 드라이브 일렉트릭 ",
   "date": null,
   "link": "https://www2.fundsforngos.org/research-2/leapfrogging-to-e-mobility-acceleration-partnership-leap-fund-2026-call/",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24044": {
   "body": "Despite repeated attempts — mostly from the right of the European political spectrum — to slow down electrification to protect carmakers that failed to prepare in time, electric mobility is progressing rapidly across Europe. This was a policy-driven market, and it suddenly shifted to a customer-driven market. The 2026 fuel-price surge now acts as a key driver, independent of subsidies. Finally, the convergence with solar and storage turns the electric car from a transport object into an energy asset: the photovoltaic–battery–plug-in-vehicle triptych is not only the business model of tomorrow but also the key driver of an accelerating energy transition...중략... 유럽 ​​정치 스펙트럼의 우파 진영에서 전기차 전환을 늦추려는 시도가 반복적으로 있었음에도 불구하고, 전기차 보급은 유럽 전역에서 빠르게 확산되고 있습니다. 이는 정책 주도형 시장이었던 것이 갑자기 소비자 주도형 시장으로 전환된 것입니다. 2026년 유가 급등은 보조금과는 무관하게 전기차 보급을 촉진하는 핵심 동력으로 작용하고 있습니다. 더 나아가 태양광 발전 및 에너지 저장 기술과의 융합은 전기차를 단순한 운송",
@@ -4853,6 +4937,60 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://m.nbd.com.cn/articles/2026-10-26/4618518.html?utm_source=chatgpt.com",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24052": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-10-26",
+  "link": "https://cnevpost.com/2026/10/26/vw-secures-l3-road-test-permit-hefei/?utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24053": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": null,
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24055": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.press.bmwgroup.com/global/article/detail/T0462233EN/one-million-vehicles-moved-without-drivers%3A-bmw-group-successfully-scales-automated-driving-in-production?showMedia=photo&utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24059": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://unece.org/media/transport/Vehicle-Regulations/press/417674?utm_source=chatgpt.com#",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24060": {
+  "body": "...중략...물론 이러한 시스템이 당장 적용되는 것은 아니다. GM은 오는 2028년형 캐딜락 '에스컬레이드 IQ'에 운전자가 전방을 계속 주시하지 않아도 되는 '아이즈 오프(Eyes-off)' 자율주행 시스템을 처음 적용하고 이후 대형 픽업트럭으로 이를 확대한다는 계획이다...중략... ...중략...물론 이러한 시스템이 당장 적용되는 것은 아니다. GM은 오는 2028년형 캐딜락 '에스컬레이드 IQ'에 운전자가 전방을 계속 주시하지 않아도 되는 '아이즈 오프(Eyes-off)' 자율주행 시스템을 처음 적용하고 이후 대형 픽업트럭으로 이를 확대한다는 계획이다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://v.daum.net/v/UM5FX6YCr2",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24068": {
+  "body": "Members of the UK delegation to the 2026 ITS World Congress have visited the Urban Information Centre in host city Gangneung, South Korea, where AI links transport systems to improve traffic flow and help emergency vehicles arrive at incidents eight minutes sooner...중략... 2026년 ITS 세계 총회에 참가하는 영국 대표단이 개최 도시인 한국 강릉의 도시정보센터를 방문했습니다. 이곳에서는 인공지능(AI)을 활용하여 교통 시스템을 연동함으로써 교통 흐름을 개선하고, 응급 차량이 사고 현장에 8분 더 빨리 도착할 수 있도록 지원합니다. Members of the UK delegation to the 2026 ITS World Congress have visited the Urban Information Centre in host city Gangneung, South Korea, where AI links transport systems to improve traffic flow and help emergency vehicles arrive at incidents eight minutes sooner...중략... 2026년 ITS 세계 총회에 참가하는 영국 대표단이 개최 도시인 한국 강릉의 도시정보센터를 방문했습니다. 이곳에서는 인공지능(AI)을 활용하여 교통 시스템을 연동함으로써 교통 흐름을 개선하고, 응급 차량이 사고 현장에 8분 더 빨리 도착할 수 있도록 지원합니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-10-28",
+  "link": "https://www.traffictechnologytoday.com/news/event-news/gangneung-ai-traffic-system-cuts-emergency-response-times.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24069": {
+  "body": "Jenoptik Baltic, part of Jenoptik Smart Mobility Solutions , has won an ANPR deployment deal in Lithuania. Described as being worth “significant low single-digit million euros”, the contract with Via Lietuva involves the delivery and installation of more than 200 new ANPR cameras across the Baltic state’s roads...중략... 제놉틱 스마트 모빌리티 솔루션 의 자회사인 제놉틱 발틱이 리투아니아에서 차량 번호판 자동 인식 시스템(ANPR) 구축 계약을 수주했습니다. \"수백만 유로에 달하는 상당한 규모\"로 알려진 이 계약은 비아 리투아니아(Via Lietuva)와의 협력을 통해 발트해 연안 국가 도로에 200대 이상의 새로운 차량 번호판 자동 인식(ANPR) 카메라를 공급 및 설치하는 내용을 포함합니다. Jenoptik Baltic, part of Jenoptik Smart Mobility Solutions , has won an ANPR deployment deal in Lithuania. Described as being worth “significant low single-digit million euros”, the contract with Via Lietuva involves the delivery and installation of more than 200 new ANPR cameras across the Baltic state’s roads...중략... 제놉틱 스마트 모빌리티 솔루션 의 자회사인 제놉틱 발틱이 리투아니아에서 차량 번호",
+  "date": "2026-10-28",
+  "link": "https://www.itsinternational.com/jenoptik-wins-lithuania-anpr-deal/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24070": {
+  "body": "For DEKRA, this marks another step toward expanding its international footprint in the development of modern mobility solutions and further deepening its expertise. Thanks to its state-of-the-art testing facilities in Klettwitz, Germany, and Málaga, Spain, DEKRA already has extensive experience in testing and validating systems and functions of automated and connected driving (ADAS/AD). As the world’s largest testing and certification organisation (TIC) in the automotive sector, DEKRA is further expanding its activities in the Middle East...중략... [DEKRA는 두바이에서 자율주행 및 커넥티드 드라이빙 관련 시험 시설을 운영하고 있습니다. 데크라에게 있어 이번 계약은 현대적인 모빌리티 솔루션 개발 분야에서 국제적인 입지를 확대하고 전문성을 더욱 심화시키는 또 하나의 발걸음을 의미합니다. 독일 클레트비츠와 스페인 말라가에 위치한 최첨단 시험 시설 덕분에 DEKRA는 자율주행 및 커넥티드 드라이빙(ADAS/AD) 시스템과 기능 시험 및 검증 분야에서 이미 풍부한 경험을 보유하고 있습니다. 세계 최대 규모의 자동차 분야 시험 및 인증 기관(TIC)인 DEKRA는 중동 지역에서의 사업 확장을 가속화하고 있습니다. For DEKRA, this marks another",
+  "date": "2026-10-28",
+  "link": "https://ertico.com/dekra-operates-dubai-test-facilities-for-automated-and-connected-driving",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24071": {
+  "body": "...중략...중국 당국이 차량의 C-V2X 장착을 의무화하는 강제성 국가표준 제정에 들어갔다. 복수의 현지 소식통에 따르면 작업반이 이미 꾸려졌고 수십 개 기관이 참여하고 있다. 강제성 국가표준에 따라 C-V2X 단말이 출고 장착되는 첫 사례가 되며, 업계는 첫 적용 대상을 상용차로 보고 있다. 상용차 쪽은 문안이 이미 나와 있다...중략... ...중략...중국 당국이 차량의 C-V2X 장착을 의무화하는 강제성 국가표준 제정에 들어갔다. 복수의 현지 소식통에 따르면 작업반이 이미 꾸려졌고 수십 개 기관이 참여하고 있다. 강제성 국가표준에 따라 C-V2X 단말이 출고 장착되는 첫 사례가 되며, 업계는 첫 적용 대상을 상용차로 보고 있다. 상용차 쪽은 문안이 이미 나와 있다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.autoelectronics.co.kr/article/articleView.asp?idx=7150",
   "tries": 1
  }
 }
