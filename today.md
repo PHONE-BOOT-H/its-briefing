@@ -114,73 +114,73 @@
    - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 서울신문
    - 원문: https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGplRUhtUTM5a1NTVUVOcnh5RTl1eUtLZnZPWW45Nm9qUDZTNEVhWl9wUmtEVVkzY0d5WlczTlR3QnoxOHdZQ3VINHpIb1Y0alFjSjd0MFl6SlhQbHNJU2VBVnVrVHFGcFFRSEFmMS1YNS02emFmQnR3WlIwaXgtaVI0aEY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. "자율주행 넘어 커넥티드카까지"…롯데이노베이트, 미래 모빌리티 영토 넓힌다
-   - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: 지디넷코리아
-   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KT0F5SDR1a3k2Rkc5RmpXUTM3YVNuem1feDF0bUpDQmZ4SmpuSkdyX0RBUmFHc1VxQWFNdVFlcFE5R0ZMTE1oODlSbHQ4UTF5Nlo0NTZ3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-5. [회원사/동향] [2026 강릉 ITS 세계총회]한지형 오토노머스에이투지 대표이사, “자율주행 상용화 가장 먼저 실현한 선도 기업 될 것”
+4. [회원사/동향] [2026 강릉 ITS 세계총회]한지형 오토노머스에이투지 대표이사, “자율주행 상용화 가장 먼저 실현한 선도 기업 될 것”
    - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: ITS Korea
    - 원문: https://www.e4ds.com/sub_view.asp?idx=23991
 
-6. "기술 전시 넘어 사업화" … 롯데, 바이오 수주·자율주행·로봇 사업 확대
+5. "기술 전시 넘어 사업화" … 롯데, 바이오 수주·자율주행·로봇 사업 확대
    - 분야: 산업·투자 / 게재일: 2026-10-30 / 매체: 뉴데일리
-   - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE03V2hXQThUR2U0XzBHeDFGYlpPcVpKbmdJUDRybFdTN3ZNVHpZQnFMRzNXX29mVjZtd09HVzk5eHhpc3o0ZV91WDdsb0RESV9uOFpjN1FpTHRDanM1Wm03NHRPSmw0cUxSRXdSeWxyQ0diOFoya0o5RjBoY9IBgAFBVV95cUxPZnRqSDNNekNmMlItT3pFTEVla01qQlkzMXFnM3BTUEV4N0swRkhNc3NFaGNGTHNxY0s4anpzMklCVDVtRGEtNDQ3ZHFvTlp4d3pPSFVKYjFYbm9ZeFh6MVlvdHctU0R5RXBsUVBUOUlVRzQyZkwzVE1EV1NLWUZwZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxPZnRqSDNNekNmMlItT3pFTEVla01qQlkzMXFnM3BTUEV4N0swRkhNc3NFaGNGTHNxY0s4anpzMklCVDVtRGEtNDQ3ZHFvTlp4d3pPSFVKYjFYbm9ZeFh6MVlvdHctU0R5RXBsUVBUOUlVRzQyZkwzVE1EV1NLWUZwZ9IBgAFBVV95cUxPZnRqSDNNekNmMlItT3pFTEVla01qQlkzMXFnM3BTUEV4N0swRkhNc3NFaGNGTHNxY0s4anpzMklCVDVtRGEtNDQ3ZHFvTlp4d3pPSFVKYjFYbm9ZeFh6MVlvdHctU0R5RXBsUVBUOUlVRzQyZkwzVE1EV1NLWUZwZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. 롯데, 글로벌 무대서 신사업 확장…바이오 수주에 자율주행·AI 성과
+6. 롯데, 글로벌 무대서 신사업 확장…바이오 수주에 자율주행·AI 성과
    - 분야: 산업·투자 / 게재일: 2026-10-30 / 매체: 스포츠서울
    - 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCWTRBU29xZWtWRFVyX2hhSFdISEo4SWRPRDVpUW9CU20xcE1qNW9CLTdWaW5ubFZrWXVBZUwzRUprLU5jeXBwOE91empNNHhqSjJKcTBlQXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. [회원사/동향] 도로 위 지능을 사물인터넷으로 엮다…롯데이노베이트, 모빌리티 영토확장 속도전
+7. [회원사/동향] 도로 위 지능을 사물인터넷으로 엮다…롯데이노베이트, 모빌리티 영토확장 속도전
    - 분야: 기타 / 게재일: 2026-10-28 / 매체: ITS Korea
    - 원문: https://www.donga.com/news/Economy/article/all/20261028/134926578/1
 
-9. 자율주행 트럭 업체 오로라, 미국 물류사 차저에 무인 트럭 최대 500대 공급 추진
+8. 자율주행 트럭 업체 오로라, 미국 물류사 차저에 무인 트럭 최대 500대 공급 추진
    - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: AI 매터스
    - 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XTjAzVFd6NmtLUU1zMGZMdDBvWDZ1ZTY3dlkycF9wZEkzekp2M1hXMHQ0N2dkalpsdmpqMTFNa2dQUkdEeENjYzkwaHFGTExWRnYwSw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. GM "레이더 빼는 것 말 안 돼"…테슬라식 카메라 자율주행과 선 긋기
-   - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: 디지털투데이
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBWQWFGRmItcDljcFQxZkRHRXNEclozTWpoei1GYTdwbUNaRGxpV0F5bzRZQ21Hc1M3b0ZueDJZWnJiSzZYVm5rY3BCNzVvRXF1Qmt3Y1ZlOXNWeF9FN3RER3ZfUmRnNEZYNGEwX0o2UllDd1U?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-11. 사람 없이 공장 부품 나르는 자율주행차, 오토노머스에이투지 물류용 시제차 완성
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 플래텀(Platum)
-   - 원문: https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LSEJ1SW1YZDJ0U1UxMm1DTHdiNkYxcUUtNVVhUEJFWVVDWWdsUzd0bXJaekczUDlJMlVrSE8zZXNsUEtmOHVSYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-12. [회원사/동향] 부천도시공사, AI로 주차 방해 차량 감지…공영주차장 2곳 시범 도입
+9. [회원사/동향] 부천도시공사, AI로 주차 방해 차량 감지…공영주차장 2곳 시범 도입
    - 분야: 대중교통·물류 / 게재일: 2026-10-29 / 매체: ITS Korea
    - 원문: https://www.journal25.com/news/articleView.html?idxno=571642
 
-13. 'AX 실증밸리 선정' 광주교통공사, AI기반 도시철도 개발·실증
+10. 'AX 실증밸리 선정' 광주교통공사, AI기반 도시철도 개발·실증
    - 분야: 대중교통·물류 / 게재일: 2026-10-28 / 매체: 뉴시스
    - 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE5FdWlWb2lSWTNLbl92YnVTZzFnbktKcjlER1dYQW54UXlMb3BKc25PUzF0ZklIdTZ3V3JKSHJNTW1UejFjcG1BV2M3RS11SmpscTFheGZjaFFSdUxlY3pJYXVreU9sUUxyeDVxYkFVdzNvMDdieUpoONIBeEFVX3lxTE5FdWlWb2lSWTNLbl92YnVTZzFnbktKcjlER1dYQW54UXlMb3BKc25PUzF0ZklIdTZ3V3JKSHJNTW1UejFjcG1BV2M3RS11SmpscTFheGZjaFFSdUxlY3pJYXVreU9sUUxyeDVxYkFVdzNvMDdieUpoOA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 수원시, 실시간 교통신호 정보제공 시스템 70개소 확대
+11. 수원시, 실시간 교통신호 정보제공 시스템 70개소 확대
    - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 경인종합일보
    - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE95Y2Jva0pBbE12RVpEU1ZrOUZpaVlGUWwyRFZoZWp1WDF0d2dvRXhxTXA1OEFwTDVoTmJLdmFQX2FjM3c1b3Bzc05WVkhieGxkWEo2dWVKU2d2UkZZbVAyQk9QZEljM0tabTFVVC1wdDEyd9IBckFVX3lxTE95Y2Jva0pBbE12RVpEU1ZrOUZpaVlGUWwyRFZoZWp1WDF0d2dvRXhxTXA1OEFwTDVoTmJLdmFQX2FjM3c1b3Bzc05WVkhieGxkWEo2dWVKU2d2UkZZbVAyQk9QZEljM0tabTFVVC1wdDEydw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 수원시 실시간 교통신호 안내 '효과'…급가속·급감속 57.1% 감소
+12. 수원시 실시간 교통신호 안내 '효과'…급가속·급감속 57.1% 감소
    - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 일간경기
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vUGpLNGZQQ2pXM2xLajBUQmc1T2dYT0xZMmsyWVdpRTU5UjZ1WTNybDdLUjdpUVpNLWxycy1rNk9MdTVZQnpZNjdsMFA3X2k2SkdySkhRdVZqMEtVWEZpZ1FFUzJCbF85?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 아우토크립트, ITS 세계총회서 C-ITS 보안 구축 사례·핵심 기술 공개
+13. 아우토크립트, ITS 세계총회서 C-ITS 보안 구축 사례·핵심 기술 공개
    - 분야: C-ITS·V2X / 게재일: 2026-10-25 / 매체: 프라임경제
    - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE9VVHRvenFoMW1tTUJNWjlMTk5mMVZ2Ukhuak5wVEVyNlNFOEpZcWJzQ093SlZRWlI1LVhzWXFqUmlod1MyY1BBeEdfcFh4U2JNdWVhVW8ycnctVkRWSHJxdXBiUVZjQmxjQWdTYjF6U0Zzdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. [2026 강릉 ITS 세계총회②]심상규 아우토크립트 부사장(CTO), “자율주행 미래 ‘보안’이 결정”
+14. [2026 강릉 ITS 세계총회②]심상규 아우토크립트 부사장(CTO), “자율주행 미래 ‘보안’이 결정”
    - 분야: 자율주행 / 게재일: 2026-10-27 / 매체: e4ds news
    - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYkQtbnUwdnZ3X3NwM3F0cmxLWWZvNmVDYm10NEpjVDJNb0lSRWxnWlg1ZlhvbmZ3Q1huaFlxeGdETV9URkV1QnhCRm85V0pwbDZrSnNn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. Kodiak AI, DTL과 무인 트럭 75대에 자율주행 시스템 도입 계약
+15. Kodiak AI, DTL과 무인 트럭 75대에 자율주행 시스템 도입 계약
    - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: Investing.com 한국어
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFBNVmZUeXl0WjFiTmFnU0tQcTBxLXBrT2ZCbWliTGRCQkFsRWQ0ZVozSFZmQWJELXR0TWg1Ni1qUUlHdUVHQ3RQd2prbTg5OFk1cWlzM3ladjVVQzZQdHc1TUk0Q0FyODFzUUxnSFdTOWg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. ‘자율주행 옵션 구매’ 테슬라 차주들, 환불 소송냈지만… 1심 패소
+16. 1,000만원 주고 샀는데 자율주행 못 썼다…테슬라 차주 환불소송, 29일 결론
+   - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: 뉴스워커
+   - 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE9VcDdWRE9ORlMwV25xNXNOdWhGdkQyNF9nYWE2NXZOLWttWHdBYkxpWF83M05LN3I0TGVnUTVQanNYSlR6YTU5amlzNTgzVjFVQWJYRzV2bVVPNkotNXRwRHV4QzNkN0JBSXJfNEdjMXY3RDMx0gF0QVVfeXFMT1VwN1ZET05GUzBXbnE1c051aEZ2RDI0X2dhYTY1dk4ta21Yd0FiTGlYXzczTks3cjRMZWdRNVBqc1hKVHphNTlqaXM1ODNWMVVBYlhHNXZtVU82Si01dHBEdXhDM2Q3QkFJcl80R2MxdjdEMzE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. ‘자율주행 옵션 구매’ 테슬라 차주들, 환불 소송냈지만… 1심 패소
    - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 대한경제
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE92SWxoeTctTGJFaEwzUTNrOVdIMkRESUVBRDZYOG5uQWM3anhXTHFXSlpVTUk2aUFhZzFPVmZpYUFscE5neFRVSVFBdG5XaTVzMmJXdHE4YkVRdkx0WmoyUzYyc1VseEp2UGpHOWlQZzM5ams?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. "완전자율주행? 돈 돌려 달라"…테슬라 차주들 '결국 완패'
+18. "완전자율주행? 돈 돌려 달라"…테슬라 차주들 '결국 완패'
    - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 한국경제
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTmpibVRFaVhKV0FyMGFlcUxzbzllUjVjYWhKWHRZWVRNLS0wOEk4Wlh1Smwwd2NTT0t0UFQ5VG5EWnFyMl9zNzV2bnZxOWNlME04OXI2WkczQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. "테슬라 FSD, 완전자율주행 아냐" 소송했지만…눈물의 패소 [지금이뉴스]
+   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: YTN
+   - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTE9uTjZjcFEtWEdvdWJhRzdJWk9WYk1FOVFkd0tZVWZ4MUdDanNQdUUzSmZFM0lhOFRQM0hoQlk2YUtLTFBGTXpSbVRHc3RMbXlXblJaRTlCR0puZl9FN1phUndCMWdWX3RKSy1wUXZDSjRaNzluOFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 테슬라 FSD 구매자들 환불소송 패소…法 "레벨5 완전자율주행 의미 아냐"
+   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 뉴스핌
+   - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE55WHdEX19VRTZuU3RqT09XZVlKd2hKaV9VRFU4aUhiYlRBNnMzTWoxNHRTRmJWcVZRdjloRmlYaTl1b3NWZVdkZ1ZkSmxFc2cyNmFVaTJFck1nQk9V?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
