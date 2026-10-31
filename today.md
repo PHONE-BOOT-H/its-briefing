@@ -1,4 +1,4 @@
-# ITS 브리핑 2026-10-30
+# ITS 브리핑 2026-10-31
 
 해외 ITS 기사·국내 ITS 기사·해외 발주 공고를 매일 06시에 모은 것입니다.
 이미 게시판에 올린 건, 관련도가 낮은 건, 원문이 오래된 건은 빼고 후보만 남겼습니다.
@@ -45,8 +45,8 @@
    - 원문: https://www.itsinternational.com/jenoptik-wins-lithuania-anpr-deal/
 
 8. Elon Musk's influence grows as SpaceX gains control over space traffic management
-   - 분야: 신호·관제 / 게재일: 2026-10-26 / 매체: Daily Express US
-   - 원문: https://news.google.com/rss/articles/CBMinwFBVV95cUxNZFlGOXZFdXdYQ3JtejJHU0NBNGpfTlJibkpfMEVBV2hveHNvVWNyU0xuN09HX1o5c1VsdmdRLTh3YWxSaUdmTURBd2hCaXdIWGhSMXFGaklTYlRtMk1HWDVfMnhQbU9NX0hzOVBuUm1ZeXhlbDN4ZkpKeDdfZFhvYUNyY2U4WmFtNVVzQTh1Z3JfZlNYY1NpY25MREMyOVXSAaQBQVVfeXFMTXVsRmJaSW1oVkNuRFlQVEcyWnRjQlFOUnhydFVSSHJtNzJGWVA2WFpod3A2ZEo5c1k5cFJMS0FvQVJxR2h4MVMzUnpiYXNEUnJ4MGFJbHlkQVZmem8tbWtmY2pyVlZEMl93WUhleWNwNU5fOExLa3JoT2Z2Y282MTJndldidk9kb3VrMXlPSXF3eWd6bnczWGkyTGM1eWpiLXhXYjI?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 분야: 신호·관제 / 게재일: 2026-10-26 / 매체: AOL.com
+   - 원문: https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUZSamtYR2MzZXlrWlRTcFNMV1ZnUG56ZU50ZHNnWFM2YWpmSEthRXJBU3d5TUU1LWo1WGFnc1o5U3l1OERSVFE5Q0phNF8ybEZ1UU44SXpITXJWMGhIUG9QTnltMFg0XzhNTDhmTW5SX2RpZGl1cjEzZDFRM3JhcHZ1VQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 9. AUTOCRYPT Highlights V2X Security Technologies and C-ITS Research Initiatives at ITS World Congress 2026
    - 분야: C-ITS·V2X / 게재일: 2026-10-26 / 매체: TradingView
@@ -64,29 +64,29 @@
    - 분야: 신호·관제 / 게재일: 2026-10-28 / 매체: OpenGov Asia
    - 원문: https://news.google.com/rss/articles/CBMikAFBVV95cUxPM3dtT0JadTdLRjgzX1V4elhva1lmQm1odjU5VlJiVTY4amM2S3dDb3VKSm1aM1k5dkE3ODJTSEk4OWp0U0FtWG9iNmhZajVNQXMxZXFodEItRENSTUtOcHRfYTZVLVVBRWRVTVZyQmhMcjV6cTV5VW9HVG9PSWg4akxKY0V2VVpjR3hzZ0VqZF8?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. TIME UP FOR RECKLESS CITY DRIVERS AS A NEW ERA OF TRAFFIC MANAGEMENT DAWNS
-   - 분야: 신호·관제 / 게재일: 2026-10-28 / 매체: Herald.co.zw
-   - 원문: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPel9sZVBMNEN2SlotSllPUDF6SU1BNXpGcFRzNldSNUNlZ2VBNUdDSzM0T1dDVzIyWmxCRm40RWpPZkMzVzhQOUVuMWZOMm9vcnNsLWRzZWx2M3BieHpQSlMxOXdKOUEteDNUR3NHdDgwMXFBRUpJaEs0NUdEN2ozWWdlNWxPUVhjYW9TZVFjRnlxeVlxTVhBdE5ZNWQzT2tlSFRuT1VaZ0Mzdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+13. Allahabad High Court Directs CBSE to Frame Traffic Management Plan for Lucknow Schools
+   - 분야: 신호·관제 / 게재일: 2026-10-28 / 매체: Jagran Josh
+   - 원문: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa2hoQXVWbktQeC1vZldnT3JId1BKblhScm43dWQtSjNUWTdrdEpfVFYxbVhtQUY0bVo5c2k4VFVicnVscDVIVzg1akVhQlFWa2xiMk1nbl9tNDBIQWh3cGJ4QnVDM1B2cTZTQTFrN0pzOUw1eHA2VEtzZ0ZXN0dpN0F6R0kyT01TbENwQXVXS0VnQk5vdnQxMFd6cDVKT1ZwUmFNemR4anl2c2pKWjB0VXJ6blpHUWNqazNQUVlKSndGUlHSAcoBQVVfeXFMT1dsYng2dExBOUpfRGJIamFlNGtLOXRLZW9FMjhtZlRrblpMOHlEdUdEOUJETjR6eXpSc3NEd1BzdHhRUVV3SU51aDNtSVVQV1Qyd1FaLWVMdmJQanl6dS1xXzYxMUF0MzNBR0VlSmJBY2lFdFg1eU9YTnQtRUlVMUZRTTBPYWpWZlJObEV6UjJMWGIwN3lCOWkyWEw4MjZjZmp2NHdEejM1TWl0RXI0YVIzdWlQeVlsZWNHX0FabmhMNjJZV0xiM0x3dw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. San Fernando City deploys smart tech to improve traffic management
-   - 분야: 신호·관제 / 게재일: 2026-10-28 / 매체: Newsbytes.PH
-   - 원문: https://news.google.com/rss/articles/CBMioAFBVV95cUxPSVh2aDg4SDBQSWVHdmJaVmJFSEpaVlBhNzBOZlhJUWRBTzdNUzBOZXA0OEhrVWktTk1VcXdFeXFhSHpvYTZNaFZVbV9mX1NBU1R1eFQtMzBwNnpNdWZZU21pTHBPRjdpUDQ2X19rOVhiUS0yeGF1eUdqamMtQUdFY2YwZWhPWXBfUnpadzItN0JNbEtMcEJSZGNmOGs5S0M5?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-15. Maruti Suzuki Expands Traffic Management System in Gurugram with 1,000 Additional Cameras
+14. Maruti Suzuki Expands Traffic Management System in Gurugram with 1,000 Additional Cameras
    - 분야: 신호·관제 / 게재일: 2026-10-29 / 매체: Machine Maker
    - 원문: https://news.google.com/rss/articles/CBMivwFBVV95cUxOalU5MVZyWWRRVWNuaWFzbE5JTm9wbmtQOGV2SWVHMmREaEtROXY5VVpCR3NUZHRINGNBcE5BQzV3WWhiUVVGOFB1R2VmUzVBNE8ySTVhVFhOVUczOHlJdUJCV0VXZ1pNRlJmaWlCXzgwM1dJTHhTNmFFQ1dfOEdEVEpZZVp6Ykt4VEVFamRTMm5lSkQtN0pZMGN5Ql9nRlhaNVdPOXM4WGpQLWxRVFQ5alVpSXVBMmFrYm43NXpDOA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [미국] Charger Logistics and Aurora to Begin Scaling Autonomous Fleet to 500 Trucks
+15. LET’S SUPPORT CITY’S NEW TRAFFIC MANAGEMENT SYSTEM
+   - 분야: 신호·관제 / 게재일: 2026-10-29 / 매체: Herald.co.zw
+   - 원문: https://news.google.com/rss/articles/CBMihwFBVV95cUxPeXBCZHVJQ1AwdDlIT2Y1ZDBxOWdxUHZ5UE9DZlZMZGtIM202UTdWb3cyY1RBdlVEUTZzdU1kTFlZbFVOR0hMbzhzRmdYc2RqejhGQUtvRmZZalVIVlViSkEtbDVTTUhZMGRzYjI3Q0YtWEt2WWpoV1pYbnZ0QmVMUlpWdGxYM3c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+16. Madhya Pradesh High Court Order: Seven-Member Committee Formed to Improve Traffic Management in Indore
+   - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: Law Trend
+   - 원문: https://news.google.com/rss/articles/CBMivwFBVV95cUxPelRBVEZRYUczRVJBbmZtdmxtN3VSZlFkWnVfWFJrRThiTWEtaUVSU1lScmVCUkJNSFppd0YxdndmdWgyWVNOQWdJVjZySVpDcVhfekZLQ1BZemRKLUpJN3B1MDRkSk1kOHo0SDl0elhwNWYtT2RLN0c3NWFBMm41cjZsbl9vVHNLWHdUVXZuLUo1TWxNZmZ6ZEhCb09feWFJZmE5X3FOX0NaT0p0eHp2aEdlZnRXNTFtNjVQc0ZFcw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. [미국] Charger Logistics and Aurora to Begin Scaling Autonomous Fleet to 500 Trucks
    - 분야: 자율주행 / 게재일: 2026-10-27 / 매체: ITS Korea
    - 원문: https://ir.aurora.tech/news-events/press-releases/detail/154/charger-logistics-and-aurora-to-begin-scaling-autonomous-fleet-to-500-trucks?utm_source=chatgpt.com
 
-17. City of Brownsville, TX - Municipal Government. . Brownsville is investing $1.32M to modernize traffic signals across 14+ locations with smart vehicle detection and GPS synchronization. This investment is part of our commitment to smarter infrastructure, safer r
+18. City of Brownsville, TX - Municipal Government. . Brownsville is investing $1.32M to modernize traffic signals across 14+ locations with smart vehicle detection and GPS synchronization. This investment is part of our commitment to smarter infrastructure, safer r
    - 분야: 신호·관제 / 게재일: 2026-10-29 / 매체: Facebook
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHlRdWFXclZvSmpxX3k0Qm1JeVRVbUx0N3lISjZzUE5mT2JnZWpTbGNrRHpUVmZKNVZfcXZEUWhXVi1PY1VMRGpKdG5sMEl0Y0dDMi1jdDFMaXlDSmhQTS01Q0hQWnlULTFOVnRXZG9sQ1ZZaHNmR3ZJQjl1X1Y4eXVvWkVSMUN3UmhaWXRjbGtNU2h4OWtZaktfUlQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-18. Optimization Model Rebalances Rail and Road Priority at Level Crossings for On-Demand Autonomous Shuttles
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: Bioengineer.org
-   - 원문: https://news.google.com/rss/articles/CBMiygFBVV95cUxOR0ZKeGJ3Y3FJOE9hb05iaWd4RktUWXFJTGROU1hxVUx4ZU42NWF0M1FnUjAwUGZyOWZ6akV1OV95WFNzMzQ3c3hhV2dCT0d3WmgxTEswS0tCOHJjUFpneHVyTzk1UUI3cTV5X2VGRnZ0RGtmNjhtWmMwMUJVRk9ZaVMzWE1KWXNaaGV2NVhMMzcxNE5JTjNuYVRiT2trMDFZOTR3MVgxYV8xX2x1SWVSYW9RMmpfU1BUWkZabVZIaU5hWGY1MERGbEpB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 19. [중국] UNECE advances global road safety and autonomous vehicle regulations during high-level week in China
    - 분야: 신호·관제 / 게재일: 2026-10-29 / 매체: ITS Korea
@@ -110,121 +110,97 @@
    - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: ITS Korea
    - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092530
 
-3. [회원사/동향] [2026 강릉 ITS 세계총회]한지형 오토노머스에이투지 대표이사, “자율주행 상용화 가장 먼저 실현한 선도 기업 될 것”
+3. 지능형교통체계(ITS) 도시 수원, 내비게이션으로 실시간 교통신호 정보 제공
+   - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 서울신문
+   - 원문: https://news.google.com/rss/articles/CBMihAFBVV95cUxPbGplRUhtUTM5a1NTVUVOcnh5RTl1eUtLZnZPWW45Nm9qUDZTNEVhWl9wUmtEVVkzY0d5WlczTlR3QnoxOHdZQ3VINHpIb1Y0alFjSjd0MFl6SlhQbHNJU2VBVnVrVHFGcFFRSEFmMS1YNS02emFmQnR3WlIwaXgtaVI0aEY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+4. "자율주행 넘어 커넥티드카까지"…롯데이노베이트, 미래 모빌리티 영토 넓힌다
+   - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: 지디넷코리아
+   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KT0F5SDR1a3k2Rkc5RmpXUTM3YVNuem1feDF0bUpDQmZ4SmpuSkdyX0RBUmFHc1VxQWFNdVFlcFE5R0ZMTE1oODlSbHQ4UTF5Nlo0NTZ3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+5. [회원사/동향] [2026 강릉 ITS 세계총회]한지형 오토노머스에이투지 대표이사, “자율주행 상용화 가장 먼저 실현한 선도 기업 될 것”
    - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: ITS Korea
    - 원문: https://www.e4ds.com/sub_view.asp?idx=23991
 
-4. "기술 전시 넘어 사업화" … 롯데, 바이오 수주·자율주행·로봇 사업 확대
+6. "기술 전시 넘어 사업화" … 롯데, 바이오 수주·자율주행·로봇 사업 확대
    - 분야: 산업·투자 / 게재일: 2026-10-30 / 매체: 뉴데일리
    - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE03V2hXQThUR2U0XzBHeDFGYlpPcVpKbmdJUDRybFdTN3ZNVHpZQnFMRzNXX29mVjZtd09HVzk5eHhpc3o0ZV91WDdsb0RESV9uOFpjN1FpTHRDanM1Wm03NHRPSmw0cUxSRXdSeWxyQ0diOFoya0o5RjBoY9IBgAFBVV95cUxPZnRqSDNNekNmMlItT3pFTEVla01qQlkzMXFnM3BTUEV4N0swRkhNc3NFaGNGTHNxY0s4anpzMklCVDVtRGEtNDQ3ZHFvTlp4d3pPSFVKYjFYbm9ZeFh6MVlvdHctU0R5RXBsUVBUOUlVRzQyZkwzVE1EV1NLWUZwZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. [회원사/동향] 도로 위 지능을 사물인터넷으로 엮다…롯데이노베이트, 모빌리티 영토확장 속도전
+7. 롯데, 글로벌 무대서 신사업 확장…바이오 수주에 자율주행·AI 성과
+   - 분야: 산업·투자 / 게재일: 2026-10-30 / 매체: 스포츠서울
+   - 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCWTRBU29xZWtWRFVyX2hhSFdISEo4SWRPRDVpUW9CU20xcE1qNW9CLTdWaW5ubFZrWXVBZUwzRUprLU5jeXBwOE91empNNHhqSjJKcTBlQXc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+8. [회원사/동향] 도로 위 지능을 사물인터넷으로 엮다…롯데이노베이트, 모빌리티 영토확장 속도전
    - 분야: 기타 / 게재일: 2026-10-28 / 매체: ITS Korea
    - 원문: https://www.donga.com/news/Economy/article/all/20261028/134926578/1
 
-6. ITS Korea, 차량 2대로 155대 통신 재현…자율주행 연결망 검증
-   - 분야: 자율주행 / 게재일: 2026-10-23 / 매체: 파이낸셜뉴스
-   - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwY3FkOHJPTVU4OTVYSDlFbE1XQ1c5bFJBNGI4LWV0WDMycTN0OXg0Nkl3bmkxZmRjVDl0MFYwaUM2cVdPOEw2eDJXX2xVVGVLSF9XSXNXQXhjUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-7. 세종시 자율주행 관제센터 유지보수 6차례 동일 컨소시엄 계약…누적 35억3,700만 원
-   - 분야: 신호·관제 / 게재일: 2026-10-26 / 매체: 대전인터넷신문
-   - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTFByNXZtSFdvVDhoNmc4SUV5NkEwM0d6c3QyZWdUaENkTFZTNTRyWFRXaVZKbEdsYXVkZGREdUNjdmZGaWkzSzRyeEFtYUZtQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-8. 자율주행 트럭 업체 오로라, 미국 물류사 차저에 무인 트럭 최대 500대 공급 추진
+9. 자율주행 트럭 업체 오로라, 미국 물류사 차저에 무인 트럭 최대 500대 공급 추진
    - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: AI 매터스
    - 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5XTjAzVFd6NmtLUU1zMGZMdDBvWDZ1ZTY3dlkycF9wZEkzekp2M1hXMHQ0N2dkalpsdmpqMTFNa2dQUkdEeENjYzkwaHFGTExWRnYwSw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. GM "레이더 빼는 것 말 안 돼"…테슬라식 카메라 자율주행과 선 긋기
+10. GM "레이더 빼는 것 말 안 돼"…테슬라식 카메라 자율주행과 선 긋기
    - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: 디지털투데이
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBWQWFGRmItcDljcFQxZkRHRXNEclozTWpoei1GYTdwbUNaRGxpV0F5bzRZQ21Hc1M3b0ZueDJZWnJiSzZYVm5rY3BCNzVvRXF1Qmt3Y1ZlOXNWeF9FN3RER3ZfUmRnNEZYNGEwX0o2UllDd1U?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. MTZ, 독일 도시서 자율주행 택시 최대 500대 운영 추진
-   - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: 토큰포스트
-   - 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CMUNXUUhMbmQ2Z0FGUF9zNFZyX1lUNGVraTh3SHBDWTZXeUpPdHBRdEo4TkJvenNXQXNGOHJBNXpNN1VPX05teGdYQnFINTFCaVUtamxEeXHSAVhBVV95cUxPQjFDV1FITG5kNmdBRlBfczRWcl9ZVDRla2k4d0hwQ1k2V3lKT3RwUXRKOE5Cb3pzV0FzRjhyQTV6TTdVT19ObXhnWEJxSDUxQmlVLWpsRHlx?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+11. 사람 없이 공장 부품 나르는 자율주행차, 오토노머스에이투지 물류용 시제차 완성
+   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 플래텀(Platum)
+   - 원문: https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LSEJ1SW1YZDJ0U1UxMm1DTHdiNkYxcUUtNVVhUEJFWVVDWWdsUzd0bXJaekczUDlJMlVrSE8zZXNsUEtmOHVSYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. [플랫폼 자율주행 해부]④ 티머니, 1450만 회원·택시 상생으로 시동
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: Daum
-   - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTE84R2Y2WWdES3dMRW5sSmZKMkZKUHpYYmx5Y0kzYWxoeHF5RGFxYXRpdS1fUHhJRDJfb002eTlWTmdzaHNFVGc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-12. “주차는 스마트시티 핵심 인프라”…카카오모빌리티, ITS 세계총회서 기술 역량 과시
-   - 분야: 기술·표준 / 게재일: 2026-10-24 / 매체: 스포츠서울
-   - 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ITDhVREFZQmRDOTVyNWgtanQyYVI5M3BYN2luRzI4Q1pQVFNkM0RaUjkwQ09ZMmhIcmlCT2RLVjZPb1NqbVdPRjluQUVqbWlSSWt1dEZFeU0?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-13. [회원사/동향] 부천도시공사, AI로 주차 방해 차량 감지…공영주차장 2곳 시범 도입
+12. [회원사/동향] 부천도시공사, AI로 주차 방해 차량 감지…공영주차장 2곳 시범 도입
    - 분야: 대중교통·물류 / 게재일: 2026-10-29 / 매체: ITS Korea
    - 원문: https://www.journal25.com/news/articleView.html?idxno=571642
 
-14. 광주교통공사, AX 실증밸리 공모 선정 국산 AI 기술로 더 안전하고 편리한 도시철도 만든다
-   - 분야: 대중교통·물류 / 게재일: 2026-10-28 / 매체: 시사일보
-   - 원문: https://news.google.com/rss/articles/CBMiTEFVX3lxTFBmUWVxN0NOMXpGSkpmeEt1QW1Xb2dPQWdiRkJjbUdsVWJ4Y2I2b21OSHVBQkVyR3hueW8wakh6VUpnb2VmSmFIUEE0QW4?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+13. 'AX 실증밸리 선정' 광주교통공사, AI기반 도시철도 개발·실증
+   - 분야: 대중교통·물류 / 게재일: 2026-10-28 / 매체: 뉴시스
+   - 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE5FdWlWb2lSWTNLbl92YnVTZzFnbktKcjlER1dYQW54UXlMb3BKc25PUzF0ZklIdTZ3V3JKSHJNTW1UejFjcG1BV2M3RS11SmpscTFheGZjaFFSdUxlY3pJYXVreU9sUUxyeDVxYkFVdzNvMDdieUpoONIBeEFVX3lxTE5FdWlWb2lSWTNLbl92YnVTZzFnbktKcjlER1dYQW54UXlMb3BKc25PUzF0ZklIdTZ3V3JKSHJNTW1UejFjcG1BV2M3RS11SmpscTFheGZjaFFSdUxlY3pJYXVreU9sUUxyeDVxYkFVdzNvMDdieUpoOA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 광주교통공사, 국내 도시철도첫 NPU 기반 차상 엣지 AI 실증
-   - 분야: 대중교통·물류 / 게재일: 2026-10-28 / 매체: 한국철도일보
-   - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFBOa3V1MTZtQ0dSNXl2OUdfWk5VWTlLMlFLSzFUX01HNk1DbE9uTFNZdEhQMFFNWE9rS0RhZ1diUC01YnRHdjVuX0Q3MjZ0ZnBSdEo5WU9LYWdRaEc4dk40eW1wNDBGMTJVNFV1ZzBucWo?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+14. 수원시, 실시간 교통신호 정보제공 시스템 70개소 확대
+   - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 경인종합일보
+   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE95Y2Jva0pBbE12RVpEU1ZrOUZpaVlGUWwyRFZoZWp1WDF0d2dvRXhxTXA1OEFwTDVoTmJLdmFQX2FjM3c1b3Bzc05WVkhieGxkWEo2dWVKU2d2UkZZbVAyQk9QZEljM0tabTFVVC1wdDEyd9IBckFVX3lxTE95Y2Jva0pBbE12RVpEU1ZrOUZpaVlGUWwyRFZoZWp1WDF0d2dvRXhxTXA1OEFwTDVoTmJLdmFQX2FjM3c1b3Bzc05WVkhieGxkWEo2dWVKU2d2UkZZbVAyQk9QZEljM0tabTFVVC1wdDEydw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 수원시, 실시간 교통신호 안내 시스템 70곳 추가 설치
-   - 분야: 신호·관제 / 게재일: 2026-10-29 / 매체: 서울경제
-   - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EWFQySE01MnU0NWtVcUZvcXp6YnRxdTRScGJhSU5HTTF2M001eVVOTkVjWDBwTEhIOVhpel9JM0czUWdlcjgzWVdHa3dQNnIxb3fSAVNBVV95cUxOLWR1X0tXaW5JMkxJS3NaTzlnbkVROXUyREVRYjJRR2c0QWdmQURuQ051QmM1d0g2NXIybG5uN0lJcDNGVDRKYmRRRER3M0FSTUVoRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+15. 수원시 실시간 교통신호 안내 '효과'…급가속·급감속 57.1% 감소
+   - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 일간경기
+   - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vUGpLNGZQQ2pXM2xLajBUQmc1T2dYT0xZMmsyWVdpRTU5UjZ1WTNybDdLUjdpUVpNLWxycy1rNk9MdTVZQnpZNjdsMFA3X2k2SkdySkhRdVZqMEtVWEZpZ1FFUzJCbF85?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 아우토크립트, ITS 세계총회서 C-ITS 보안 구축 사례·핵심 기술 공개
+16. 아우토크립트, ITS 세계총회서 C-ITS 보안 구축 사례·핵심 기술 공개
    - 분야: C-ITS·V2X / 게재일: 2026-10-25 / 매체: 프라임경제
    - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE9VVHRvenFoMW1tTUJNWjlMTk5mMVZ2Ukhuak5wVEVyNlNFOEpZcWJzQ093SlZRWlI1LVhzWXFqUmlod1MyY1BBeEdfcFh4U2JNdWVhVW8ycnctVkRWSHJxdXBiUVZjQmxjQWdTYjF6U0Zzdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. [2026 강릉 ITS 세계총회②]심상규 아우토크립트 부사장(CTO), “자율주행 미래 ‘보안’이 결정”
+17. [2026 강릉 ITS 세계총회②]심상규 아우토크립트 부사장(CTO), “자율주행 미래 ‘보안’이 결정”
    - 분야: 자율주행 / 게재일: 2026-10-27 / 매체: e4ds news
    - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYkQtbnUwdnZ3X3NwM3F0cmxLWWZvNmVDYm10NEpjVDJNb0lSRWxnWlg1ZlhvbmZ3Q1huaFlxeGdETV9URkV1QnhCRm85V0pwbDZrSnNn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. "테슬라 완전자율주행 옵션 환불해야" 소송낸 차주들 1심 패소
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 연합뉴스
-   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wTWIzSGdWV0prQWhhbjUyUmh2NlBrc2hrNDNIa0s5TFRxYm9uVzl2c1ZkWTZYSS00dnA0XzFDOEZ0YmpzVkI1QWlYNTZlSVJJSlNrdk9WWGIxN1AwcUx0TtIBYEFVX3lxTE1wTWIzSGdWV0prQWhhbjUyUmh2NlBrc2hrNDNIa0s5TFRxYm9uVzl2c1ZkWTZYSS00dnA0XzFDOEZ0YmpzVkI1QWlYNTZlSVJJSlNrdk9WWGIxN1AwcUx0Tg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+18. Kodiak AI, DTL과 무인 트럭 75대에 자율주행 시스템 도입 계약
+   - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: Investing.com 한국어
+   - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFBNVmZUeXl0WjFiTmFnU0tQcTBxLXBrT2ZCbWliTGRCQkFsRWQ0ZVozSFZmQWJELXR0TWg1Ni1qUUlHdUVHQ3RQd2prbTg5OFk1cWlzM3ladjVVQzZQdHc1TUk0Q0FyODFzUUxnSFdTOWg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. "테슬라 FSD, 완전자율주행 아냐" 소송했지만…눈물의 패소 [지금이뉴스]
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: YTN
-   - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTE9uTjZjcFEtWEdvdWJhRzdJWk9WYk1FOVFkd0tZVWZ4MUdDanNQdUUzSmZFM0lhOFRQM0hoQlk2YUtLTFBGTXpSbVRHc3RMbXlXblJaRTlCR0puZl9FN1phUndCMWdWX3RKSy1wUXZDSjRaNzluOFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+19. ‘자율주행 옵션 구매’ 테슬라 차주들, 환불 소송냈지만… 1심 패소
+   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 대한경제
+   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE92SWxoeTctTGJFaEwzUTNrOVdIMkRESUVBRDZYOG5uQWM3anhXTHFXSlpVTUk2aUFhZzFPVmZpYUFscE5neFRVSVFBdG5XaTVzMmJXdHE4YkVRdkx0WmoyUzYyc1VseEp2UGpHOWlQZzM5ams?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. "완전자율주행? 돈 돌려 달라"…테슬라 차주들 '결국 완패'
+   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 한국경제
+   - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTmpibVRFaVhKV0FyMGFlcUxzbzllUjVjYWhKWHRZWVRNLS0wOEk4Wlh1Smwwd2NTT0t0UFQ5VG5EWnFyMl9zNzV2bnZxOWNlME04OXI2WkczQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
 ## 진행 중 해외 발주 (마감 전)
 
-- [카자흐스탄] Construction Supervision Consultant for Jezkazgan–Karagandy Section of the Trans-Caspian International Transport Route (Middle Corridor)
-  - 마감 2026-10-30 / 발주처 JSC National Company KazAutoZhol
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00475091
-
-- [다국가] Accelerating Innovation in Transport:Electric Vehicle Policy Review & Recommendations for PNG Consultant
-  - 마감 2026-10-30 / 발주처 Asian Development Bank
-  - 원문: https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=BC2CA3CA85C94C0856EF5C2C1F73D9DE1F38A3F53672432AAE01AA77DB3ED223
-
 - [타지키스탄] Toll Road Implementation Support
   - 마감 2026-11-02 / 발주처 Ministry of Transport
   - 원문: https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=8E67DC9DDF50BF3E58F923E7A60FEF2F605CE9FE955F409508ED81A9516E9DA1
-
-- [크로아티아] Croatia – Speed camera equipment – Fiksni uređaj za mjerenje brzine
-  - 마감 2026-11-04 / 발주처 MINISTARSTVO UNUTARNJIH POSLOVA
-  - 원문: https://ted.europa.eu/en/notice/-/detail/733750-2026
-
-- [크로아티아] Croatia – Traffic lights – IZVEDBA PROMETNIH ELABORATA SVJETLOSNE PROMETNE SIGNALIZACIJE
-  - 마감 2026-11-05 / 발주처 GRAD ZAGREB
-  - 원문: https://ted.europa.eu/en/notice/-/detail/736657-2026
 
 - [슬로바키아] Slovakia – Information panels – Dodanie elektronických informačných tabúľ s príslušenstvom a poskytnutie súvisiacich služieb
   - 마감 2026-11-06 / 발주처 Bratislavský samosprávny kraj
   - 원문: https://ted.europa.eu/en/notice/-/detail/743007-2026
 
-- [파키스탄] Karachi Bus Rapid Transit Red Line Project
-  - 마감 2026-11-09 / 발주처 -
-  - 원문: https://www.adb.org/node/1186471
+- [다국가] Railway Expert
+  - 마감 2026-11-06 / 발주처 Asian Development Bank
+  - 원문: https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=8D7F7358C51110C2FABB5BF01C29129204D0083058F7132F453B989A8C639F05
 
 - [Horn of Africa] Recruitment of Financial Management Specialist.
   - 마감 2026-11-09 / 발주처 Ministry of Transport and Logistics
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477539
-
-- [차드] étude de faisabilité pour la modernisation des transports sur le lac Tchad et les fleuves Chari et Logone
-  - 마감 2026-11-09 / 발주처 Ministry of Transport, Civil Aviation and National Meteorology
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00457141
-
-- [모잠비크] Environmental Specialist, Sofala
-  - 마감 2026-11-10 / 발주처 Project  Management Unit
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477090
 
 - [크로아티아] Croatia – Speed camera equipment – Fiksni uređaj za mjerenje brzine
   - 마감 2026-11-11 / 발주처 MINISTARSTVO UNUTARNJIH POSLOVA
@@ -245,3 +221,27 @@
 - [El Salvador] ESPECIALISTA DE APOYO PARA LA CONFORMACIÓN DE EXPEDIENTES DE DERECHO DE VÍA
   - 마감 2026-11-12 / 발주처 Ministry of Public Works and Transport
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477885
+
+- [코소보] Monitoring and Evaluation Expert
+  - 마감 2026-11-12 / 발주처 Ministry of Finance
+  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00477461
+
+- [슬로바키아] Slovakia – Information panels – Dodanie elektronických informačných tabúľ s príslušenstvom a poskytnutie súvisiacich služieb
+  - 마감 2026-11-13 / 발주처 Bratislavský samosprávny kraj
+  - 원문: https://ted.europa.eu/en/notice/-/detail/750345-2026
+
+- [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S5 na odcinku od węzła Mieleszyn do węzła Poznań Wschód w latach 2027- 2031
+  - 마감 2026-11-13 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
+  - 원문: https://ted.europa.eu/en/notice/-/detail/748728-2026
+
+- [폴란드] Poland – Snow-clearing services – Całoroczne kompleksowe (bieżące i zimowe) utrzymanie drogi ekspresowej S11c oraz S5e na odcinku od węzła Poznań Północ do węzła Mosina w latach 2027-2031.
+  - 마감 2026-11-13 / 발주처 Generalna Dyrekcja Dróg Krajowych i Autostrad
+  - 원문: https://ted.europa.eu/en/notice/-/detail/746433-2026
+
+- [프랑스] France – Electrical fitting work – Évolution des équipements de gestion de trafic du SRGT : 2 lots (La Réunion) - Lot 1 : Génie Civil hors réalisation massif équipement - Lot 2 : Équipement de gestion du trafic du SRGT
+  - 마감 2026-11-16 / 발주처 CONSEIL RÉGIONAL DE LA REUNION
+  - 원문: https://ted.europa.eu/en/notice/-/detail/746892-2026
+
+- [그리스] Greece – Miscellaneous special-purpose machinery – Διακήρυξη Ηλεκτρονικού Διεθνούς Διαγωνισμού, με Ανοικτή Διαδικασία μέσω ΕΣΗΔΗΣ, προμήθειας εξοπλισμού, με κριτήριο ανάθεσης την πλέον συμφέρουσα από οικονομική άποψη προσφορά, βάσει τιμής ανά Τμήμα στο πλαίσιο υλοποίησης του έργου «Πολλαπλή Χρήση Χώρων για Καθαρή Αυτονομία Νησιών – MUSICA» (Grant Agreement number: 862252)
+  - 마감 2026-11-18 / 발주처 ΕΛΚΕ ΠΑΝΕΠΙΣΤΗΜΙΟΥ ΑΙΓΑΙΟΥ
+  - 원문: https://ted.europa.eu/en/notice/-/detail/749639-2026

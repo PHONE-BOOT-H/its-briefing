@@ -1063,6 +1063,13 @@
   "impagency": "Bangladesh Water Development Board (Ministry of Water Resources),Department of Agricultural Extension (Ministry of Agriculture),Department of Disaster Management (Ministry of Disaster Management and Relief),Local Government Engineering Department (Local Government Division, Ministry of Local Government, Rural Development and Co-operatives),Social Development Foundation (Financial Institutions Division, Ministry of Finance)",
   "total": 270000000.0
  },
+ "P508693": {
+  "borrower": "Co-operative Republic of Guyana",
+  "closing": "2030-03-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Health ",
+  "total": 7000000.0
+ },
  "P508837": {
   "borrower": "Central African Republic,Republic of Cameroon,Republic of Chad,Republic of Congo,The Economic and Monetary Community of Central Africa (CEMAC)",
   "closing": "2030-12-31",
@@ -1196,7 +1203,21 @@
   "impagency": "ICT Authority,Kenya National Highways Authority,Kenya Rural Roads Authority,National Construction Authority,National Transport and Safety Authority,State Department for Roads",
   "total": 1108000000.0
  },
+ "P517871": {
+  "borrower": "Syrian Arab Republic",
+  "closing": "2033-05-02",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Transport",
+  "total": 200000000.0
+ },
  "P518023": {
+  "borrower": null,
+  "closing": null,
+  "funder": null,
+  "impagency": null,
+  "total": null
+ },
+ "P519325": {
   "borrower": null,
   "closing": null,
   "funder": null,
