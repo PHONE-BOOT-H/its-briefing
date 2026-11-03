@@ -239,6 +239,16 @@
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=98EC6E37F9C7B9621B3ED191681D19936000A99AE3E056F83F0E29758CA73DC1": {
+  "budget": {
+   "amount": 61241.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Economic Development Bureau under Administration Committee of Gui'an New District China",
+  "selection_method": "Consultants' Qualifications Selection (CQS)",
+  "source_scope": "International"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=999ED02D3112E9C373CC2FED73E4AF8E9E63A17BBD577C744EB6A5BA59303AC5": {
   "budget": {
    "amount": 2931000.0,
