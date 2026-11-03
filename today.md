@@ -146,41 +146,41 @@
    - 분야: 신호·관제 / 게재일: 2026-11-03 / 매체: ITS Korea
    - 원문: https://www.gwnews.org/news/articleView.html?idxno=272358
 
-12. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
+12. 부산 물류기업, 화물차 자율주행 ‘도전’
+   - 분야: 자율주행 / 게재일: 2026-11-02 / 매체: 부산일보
+   - 원문: https://news.google.com/rss/articles/CBMifEFVX3lxTE4zdXo1SkFSclhCNlpodExPRnhXbWFiNDlnZWVGci1NYjFGelNUVXY2YV9Pb0dQS3NPaTBpTmJfMlY1QkFiaE9qSXhzOXF3ZGI0SVByOUpfRVFPU3preXctM3ZKQU9Vc0NOVDEyc3h5RnNxSVV6bGptZmpwX3o?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+13. GM "레이더 빼는 것 말 안 돼"…테슬라식 카메라 자율주행과 선 긋기
+   - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: 디지털투데이
+   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBWQWFGRmItcDljcFQxZkRHRXNEclozTWpoei1GYTdwbUNaRGxpV0F5bzRZQ21Hc1M3b0ZueDJZWnJiSzZYVm5rY3BCNzVvRXF1Qmt3Y1ZlOXNWeF9FN3RER3ZfUmRnNEZYNGEwX0o2UllDd1U?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+14. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
    - 분야: C-ITS·V2X / 게재일: 2026-11-02 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMi5AVBVV95cUxQcGZ4aXV5YlBCNThRRTFrMnFaM2VWWFB1aWxwaVNjWk5KTms0SFJTcXpaNUVETGxtYTZKRWRBTzVLdXRaRDEyaHBMdUlTb1kxcVZ2a2dNa3pyWWduQjk2MlViWEhtb2dPSTJLRlQwV002WGwyYnBFcUxUM1JNSEh6WENxQ1U3X1l1aXB3UmpWMlJERTdDUktaOTR2RmUzRVFIT203MGt4akE4eVg1RzBWZUpLZVduREZKcGJXX1dCWG1TUExRVjQyYmxielVBeWdlLWJiMUtURzN6ZmsyR1JfS3Jrc08zMG5CcFcxVXJmNDRoXzVmRGtNUk5uQmZMLV9Tc3R0NFE2YTZlR0U1R3BkZlljNnlQMERrWTk5ZndzUjd1SWRDRVVNc2k1UUJ6VGFyRnJmeDFQS1BRZ1IybVFKM0ZxWHpCN3ROcl9mbEpnYUVOWTZMY19pb1RJTjN6NnlKU0NOODRWZllaR3psMFVEcktaa0t2VnBOOEFVd1FXbXBBZExocDNyVEF1UG5iZC1fb0ZnNTkzT3ZFaHFFX0hqSF9tUFN4QnZFWElWTVZjc3ZnTC1CYjF1WVZmWDdlTkl1Z0lwaHNFMXNnX0hCWlJscHpBS244cE5jMjkzQklGYVJYRmwwYU9CNmdkSlgyYnBGYkpnd1AyNDB3RmEyUHNiRkFrdzcwQnhqMjFqbkpEai11VThmcEFBTHNfMWYzOUMzZmZpOHVhczhHZkJDb1ZaNnl5bTFobGU2NDJQOU90b0ZhdTdtUGdqdHN2WWdHaExldnN6bWs5dVB6dk81bFFRUFVaaF9OdXhsZVJBVE50c1hMU2pLRzVQMVlrU05RWXNRQkt4WlhYWHh1SjRfMVV4dWpISmdFZDRfeGI2OXJaRV9VM2xsUFdCSHo4YmZCOGpqbjZSRTgzS1JWQWZrOGljZy1VRGd0UV9kbzVRWThLNUY2cUpPN2k0akR1QU0xTFpIQWJRdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. [회원사/동향] 부천도시공사, AI로 주차 방해 차량 감지…공영주차장 2곳 시범 도입
+15. [회원사/동향] 부천도시공사, AI로 주차 방해 차량 감지…공영주차장 2곳 시범 도입
    - 분야: 대중교통·물류 / 게재일: 2026-10-29 / 매체: ITS Korea
    - 원문: https://www.journal25.com/news/articleView.html?idxno=571642
 
-14. [지자체] 목포시, 광역급행 '올타2001번' 수요응답형 서비스 시행
+16. [지자체] 목포시, 광역급행 '올타2001번' 수요응답형 서비스 시행
    - 분야: 대중교통·물류 / 게재일: 2026-11-02 / 매체: ITS Korea
    - 원문: https://www.jnilbo.com/news/articleView.html?idxno=90000078546
 
-15. 'AX 실증밸리 선정' 광주교통공사, AI기반 도시철도 개발·실증
+17. 'AX 실증밸리 선정' 광주교통공사, AI기반 도시철도 개발·실증
    - 분야: 대중교통·물류 / 게재일: 2026-10-28 / 매체: 뉴시스
-   - 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE5FdWlWb2lSWTNLbl92YnVTZzFnbktKcjlER1dYQW54UXlMb3BKc25PUzF0ZklIdTZ3V3JKSHJNTW1UejFjcG1BV2M3RS11SmpscTFheGZjaFFSdUxlY3pJYXVreU9sUUxyeDVxYkFVdzNvMDdieUpoONIBeEFVX3lxTE5FdWlWb2lSWTNLbl92YnVTZzFnbktKcjlER1dYQW54UXlMb3BKc25PUzF0ZklIdTZ3V3JKSHJNTW1UejFjcG1BV2M3RS11SmpscTFheGZjaFFSdUxlY3pJYXVreU9sUUxyeDVxYkFVdzNvMDdieUpoOA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1aTFIOTJ2eFlXcXU5YVJyTVJ2QXhqOFhXTVRRaE9sREVseE1JMHJCZ01GcnRmRUc0bHJxcW04R050aVZHd2l5OU83UlBQcWp0UnlZY1paYmp4Z0FJTXFYb9IBeEFVX3lxTE5FdWlWb2lSWTNLbl92YnVTZzFnbktKcjlER1dYQW54UXlMb3BKc25PUzF0ZklIdTZ3V3JKSHJNTW1UejFjcG1BV2M3RS11SmpscTFheGZjaFFSdUxlY3pJYXVreU9sUUxyeDVxYkFVdzNvMDdieUpoOA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 수원시, 실시간 교통신호 안내 시스템 70곳 추가 설치
+18. 수원시, 실시간 교통신호 안내 시스템 70곳 추가 설치
    - 분야: 신호·관제 / 게재일: 2026-10-29 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EWFQySE01MnU0NWtVcUZvcXp6YnRxdTRScGJhSU5HTTF2M001eVVOTkVjWDBwTEhIOVhpel9JM0czUWdlcjgzWVdHa3dQNnIxb3fSAVNBVV95cUxOLWR1X0tXaW5JMkxJS3NaTzlnbkVROXUyREVRYjJRR2c0QWdmQURuQ051QmM1d0g2NXIybG5uN0lJcDNGVDRKYmRRRER3M0FSTUVoRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 내비게이션으로 신호등 잔여 시간 확인한다… 수원시, 실시간 교통신호 시스템 70개소 확대
+19. 내비게이션으로 신호등 잔여 시간 확인한다… 수원시, 실시간 교통신호 시스템 70개소 확대
    - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 아시아투데이
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE5JM1pkQWhpdC1NZVVDY2FDanA3UnlJS0JaR2x0WVo2MWc1Z25WNVh6azVHR2VJM3haS2tTY1RnSFpUTFJ3ak9qWkZoU1ZYWGdoZlZUczVUamN6UmY2SkxuRUhPdTVvbEhVVVVGNmh3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. [회원사/동향] 한국교통안전공단 경기남부본부, AI 활용 버스 교통사고 예방 나선다
-   - 분야: 신호·관제 / 게재일: 2026-11-03 / 매체: ITS Korea
-   - 원문: https://www.kyeonggi.com/article/20261102580515
-
-19. [2026 강릉 ITS 세계총회②]심상규 아우토크립트 부사장(CTO), “자율주행 미래 ‘보안’이 결정”
-   - 분야: 자율주행 / 게재일: 2026-10-27 / 매체: e4ds news
-   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qYkQtbnUwdnZ3X3NwM3F0cmxLWWZvNmVDYm10NEpjVDJNb0lSRWxnWlg1ZlhvbmZ3Q1huaFlxeGdETV9URkV1QnhCRm85V0pwbDZrSnNn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. ‘자율주행 옵션 구매’ 테슬라 차주들, 환불 소송냈지만… 1심 패소
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 대한경제
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE92SWxoeTctTGJFaEwzUTNrOVdIMkRESUVBRDZYOG5uQWM3anhXTHFXSlpVTUk2aUFhZzFPVmZpYUFscE5neFRVSVFBdG5XaTVzMmJXdHE4YkVRdkx0WmoyUzYyc1VseEp2UGpHOWlQZzM5ams?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+20. 수원특례시, 교차로 70곳에 실시간 교통신호 정보 제공…티맵·네이버지도·카카오내비 연동
+   - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 월드장애인사랑뉴스
+   - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE8tRXdHa1owZXFQVUNYZWR1SDZOZG84R3Z1ODZ4NTdZNW1BWjA4Zi1kaldsRmdXY19oUXdKem1ITXVOd2tkWGwyT04wNE5GY0oyb3l3by1VVXdpTUdwbWQtb3NGU09JVmlpY211OFNxaw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
