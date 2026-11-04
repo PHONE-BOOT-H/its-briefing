@@ -3329,7 +3329,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.kyeonggi.com/article/20261102580515",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24118": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -3341,7 +3341,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.metroseoul.co.kr/article/20261102500271",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24120": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -3353,43 +3353,43 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000079830&menuNo=4010100",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24128": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.saemangeum.go.kr/sda/brd/view.do?nttSn=11687&key=2009074409621&pageIndex=1&sc=&sw=",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24129": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092547",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24132": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.opm.go.kr/opm/news/press-release.do?mode=view&articleNo=164044&article.offset=0&articleLimit=10",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24134": {
   "body": "- 공간정보 기술전시, 콘퍼런스, 해외진출 포럼, 비즈니스 매칭, 취업설명회 개최 □ 국토교통부(장관 홍지선)는 11월 4일(수)부터 11월 6일(금)까지 3일간 경기도 고양시 킨텍스 제2전시장 10홀에서 국내 최대 규모의 공간정보 기술교류 박람회인「2026 K-Geo Festa」를 개최한다. ㅇ 2008년부터 개최되어 올해 18회째를 맞는 K-Geo Festa는 공간정보 분야의 최신 기술과 산업 동향을 공유하고, 산업계·학계·연구기관·정부 간 교류·협력과 국내 기업의 해외 진출을 지원하는 대표적인 공간정보 산업 국제행사이다. ㅇ 올해는 ‘변화를 여는 GeoAI, 깨어나는 세상(GeoAI: Driving Change, Shaping the World)’을 주제로 인공지능(AI)과 공간정보의 융합이 가져올 기술적 변화와 산업적 가능성을 조명하고, 공간정보 기술이 새로운 서비스와 사업 기회로 이어질 수 있도록 다양한 전시·교류 프로그램을 마련했다. ㅇ 국내·외 117개 기업과 기관이 참여하는 기술 전시는 공간정보 역사관, 공공정보관, 생활 서비스관, 솔루션·플랫폼관, 미래인재관, 홍보관, 체험관 등 7개 테마 전시관으로 구성되어 공간정보의 과거·현재·미래를 보여준다. ㅇ 이러한 기술 전시를 통해 공간정보가 단순한 지도를 넘어 AI가 현실 세계를 이해하고 분석하는데 어떻게 사용되는지, 어떤 새로운 산업과 서비스를 창출하는지 보여줄 예정이다. 조선시대 대동여지도부터 국토위성 모형까지 공간정보의 역사를 지도와 장비 등 변화상과 함께 살펴볼 수 있음 공간정보를 활용한 하천구역 점용 실태 조사, 농지 관리 등 공공기관에서 활용하는 공간정보 시스템을 전시 건설·산업 현장을 누비며 위험물질을 탐지하는 로봇 등 생활속에서 만날 수 있는 공간정보 서비스 AI 시티, 디지털 트윈국토 등 가상공간 구현을 위",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092550",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24135": {
   "body": "- 국내외 170여 개 기업‧기관 참가, 일상과 산업 현장의 인공지능 전환(AX)을 이끄는 최신 AIoT 제품과 서비스 소개 - - 콘퍼런스‧세미나 등 다양한 연계 행사를 통해 AIoT 산업의 현재와 미래 조망 - 과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 ‘과기정통부’)는 11월 3일(화)부터 5일(목)까지 3일간 서울 코엑스에서 「2026 AIoT Week Korea」를 개최한다. 이번 행사는 ‘연결을 넘어, AI가 만드는 새로운 가치’를 주제로 국내외 170여 개 기업·기관이 참여해 최신 지능형 사물인터넷(AIoT)* 기술과 제품·서비스를 선보이고, 산업별 인공지능 전환(AX) 사례와 미래 발전 방향을 공유한다. * 지능형 사물인터넷(AIoT) : AI와 IoT가 결합해 사물이 주변 환경을 스스로 인식·판단하고 자율적으로 작동하거나 상호 협력하는 기술 최근 인공지능(AI)은 정보를 분석하고, 답변하는 수준을 넘어 로봇과 기기 등을 통해 일상생활과 산업 현장에서 활용되는 기술로 발전하고 있다. 이처럼 AI의 활용 범위가 확대되면서, AI와 사물인터넷(IoT)을 결합해 기기들이 스스로 상황을 판단하고 작동하도록 하는 지능형 사물인터넷(AIoT)의 중요성도 커지고 있다. 이에 이번 행사는 국민이 일상과 산업 현장에 적용된 AIoT 기술을 직접 체험하고, 산·학·연 전문가들이 차세대 기술과 산업별 활용 사례를 공유하는 기회를 제공한다. 나아가 AIoT 기술의 산업적 활용을 촉진하고, 국내 기업의 판로 개척과 새로운 사업 기회를 모색하는 데 중점을 둔다. 주요 프로그램으로는 AIoT 국제전시회와 쇼케이스를 비롯해 다양한 콘퍼런스와 세미나가 마련된다. 먼저 행사 기간 중 코엑스 3층 D홀에서 열리는 ‘AIoT 국제전시회’에는 SK텔레콤, 현대자동차그룹, 기아 등 주요",
   "date": null,
   "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187914&searchOpt=ALL&searchTxt=",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24136": {
   "body": "- IAA 등 주요 통상현안 논의 및 한-프랑스 자동차 실무그룹 운영 합의 - 한-프랑스, 첨단산업 공급망 및 신산업 공동 연구개발 협력 확대 산업통상부(이하 산업부)는 11.4일(수) 서울 풀만 앰버서더 호텔에서 ‘제21차 한-프랑스 산업협력위’와 ‘제9차 신산업 기술협력 포럼’을 개최하였다. 이는 지난 9월 대통령의 프랑스 순방 후속조치로서 한-프랑스 간 신산업 분야의 협력을 대폭 강화하기 위한 것이다. 이번 ‘제21차 한-프랑스 산업협력위’에는 김영만 통상정책국장과 토마 쿠르브(Thomas Courbe) 프랑스 경제재정부 기업총국장이 수석대표로 참석하여 자동차 산업 등 산업가속화법(IAA)에 대한 입장을 교환하고 자동차·조선·바이오 등 첨단산업과 핵심광물 공급망 관련 정책 등 주요 동향을 공유하였다. 우리 측은 EU 내 공공조달 및 보조금 지원 시 역내 생산 요건을 규정한 산업가속화법(IAA)(안)과 관련하여, 한국이 EU의 신뢰 파트너국에 포함될 수 있도록 프랑스 측의 적극적인 협조를 당부했다. 또한 프랑스가 최근 독일과 양자 합의한 ‘자동차 공동선언(10.16)’에 대한 우리 측의 우려를 전달하며, 향후 논의 과정에서 한국산 자동차가 차별받지 않도록 각별한 관심과 협조를 요청하였다. 양 측은 이어 지난 9월 대통령 프랑스 순방 계기 양 부처가 체결한 「산업협력 MOU*」의 후속조치로서 ‘한-프랑스 자동차 실무그룹’을 운영하는데 합의하였다. 동 실무그룹은 프랑스 전기차 보조금 제도 외에도 양국 간 자동차 공급망 협력 등 산업 협력 방안을 함께 논의할 예정이다. 이어, 양측은 자동차·조선·바이오 등 첨단산업 분야에서 정부의 주요 산업정책 방향을 공유하였으며, 최근의 글로벌 통상변화와 관련하여 향후 양국간 협력방안을 논의하였다. * 내용: 전략산업대화(장관급), 산업협력위 등을 통",
   "date": null,
   "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172377/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24141": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -3431,7 +3431,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.etnews.com/20261103000136",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24150": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -3443,6 +3443,12 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-11-04",
   "link": "https://www.localnewsroom.co.kr/news/articleView.html?idxno=9193",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24153": {
+  "body": "보건복지부(장관 정은경)는 보행상 어려움을 겪는 장애아동과 어르신들의 이동 편의를 높이고, 현장의 불필요한 규제를 개선하기 위해 「장애인·노인·임산부 등의 편의증진 보장에 관한 법률 시행령」 개정안을 마련하였으며, 11월 3일(화) 국무회의에서 의결되었다고 밝혔다. 이번 개정으로 가정위탁 장애아동과 주·야간보호서비스 이용 어르신 등이 장애인전용주차구역을 이용할 수 있게 되었으며, 시설 특성에 맞지 않는 편의시설 설치 의무가 합리적으로 조정된다. 이번 시행령은 장애인전용주차구역 이용 대상자를 확대하여 장애아동 및 어르신들의 이동 편의를 증진하고 시설 특성에 맞지 않는 편의시설 설치 의무사항을 완화하여 규제를 합리적으로 개선하기 위한 것이다. 장애인전용주차구역 주차표지 발급 대상 보호자 범위 확대(안 제7조의3제1항제1호) 장애인전용주차구역 보호자용 주차표지 발급대상은 민법상 가족 등으로 한정되어 있어 실제 장애아동을 양육하는 위탁부모는 가족관계가 아니라는 사유로 대상에서 제외됨에 따라, 시행령 개정을 통해 주차표지 발급 대상 보호자에 보행상 장애가 있는 아동을 가정위탁하는 보호자를 추가 한다. 장애인전용주차구역 주차표지 발급 가능 시설·단체 범위 확대(안 제7조의3제1항제3호) 노인 주·야간보호서비스 제공기관의 현장 의견을 반영하여 어르신들의 시설이용에 편의성을 제고하기 위해 장애인전용주차구역 주차표지 발급 가능 시설의 범위에 「노인복지법」에 따른 주·야간보호서비스를 제공하는 재가노인복지시설, 「노인장기요양법」에 따라 주·야간보호서비스를 제공하는 장기요양기관을 추가한다. 장애인 화장실 내 영유아용 거치대를 설치하지 않을 수 있는 시설 범위 규정(안 별표 2) 시설 특성에 맞지 않는 화장실 내 영유아용 거치대 설치 예외 대상을 「노인복지법」제34조에 따른 노인의료복지시설과 같은 법 제36",
+  "date": null,
+  "link": "https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492420&tag=&nPage=1",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -5319,33 +5325,33 @@
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24122": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
-  "date": null,
+  "date": "2026-11-01",
   "link": "https://www.autoconnectedcar.com/2026/11/autonomous-self-driving-vehicle-news-waymo-toyota-baidu-lyft-freenow-weride-allianz-ping-an-marti-calmcar-tier-iv-ntro-may-mobility-rivian-aurora-roush-kodiak-hyundai-inn/",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24123": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
-  "date": null,
+  "date": "2026-11-01",
   "link": "https://www.autoconnectedcar.com/2026/11/autonomous-self-driving-vehicle-news-waymo-toyota-baidu-lyft-freenow-weride-allianz-ping-an-marti-calmcar-tier-iv-ntro-may-mobility-rivian-aurora-roush-kodiak-hyundai-inn/",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24124": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": null,
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24125": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
-  "date": null,
+  "date": "2026-11-02",
   "link": "https://autoware.org/autoware-foundation-releases-autoware-2-0-to-expand-ai-support-for-open-source-autonomous-driving/?utm_source=chatgpt.com",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24126": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.infineon.com/press-release/2026/infpr202611-023?utm_source=chatgpt.com",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24130": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -5375,7 +5381,7 @@
   "body": "The Institute for Driverless Transport said UK authorities need to address questions on reliance, employment and public-sector responsibility as robotaxi trials expand in London. The independent research body said its work draws on autonomous vehicle operators seeking to enter London, policy regulators and more than 30 conversations with councils, operators, industry groups, unions, charities, insurers, lawyers and universities...중략... [런던 로보택시 시범 운행 확대에 따라 영국 정부는 일자리 창출과 경기 회복력 강화에 대한 대책 마련을 촉구받고 있습니다.] 자율주행교통연구소는 런던에서 로보택시 시범 운행이 확대됨에 따라 영국 당국이 로보택시 의존도, 고용, 공공 부문 책임에 대한 문제들을 해결해야 한다고 밝혔습니다. 이 독립 연구 기관은 런던 진출을 희망하는 자율주행차 운영업체, 정책 규제 기관, 그리고 지방 의회, 운영업체, 업계 단체, 노동조합, 자선 단체, 보험사, 변호사 및 대학과의 30건 이상의 대화를 바탕으로 연구를 진행했다고 밝혔습니다. The Institute for Driverless Transport said UK authorities need to address questions on reliance, employment and public-sector responsibility as robotaxi trials expan",
   "date": null,
   "link": "https://dataconomy.com/2026/11/02/uk-urged-to-address-jobs-and-resilience-as-london-robotaxi/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24140": {
   "body": "...중략...이번 개정에 따라 레벨 4, 5 차량으로 승인되면 핸들과 페달 외에도 룸미러, 운전자 상태 감시 시스템(DMS) 등의 장치가 불필요해진다. 이에 따라 차량 생산 비용을 절감하고 차내 공간을 넓혀 시트 배치 등 설계의 자유도를 크게 높일 수 있게 된다...중략... ...중략...이번 개정에 따라 레벨 4, 5 차량으로 승인되면 핸들과 페달 외에도 룸미러, 운전자 상태 감시 시스템(DMS) 등의 장치가 불필요해진다. 이에 따라 차량 생산 비용을 절감하고 차내 공간을 넓혀 시트 배치 등 설계의 자유도를 크게 높일 수 있게 된다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
@@ -5387,13 +5393,13 @@
   "body": "...중략...Here, AI can bring enormous benefits. For example, autonomous vehicles could reduce accidents involving pedestrians by over 90%. And we want Europe to be a place where these vehicles are designed and built. Not just where they are used. So, we must give our innovators the conditions for success. That means faster and simpler approval for autonomous vehicles. Companies should be able to go through a single approval process. And once a technology is approved, companies should be able to deploy it across Europe. Without any additional barriers. So our innovators can develop for a truly European market from day one on...중략... 교통 분야에서 AI는 막대한 혜택을 가져올 수 있습니다. 예를 들어 자율주행차는 보행자 관련 사고를 90% 이상 줄일 수 있습니다. 그리고 우리는 유럽이 이러한 차량이 단지 사용되는 곳이 아니라, 설계되고 만들어지는 곳이 되기를 바랍니다. 따라서 우리는 혁신가들에게 성공할 수 있는 여건을 마련해 주어야 합니다. 이는 자율주행차에 대한 더 빠르고 간소한 승인 절차를 의미합니다. 기업은 단일 승인 절차만 거치면 되어야 합니다. 그리고 일단 기술이 승인되면, 기업은 추가",
   "date": null,
   "link": "https://ec.europa.eu/commission/presscorner/detail/en/speech_26_2319?utm_source=chatgpt.com",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24147": {
   "body": "Vom Testbetrieb zum Fahrerlebnis: Nachdem der automatisierte MAN Lion’s City 12 E seit Anfang September auf der Münchner Linie 178 im öffentlichen Straßenverkehr erprobt und die Strecke für den autonomen Betrieb vorbereitet wurde, beginnt im Projekt MINGA nun die nächste entscheidende Phase. MAN Truck & Bus und die Stadtwerke München (SWM) mit der Münchner Verkehrsgesellschaft (MVG) starten gemeinsam mit dem Mobilitätsreferat der Landeshauptstadt München den Betrieb mit Testnutzerinnen und Testnutzern. Ab 17. November sollen sie erstmals im autonomen MAN eBus zwischen Petuelring und Freimanner Hölzl mitfahren können. Die Fahrten finden montags bis freitags statt. Zum Start hatten die MINGA-Partner Pressevertreterinnen und -vertreter zu einer ersten öffentlichen Testfahrt eingeladen...중략... [모두 탑승하세요! MAN과 MVG가 뮌헨에서 자율주행 버스 시범 운행을 시작합니다.] 시험 운행에서 실제 주행 경험으로: MAN 라이온스 시티 12 E 자율주행 버스가 9월 초",
   "date": null,
   "link": "https://www.mvg.de/presse/pressemeldungen/2026-11-03-start-testbetrieb-autonome-busse.html?utm_source=chatgpt.com",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24152": {
   "body": "Valeo, a global leader in mobility technology and active safety systems, has been selected to provide both hardware and Advanced Rider Assistance Systems (ARAS) Software for ZEEHO’s next-generation electric motorcycles. ZEEHO is the techmobility brand of CFMOTO Group...중략... [Valeo는 ZEEHO에 세계 최초로 비전 및 레이더 융합 어댑티브 크루즈 컨트롤을 적용하여 이륜차 안전에 혁명을 일으켰습니다.] 글로벌 모빌리티 기술 및 능동 안전 시스템 기업인 발레오(Valeo)가 CFMOTO 그룹의 테크모빌리티 브랜드인 ZEEHO의 차세대 전기 오토바이에 하드웨어와 첨단 라이더 보조 시스템(ARAS) 소프트웨어를 공급하는 업체로 선정되었습니다. Valeo, a global leader in mobility technology and active safety systems, has been selected to provide both hardware and Advanced Rider Assistance Systems (ARAS) Software for ZEEHO’s next-generation electric motorcycles. ZEEHO is the techmobility brand of CFMOTO Group...중략... [Valeo는 ZEEHO에 세계 최초로 비전 및 레이더 융합 어댑티브 크루즈 컨트롤을 적용하여 이륜차 안전에 혁명을 일으켰습니다.] 글로벌 모빌리티 기술 및 능동 안전 시스템 기업인 발레오(Valeo)가 CFMOTO 그룹의 테크모빌리티 브랜드인 ZEE",

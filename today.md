@@ -37,7 +37,7 @@
    - 원문: https://www.planetizen.com/news/2026/10/138737-robotaxis-robotrains-la-dc-weigh-driverless-transit
 
 6. [미국] 미 의회, 자율주행차-긴급차량 수동 제어 통신을 의무화하는 'AV 긴급대응법' 발의
-   - 분야: 자율주행 / 게재일: 2026-11-03 / 매체: ITS Korea
+   - 분야: 자율주행 / 게재일: 2026-11-01 / 매체: ITS Korea
    - 원문: https://www.autoconnectedcar.com/2026/11/autonomous-self-driving-vehicle-news-waymo-toyota-baidu-lyft-freenow-weride-allianz-ping-an-marti-calmcar-tier-iv-ntro-may-mobility-rivian-aurora-roush-kodiak-hyundai-inn/
 
 7. 중국, C-V2X 강제표준 작업 착수…상용차부터 출고 장착
@@ -134,53 +134,53 @@
    - 분야: 신호·관제 / 게재일: 2026-11-03 / 매체: ITS Korea
    - 원문: https://www.gwnews.org/news/articleView.html?idxno=272358
 
-9. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
+9. [복지부/보도자료] 보행 불편한 장애아동·어르신 주차 편의 높인다, 「장애인 등 편의증진법 시행령」 개정안 국무회의 의결
+   - 분야: 정책·법제도 / 게재일: 2026-11-04 / 매체: ITS Korea
+   - 원문: https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492420&tag=&nPage=1
+
+10. 사람 없이 공장 부품 나르는 자율주행차, 오토노머스에이투지 물류용 시제차 완성
+   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 플래텀(Platum)
+   - 원문: https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LSEJ1SW1YZDJ0U1UxMm1DTHdiNkYxcUUtNVVhUEJFWVVDWWdsUzd0bXJaekczUDlJMlVrSE8zZXNsUEtmOHVSYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+11. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
    - 분야: C-ITS·V2X / 게재일: 2026-11-02 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMi5AVBVV95cUxQcGZ4aXV5YlBCNThRRTFrMnFaM2VWWFB1aWxwaVNjWk5KTms0SFJTcXpaNUVETGxtYTZKRWRBTzVLdXRaRDEyaHBMdUlTb1kxcVZ2a2dNa3pyWWduQjk2MlViWEhtb2dPSTJLRlQwV002WGwyYnBFcUxUM1JNSEh6WENxQ1U3X1l1aXB3UmpWMlJERTdDUktaOTR2RmUzRVFIT203MGt4akE4eVg1RzBWZUpLZVduREZKcGJXX1dCWG1TUExRVjQyYmxielVBeWdlLWJiMUtURzN6ZmsyR1JfS3Jrc08zMG5CcFcxVXJmNDRoXzVmRGtNUk5uQmZMLV9Tc3R0NFE2YTZlR0U1R3BkZlljNnlQMERrWTk5ZndzUjd1SWRDRVVNc2k1UUJ6VGFyRnJmeDFQS1BRZ1IybVFKM0ZxWHpCN3ROcl9mbEpnYUVOWTZMY19pb1RJTjN6NnlKU0NOODRWZllaR3psMFVEcktaa0t2VnBOOEFVd1FXbXBBZExocDNyVEF1UG5iZC1fb0ZnNTkzT3ZFaHFFX0hqSF9tUFN4QnZFWElWTVZjc3ZnTC1CYjF1WVZmWDdlTkl1Z0lwaHNFMXNnX0hCWlJscHpBS244cE5jMjkzQklGYVJYRmwwYU9CNmdkSlgyYnBGYkpnd1AyNDB3RmEyUHNiRkFrdzcwQnhqMjFqbkpEai11VThmcEFBTHNfMWYzOUMzZmZpOHVhczhHZkJDb1ZaNnl5bTFobGU2NDJQOU90b0ZhdTdtUGdqdHN2WWdHaExldnN6bWs5dVB6dk81bFFRUFVaaF9OdXhsZVJBVE50c1hMU2pLRzVQMVlrU05RWXNRQkt4WlhYWHh1SjRfMVV4dWpISmdFZDRfeGI2OXJaRV9VM2xsUFdCSHo4YmZCOGpqbjZSRTgzS1JWQWZrOGljZy1VRGd0UV9kbzVRWThLNUY2cUpPN2k0akR1QU0xTFpIQWJRdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. [지자체] 목포시, 광역급행 '올타2001번' 수요응답형 서비스 시행
+12. [지자체] 목포시, 광역급행 '올타2001번' 수요응답형 서비스 시행
    - 분야: 대중교통·물류 / 게재일: 2026-11-02 / 매체: ITS Korea
    - 원문: https://www.jnilbo.com/news/articleView.html?idxno=90000078546
 
-11. 'AX 실증밸리 선정' 광주교통공사, AI기반 도시철도 개발·실증
-   - 분야: 대중교통·물류 / 게재일: 2026-10-28 / 매체: 뉴시스
-   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1aTFIOTJ2eFlXcXU5YVJyTVJ2QXhqOFhXTVRRaE9sREVseE1JMHJCZ01GcnRmRUc0bHJxcW04R050aVZHd2l5OU83UlBQcWp0UnlZY1paYmp4Z0FJTXFYb9IBeEFVX3lxTE5FdWlWb2lSWTNLbl92YnVTZzFnbktKcjlER1dYQW54UXlMb3BKc25PUzF0ZklIdTZ3V3JKSHJNTW1UejFjcG1BV2M3RS11SmpscTFheGZjaFFSdUxlY3pJYXVreU9sUUxyeDVxYkFVdzNvMDdieUpoOA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-12. 수원시, 실시간 교통신호 안내 시스템 70곳 추가 설치
+13. 수원시, 실시간 교통신호 안내 시스템 70곳 추가 설치
    - 분야: 신호·관제 / 게재일: 2026-10-29 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EWFQySE01MnU0NWtVcUZvcXp6YnRxdTRScGJhSU5HTTF2M001eVVOTkVjWDBwTEhIOVhpel9JM0czUWdlcjgzWVdHa3dQNnIxb3fSAVNBVV95cUxOLWR1X0tXaW5JMkxJS3NaTzlnbkVROXUyREVRYjJRR2c0QWdmQURuQ051QmM1d0g2NXIybG5uN0lJcDNGVDRKYmRRRER3M0FSTUVoRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 내비게이션으로 신호등 잔여 시간 확인한다… 수원시, 실시간 교통신호 시스템 70개소 확대
+14. 내비게이션으로 신호등 잔여 시간 확인한다… 수원시, 실시간 교통신호 시스템 70개소 확대
    - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 아시아투데이
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE5JM1pkQWhpdC1NZVVDY2FDanA3UnlJS0JaR2x0WVo2MWc1Z25WNVh6azVHR2VJM3haS2tTY1RnSFpUTFJ3ak9qWkZoU1ZYWGdoZlZUczVUamN6UmY2SkxuRUhPdTVvbEhVVVVGNmh3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 고양특례시의회, '높아진 어르신 이동 편의... 건설교통위원회, 일산노인종합복지관 DRT버스 개통식 참석해'
+15. 고양특례시의회, '높아진 어르신 이동 편의... 건설교통위원회, 일산노인종합복지관 DRT버스 개통식 참석해'
    - 분야: 대중교통·물류 / 게재일: 2026-11-03 / 매체: Queen 이코노미퀸
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFBUU0U2MEYtY2ZKNTEybm9pczEyS29uT0w0dzBJZ1dXY2tJUW5oMDA5OHJqVnlYYml1N1lmeTFSb1QwX1hSM3FPbnlhNFozVm1DUVFSQ0lhdGNJcWVhMDlPVkhnNERRb2FUVUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 고양특례시의회 건설교통위, 어르신 맞춤형 DRT버스 개통 점검… 승하차 편의 개선 과제도 제기
+16. 고양특례시의회 건설교통위, 어르신 맞춤형 DRT버스 개통 점검… 승하차 편의 개선 과제도 제기
    - 분야: 대중교통·물류 / 게재일: 2026-11-03 / 매체: 투어코리아
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE9JdlhEZ3BWX0MwM3hHTTA4bnNya3BSdVczYzVDSVVJaE1YbkFYWHRBMC1RVEw3eFV1MmdsbVNtSnZRN3diclJvejg0VnFwbUl4RkRtb2Q4RzFhSF9EbndITk5YdjhEd2RxZmFBZmtR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [회원사/동향] 한국교통안전공단 경기남부본부, AI 활용 버스 교통사고 예방 나선다
+17. [회원사/동향] 한국교통안전공단 경기남부본부, AI 활용 버스 교통사고 예방 나선다
    - 분야: 신호·관제 / 게재일: 2026-11-03 / 매체: ITS Korea
    - 원문: https://www.kyeonggi.com/article/20261102580515
 
-17. ‘자율주행 옵션 구매’ 테슬라 차주들, 환불 소송냈지만… 1심 패소
+18. [2026 강릉 ITS 세계총회③]한지형 오토노머스에이투지 대표이사, “자율주행 상용화 가장 먼저 실현한 선도 기업 될 것”
+   - 분야: 자율주행 / 게재일: 2026-10-28 / 매체: e4ds news
+   - 원문: https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UMUk2V3pualU3TVBpZ2dBTTB3Tk1jMW9PbksxYUV1LWpOdE00VTd0MjV2TTBlLXBQeXBfQzZWbE5mOFh0QmY1dW1sdVBzeF9vdllmUUhB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. ‘자율주행 옵션 구매’ 테슬라 차주들, 환불 소송냈지만… 1심 패소
    - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 대한경제
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE92SWxoeTctTGJFaEwzUTNrOVdIMkRESUVBRDZYOG5uQWM3anhXTHFXSlpVTUk2aUFhZzFPVmZpYUFscE5neFRVSVFBdG5XaTVzMmJXdHE4YkVRdkx0WmoyUzYyc1VseEp2UGpHOWlQZzM5ams?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. "테슬라 FSD, 완전자율주행 아냐" 소송했지만…눈물의 패소 [지금이뉴스]
+20. "테슬라 FSD, 완전자율주행 아냐" 소송했지만…눈물의 패소 [지금이뉴스]
    - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: YTN
    - 원문: https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdnZ4aW0tUVZDMXo1aHhFdTVmOTBuSzlseGxmLW4tcTlXM2lHemp0bm8yMzd5dmxhZ25QZWx2dU05TVVlTzFrckdXUXhyYWRaazlBckRlUXNOZnhhRUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. "완전자율주행? 돈 돌려 달라"…테슬라 차주들 '결국 완패'
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 한국경제
-   - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTmpibVRFaVhKV0FyMGFlcUxzbzllUjVjYWhKWHRZWVRNLS0wOEk4Wlh1Smwwd2NTT0t0UFQ5VG5EWnFyMl9zNzV2bnZxOWNlME04OXI2WkczQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. 테슬라 차주들 "완전자율주행 옵션 구매했는데 왜 못써" 소송…법원 판단은?
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: JTBC
-   - 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LUFFybnFRUmNPTldMWmotYjZlZUlGVGRaUDBpRzhraUVZM2kwaEo4LVdqX0ZQZ21xT3ZnTFEzRW94TGJQdmw1VWR3c3k0Y2g1LXM3dQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
