@@ -40,61 +40,61 @@
    - 분야: 신호·관제 / 게재일: 2026-11-04 / 매체: The Star
    - 원문: https://news.google.com/rss/articles/CBMizwFBVV95cUxQYVZEQVdETGp3c290SXBVSmoybVFGb3hMN2ZHckN1RTBRVmhsbFI0bjhlVHppSmd0OVB4emRyWFZKRTRCLS1OWEJWbi1CQXZSQ0I1Vk5yeFlxRGhQVDZWV0VxSUtVVXR1WUQtcDl1d3BfM3JTVHBzZXV3RXpyZjhyNFhzMGlIeEc2VjFLbl9aYjRlV0dKbmtBYzlBQkRkbkFRdnhWV210ODh2TmRHVHl1NUJ3cVhRZjYyYTZKZDU3am81eEtSV1lBdjg3YkZSYTA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. 日, 핸들·페달 없는 자율주행차 양산 길 연다…규제장벽 제거
-   - 분야: 자율주행 / 게재일: 2026-11-03 / 매체: ITS Korea
-   - 원문: https://www.yna.co.kr/view/AKR20261103056100009?utm_source=chatgpt.com
-
-8. 볼보·엔비디아 역대급 동맹 결성… 전방 주시 필요 없는 자율주행 켠다
+7. 볼보·엔비디아 역대급 동맹 결성… 전방 주시 필요 없는 자율주행 켠다
    - 분야: 자율주행 / 게재일: 2026-11-04 / 매체: ITS Korea
    - 원문: https://www.starnewskorea.com/business-life/2026/11/04/2026110409183380449
 
-9. BMW, 2027년 도심 자율주행 ADAS 도입…테슬라 FSD 대항마 예고
+8. BMW, 2027년 도심 자율주행 ADAS 도입…테슬라 FSD 대항마 예고
    - 분야: 자율주행 / 게재일: 2026-11-05 / 매체: ITS Korea
    - 원문: https://auto.danawa.com/news/index.php?work=detail&Tab=N1&Work=detail&no=6077708&pcUse=y
 
-10. US-French group wins contract to build Riyadh Metro extension
+9. US-French group wins contract to build Riyadh Metro extension
    - 분야: 산업·투자 / 게재일: 2026-11-02 / 매체: Arabian Gulf Business Insight | AGBI
    - 원문: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSzJvOWVnODNkRkxuRHZUUm5WY2lYWDRvb1RjZTZJbzFldk54NUNiTkk0OFYzV2NGR19sY0FrT1dPcTUzRHZvcmx0Z082SENLbHFFYlBMd3UydXBRRXFXaFNSZmM1N3h4c090UDNxQm16Ty1jRXluc0NINlcwdzR3REczbkNkZEo1YnY1UU80Yk43T0dHVFpNcnBpd0RfcFVCR2FxdHo3TGx0UQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. Ashish Gajurel calls for smart traffic management system to reduce reliance on traffic police at intersections
+10. Ashish Gajurel calls for smart traffic management system to reduce reliance on traffic police at intersections
    - 분야: 신호·관제 / 게재일: 2026-11-01 / 매체: OnlineKhabar English News
    - 원문: https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTVtMnJVNzlsSkJWMHRvQm1sY19teFI1UThVUGxtVE1UbmRWbFVrOTZramV1ZnZZd2dIbzhfYjNOS1F1dGluN204TUR4OVFacGtUX1RPUThZbU5FYnNCR1FjUFFxNVRHVVJkYmxqSUFwMUlzUWFWMXM4dDEzc29jVUxLUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. San Fernando City, Pampanga implements new traffic management system through DOST smart technology
+11. San Fernando City, Pampanga implements new traffic management system through DOST smart technology
    - 분야: 신호·관제 / 게재일: 2026-11-02 / 매체: The Manila Times
    - 원문: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVkxFaFI4M0tZaUVreUFFMDJLbzF3WVcyYUYyVEFoUGJaRVBFZ3pPZXVxV0xHSEJCYmw4Qk5uZzhJRmc4VjAwY0xaQXlaZmdHTm43c0h6TG9Rc1owWkxXcFk3ZE9rYWdmak1rVHJGRFZYQjMwLWdPZi1zaXZWUm5mVnh5NDRlbkFVSVpSREpudjZmRVdUUlh2VXlBWTFyX1pFSE9Uemk2U0xEcjJSOElrUG1PaHZZTFJlSUkzYzM1ZDVya0o0LW1XWEdNa2tPTHY0NnhnTE40VHI5SnlvdDMwMC1CaS1IT1d0OS1FUUF30gHzAUFVX3lxTE1mZ04xNUY4bFZBc3VrNEs0OU1RUmZaaU1SREJ1UnBfdWlmeHoyOG9RX3g2NGxjVWhCOFJNRkhjMUlsQ1BiOV9neGphakthaUY5ZzJ5ZGdlSlJna1BNdndTdk1vMW5Yc1BzZFNlQURDeU5JcWdMaWttWXhhOUpCMmFGeGlxYzdSdDRDNEoyZ3pNVm80aldJRHZlSHh1QjJxQmNvRnZHMTNHUkc0R2FyVGpVSkJ5TzUtUGh0RTFJSWZiaS1BYjRoVG1SMUZiODNvQ0VHbERQNlZHVGxuYVkwY2MzR1ZKMks2RkVGVXE4TjV3RVRjdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. COMMENT: Why Harare motorists should embrace the Smart Traffic Management System
+12. COMMENT: Why Harare motorists should embrace the Smart Traffic Management System
    - 분야: 신호·관제 / 게재일: 2026-11-02 / 매체: Herald.co.zw
    - 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxON3hEbzBUVkYyaGdIWE9obEVxSzVFYWx6amdGbHVUWEV5X1JGVDUyVzR6bjhhdWZONDFrQnZJMlA3OEtKOTJ4bkx4RnRQMkpwUTBXUWhhMkhPM2FnWnFNSlJtUnNDN25HWkdzaEtUM25DNzBuTXBEN19JdHYyNUJwdkozNFQySmJadHFWa0xKbncwZVpwVGJZUlVHcTVKOGNrSzZVUHR6bzE5TFpiZ0VERQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. City of Brownsville, TX - Municipal Government. . Brownsville is investing $1.32M to modernize traffic signals across 14+ locations with smart vehicle detection and GPS synchronization. This investment is part of our commitment to smarter infrastructure, safer r
+13. City of Brownsville, TX - Municipal Government. . Brownsville is investing $1.32M to modernize traffic signals across 14+ locations with smart vehicle detection and GPS synchronization. This investment is part of our commitment to smarter infrastructure, safer r
    - 분야: 신호·관제 / 게재일: 2026-10-29 / 매체: Facebook
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxNMHlRdWFXclZvSmpxX3k0Qm1JeVRVbUx0N3lISjZzUE5mT2JnZWpTbGNrRHpUVmZKNVZfcXZEUWhXVi1PY1VMRGpKdG5sMEl0Y0dDMi1jdDFMaXlDSmhQTS01Q0hQWnlULTFOVnRXZG9sQ1ZZaHNmR3ZJQjl1X1Y4eXVvWkVSMUN3UmhaWXRjbGtNU2h4OWtZaktfUlQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. VIDEO: ITS World Congress 2027 highlights – car rollover, parking robots and more…
+14. VIDEO: ITS World Congress 2027 highlights – car rollover, parking robots and more…
    - 분야: 기술·표준 / 게재일: 2026-10-29 / 매체: Traffic Technology Today
    - 원문: https://www.traffictechnologytoday.com/videos/video-its-world-congress-2027-highlights-car-rollover-parking-robots-and-more.html
 
-16. Monotch joins Data for Road Safety
+15. Monotch joins Data for Road Safety
    - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: ITS International
    - 원문: https://www.itsinternational.com/monotch-joins-data-for-road-safety/
 
-17. Driverless transport roadmap poses 65 unanswered UK questions
+16. Driverless transport roadmap poses 65 unanswered UK questions
    - 분야: 자율주행 / 게재일: 2026-10-30 / 매체: Traffic Technology Today
    - 원문: https://www.traffictechnologytoday.com/news/autonomous-vehicles/driverless-transport-roadmap-poses-65-unanswered-uk-questions.html
 
-18. Vectigo launches in-road safety platform in Colorado
+17. Vectigo launches in-road safety platform in Colorado
    - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: Traffic Technology Today
    - 원문: https://www.traffictechnologytoday.com/news/artificial-intelligence-ai/vectigo-launches-in-road-safety-platform-in-colorado.html
 
-19. V2X Systems Awarded $104.6 Million Army Communications Contract Modification
+18. V2X Systems Awarded $104.6 Million Army Communications Contract Modification
    - 분야: C-ITS·V2X / 게재일: 2026-11-02 / 매체: Pulse 2.0
    - 원문: https://news.google.com/rss/articles/CBMimwFBVV95cUxQdjBpY3lRS0pnaVFVSWtFSVBHVzMyLUQ1NG1DNXJUVG8tSXJodi1WZk9Sa3U3MkRMckcxRVJjcHQwenhRT1FIODRBVzBYUGlhMXVrRS16Tkx2RzhHRVVDZFUxYVVjV2hmQUdZelVxZW9obHdha3ZjR2tsR3JfNVdFUGprU3hrelByOU82NjV1NzFqYTJaeFEyX0FWMA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. General Dynamics Mission Systems Wins Contract To Expand MEDUSA UUV Program
+19. General Dynamics Mission Systems Wins Contract To Expand MEDUSA UUV Program
    - 분야: 산업·투자 / 게재일: 2026-11-02 / 매체: Ocean News & Technology
    - 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxQNEtQY0ttUThBOHdUdlQ1T2dLSFRTaTlHTlVjU2Q1S2p6aGFGMVBEVW14SS0wNDhZMlZNN19oX0hOa3AyQ0RZZEFReXRmeE1YSUFwRFlubkhQaGQ5QXZCSmJTc2xneUljTTNiVUlWMmlvdmo5Z1ZzMXNDRUp5UkNBczJESTBWbGtnWXlUS3BVRktKb19hUFVlb1EyODVkeHFMU0c1Z1RkNXpuSFR5T1Ayaw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. NRSA directs road agencies to fix faulty traffic lights, missing signs as TraffiTech enforcement begins
+   - 분야: 단속·집행 / 게재일: 2026-11-04 / 매체: MyJoyOnline
+   - 원문: https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWkzVThoaU05c01hMWRYVDhIS0tQRmtPQXItanhvRktjQUNzTEkzNi1oOXRmLWxvQUViZ0NtS2Y3ZjZRd0xBQ1RZbUtPNGdXa1lnZGJnbzVsM21xY3FHb2VDRVA3TmY2TlRqLXRUSlN1RnFSOFJWQ19nOFJhblQyUWJLNWVidjl4RHp6eUVrVzEtOFVmaW1FYlNrZkRJVlZXLUZKZUhSZ1pfUWZzZ1hJRVVtSWh2VTF0OE1jTDA3X0hiSWRSVFJ5ZWx5bw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -122,17 +122,17 @@
    - 분야: 산업·투자 / 게재일: 2026-11-02 / 매체: 이데일리
    - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2pIWjl0cjVCSjhDYnJSc1h2bFUwSUtseF8yZE5BdGRka25hN1d0QkYtcmhtTUpSUjZmbUJPc0RzZXZWMmFRemJYdVAxQjY0MkRmZVRIUHRrNlpVcXprbXZORThPdldHTzRVeDMyMU1uZENhM2x3UnFBdUItQUJMag?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-6. [지자체] 강릉시, AI로 주차 대기시간 예측…도심 교통혼잡 줄인다
+6. [지자체] [2026 키엠스타] AI 자율주행 트랙터·예찰로봇…첨단 농기자재 한자리에
+   - 분야: 자율주행 / 게재일: 2026-11-05 / 매체: ITS Korea
+   - 원문: https://www.nongmin.com/article/20261104500680
+
+7. [지자체] 강릉시, AI로 주차 대기시간 예측…도심 교통혼잡 줄인다
    - 분야: 신호·관제 / 게재일: 2026-11-03 / 매체: ITS Korea
    - 원문: https://www.gwnews.org/news/articleView.html?idxno=272358
 
-7. [복지부/보도자료] 보행 불편한 장애아동·어르신 주차 편의 높인다, 「장애인 등 편의증진법 시행령」 개정안 국무회의 의결
+8. [복지부/보도자료] 보행 불편한 장애아동·어르신 주차 편의 높인다, 「장애인 등 편의증진법 시행령」 개정안 국무회의 의결
    - 분야: 정책·법제도 / 게재일: 2026-11-04 / 매체: ITS Korea
    - 원문: https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492420&tag=&nPage=1
-
-8. 사람 없이 공장 부품 나르는 자율주행차, 오토노머스에이투지 물류용 시제차 완성
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 플래텀(Platum)
-   - 원문: https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LSEJ1SW1YZDJ0U1UxMm1DTHdiNkYxcUUtNVVhUEJFWVVDWWdsUzd0bXJaekczUDlJMlVrSE8zZXNsUEtmOHVSYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 9. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
    - 분야: C-ITS·V2X / 게재일: 2026-11-02 / 매체: 전자신문
@@ -162,25 +162,25 @@
    - 분야: 대중교통·물류 / 게재일: 2026-11-03 / 매체: Queen 이코노미퀸
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFBUU0U2MEYtY2ZKNTEybm9pczEyS29uT0w0dzBJZ1dXY2tJUW5oMDA5OHJqVnlYYml1N1lmeTFSb1QwX1hSM3FPbnlhNFozVm1DUVFSQ0lhdGNJcWVhMDlPVkhnNERRb2FUVUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [회원사/동향] 한국교통안전공단 경기남부본부, AI 활용 버스 교통사고 예방 나선다
-   - 분야: 신호·관제 / 게재일: 2026-11-03 / 매체: ITS Korea
-   - 원문: https://www.kyeonggi.com/article/20261102580515
+16. 테슬라 차주들 "완전자율주행 옵션 구매했는데 왜 못써" 소송…법원 판단은?
+   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: JTBC
+   - 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE5LUFFybnFRUmNPTldMWmotYjZlZUlGVGRaUDBpRzhraUVZM2kwaEo4LVdqX0ZQZ21xT3ZnTFEzRW94TGJQdmw1VWR3c3k0Y2g1LXM3dQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. ‘자율주행 옵션 구매’ 테슬라 차주들, 환불 소송냈지만… 1심 패소
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 대한경제
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE92SWxoeTctTGJFaEwzUTNrOVdIMkRESUVBRDZYOG5uQWM3anhXTHFXSlpVTUk2aUFhZzFPVmZpYUFscE5neFRVSVFBdG5XaTVzMmJXdHE4YkVRdkx0WmoyUzYyc1VseEp2UGpHOWlQZzM5ams?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+17. [D리포트] "완전자율주행 아니잖아!" 테슬라에 환불 소송…법원은 "환불 책임 없어"
+   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: SBS 뉴스
+   - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE9hWjRUbm9xaTNFRURpZmkzeG5wcGdwa1dmQXVsMXZoa0pFLV92OHYyRkt1MkJzd0R1NjNaNjUxVUFQM3JldVNIYXVmMEU2a2F6cmt3SWVnRm92QWpMMTk3WVgxeXA4LTl5RFHSAWZBVV95cUxPQ1VIZmJIYmlMRHRxNVl6alB5a1BPLVIzLVp5WVVCNTJDSl8zaUhQeW9lQzhEbmxiUlNaR2VTWkZxYmVzX3VnN2tnNUtpYnN0cmI3d2pMSWt5bXZqM2hDY21ac1FWU2c?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. "테슬라 FSD, 완전자율주행 아냐" 소송했지만…눈물의 패소 [지금이뉴스]
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: YTN
-   - 원문: https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdnZ4aW0tUVZDMXo1aHhFdTVmOTBuSzlseGxmLW4tcTlXM2lHemp0bm8yMzd5dmxhZ25QZWx2dU05TVVlTzFrckdXUXhyYWRaazlBckRlUXNOZnhhRUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. 테슬라 '완전자율주행' 환불 소송서 차주 89명 패소 … 법원 "계약 불이행 아냐"
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 뉴데일리
-   - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE1Va0dIaWtiem9ZaHJBcjhkQUJNenN4NU5kanJ1TndKaFg2Vy1kdVVHWHFIeXg2bnR0UU9hclN4OTJodXJadW41TTlLZUZUNzRJbHZVcWlGaHYzNmtRNW9rZXEtelRnb3VFY1lTQ1FsSjJiRTlsLUFHc28zVdIBgAFBVV95cUxQeTdJMTBVcjFOTnB6TV8zMkZUMW55dXBobkt0V0lMdWRtbjNtanhpYlN2SEotVlM3VjEtSFhYcjhHZGNvRmxnTmNCTFBQWktrN3J0bW14M0Jnd1lScHdWZnQ4WHA5YmJDaEtBWXY4OWs4LU1oV1hpRGhvUEgwME5qRg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. 코디악AI, DTL 트럭 75대에 무인 자율주행 적용…DaaS 계약 체결
+18. 코디악AI, DTL 트럭 75대에 무인 자율주행 적용…DaaS 계약 체결
    - 분야: 산업·투자 / 게재일: 2026-10-30 / 매체: IT타임스
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBENEoya0JaUzBSSXRRc1RsbTJvaTJBcFdld25feEJsQWNkcHN4U0FCeGY0bU95ZUdoZWd6eVJjZW9FR3Y1OFJzU3ZDcHg4VUM2YklDemo5X1ZiNzhOLUVGLTRhd0lLRmRy?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. 볼트, 루시드와 손잡고 유럽에 자율주행차 2만5천대 푼다
+   - 분야: 자율주행 / 게재일: 2026-10-30 / 매체: 데일리카
+   - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTFBNT2lCbTQ3bDExNm9CSVVBU0Q2VUhUZFNQV01wTnNkbDRienFYRXVuQndDRDBKZkxTa2RORlNRRFBYVWxmRklsaU5nMDNQOU9tLXlsSEtLWmhROHFTc1ZZZEdDQWpRM0VLcVBPblhTQzBxQkpfUFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. “완전자율주행 아직도 안 돼”…테슬라에 환불 요구한 차주들, 왜 패소했나 [서초동 야단법석]
+   - 분야: 자율주행 / 게재일: 2026-10-31 / 매체: 서울경제
+   - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EMmVEeHN3WXdxejNYN2p1TlJpSFA1ZHAxUENBZ3gxM2FKQ2lhamFjUnpNZG1xUTR3ZWNoWEt2bm1RNmFPRGVBd1pTa0FDRkhLeVHSAVNBVV95cUxNSERlcEhDaGVZc2FyMnlPLUpEcHFMZVMyVV9ua0daczEwVGxmVzdwUkpjbGp5MWdHTno2MVhNZXliTzZWOFhELTdITGZHeTJVNk4zRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
