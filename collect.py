@@ -107,7 +107,11 @@ KEYWORD_BONUS = [
           'traffic monitoring', 'traffic counting', 'radar', 'speed measurement',
           'detection', 'surveillance', 'bulletin board',
           # 실측에서 0점으로 떨어졌던 제목들에서 뽑은 말
-          'work zone', 'work-zone', 'school zone', 'roadside', 'level crossing']),
+          'work zone', 'work-zone', 'school zone', 'roadside', 'level crossing',
+          # 사업이 실제로 움직인 신호. 10월 게시판 등록 16건 중 9건이 대시보드에 없었는데
+          # 전부 계약·수주·인증 소식이었다. ' wins'의 앞 공백은 'digital twins'를 피하려는 것.
+          'contract', 'awarded', ' wins', 'selected', 'deploy', 'rollout', 'roll-out',
+          'certif', 'go-live', 'goes live']),
     (6, ['bus rapid transit', 'public transport', 'mobility', 'road safety',
          'telematics', 'fare collection', 'ticketing', 'weigh-in-motion',
          'autonomous truck', 'self-driving', 'driverless', 'freight', 'cargo',
@@ -834,7 +838,7 @@ def digest_md(items, today):
         # '기타'는 64%가 비ITS라 빼지만, 사업 신호로 점수가 오른 건은 남긴다.
         # 김포 태리IC(예타 통과, 30점)가 기타라는 이유로 빠져 있었다.
         # 분류표(CAT_KO)를 고치지 않는 이유: held-out 측정 시계가 리셋된다.
-        if (it['source'] == 'ITS Korea' and it.get('category') == '기타'
+        if (it['source'] in CURATED and it.get('category') == '기타'
                 and it['score'] < 25):
             return False
         d = it.get('orig_published') or it.get('published') or ''
@@ -1438,7 +1442,21 @@ GNEWS_EN = ['"intelligent transport system" when:7d',
             '"toll collection" system when:7d',
             '"traffic monitoring" when:7d',
             'V2X OR "connected vehicle" deployment when:7d',
-            'autonomous shuttle OR "autonomous bus" pilot when:7d']
+            'autonomous shuttle OR "autonomous bus" pilot when:7d',
+            # 계약·수주 소식용. 담당자가 고르는 건 '누가 어디서 뭘 따냈나'다.
+            '"wins contract" OR "awarded contract" traffic OR tolling OR transit when:7d',
+            '"smart parking" contract OR deployment when:7d',
+            '"speed camera" OR "red light camera" contract OR certification when:7d']
+
+# 전문지 직접 수집. RSS가 없거나(TTT) 10건뿐이라(ITS International) 워드프레스 wp-json을 쓴다.
+# ⚠ 같은 목록이 index.html foldable()에도 있다(CURATED). 같이 고칠 것.
+CURATED = ('ITS Korea', 'ITS International', 'Traffic Technology Today')
+TRADE_PRESS = [
+    ('ITS International',
+     'https://www.itsinternational.com/wp-json/wp/v2/posts?per_page=20&_fields=title,link,date'),
+    ('Traffic Technology Today',
+     'https://www.traffictechnologytoday.com/wp-json/wp/v2/posts?per_page=20&_fields=title,link,date'),
+]
 GNEWS_KO = ['지능형교통체계 when:7d', 'C-ITS when:7d', '자율주행 수주 OR 계약 when:7d',
             '교통 관제 시스템 구축 when:7d', 'V2X 통신 when:7d']
 GNEWS_POL = ['자율주행 법안 OR 개정 when:7d', '도로교통법 개정 when:7d',
@@ -1650,9 +1668,12 @@ def fetch_news(days=7):
             # '… - 다나와 자동차'의 '자동차'가 6점으로 계산되던 실측 12건.
             # id·분류·점수가 모두 같은 문자열을 보게 맞춰 둔다.
             sc, hits = score_news(title, korean)
-            if source == 'ITS Korea':
+            if source in CURATED:
+                # 사람이(협회) 또는 전문지 편집부가 이미 고른 목록 — 기본점을 준다.
+                # 전문지 제목은 우리 키워드 없이 쓰인 게 많아('A Shift for Metrolinx…')
+                # 하한 12점에 걸면 20건 중 1건만 남았다(실측). 대신 '기타'·저점은 화면에서 접는다.
                 sc = min(100, sc + ASSOC_BASE)
-                hits = hits + ['협회게시판']
+                hits = hits + ['협회게시판' if source == 'ITS Korea' else '전문지']
             # 하한은 감점 전 점수로 본다. 감점으로 탈락시키면 '제외'가 되어버린다 —
             # 재가공·기고문은 지우는 게 아니라 접어서 사람이 펼쳐 보게 하는 것이 목적이다.
             if sc < min_score:
@@ -1742,6 +1763,26 @@ def fetch_news(days=7):
             except Exception as e:
                 print('  itskorea type=%d p%d 실패: %s' % (t, page, e), file=sys.stderr)
 
+    # 전문지 직접 수집 — 협회가 옮기지 않은 계약·수주·인증 소식은 여기서만 나온다.
+    # 실측(2026-10-29 게시판 등록 16건): 9건이 대시보드에 없었고 전부 이 두 매체 기사였다.
+    # 협회 뒤에 둔다 — 같은 기사면 협회판(국문 요약·원문 링크 포함)이 남아야 한다.
+    # 협회 제목은 '[국가] 영문 제목'이라 정규화 제목이 같지 않고 '포함' 관계다.
+    for name, url in TRADE_PRESS:
+        try:
+            rows = []
+            for p_ in json.loads(http_text(url, timeout=30)):
+                title = strip_tags((p_.get('title') or {}).get('rendered') or '')
+                nt = norm_title(title)
+                if not title or any(nt and nt in s_ for s_ in seen_title):
+                    continue
+                rows.append({'title': title, 'link': p_.get('link'),
+                             'date': (p_.get('date') or '')[:10] or None, 'media': name,
+                             'media_host': urllib.parse.urlparse(p_.get('link') or '')
+                             .netloc.lower().replace('www.', '')})
+            add(rows, 'A', False, name, 0)
+        except Exception as e:
+            print('  전문지 실패 [%s]: %s' % (name, e), file=sys.stderr)
+
     # 국토교통부 보도자료 — 세션 쿠키 없으면 307 리다이렉트 루프에 빠진다
     try:
         h = http_text('https://www.molit.go.kr/USR/NEWS/m_71/lst.jsp', session=True)
@@ -1812,7 +1853,7 @@ def fetch_news(days=7):
     # 상한 면제 — 사람이 이미 선별한 목록이라 기계가 다시 자를 이유가 없다.
     # ITS Korea는 협회가 고른 목록이고(하루 11건 안팎), 부처 원문은 주 3~5건이다.
     # 대신 협회 글 중 카테고리가 '기타'인 것은 화면에서 접는다(index.html foldable).
-    EXEMPT = ('국토교통부', '법제처', 'ITS Korea')
+    EXEMPT = ('국토교통부', '법제처', 'ITS Korea', 'ITS International', 'Traffic Technology Today')
     capped, per = [], collections.Counter()
     for it in sorted(out, key=lambda x: (-x['score'], x['published'])):
         # 감점 표시된 기사는 상한 경쟁에서 빼둔다. 점수가 낮아 무조건 잘리는데,

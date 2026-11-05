@@ -131,6 +131,22 @@ for desc, title, body, ok in NEWS_LITMUS:
     if not good:
         news_fail.append(desc)
 
+# ── 영어 기사 채점 회귀 (2026-11-05 — 계약·수주 신호어)
+print()
+print('=== 영어 기사 채점 회귀')
+EN_LITMUS = [
+    ('계약 수주 소식은 점수를 받아야 한다 — 10월 등록분 9건이 이 유형인데 대시보드에 없었다',
+     'Quarterhill wins $28.2m LA Metro ExpressLanes back-office contract', lambda sc: sc >= 18),
+    ("' wins'의 앞 공백 — digital twins가 수주로 오인되면 안 된다",
+     'New standardisation for digital twins targets transport decarbonisation', lambda sc: sc <= 6),
+]
+for desc, title, ok in EN_LITMUS:
+    sc, _ = collect.score_news(title, False)
+    good = ok(sc)
+    print('  %s %3d점  %s' % ('OK ' if good else '실패', sc, desc))
+    if not good:
+        news_fail.append(desc)
+
 # ── 링크 정리·언어 판별 회귀 테스트 (2026-08-28 실측에서 고친 것)
 print()
 print('=== 링크·언어 회귀 테스트')
