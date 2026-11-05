@@ -404,8 +404,8 @@
   "score_hits": [
    "자율주행",
    "개정",
-   "버스",
-   "택시"
+   "택시",
+   "버스"
   ],
   "already_posted": false,
   "collector": "news",
@@ -731,41 +731,6 @@
    "실증",
    "관제",
    "협회게시판"
-  ],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-11-05",
-  "notes": null
- },
- {
-  "schema_version": 3,
-  "id": "news-2199ae65e41d",
-  "kind": "news",
-  "board": "P",
-  "source": "Google News",
-  "type": "국내동향",
-  "country": null,
-  "country_ko": null,
-  "title": "자율주행 어디까지 맡겨도 될까…ETRI, 국제표준 개정 이끌어",
-  "media": "쿠키뉴스",
-  "org": "쿠키뉴스",
-  "media_host": "kukinews.com",
-  "category": "자율주행",
-  "flag": null,
-  "pinned": null,
-  "published": "2026-10-29",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15TUFORzZlQW5GQzR1WUFTTjZYUURKdTJ5UHZlN2FfSWVIa3JYa0V0cDFLdDM1NzE4bHZCc19Dem14UFp5WXR3VDJTaldMeWJiUU5mTU52TXV6UzRtS3N4QjBqbw?oc=5",
-  "cpv": [],
-  "orig_link": null,
-  "orig_published": null,
-  "stale": null,
-  "score": 32,
-  "score_hits": [
-   "자율주행",
-   "개정"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1117,7 +1082,7 @@
   "score": 30,
   "score_hits": [
    "시행령",
-   "주차",
+   "개정",
    "협회게시판"
   ],
   "already_posted": false,
