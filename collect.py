@@ -3,6 +3,7 @@
 각 소스 = fetch_xxx() -> list[dict]. 한 소스가 죽어도 나머지는 수집된다.
 전체 합계 0건이면 exit 1 (실패 메일 방아쇠).
 """
+import glob
 import json
 import os
 import re
@@ -715,6 +716,131 @@ BOARD_ORDERS = ('https://intl.its.go.kr/api/export/its-orders'
 BOARD_ORDER_DETAIL = ('https://intl.its.go.kr/api/export/its-orders/%s'
                       '?curPage=1&continent=&deadline=&searchType=&keyword=&lang=ko')
 BOARD_NOTICES = 'https://intl.its.go.kr/communication/notices?lang=en&curPage=%d'
+# 국가별 ITS 시장정보(해외기사 → 국문). 기사 기등록 대조용.
+BOARD_MARKETS = ('https://intl.its.go.kr/api/export/world-markets'
+                 '?searchType=all&keyword=&lang=ko&continent=&curPage=%d')
+BOARD_MARKET_DETAIL = ('https://intl.its.go.kr/api/export/world-markets/%s'
+                       '?curPage=1&continent=&deadline=&searchType=&keyword=&lang=ko')
+_BOARD_SKIP_HOST = ('its.go.kr', 'pcdn.co', 'cloudfront', 'googleusercontent')
+# 매체 도메인·매체명 매칭을 쓰지 않는 허브 매체. 하루에도 기사가 여럿이라 '같은 매체'가
+# '같은 기사'를 뜻하지 않는다(실측: Cubic TruView가 호주·세르비아 글에 붙었다).
+# 이 매체들은 전문지 직접 수집으로 진짜 링크가 있으니 링크 일치로만 잡는다.
+_HUB_HOST = ('itsinternational.com', 'traffictechnologytoday.com', 'ertico.com',
+             'intelligenttransport.com', 'smartcitiesdive.com')
+_LATIN_STOP = {'https', 'http', 'www', 'html', 'index', 'about', 'email', 'phone', 'tender',
+               'tenders', 'notice', 'europe', 'europa', 'contract', 'project', 'projects',
+               'system', 'systems', 'services', 'service', 'supply', 'design', 'works',
+               'public', 'general', 'limited', 'department', 'ministry', 'office', 'street',
+               'boulevard', 'avenue', 'international', 'traffic', 'transport', 'smart',
+               'intelligent', 'management', 'equipment', 'implementation', 'procurement',
+               'republic', 'national', 'urban', 'mobility',
+               # 이름이 아니라 분야 단어. 이걸 근거로 삼으면 로보택시 기사끼리 전부 붙는다(실측 오탐).
+               'vehicle', 'vehicles', 'robotaxi', 'robotaxis', 'autonomous', 'driverless',
+               'safety', 'platform', 'technology', 'solution', 'solutions', 'launch',
+               'launches', 'digital', 'network', 'center', 'centre', 'control', 'camera',
+               'cameras', 'signal', 'signals', 'parking', 'tolling', 'leaders', 'build',
+               'builds', 'robots', 'systems'}
+
+
+def latin_tokens(text):
+    """라틴 문자 단어(악센트 제거, 5자 이상). 회사·도시 이름을 잡기 위한 것."""
+    import unicodedata
+    t = unicodedata.normalize('NFKD', text or '').encode('ascii', 'ignore').decode().lower()
+    return {w for w in re.findall(r'[a-z]{5,}', t) if w not in _LATIN_STOP}
+
+
+def _host(u):
+    if not u or '://' not in u:
+        return ''
+    return re.sub(r'^www\.', '', u.split('/')[2].lower())
+
+
+def market_posts(cache):
+    """시장정보 게시판 최근 2쪽(20건). 상세는 캐시 — 글은 올라오면 안 바뀐다."""
+    out, fetched = [], 0
+    for page in (1, 2):
+        d = http_json(BOARD_MARKETS % page)
+        for r in d.get('resultResponses', []):
+            key = 'm%s' % r['bno']
+            if key not in cache:
+                try:
+                    dd = http_json(BOARD_MARKET_DETAIL % r['bno'])
+                except Exception:
+                    continue
+                body = html_mod.unescape(str(dd.get('content') or ''))
+                links = [clean_url(u) for u in re.findall(r'https?://[^\s"<>\']+', body)
+                         if not any(k in u.lower() for k in _BOARD_SKIP_HOST)
+                         and not re.search(r'\.(jpe?g|png|gif|webp|svg)(\?|$)', u.lower())]
+                cache[key] = {'date': str(r.get('regDate', ''))[:10], 'title': r.get('title') or '',
+                              'links': links[:5],
+                              'tokens': sorted(latin_tokens((r.get('title') or '') + ' '
+                                                            + re.sub(r'<[^>]+>', ' ', body)))}
+                fetched += 1
+            out.append(cache[key])
+    return out, fetched
+
+
+def backfill_posted(posts, days=35):
+    """지난 일별 기사 파일에 기등록 표시를 소급한다. 바뀐 파일만 다시 쓴다."""
+    cut = (today_kst() - timedelta(days=days)).isoformat()
+    changed = 0
+    for path in sorted(glob.glob(os.path.join(DATA, 'news', '*.json'))):
+        if os.path.basename(path)[:10] < cut:
+            continue
+        with open(path, encoding='utf-8') as f:
+            rows = json.load(f)
+        if mark_posted_news(rows, posts):
+            with open(path, 'w', encoding='utf-8') as f:
+                json.dump(rows, f, ensure_ascii=False, indent=1)
+            changed += 1
+    return changed
+
+
+def mark_posted_news(items, posts):
+    """해외기사가 시장정보 게시판에 이미 올라갔는지. 사용 대조 스크립트와 같은 순서 —
+    링크 > (구글뉴스 항목만) 매체 도메인·매체명 > 회사·도시 이름 토큰. 제목 숫자는 안 쓴다(오탐)."""
+    n = 0
+    for it in items:
+        if it.get('kind') != 'news' or it.get('board') != 'A' or it.get('already_posted'):
+            continue
+        mine = {norm_url(u) for u in (it.get('orig_link'), it.get('link'))
+                if u and 'news.google' not in u}
+        when = it.get('orig_published') or it.get('published') or ''
+        hit = None
+        for p in posts:
+            pd = p.get('date') or ''
+            if not pd or not when or when > pd:
+                continue
+            if (date.fromisoformat(pd) - date.fromisoformat(when)).days > 21:
+                continue
+            plinks = {norm_url(u) for u in p.get('links', [])}
+            if mine & plinks:
+                hit = (p, 'link')
+                break
+            hosts = {_host(u) for u in p.get('links', [])} - {''}
+            if 'news.google' in (it.get('link') or '') and hosts:   # 링크가 토큰인 구글뉴스 항목만
+                mh = it.get('media_host') or ''
+                m = re.sub(r'[^a-z0-9]', '', (it.get('media') or '').lower())
+                for h in hosts:
+                    if h in _HUB_HOST:
+                        continue
+                    c = h.split('.')[0]
+                    if (mh and mh == h) or (len(c) >= 5 and len(m) >= 5 and (c in m or m in c)):
+                        hit = (p, 'media')
+                        break
+                if hit:
+                    break
+            common = set(p.get('tokens', [])) & latin_tokens(it.get('title') or '')
+            # 문턱 5: 'hyperion'+'nvidia'(=3)처럼 플랫폼 이름만 겹치는 다른 기사를 거른다.
+            # 진짜 같은 기사는 회사+도시+사업명이 같이 겹쳐 5를 넘는다(실측 Kapsch 도미니카 5, 방글라데시 ADB 7).
+            if sum(2 if len(t) >= 7 else 1 for t in common) >= 5:
+                hit = (p, 'name')
+                break
+        if hit:
+            it['already_posted'] = True
+            it['posted_how'] = hit[1]
+            n += 1
+    return n
 
 # 게시판(영문) ↔ 국내 기사(한국어) 이름 대조표. 자주 나오는 것만 둔다.
 BOARD_ALIAS = {
@@ -771,7 +897,15 @@ def fetch_board_state():
                 titles.append(strip_tags(t))
     except Exception as e:
         print('  게시판(기사) 대조 실패: %s' % e, file=sys.stderr)
-    return refs, titles
+    posts = []
+    try:
+        posts, fetched = market_posts(cache)
+        with open(BOARD_CACHE_PATH, 'w', encoding='utf-8') as f:
+            json.dump(cache, f, ensure_ascii=False, indent=1, sort_keys=True)
+        print('  시장정보 게시판: %d건 (신규 조회 %d)' % (len(posts), fetched), file=sys.stderr)
+    except Exception as e:
+        print('  게시판(시장정보) 대조 실패: %s' % e, file=sys.stderr)
+    return refs, titles, posts
 
 
 def mark_posted(items, refs, board_titles):
@@ -935,10 +1069,14 @@ def main():
     items = list(merged.values())
 
     try:
-        refs, board_titles = fetch_board_state()
+        refs, board_titles, posts = fetch_board_state()
         posted = mark_posted(items, refs, board_titles)
-        print('게시판 대조: 참조번호 %d개 / 등록 제목 %d개 → 표시 %d건'
-              % (len(refs), len(board_titles), posted), file=sys.stderr)
+        posted_news = mark_posted_news(items, posts)
+        # 등록은 기사보다 1~2주 늦다(실측: 10/29 등록분의 기사는 10/20~28). 오늘 수집분만
+        # 대조하면 이미 창을 벗어난 기사가 빈 채로 남으므로 지난 일별 파일에도 소급한다.
+        back = backfill_posted(posts)
+        print('게시판 대조: 참조번호 %d개 / 등록 제목 %d개 → 표시 %d건 / 기사 기등록 %d건 (소급 %d건)'
+              % (len(refs), len(board_titles), posted, posted_news, back), file=sys.stderr)
     except Exception as e:
         print('게시판 대조 건너뜀: %s' % e, file=sys.stderr)
 
