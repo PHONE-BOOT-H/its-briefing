@@ -69,6 +69,10 @@
           padding:13px 15px; margin-bottom:8px; cursor:pointer; }
   .card:hover { border-color:var(--dim); }
   .row1 { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:5px; }
+  .notice { margin-top:10px; padding:8px 12px; border:1px solid var(--line); border-radius:8px;
+            background:var(--soft, #f5f7f9); font-size:13px; color:var(--dim); display:flex; gap:10px; align-items:baseline; }
+  .notice b { color:var(--ink, inherit); }
+  .notice button { margin-left:auto; border:0; background:none; color:var(--dim); cursor:pointer; font-size:12px; }
   .badge { font-size:11.5px; padding:2px 8px; border-radius:5px; border:1px solid var(--line); color:var(--dim); }
   .badge.country { border-color:var(--accent); color:var(--accent); font-weight:600; }
   .badge.new { background:var(--new); color:#fff; border-color:var(--new); font-weight:600; }
@@ -147,6 +151,7 @@
   <div class="meta" id="meta">불러오는 중…</div>
   <div class="brief" id="brief"></div>
   <button class="helpbtn" id="helpBtn" aria-haspopup="dialog">사용법</button>
+  <div class="notice" id="notice" hidden></div>
 </header>
 
 <main>
@@ -331,6 +336,24 @@ let ITEMS = [], INDEX = null;
 // 로컬 날짜. toISOString()은 UTC라 한국에서 오전 9시 이전에 열면 하루 밀린다.
 const today = new Date().toLocaleDateString('sv-SE');
 const days = (a,b) => Math.round((new Date(b) - new Date(a)) / 86400000);
+
+// ── 바뀐 점 알림
+// 담당자와 연락이 닿지 않는다. 화면이 바뀌면 설명할 길이 이것뿐이다 — 한 줄, 닫으면 다시 안 뜬다.
+// 새 항목을 넣을 때는 id(날짜)를 바꾼다. 화면 어휘·기본값 변경은 원칙적으로 더 하지 않는다.
+const NOTICE = {
+  id: '2026-11-05',
+  html: '<b>11/5 바뀐 점</b> 기사 탭 기본이 <b>지난 방문 이후</b>(마지막으로 연 날 뒤 것만)로 바뀌었습니다. '
+      + 'ITS International·Traffic Technology Today 기사가 직접 들어오고, 홈페이지에 이미 올린 건에는 '
+      + '<b>시장정보에 올라감</b> 표시가 붙습니다. 자세한 건 [사용법].'
+};
+try {
+  if (localStorage.getItem('noticeSeen') !== NOTICE.id) {
+    const n = document.getElementById('notice');
+    n.innerHTML = NOTICE.html + '<button type="button">닫기</button>';
+    n.hidden = false;
+    n.querySelector('button').onclick = () => { n.hidden = true; try { localStorage.setItem('noticeSeen', NOTICE.id); } catch (e) {} };
+  }
+} catch (e) { /* 저장소 막힌 브라우저 — 매번 보여도 무방 */ }
 
 // ── 지난 방문
 // 주 1~2회 몰아서 보는 사람은 '3일 이내'로는 그 사이 것을 놓친다(실측: 10월 등록이
