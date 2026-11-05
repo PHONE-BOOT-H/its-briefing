@@ -69,12 +69,6 @@
           padding:13px 15px; margin-bottom:8px; cursor:pointer; }
   .card:hover { border-color:var(--dim); }
   .row1 { display:flex; align-items:center; gap:8px; flex-wrap:wrap; margin-bottom:5px; }
-  .notice { margin-top:10px; padding:8px 12px; border:1px solid var(--line); border-radius:8px;
-            background:var(--soft, #f5f7f9); font-size:13px; color:var(--dim); line-height:1.55; }
-  .notice[hidden] { display:none; }   /* flex가 hidden을 이기지 않게 */
-  .notice b { color:var(--ink, inherit); }
-  .notice button { float:right; margin-left:12px; border:0; background:none; color:var(--dim);
-                   cursor:pointer; font-size:12px; white-space:nowrap; }
   .badge { font-size:11.5px; padding:2px 8px; border-radius:5px; border:1px solid var(--line); color:var(--dim); }
   .badge.country { border-color:var(--accent); color:var(--accent); font-weight:600; }
   .badge.new { background:var(--new); color:#fff; border-color:var(--new); font-weight:600; }
@@ -153,7 +147,6 @@
   <div class="meta" id="meta">불러오는 중…</div>
   <div class="brief" id="brief"></div>
   <button class="helpbtn" id="helpBtn" aria-haspopup="dialog">사용법</button>
-  <div class="notice" id="notice" hidden></div>
 </header>
 
 <main>
@@ -166,7 +159,6 @@
   </div>
 
   <div class="controls" id="controls">
-    <button class="chip" data-range="-2">지난 방문 이후</button>
     <button class="chip" data-range="-1">오늘</button>
     <button class="chip" data-range="3">3일 이내</button>
     <button class="chip" data-range="7" aria-pressed="true">1주 이내</button>
@@ -209,9 +201,8 @@
         <li><span class="k">맨 위 한 줄로 오늘 상황을 봅니다.</span>
           숫자를 누르면 그 목록으로 바로 갑니다.</li>
         <li><span class="k">탭을 돌며 새로 올라온 것을 훑습니다.</span>
-          기본은 <span class="k">지난 방문 이후</span> — 마지막으로 연 날 뒤에 올라온 것만 보입니다
-          (처음이면 1주). 등록 간격에 맞춰 <span class="k">3일 이내</span>·<span class="k">1주 이내</span>로
-          바꿔도 됩니다. 안 보이면
+          기간은 등록 간격에 맞춥니다 — 목요일 등록이면 <span class="k">3일 이내</span>,
+          화요일 등록이면 <span class="k">1주 이내</span>. 안 보이면
           <span class="k">신규만</span>을 끄거나 기간을 더 넓힙니다.</li>
         <li><span class="k">쓸 건은 카드를 열어 '등록문 복사'를 누릅니다.</span>
           게시판에 붙여넣고 빈 칸(국문 번역 등)만 채웁니다.</li>
@@ -339,39 +330,6 @@ let ITEMS = [], INDEX = null;
 const today = new Date().toLocaleDateString('sv-SE');
 const days = (a,b) => Math.round((new Date(b) - new Date(a)) / 86400000);
 
-// ── 바뀐 점 알림
-// 담당자와 연락이 닿지 않는다. 화면이 바뀌면 설명할 길이 이것뿐이다 — 한 줄, 닫으면 다시 안 뜬다.
-// 새 항목을 넣을 때는 id(날짜)를 바꾼다. 화면 어휘·기본값 변경은 원칙적으로 더 하지 않는다.
-const NOTICE = {
-  id: '2026-11-05',
-  html: '<b>11/5 바뀐 점</b> 기사 탭 기본이 <b>지난 방문 이후</b>(마지막으로 연 날 뒤 것만)로 바뀌었습니다. '
-      + 'ITS International·Traffic Technology Today 기사가 직접 들어오고, 홈페이지에 이미 올린 건에는 '
-      + '<b>시장정보에 올라감</b> 표시가 붙습니다. 자세한 건 [사용법].'
-};
-try {
-  if (localStorage.getItem('noticeSeen') !== NOTICE.id) {
-    const n = document.getElementById('notice');
-    n.innerHTML = NOTICE.html + '<button type="button">닫기</button>';
-    n.hidden = false;
-    n.querySelector('button').onclick = () => { n.hidden = true; try { localStorage.setItem('noticeSeen', NOTICE.id); } catch (e) {} };
-  }
-} catch (e) { /* 저장소 막힌 브라우저 — 매번 보여도 무방 */ }
-
-// ── 지난 방문
-// 주 1~2회 몰아서 보는 사람은 '3일 이내'로는 그 사이 것을 놓친다(실측: 10월 등록이
-// 10/7·10/15·10/29 세 번이었다). 마지막으로 연 날을 기억해 두고 그 뒤 것만 보여준다.
-// 같은 날 두 번 열어도 기준일이 당일로 당겨지지 않게 '직전 다른 날'을 따로 둔다.
-let PREV_VISIT = null;
-try {
-  const last = localStorage.getItem('lastVisit');
-  if (last && last !== today) localStorage.setItem('prevVisit', last);
-  if (last !== today) localStorage.setItem('lastVisit', today);
-  PREV_VISIT = localStorage.getItem('prevVisit');
-} catch (e) { /* 저장소 막힌 브라우저 — 1주로 떨어진다 */ }
-const sinceVisit = () => PREV_VISIT || new Date(Date.now() - 7 * 86400000).toLocaleDateString('sv-SE');
-// 기본 로드는 최근 14일치뿐이다. 그보다 오래 안 들어왔으면 전체를 받아야 빠지는 게 없다.
-const needRest = () => S.range === 0 || (S.range === -2 && days(sinceVisit(), today) > 14);
-
 // ── URL 상태
 function readURL() {
   const p = new URLSearchParams(location.search);
@@ -381,7 +339,7 @@ function readURL() {
   if (S.tab === 'news' && p.get('board') === 'B') S.tab = 'domestic';
   if (!TAB_BOARD[S.tab] && S.tab !== 'tenders' && S.tab !== 'stats') S.tab = 'tenders';
   if (p.get('range') !== null) S.range = +p.get('range');
-  else if (S.tab !== 'tenders' && S.tab !== 'stats') S.range = -2;  // 기사·국내동향은 '지난 방문 이후'
+  else if (S.tab !== 'tenders' && S.tab !== 'stats') S.range = 3;   // 기사·국내동향은 매일 쌓이므로 3일
   // 통계는 주 단위로 보는 화면이라 기본 7일. 3일이면 표본이 너무 얇다.
   if (p.get('new') !== null) S.onlyNew = p.get('new') === '1';
   if (p.get('sort')) S.sort = p.get('sort');
@@ -572,7 +530,7 @@ function renderBrief() {
   [...el.querySelectorAll('a[data-go]')].forEach(a => a.onclick = () => {
     const o = JSON.parse(a.dataset.go);
     S.tab = o.tab; S.range = o.range; S.onlyNew = !!o.new; S.sort = o.sort || 'score'; S.q = '';
-    if (needRest()) loadRest();
+    if (S.range === 0) loadRest();
     document.getElementById('sort').value = S.sort;
     document.getElementById('q').value = '';
     document.getElementById('onlyNew').setAttribute('aria-pressed', S.onlyNew);
@@ -593,7 +551,6 @@ function visible(tab) {
   // range: -1=오늘만, 0=전체, N=최근 N일.
   // '오늘만'이 있어야 브리핑의 '오늘 신규 N건'을 눌렀을 때 목록 건수가 그 N과 같아진다.
   const from = S.range === -1 ? today
-    : S.range === -2 ? sinceVisit()
     : S.range ? new Date(Date.now() - S.range * 86400000).toLocaleDateString('sv-SE')
     : '0000-00-00';
   const q = S.q.trim().toLowerCase();
@@ -814,7 +771,7 @@ const thin = n => `<p class="thin">표본 ${n}건 — 통계로 보기엔 적습
 
 const SCOPE_TAB = { tenders: 'tenders', news: 'news', domestic: 'domestic', policy: 'policy' };
 const SCOPE_NAME = { all: '전체', tenders: '발주', news: '해외기사', domestic: '국내기사', policy: '국내 동향' };
-const RANGE_NAME = { '-2': '지난 방문 이후', '-1': '오늘', 3: '3일 이내', 7: '1주 이내', 14: '2주 이내', 0: '전체 기간' };
+const RANGE_NAME = { 7: '이번 주', 3: '최근 3일', 14: '최근 2주', 0: '전체 기간' };
 
 // 통계가 세는 배열 = 목록 탭이 그리는 배열. 같은 함수를 그대로 태운다.
 function scopeItems(scope) {
@@ -1161,7 +1118,7 @@ document.querySelectorAll('[role=tab]').forEach(b => b.onclick = () => {
   S.tab = b.dataset.tab;
   // 통계는 누적을 세는 화면이다. 최근 14일치만 받은 상태로 세면 '누적'이 거짓말이 된다.
   if (S.tab === 'stats') { loadRest().then(render); }
-  else S.range = S.tab === 'tenders' ? 7 : -2;
+  else S.range = S.tab === 'tenders' ? 7 : 3;
   document.querySelectorAll('[role=tab]').forEach(x =>
     x.setAttribute('aria-selected', x === b));
   syncTabUI(); writeURL(); render();
@@ -1174,7 +1131,7 @@ document.querySelectorAll('.chip[data-scope]').forEach(b => b.onclick = () => {
 });
 document.querySelectorAll('.chip[data-range]').forEach(b => b.onclick = () => {
   S.range = +b.dataset.range;
-  if (needRest()) loadRest();
+  if (S.range === 0) loadRest();
   document.querySelectorAll('.chip[data-range]').forEach(x =>
     x.setAttribute('aria-pressed', x === b));
   writeURL(); render();
