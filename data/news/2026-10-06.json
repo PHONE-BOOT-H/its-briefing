@@ -2723,10 +2723,11 @@
   "score_hits": [
    "협회게시판"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "news",
   "first_seen": "2026-09-29",
-  "notes": null
+  "notes": null,
+  "posted_how": "link"
  },
  {
   "schema_version": 3,

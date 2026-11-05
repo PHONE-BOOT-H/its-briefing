@@ -226,5 +226,254 @@
  "16317": {
   "link": "https://itskorea.kr/boardDetail.do?type=10&idx=24010&currentPage=1&searchType=&searchText=",
   "refNo": ""
+ },
+ "m16198": {
+  "date": "2026-10-15",
+  "links": [
+   "https://landtransportguru.net/autonomous-public-bus-deployment-cancelled/"
+  ],
+  "title": "[싱가포르] 육상교통청, 자율주행 공공버스 노선 투입 계획 철회",
+  "tokens": [
+   "authority",
+   "milestone"
+  ]
+ },
+ "m16199": {
+  "date": "2026-10-15",
+  "links": [
+   "https://www.riotimesonline.com/chile-autopista-central-tag-toll-cut-2026/"
+  ],
+  "title": "[칠레] 산티아고 도심 고속도로, 통행료 최대 25% 인하 발표",
+  "tokens": [
+   "antonio",
+   "autopista",
+   "central",
+   "contraloria",
+   "viaschile"
+  ]
+ },
+ "m16200": {
+  "date": "2026-10-15",
+  "links": [
+   "https://www.itsinternational.com/lanternn-hits-the-highway-in-brazil/"
+  ],
+  "title": "[브라질] 비아 아피아, 고속도로 32km AI 관제 실증 추진",
+  "tokens": [
+   "appia",
+   "colinas",
+   "concessoes",
+   "lanternn",
+   "rodovia",
+   "valerann"
+  ]
+ },
+ "m16201": {
+  "date": "2026-10-15",
+  "links": [
+   "https://www.itsinternational.com/uk-council-measures-speed-with-data-not-radar/"
+  ],
+  "title": "[영국] 서리주, 커넥티드카 데이터로 1,339곳 차량속도 조사",
+  "tokens": [
+   "compass",
+   "council",
+   "county",
+   "surrey"
+  ]
+ },
+ "m16202": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.itsinternational.com/mbta-trials-hayden-ais-bus-lane-enforcement-solution/"
+  ],
+  "title": "[미국] 보스턴 MBTA, 버스 탑재 AI로 전용차로·정류장 불법주차 자동단속 도입",
+  "tokens": [
+   "hayden"
+  ]
+ },
+ "m16203": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.kapsch.net/_Resources/Persistent/fc483adec73e0769779637eda0329a608e9aba50/Santa%20Cruz%20de%20Tenerife_Spain_GettyImages-513582498-960x641.avif",
+   "https://www.kapsch.net/en/press/releases/20261022-en"
+  ],
+  "title": "[스페인] 산타크루스데테네리페, 495만 유로 규모 통합 교통관제 고도화 계약",
+  "tokens": [
+   "ecotrafix",
+   "kapsch",
+   "trafficcom"
+  ]
+ },
+ "m16204": {
+  "date": "2026-10-29",
+  "links": [],
+  "title": "[짐바브웨] 경찰, 무인단속시스템 위반 의심 480만 건 검증 착수",
+  "tokens": [
+   "telone"
+  ]
+ },
+ "m16205": {
+  "date": "2026-10-29",
+  "links": [
+   "https://highways.today/2026/10/23/derq-ai-intersections/"
+  ],
+  "title": "[미국] 데르크, 미 교통부 AI 교차로 충돌예방 시스템 실증 사업자로 선정",
+  "tokens": [
+   "rellis",
+   "usdot"
+  ]
+ },
+ "m16206": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.marutisuzuki.com/corporate/media/press-releases/2026/october/maruti-suzuki-expands-integrated-traffic-management-system-itms-initiative-in-gurugram"
+  ],
+  "title": "[인도] 마루티 스즈키, 구루그람 70개 교차로에 교통관리 카메라 1,000대 추가 설치 추진",
+  "tokens": [
+   "maruti",
+   "suzuki"
+  ]
+ },
+ "m16207": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.itsinternational.com/quarterhill-picks-up-28-2m-california-express-lanes-deal/"
+  ],
+  "title": "[미국] 쿼터힐, LA 메트로 유료차로 백오피스 사업 2,820만 달러 계약 수주",
+  "tokens": [
+   "expresslanes",
+   "metro",
+   "quarterhill"
+  ]
+ },
+ "m16208": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.traffictechnologytoday.com/news/funding/usdot-opens-its4us-deployment-accelerator-to-proposals.html"
+  ],
+  "title": "[미국] 교통부, 의료이동 연계 ITS 서비스 확산 지원사업 공모",
+  "tokens": [
+   "accelerator",
+   "connector",
+   "deployment",
+   "health",
+   "hirta",
+   "usdot"
+  ]
+ },
+ "m16209": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.traffictechnologytoday.com/news/safety/minneapolis-school-zone-pilot-cuts-speeding-with-data-and-bollards.html"
+  ],
+  "title": "[미국] 미니애폴리스, 운행데이터 기반 스쿨존 개선으로 과속 감소",
+  "tokens": [
+   "partnership",
+   "routes",
+   "streetvision"
+  ]
+ },
+ "m16210": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.deccanchronicle.com/southern-states/andhra-pradesh/smart-traffic-management-cuts-dasara-congestion-in-vijayawada-by-62-1997943"
+  ],
+  "title": "[인도] 비자야와다, 실시간 교통관리로 다사라 축제기간 혼잡 62% 감소",
+  "tokens": [
+   "astram",
+   "dasara"
+  ]
+ },
+ "m16211": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.marketing-interactive.com/baidu-to-launch-first-hk-public-autonomous-trial-rides"
+  ],
+  "title": "[홍콩] 바이두, 주민 1,000명 이상 대상 자율주행차 공개 시승 추진",
+  "tokens": [
+   "apollo",
+   "baidu",
+   "chung",
+   "council",
+   "district",
+   "islands"
+  ]
+ },
+ "m16212": {
+  "date": "2026-10-29",
+  "links": [
+   "https://dayakdaily.com/malaysias-barrier-free-toll-trial-logs-3-27-mln-vehicles-as-multi-lane-free-flow-plans-progress/"
+  ],
+  "title": "[말레이시아] 무정차 톨링 시범운영 실적 공개…다차로 무정차 통행료 도입 검토",
+  "tokens": [
+   "justgo",
+   "prolintas"
+  ]
+ },
+ "m16213": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.businesswire.com/news/home/20261020817270/en/Aeva-4D-LiDAR-Certified-as-Sensys-Gatsos-Secondary-Speed-Verification-Solution-for-Public-Roads-Deployment-in-Australia"
+  ],
+  "title": "[호주] Aeva 4D 라이다, 자동 과속단속 보조 속도측정용 인증 획득",
+  "tokens": [
+   "atlas",
+   "gatso",
+   "sensys"
+  ]
+ },
+ "m16214": {
+  "date": "2026-10-29",
+  "links": [
+   "https://dailypioneer.com/india/ndmc-plans-smart-upgrade-for-157-parking-sites-reserves-5-area-for-women"
+  ],
+  "title": "[인도] 뉴델리, 주차장 157곳 스마트주차 전환 사업 추진",
+  "tokens": [
+   "fastag"
+  ]
+ },
+ "m16215": {
+  "date": "2026-10-29",
+  "links": [
+   "https://cnevpost.com/2026/10/23/pony-ai-enters-central-asia-robotaxi-pilot-kazakhstan/"
+  ],
+  "title": "[카자흐스탄] 포니AI·인드라이브·엔비디아, 아스타나 로보택시 시범사업 추진",
+  "tokens": [
+   "halos",
+   "hyperion",
+   "indrive",
+   "nvidia"
+  ]
+ },
+ "m16216": {
+  "date": "2026-10-29",
+  "links": [
+   "https://gulfnews.com/uae/ras-al-khaimah/ras-al-khaimah-partners-with-china-to-advance-ai-powered-transport-1.500718532"
+  ],
+  "title": "[아랍에미리트] 라스알카이마, 중국 기관과 AI 기반 스마트교통 협력 추진",
+  "tokens": [
+   "rakta",
+   "sutpc",
+   "transpaas"
+  ]
+ },
+ "m16217": {
+  "date": "2026-10-29",
+  "links": [
+   "https://www.kapsch.net/_Resources/Persistent/6f169ee0d13c50037fa39db2162e2fd1bd8cf878/Depositphotos_46925997_XL-480x320.avif",
+   "https://www.kapsch.net/en/press/releases/20261013-en"
+  ],
+  "title": "[미국] 마리코파 카운티, 750개 교차로 V2X 구축에 캅쉬 노변장치 공급",
+  "tokens": [
+   "acceleration",
+   "avondale",
+   "connected",
+   "kapsch",
+   "mcdot",
+   "metro",
+   "trafficcom",
+   "usdot",
+   "valley",
+   "vehicle"
+  ]
  }
 }

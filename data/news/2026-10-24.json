@@ -2707,10 +2707,11 @@
   "score_hits": [
    "traffic management"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "news",
   "first_seen": "2026-10-23",
-  "notes": null
+  "notes": null,
+  "posted_how": "media"
  },
  {
   "schema_version": 3,
