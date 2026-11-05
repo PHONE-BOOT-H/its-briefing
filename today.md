@@ -118,69 +118,69 @@
    - 분야: 기타 / 게재일: 2026-11-04 / 매체: ITS Korea
    - 원문: https://www.kfenews.co.kr/news/articleView.html?idxno=667522
 
-5. "기술 전시 넘어 사업화" … 롯데, 바이오 수주·자율주행·로봇 사업 확대
-   - 분야: 산업·투자 / 게재일: 2026-10-30 / 매체: 뉴데일리
-   - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE03V2hXQThUR2U0XzBHeDFGYlpPcVpKbmdJUDRybFdTN3ZNVHpZQnFMRzNXX29mVjZtd09HVzk5eHhpc3o0ZV91WDdsb0RESV9uOFpjN1FpTHRDanM1Wm03NHRPSmw0cUxSRXdSeWxyQ0diOFoya0o5RjBoY9IBgAFBVV95cUxPZnRqSDNNekNmMlItT3pFTEVla01qQlkzMXFnM3BTUEV4N0swRkhNc3NFaGNGTHNxY0s4anpzMklCVDVtRGEtNDQ3ZHFvTlp4d3pPSFVKYjFYbm9ZeFh6MVlvdHctU0R5RXBsUVBUOUlVRzQyZkwzVE1EV1NLWUZwZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-6. 이노시뮬레이션, 자율주행 검증 기술 농기계로…LS엠트론 트랙터 사업 수주
+5. 이노시뮬레이션, 자율주행 검증 기술 농기계로…LS엠트론 트랙터 사업 수주
    - 분야: 산업·투자 / 게재일: 2026-11-02 / 매체: 이데일리
    - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxOd2pIWjl0cjVCSjhDYnJSc1h2bFUwSUtseF8yZE5BdGRka25hN1d0QkYtcmhtTUpSUjZmbUJPc0RzZXZWMmFRemJYdVAxQjY0MkRmZVRIUHRrNlpVcXprbXZORThPdldHTzRVeDMyMU1uZENhM2x3UnFBdUItQUJMag?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. [지자체] 강릉시, AI로 주차 대기시간 예측…도심 교통혼잡 줄인다
+6. [지자체] 강릉시, AI로 주차 대기시간 예측…도심 교통혼잡 줄인다
    - 분야: 신호·관제 / 게재일: 2026-11-03 / 매체: ITS Korea
    - 원문: https://www.gwnews.org/news/articleView.html?idxno=272358
 
-8. [복지부/보도자료] 보행 불편한 장애아동·어르신 주차 편의 높인다, 「장애인 등 편의증진법 시행령」 개정안 국무회의 의결
+7. [복지부/보도자료] 보행 불편한 장애아동·어르신 주차 편의 높인다, 「장애인 등 편의증진법 시행령」 개정안 국무회의 의결
    - 분야: 정책·법제도 / 게재일: 2026-11-04 / 매체: ITS Korea
    - 원문: https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&act=view&list_no=1492420&tag=&nPage=1
 
-9. 사람 없이 공장 부품 나르는 자율주행차, 오토노머스에이투지 물류용 시제차 완성
+8. 사람 없이 공장 부품 나르는 자율주행차, 오토노머스에이투지 물류용 시제차 완성
    - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 플래텀(Platum)
    - 원문: https://news.google.com/rss/articles/CBMiSEFVX3lxTE5LSEJ1SW1YZDJ0U1UxMm1DTHdiNkYxcUUtNVVhUEJFWVVDWWdsUzd0bXJaekczUDlJMlVrSE8zZXNsUEtmOHVSYw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
+9. 에티포스가 개발한 ESAC 국내 최초 5G-V2X 통신 모뎀칩
    - 분야: C-ITS·V2X / 게재일: 2026-11-02 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMi5AVBVV95cUxQcGZ4aXV5YlBCNThRRTFrMnFaM2VWWFB1aWxwaVNjWk5KTms0SFJTcXpaNUVETGxtYTZKRWRBTzVLdXRaRDEyaHBMdUlTb1kxcVZ2a2dNa3pyWWduQjk2MlViWEhtb2dPSTJLRlQwV002WGwyYnBFcUxUM1JNSEh6WENxQ1U3X1l1aXB3UmpWMlJERTdDUktaOTR2RmUzRVFIT203MGt4akE4eVg1RzBWZUpLZVduREZKcGJXX1dCWG1TUExRVjQyYmxielVBeWdlLWJiMUtURzN6ZmsyR1JfS3Jrc08zMG5CcFcxVXJmNDRoXzVmRGtNUk5uQmZMLV9Tc3R0NFE2YTZlR0U1R3BkZlljNnlQMERrWTk5ZndzUjd1SWRDRVVNc2k1UUJ6VGFyRnJmeDFQS1BRZ1IybVFKM0ZxWHpCN3ROcl9mbEpnYUVOWTZMY19pb1RJTjN6NnlKU0NOODRWZllaR3psMFVEcktaa0t2VnBOOEFVd1FXbXBBZExocDNyVEF1UG5iZC1fb0ZnNTkzT3ZFaHFFX0hqSF9tUFN4QnZFWElWTVZjc3ZnTC1CYjF1WVZmWDdlTkl1Z0lwaHNFMXNnX0hCWlJscHpBS244cE5jMjkzQklGYVJYRmwwYU9CNmdkSlgyYnBGYkpnd1AyNDB3RmEyUHNiRkFrdzcwQnhqMjFqbkpEai11VThmcEFBTHNfMWYzOUMzZmZpOHVhczhHZkJDb1ZaNnl5bTFobGU2NDJQOU90b0ZhdTdtUGdqdHN2WWdHaExldnN6bWs5dVB6dk81bFFRUFVaaF9OdXhsZVJBVE50c1hMU2pLRzVQMVlrU05RWXNRQkt4WlhYWHh1SjRfMVV4dWpISmdFZDRfeGI2OXJaRV9VM2xsUFdCSHo4YmZCOGpqbjZSRTgzS1JWQWZrOGljZy1VRGd0UV9kbzVRWThLNUY2cUpPN2k0akR1QU0xTFpIQWJRdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. [회원사/동향] 부산 북구-(주)쏘카, 공유주차 실시간 플랫폼 구축 업무협약 체결
+10. [회원사/동향] 부산 북구-(주)쏘카, 공유주차 실시간 플랫폼 구축 업무협약 체결
    - 분야: 대중교통·물류 / 게재일: 2026-11-05 / 매체: ITS Korea
    - 원문: https://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20261104.99099001408
 
-12. [회원사/동향] 부천도시공사, 거주자우선주차장 이용 편의 개선
+11. [회원사/동향] 부천도시공사, 거주자우선주차장 이용 편의 개선
    - 분야: 대중교통·물류 / 게재일: 2026-11-04 / 매체: ITS Korea
    - 원문: https://www.kmaeil.com/news/articleView.html?idxno=657051
 
-13. 수원시, 실시간 교통신호 안내 시스템 70곳 추가 설치
+12. 수원시, 실시간 교통신호 안내 시스템 70곳 추가 설치
    - 분야: 신호·관제 / 게재일: 2026-10-29 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EWFQySE01MnU0NWtVcUZvcXp6YnRxdTRScGJhSU5HTTF2M001eVVOTkVjWDBwTEhIOVhpel9JM0czUWdlcjgzWVdHa3dQNnIxb3fSAVNBVV95cUxOLWR1X0tXaW5JMkxJS3NaTzlnbkVROXUyREVRYjJRR2c0QWdmQURuQ051QmM1d0g2NXIybG5uN0lJcDNGVDRKYmRRRER3M0FSTUVoRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. 내비게이션으로 신호등 잔여 시간 확인한다… 수원시, 실시간 교통신호 시스템 70개소 확대
+13. 내비게이션으로 신호등 잔여 시간 확인한다… 수원시, 실시간 교통신호 시스템 70개소 확대
    - 분야: 신호·관제 / 게재일: 2026-10-30 / 매체: 아시아투데이
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE5JM1pkQWhpdC1NZVVDY2FDanA3UnlJS0JaR2x0WVo2MWc1Z25WNVh6azVHR2VJM3haS2tTY1RnSFpUTFJ3ak9qWkZoU1ZYWGdoZlZUczVUamN6UmY2SkxuRUhPdTVvbEhVVVVGNmh3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 군포시, 차세대 교통신호시스템 설치 효과
+14. 군포시, 차세대 교통신호시스템 설치 효과
    - 분야: 신호·관제 / 게재일: 2026-11-02 / 매체: 군포시민신문
    - 원문: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWnA1WEtyWE5sMmI5ZUU0THU1Rk5LbnFHZjR3WWptbm9LM25rblRjcmNYeDh4NC1iUzhEZ09zQnhXRm9Hc1ZnME1yUUUwZ0JISGpJZVNGTTViWlQ5cXZpU19MbEplNkl5R1l1OG9OcjdUZWl3SnZmOXBYMUZ5YkRSMmhWTUNFS0g2eXJ1dzA2MENZV1RUU1Byb1NKOTE1OFJsajI3NXdsQ0RLUWlrMEV3V1pFeW9rb1JiSlJCcU5BTzVZQmlMN0VVbW9fZkdjdUt1d1hXVg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 고양특례시의회, '높아진 어르신 이동 편의... 건설교통위원회, 일산노인종합복지관 DRT버스 개통식 참석해'
+15. 고양특례시의회, '높아진 어르신 이동 편의... 건설교통위원회, 일산노인종합복지관 DRT버스 개통식 참석해'
    - 분야: 대중교통·물류 / 게재일: 2026-11-03 / 매체: Queen 이코노미퀸
    - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFBUU0U2MEYtY2ZKNTEybm9pczEyS29uT0w0dzBJZ1dXY2tJUW5oMDA5OHJqVnlYYml1N1lmeTFSb1QwX1hSM3FPbnlhNFozVm1DUVFSQ0lhdGNJcWVhMDlPVkhnNERRb2FUVUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. [회원사/동향] 한국교통안전공단 경기남부본부, AI 활용 버스 교통사고 예방 나선다
+16. [회원사/동향] 한국교통안전공단 경기남부본부, AI 활용 버스 교통사고 예방 나선다
    - 분야: 신호·관제 / 게재일: 2026-11-03 / 매체: ITS Korea
    - 원문: https://www.kyeonggi.com/article/20261102580515
 
-18. ‘자율주행 옵션 구매’ 테슬라 차주들, 환불 소송냈지만… 1심 패소
+17. ‘자율주행 옵션 구매’ 테슬라 차주들, 환불 소송냈지만… 1심 패소
    - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 대한경제
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE92SWxoeTctTGJFaEwzUTNrOVdIMkRESUVBRDZYOG5uQWM3anhXTHFXSlpVTUk2aUFhZzFPVmZpYUFscE5neFRVSVFBdG5XaTVzMmJXdHE4YkVRdkx0WmoyUzYyc1VseEp2UGpHOWlQZzM5ams?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. "테슬라 FSD, 완전자율주행 아냐" 소송했지만…눈물의 패소 [지금이뉴스]
+18. "테슬라 FSD, 완전자율주행 아냐" 소송했지만…눈물의 패소 [지금이뉴스]
    - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: YTN
    - 원문: https://news.google.com/rss/articles/CBMiXkFVX3lxTE9tdnZ4aW0tUVZDMXo1aHhFdTVmOTBuSzlseGxmLW4tcTlXM2lHemp0bm8yMzd5dmxhZ25QZWx2dU05TVVlTzFrckdXUXhyYWRaazlBckRlUXNOZnhhRUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. "완전자율주행? 돈 돌려 달라"…테슬라 차주들 '결국 완패'
-   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 한국경제
-   - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTmpibVRFaVhKV0FyMGFlcUxzbzllUjVjYWhKWHRZWVRNLS0wOEk4Wlh1Smwwd2NTT0t0UFQ5VG5EWnFyMl9zNzV2bnZxOWNlME04OXI2WkczQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+19. 테슬라 '완전자율주행' 환불 소송서 차주 89명 패소 … 법원 "계약 불이행 아냐"
+   - 분야: 자율주행 / 게재일: 2026-10-29 / 매체: 뉴데일리
+   - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE1Va0dIaWtiem9ZaHJBcjhkQUJNenN4NU5kanJ1TndKaFg2Vy1kdVVHWHFIeXg2bnR0UU9hclN4OTJodXJadW41TTlLZUZUNzRJbHZVcWlGaHYzNmtRNW9rZXEtelRnb3VFY1lTQ1FsSjJiRTlsLUFHc28zVdIBgAFBVV95cUxQeTdJMTBVcjFOTnB6TV8zMkZUMW55dXBobkt0V0lMdWRtbjNtanhpYlN2SEotVlM3VjEtSFhYcjhHZGNvRmxnTmNCTFBQWktrN3J0bW14M0Jnd1lScHdWZnQ4WHA5YmJDaEtBWXY4OWs4LU1oV1hpRGhvUEgwME5qRg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 코디악AI, DTL 트럭 75대에 무인 자율주행 적용…DaaS 계약 체결
+   - 분야: 산업·투자 / 게재일: 2026-10-30 / 매체: IT타임스
+   - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBENEoya0JaUzBSSXRRc1RsbTJvaTJBcFdld25feEJsQWNkcHN4U0FCeGY0bU95ZUdoZWd6eVJjZW9FR3Y1OFJzU3ZDcHg4VUM2YklDemo5X1ZiNzhOLUVGLTRhd0lLRmRy?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 

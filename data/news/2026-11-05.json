@@ -29,8 +29,8 @@
    "자율주행",
    "실증",
    "신호",
-   "통신",
    "교통",
+   "통신",
    "협회게시판"
   ],
   "already_posted": false,
@@ -182,8 +182,8 @@
    "자율주행",
    "실증",
    "신호",
-   "통신",
-   "교통"
+   "교통",
+   "통신"
   ],
   "already_posted": false,
   "collector": "news",
@@ -220,8 +220,8 @@
    "자율주행",
    "실증",
    "신호",
-   "통신",
-   "교통"
+   "교통",
+   "통신"
   ],
   "already_posted": false,
   "collector": "news",
@@ -258,8 +258,8 @@
    "자율주행",
    "실증",
    "신호",
-   "통신",
-   "교통"
+   "교통",
+   "통신"
   ],
   "already_posted": false,
   "collector": "news",
@@ -738,6 +738,42 @@
  },
  {
   "schema_version": 3,
+  "id": "news-70dc97113c28",
+  "kind": "news",
+  "board": "P",
+  "source": "Google News",
+  "type": "국내동향",
+  "country": null,
+  "country_ko": null,
+  "title": "일본 국토교통성, 스티어링 휠 없는 레벨 4·5 자율주행차 통일 인증 기준 12월 개정… 2030년 1만 대 보급 목표",
+  "media": "다나와 자동차",
+  "org": "다나와 자동차",
+  "media_host": "mauto.danawa.com",
+  "category": "자율주행",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-11-05",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1JdzczMG90ZV9aOGQ1b1UtSVcxUUNOUGcyQzNnWlJBZEhoSGZYaldPb3RpRE5OQ0lUSUJCTWR2RTFyaGd6ZkRNRUtOdHp3YTFBbHY4WnRMMU9lTVIyTmxxMmFySlIzSGRubzhF?oc=5",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 38,
+  "score_hits": [
+   "자율주행",
+   "개정",
+   "교통"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-11-05",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
   "id": "news-f8a02da73349",
   "kind": "news",
   "board": "B",
@@ -771,41 +807,6 @@
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-11-05",
-  "notes": null
- },
- {
-  "schema_version": 3,
-  "id": "news-99cab68f9428",
-  "kind": "news",
-  "board": "B",
-  "source": "Google News",
-  "type": "국내기사",
-  "country": null,
-  "country_ko": null,
-  "title": "\"기술 전시 넘어 사업화\" … 롯데, 바이오 수주·자율주행·로봇 사업 확대",
-  "media": "뉴데일리",
-  "org": "뉴데일리",
-  "media_host": "biz.newdaily.co.kr",
-  "category": "산업·투자",
-  "flag": null,
-  "pinned": null,
-  "published": "2026-10-30",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE03V2hXQThUR2U0XzBHeDFGYlpPcVpKbmdJUDRybFdTN3ZNVHpZQnFMRzNXX29mVjZtd09HVzk5eHhpc3o0ZV91WDdsb0RESV9uOFpjN1FpTHRDanM1Wm03NHRPSmw0cUxSRXdSeWxyQ0diOFoya0o5RjBoY9IBgAFBVV95cUxPZnRqSDNNekNmMlItT3pFTEVla01qQlkzMXFnM3BTUEV4N0swRkhNc3NFaGNGTHNxY0s4anpzMklCVDVtRGEtNDQ3ZHFvTlp4d3pPSFVKYjFYbm9ZeFh6MVlvdHctU0R5RXBsUVBUOUlVRzQyZkwzVE1EV1NLWUZwZw?oc=5",
-  "cpv": [],
-  "orig_link": null,
-  "orig_published": null,
-  "stale": null,
-  "score": 32,
-  "score_hits": [
-   "자율주행",
-   "수주"
-  ],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-10-30",
   "notes": null
  },
  {
@@ -1577,8 +1578,8 @@
   "score": 21,
   "score_hits": [
    "신호",
-   "통신",
-   "교통"
+   "교통",
+   "통신"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1613,8 +1614,8 @@
   "score": 21,
   "score_hits": [
    "신호",
-   "통신",
-   "교통"
+   "교통",
+   "통신"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1649,8 +1650,8 @@
   "score": 21,
   "score_hits": [
    "신호",
-   "통신",
-   "교통"
+   "교통",
+   "통신"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1685,8 +1686,8 @@
   "score": 21,
   "score_hits": [
    "개통",
-   "버스",
-   "교통"
+   "교통",
+   "버스"
   ],
   "already_posted": false,
   "collector": "news",
@@ -1720,8 +1721,8 @@
   "stale": null,
   "score": 21,
   "score_hits": [
-   "버스",
    "교통",
+   "버스",
    "협회게시판"
   ],
   "already_posted": false,
@@ -1799,17 +1800,17 @@
  },
  {
   "schema_version": 3,
-  "id": "news-d53eafba7255",
+  "id": "news-dbcdb0d80769",
   "kind": "news",
   "board": "B",
   "source": "Google News",
   "type": "국내기사",
   "country": null,
   "country_ko": null,
-  "title": "\"완전자율주행? 돈 돌려 달라\"…테슬라 차주들 '결국 완패'",
-  "media": "한국경제",
-  "org": "한국경제",
-  "media_host": "hankyung.com",
+  "title": "테슬라 '완전자율주행' 환불 소송서 차주 89명 패소 … 법원 \"계약 불이행 아냐\"",
+  "media": "뉴데일리",
+  "org": "뉴데일리",
+  "media_host": "newdaily.co.kr",
   "category": "자율주행",
   "flag": null,
   "pinned": null,
@@ -1817,7 +1818,7 @@
   "deadline": null,
   "budget": null,
   "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTmpibVRFaVhKV0FyMGFlcUxzbzllUjVjYWhKWHRZWVRNLS0wOEk4Wlh1Smwwd2NTT0t0UFQ5VG5EWnFyMl9zNzV2bnZxOWNlME04OXI2WkczQQ?oc=5",
+  "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Va0dIaWtiem9ZaHJBcjhkQUJNenN4NU5kanJ1TndKaFg2Vy1kdVVHWHFIeXg2bnR0UU9hclN4OTJodXJadW41TTlLZUZUNzRJbHZVcWlGaHYzNmtRNW9rZXEtelRnb3VFY1lTQ1FsSjJiRTlsLUFHc28zVdIBgAFBVV95cUxQeTdJMTBVcjFOTnB6TV8zMkZUMW55dXBobkt0V0lMdWRtbjNtanhpYlN2SEotVlM3VjEtSFhYcjhHZGNvRmxnTmNCTFBQWktrN3J0bW14M0Jnd1lScHdWZnQ4WHA5YmJDaEtBWXY4OWs4LU1oV1hpRGhvUEgwME5qRg?oc=5",
   "cpv": [],
   "orig_link": null,
   "orig_published": null,
@@ -1828,7 +1829,7 @@
   ],
   "already_posted": false,
   "collector": "news",
-  "first_seen": "2026-10-30",
+  "first_seen": "2026-11-05",
   "notes": null
  },
  {
@@ -1863,6 +1864,40 @@
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-11-02",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
+  "id": "news-03aeec9eb304",
+  "kind": "news",
+  "board": "B",
+  "source": "Google News",
+  "type": "국내기사",
+  "country": null,
+  "country_ko": null,
+  "title": "볼트, 루시드와 손잡고 유럽에 자율주행차 2만5천대 푼다",
+  "media": "데일리카",
+  "org": "데일리카",
+  "media_host": "dailycar.co.kr",
+  "category": "자율주행",
+  "flag": null,
+  "pinned": null,
+  "published": "2026-10-30",
+  "deadline": null,
+  "budget": null,
+  "ref_no": null,
+  "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNT2lCbTQ3bDExNm9CSVVBU0Q2VUhUZFNQV01wTnNkbDRienFYRXVuQndDRDBKZkxTa2RORlNRRFBYVWxmRklsaU5nMDNQOU9tLXlsSEtLWmhROHFTc1ZZZEdDQWpRM0VLcVBPblhTQzBxQkpfUFE?oc=5",
+  "cpv": [],
+  "orig_link": null,
+  "orig_published": null,
+  "stale": null,
+  "score": 20,
+  "score_hits": [
+   "자율주행"
+  ],
+  "already_posted": false,
+  "collector": "news",
+  "first_seen": "2026-10-30",
   "notes": null
  },
  {
@@ -1965,40 +2000,6 @@
   "already_posted": false,
   "collector": "news",
   "first_seen": "2026-11-05",
-  "notes": null
- },
- {
-  "schema_version": 3,
-  "id": "news-764fc4306064",
-  "kind": "news",
-  "board": "B",
-  "source": "Google News",
-  "type": "국내기사",
-  "country": null,
-  "country_ko": null,
-  "title": "\"테슬라 FSD는 '완전자율주행' 보증 아냐\"…차주 89명 환불 소송 1심 패소 의미는",
-  "media": "ESG경제",
-  "org": "ESG경제",
-  "media_host": "esgeconomy.com",
-  "category": "자율주행",
-  "flag": null,
-  "pinned": null,
-  "published": "2026-11-01",
-  "deadline": null,
-  "budget": null,
-  "ref_no": null,
-  "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjR1RrekJybFpiY2dPb3I0T2tpWjNSeXh0ck85WXJCS2dwWXVyNnBtMk5NY0xFcG5YdndWWkFGNlE1bWR4cGY5T1p5Q2tjdll3Y3d4WHhaR0tYTldEMEk5VjRxbTZpQmJncGlTVw?oc=5",
-  "cpv": [],
-  "orig_link": null,
-  "orig_published": null,
-  "stale": null,
-  "score": 20,
-  "score_hits": [
-   "자율주행"
-  ],
-  "already_posted": false,
-  "collector": "news",
-  "first_seen": "2026-11-03",
   "notes": null
  },
  {
@@ -4672,7 +4673,7 @@
   "ref_no": null,
   "link": "https://itskorea.kr/boardDetail.do?type=9&idx=24170",
   "cpv": [],
-  "orig_link": "https://investors.kodiak.ai/news-releases/news-release-details/kodiak-ai-delivers-western-star-49x-trucks-atlas-energy",
+  "orig_link": null,
   "orig_published": null,
   "stale": null,
   "score": 12,
