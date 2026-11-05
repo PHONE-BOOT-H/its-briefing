@@ -159,6 +159,7 @@
   </div>
 
   <div class="controls" id="controls">
+    <button class="chip" data-range="-2">지난 방문 이후</button>
     <button class="chip" data-range="-1">오늘</button>
     <button class="chip" data-range="3">3일 이내</button>
     <button class="chip" data-range="7" aria-pressed="true">1주 이내</button>
@@ -201,8 +202,9 @@
         <li><span class="k">맨 위 한 줄로 오늘 상황을 봅니다.</span>
           숫자를 누르면 그 목록으로 바로 갑니다.</li>
         <li><span class="k">탭을 돌며 새로 올라온 것을 훑습니다.</span>
-          기간은 등록 간격에 맞춥니다 — 목요일 등록이면 <span class="k">3일 이내</span>,
-          화요일 등록이면 <span class="k">1주 이내</span>. 안 보이면
+          기본은 <span class="k">지난 방문 이후</span> — 마지막으로 연 날 뒤에 올라온 것만 보입니다
+          (처음이면 1주). 등록 간격에 맞춰 <span class="k">3일 이내</span>·<span class="k">1주 이내</span>로
+          바꿔도 됩니다. 안 보이면
           <span class="k">신규만</span>을 끄거나 기간을 더 넓힙니다.</li>
         <li><span class="k">쓸 건은 카드를 열어 '등록문 복사'를 누릅니다.</span>
           게시판에 붙여넣고 빈 칸(국문 번역 등)만 채웁니다.</li>
@@ -329,6 +331,21 @@ let ITEMS = [], INDEX = null;
 const today = new Date().toLocaleDateString('sv-SE');
 const days = (a,b) => Math.round((new Date(b) - new Date(a)) / 86400000);
 
+// ── 지난 방문
+// 주 1~2회 몰아서 보는 사람은 '3일 이내'로는 그 사이 것을 놓친다(실측: 10월 등록이
+// 10/7·10/15·10/29 세 번이었다). 마지막으로 연 날을 기억해 두고 그 뒤 것만 보여준다.
+// 같은 날 두 번 열어도 기준일이 당일로 당겨지지 않게 '직전 다른 날'을 따로 둔다.
+let PREV_VISIT = null;
+try {
+  const last = localStorage.getItem('lastVisit');
+  if (last && last !== today) localStorage.setItem('prevVisit', last);
+  if (last !== today) localStorage.setItem('lastVisit', today);
+  PREV_VISIT = localStorage.getItem('prevVisit');
+} catch (e) { /* 저장소 막힌 브라우저 — 1주로 떨어진다 */ }
+const sinceVisit = () => PREV_VISIT || new Date(Date.now() - 7 * 86400000).toLocaleDateString('sv-SE');
+// 기본 로드는 최근 14일치뿐이다. 그보다 오래 안 들어왔으면 전체를 받아야 빠지는 게 없다.
+const needRest = () => S.range === 0 || (S.range === -2 && days(sinceVisit(), today) > 14);
+
 // ── URL 상태
 function readURL() {
   const p = new URLSearchParams(location.search);
@@ -338,7 +355,7 @@ function readURL() {
   if (S.tab === 'news' && p.get('board') === 'B') S.tab = 'domestic';
   if (!TAB_BOARD[S.tab] && S.tab !== 'tenders' && S.tab !== 'stats') S.tab = 'tenders';
   if (p.get('range') !== null) S.range = +p.get('range');
-  else if (S.tab !== 'tenders' && S.tab !== 'stats') S.range = 3;   // 기사·국내동향은 매일 쌓이므로 3일
+  else if (S.tab !== 'tenders' && S.tab !== 'stats') S.range = -2;  // 기사·국내동향은 '지난 방문 이후'
   // 통계는 주 단위로 보는 화면이라 기본 7일. 3일이면 표본이 너무 얇다.
   if (p.get('new') !== null) S.onlyNew = p.get('new') === '1';
   if (p.get('sort')) S.sort = p.get('sort');
@@ -529,7 +546,7 @@ function renderBrief() {
   [...el.querySelectorAll('a[data-go]')].forEach(a => a.onclick = () => {
     const o = JSON.parse(a.dataset.go);
     S.tab = o.tab; S.range = o.range; S.onlyNew = !!o.new; S.sort = o.sort || 'score'; S.q = '';
-    if (S.range === 0) loadRest();
+    if (needRest()) loadRest();
     document.getElementById('sort').value = S.sort;
     document.getElementById('q').value = '';
     document.getElementById('onlyNew').setAttribute('aria-pressed', S.onlyNew);
@@ -550,6 +567,7 @@ function visible(tab) {
   // range: -1=오늘만, 0=전체, N=최근 N일.
   // '오늘만'이 있어야 브리핑의 '오늘 신규 N건'을 눌렀을 때 목록 건수가 그 N과 같아진다.
   const from = S.range === -1 ? today
+    : S.range === -2 ? sinceVisit()
     : S.range ? new Date(Date.now() - S.range * 86400000).toLocaleDateString('sv-SE')
     : '0000-00-00';
   const q = S.q.trim().toLowerCase();
@@ -587,7 +605,7 @@ function visible(tab) {
     //  - 자를 때는 오늘 처음 발견한 것에 우선권 (점수순으로만 자르면 오늘 신규가 밀린다)
     // 상한 면제 — 사람이 이미 선별한 목록(수집기와 같은 규칙).
     // 협회 글 중 카테고리가 '기타'인 것은 대신 접기 영역으로 내린다.
-    const EXEMPT = ['국토교통부', '법제처', 'ITS Korea'];
+    const EXEMPT = ['국토교통부', '법제처', 'ITS Korea', 'ITS International', 'Traffic Technology Today'];
     const per = {}, allowed = new Set();
     for (const it of [...out].sort((a,b) =>
         (b.first_seen === today) - (a.first_seen === today))) {
@@ -678,6 +696,7 @@ function groupStories(items) {
 // 지우지 않는다 — 케냐 P161305처럼 제목만으로는 ITS인지 모를 건이 섞여 있다.
 // 기사는 접지 않는다. 12점대에도 진짜 ITS 기사가 있어서 점수로 접으면 정답을 숨긴다
 // (하루 5건 상한이 이미 그 역할을 한다).
+const CURATED = ['ITS Korea', 'ITS International', 'Traffic Technology Today'];  // collect.py CURATED와 같이 고칠 것
 function foldable(it) {
   // 기사는 점수로 접지 않는다. 접는 것은 표시가 붙은 것뿐이다.
   //  - 재가공 의심·기고문
@@ -688,8 +707,10 @@ function foldable(it) {
   //    배지만 달아두면 결국 사람이 매번 걸러야 해서, 아예 가라앉힌다.
   //  - 단 '기타'라도 사업 신호로 25점 이상 받은 건은 접지 않는다. 어제 고른
   //    김포 태리IC(예타 통과, 30점)가 기타라는 이유로 접혀 있었다(실측 4건).
+  //  - 전문지(ITS International·TTT)도 협회와 같은 규칙. 편집부가 고른 목록이라 상한은
+  //    면제하되, 우리 분류에 안 걸리는 '기타'는 접어 목록이 넘치지 않게 한다.
   if (it.kind !== 'tender') return !!it.flag || !!it.stale
-    || (it.source === 'ITS Korea' && it.category === '기타' && it.score < 25);
+    || (CURATED.includes(it.source) && it.category === '기타' && it.score < 25);
   if (it.deadline && days(today, it.deadline) < 0) return true;
   return (it.score || 0) < FOLD_SCORE;
 }
@@ -767,7 +788,7 @@ const thin = n => `<p class="thin">표본 ${n}건 — 통계로 보기엔 적습
 
 const SCOPE_TAB = { tenders: 'tenders', news: 'news', domestic: 'domestic', policy: 'policy' };
 const SCOPE_NAME = { all: '전체', tenders: '발주', news: '해외기사', domestic: '국내기사', policy: '국내 동향' };
-const RANGE_NAME = { 7: '이번 주', 3: '최근 3일', 14: '최근 2주', 0: '전체 기간' };
+const RANGE_NAME = { '-2': '지난 방문 이후', '-1': '오늘', 3: '3일 이내', 7: '1주 이내', 14: '2주 이내', 0: '전체 기간' };
 
 // 통계가 세는 배열 = 목록 탭이 그리는 배열. 같은 함수를 그대로 태운다.
 function scopeItems(scope) {
@@ -1114,7 +1135,7 @@ document.querySelectorAll('[role=tab]').forEach(b => b.onclick = () => {
   S.tab = b.dataset.tab;
   // 통계는 누적을 세는 화면이다. 최근 14일치만 받은 상태로 세면 '누적'이 거짓말이 된다.
   if (S.tab === 'stats') { loadRest().then(render); }
-  else S.range = S.tab === 'tenders' ? 7 : 3;
+  else S.range = S.tab === 'tenders' ? 7 : -2;
   document.querySelectorAll('[role=tab]').forEach(x =>
     x.setAttribute('aria-selected', x === b));
   syncTabUI(); writeURL(); render();
@@ -1127,7 +1148,7 @@ document.querySelectorAll('.chip[data-scope]').forEach(b => b.onclick = () => {
 });
 document.querySelectorAll('.chip[data-range]').forEach(b => b.onclick = () => {
   S.range = +b.dataset.range;
-  if (S.range === 0) loadRest();
+  if (needRest()) loadRest();
   document.querySelectorAll('.chip[data-range]').forEach(x =>
     x.setAttribute('aria-pressed', x === b));
   writeURL(); render();
