@@ -368,5 +368,15 @@
   "org": "Asian Development Bank Regional",
   "selection_method": "Simplified Consultants' Qualifications Selection (SCQS)",
   "source_scope": "International"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=E20A39F282451A29101B1F1AA972F933A869E91C558B6C1571A4C335ACDBFD75": {
+  "budget": {
+   "amount": 15000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Asian Development Bank Regional",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National"
  }
 }
