@@ -64,9 +64,9 @@
    - 분야: 단속·집행 / 게재일: 2026-11-06 / 매체: Traffic Technology Today
    - 원문: https://www.traffictechnologytoday.com/news/awards/anpr-camera-maker-mav-systems-wins-innovation-of-the-year-award.html
 
-13. Parsons JV wins contract for Riyadh Metro Red Line extension
-   - 분야: 산업·투자 / 게재일: 2026-11-03 / 매체: Middle East Construction News
-   - 원문: https://news.google.com/rss/articles/CBMingFBVV95cUxQXzcyZTdPak1nRC1sQUhZODRQYldwN2o5cHI5czRTTHIwY09mZ0drS0diSWdHZUt0MTM1eF9oeFY0U3gwa0hrU0huRzZLa1hGbS1sSHNoMmFzd1JkdVZ0aWhXb3pSQVE1Slc0YzdneTV6SXlCMlNfdDBiUEtUakhXVGxzb2tSNVRLdDZfamp1YkY1Nm04RDFDS1BaelhrQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+13. US-French Consortium Wins Contract to Advance $2.75bn Riyadh Metro Red Line Extension
+   - 분야: 산업·투자 / 게재일: 2026-11-03 / 매체: Construction Review
+   - 원문: https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzJqdkVRbXN3aDJfemRDWDRYZVR1Y2pSUDFTRnJsakI5bTdKWVRndDZpT2hUcjMxVVVMWUN2RUVuMnlzTmxEMmFlQ2xCLVJXT2FBeEY4QU16TDFpZEJGNjZIUWVMQTJfcExhUTNwbGw1TkV1VEs3aGZMNWRXcF9tbnNNYktxTjZSbEwxa3YwaC1SNmpGeFo2YnFibFRtSWVjYkROWU9RVE5EWW5ROG1BUUVQd2UtcDFtMlEybFpFTQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 14. Aurrigo wins up to £100,000 grant to pilot driverless shuttle at Portsmouth port
    - 분야: 자율주행 / 게재일: 2026-11-05 / 매체: Dealroom
@@ -148,7 +148,7 @@
 
 12. [농식품부/보도자료] 첨단 농기계 시대는 더 빠르게, 농작업 사고 위험은 더 낮게 ‘농업기계 검정기준’ 고시 개정
    - 분야: 정책·법제도 / 게재일: 2026-11-06 / 매체: ITS Korea
-   - 원문: https://www.mafra.go.kr/home/5109/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaG9tZSUyRjc5MiUyRjU4MjE1MSUyRmFydGNsVmlldy5kbyUzRnJnc0VuZGRlU3RyJTNEJTI2c3JjaENvbHVtbiUzRCUyNnBhc3N3b3JkJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZiYnNDbFNlcSUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhZ2UlM0QxJTI2cm93JTNEMTAlMjZiYnNPcGVuV3JkU2VxJTNEJTI2c3JjaFdyZCUzRCUyNg%3D%3D
+   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=24183
 
 13. 수원특례시, 실시간 교통신호 정보제공 시스템 70개소 추가 구축
    - 분야: 신호·관제 / 게재일: 2026-11-03 / 매체: 인천일보
@@ -162,25 +162,25 @@
    - 분야: 자율주행 / 게재일: 2026-10-31 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EMmVEeHN3WXdxejNYN2p1TlJpSFA1ZHAxUENBZ3gxM2FKQ2lhamFjUnpNZG1xUTR3ZWNoWEt2bm1RNmFPRGVBd1pTa0FDRkhLeVHSAVNBVV95cUxNSERlcEhDaGVZc2FyMnlPLUpEcHFMZVMyVV9ua0daczEwVGxmVzdwUkpjbGp5MWdHTno2MVhNZXliTzZWOFhELTdITGZHeTJVNk4zRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [IT타임스 주간브리핑] 코디악AI 무인 트럭 75대 계약…자율주행 기술 현장으로
+16. "테슬라 FSD는 '완전자율주행' 보증 아냐"…차주 89명 환불 소송 1심 패소 의미는
+   - 분야: 자율주행 / 게재일: 2026-11-01 / 매체: ESG경제
+   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBjR1RrekJybFpiY2dPb3I0T2tpWjNSeXh0ck85WXJCS2dwWXVyNnBtMk5NY0xFcG5YdndWWkFGNlE1bWR4cGY5T1p5Q2tjdll3Y3d4WHhaR0tYTldEMEk5VjRxbTZpQmJncGlTVw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. [IT타임스 주간브리핑] 코디악AI 무인 트럭 75대 계약…자율주행 기술 현장으로
    - 분야: 자율주행 / 게재일: 2026-11-01 / 매체: IT타임스
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTFBvY01zVHB0WGp5WXE5U042ZXpvU1pRdm95R0JhM2pwU3M0TXhQWFM5Tmh2ZlNxYU9GVXpYQThubzdWR0VpOWxHSVFBODRUdjB5NmNiTm5xa2lnSEkxLUg1NnJENmVzcGtR?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. "HL만도, 자율주행 투자로 수익성 둔화 이어질 것…투자의견·목표가↓"-삼성
+18. "HL만도, 자율주행 투자로 수익성 둔화 이어질 것…투자의견·목표가↓"-삼성
    - 분야: 자율주행 / 게재일: 2026-11-01 / 매체: 한국경제
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE81NnhfT0lfcm1MWmZhR2xNUUFrNWRiYkw5ZXR4T1UtZnVsN1FuSG1jS2dBdGFVVjU1YzJISmJOWjZsQ2ZoRmFqS3phTDVTMld1blBWd0tLMnZBUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 도요타는 자율주행 전기차 생산을 준비하고 있다.
+19. 도요타는 자율주행 전기차 생산을 준비하고 있다.
    - 분야: 자율주행 / 게재일: 2026-11-02 / 매체: Vietnam.vn
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE5sMTMxY2V4TWlxWnRNUUd6UFNUOHFtRkc5ZlJJekxkQUd0WlN5cHlKaWQ5UXRJWXhNUTVMaUZxUnhZLW11M2ZQenNCRDZMcFpacVZ0S3F6ellpQ2NVMXAxSlBJYlRzc1RDTy1VZGxFVW1COVU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. 자율주행 차량, 광주 도심 누빈다…단계적 무인화 추진
+20. 자율주행 차량, 광주 도심 누빈다…단계적 무인화 추진
    - 분야: 자율주행 / 게재일: 2026-11-04 / 매체: 진일보 | 전남일보
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTFBnbjdZeFZweXZWWWF5Njg1S2dfclVSRHhfQ1ZqTEZzdkMtRThmSTdxdFRHNi1ERTZKbXlDQjhUc3RwbWRDUGp5TFhLblo1a2FUX01uNjA2NmVNd2pxMWFlbjNDRkhmYlRjaDY2dGxWVQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. 에브리봇, 中 DDT와 ‘자율주행 4족 보행 로봇’ 공동개발 및 상용화 계약 체결
-   - 분야: 산업·투자 / 게재일: 2026-11-05 / 매체: 매일경제 마켓
-   - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Y0k4TnRmOEg0ZmtOcDdaeU00c3NJVXliV3ZrZWp2QXBWbTlfNlhRcGpaRnM1S0hzbUZ2c1M1bFZ0M1VSR3YwbGtsTndhOXZNMFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -242,6 +242,6 @@
   - 마감 2026-11-17 / 발주처 ADIF S.A.
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00470425
 
-- [이탈리아] Italy – Passenger information system – Procedura aperta monolotto per l’affidamento dell’Accordo Quadro relativo alla fornitura e installazione Hardware e Software di Portali a tecnologia LED presso l’Aeroporto di Milano Malpensa Terminal 1, nonché relative attività di assistenza e manutenzione
-  - 마감 2026-11-19 / 발주처 Società per Azioni Esercizi Aeroportuali S.E.A.
-  - 원문: https://ted.europa.eu/en/notice/-/detail/753695-2026
+- [슬로바키아] Slovakia – Information panels – Dodanie elektronických informačných tabúľ s príslušenstvom a poskytnutie súvisiacich služieb
+  - 마감 2026-11-19 / 발주처 Bratislavský samosprávny kraj
+  - 원문: https://ted.europa.eu/en/notice/-/detail/770585-2026
