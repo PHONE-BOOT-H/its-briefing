@@ -755,6 +755,13 @@
   "impagency": "Ministry of Communications, Infrastructure and Housing",
   "total": 150000000.0
  },
+ "P178644": {
+  "borrower": "Republic of Cabo Verde",
+  "closing": "2028-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Finance,Ministry of Infrastructures, Territorial Planning, and Housing (MIOTH),Special Projects management Unit (Unidade de Gestão de Projetos Especiais, UGPE) ",
+  "total": 35000000.0
+ },
  "P178701": {
   "borrower": "Republic of Madagascar",
   "closing": "2028-03-31",
@@ -1239,6 +1246,13 @@
   "total": null
  },
  "P519325": {
+  "borrower": null,
+  "closing": null,
+  "funder": null,
+  "impagency": null,
+  "total": null
+ },
+ "P519431": {
   "borrower": null,
   "closing": null,
   "funder": null,
