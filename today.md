@@ -60,41 +60,41 @@
    - 분야: 단속·집행 / 게재일: 2026-11-05 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/news/enforcement/ghana-launches-new-national-road-safety-enforcement-programme-with-sensys-gasto.html
 
-12. US-French Consortium Wins Contract to Advance $2.75bn Riyadh Metro Red Line Extension
+12. ANPR camera maker MAV Systems wins Innovation of the Year award
+   - 분야: 단속·집행 / 게재일: 2026-11-06 / 매체: Traffic Technology Today
+   - 원문: https://www.traffictechnologytoday.com/news/awards/anpr-camera-maker-mav-systems-wins-innovation-of-the-year-award.html
+
+13. US-French Consortium Wins Contract to Advance $2.75bn Riyadh Metro Red Line Extension
    - 분야: 산업·투자 / 게재일: 2026-11-03 / 매체: Construction Review
    - 원문: https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzJqdkVRbXN3aDJfemRDWDRYZVR1Y2pSUDFTRnJsakI5bTdKWVRndDZpT2hUcjMxVVVMWUN2RUVuMnlzTmxEMmFlQ2xCLVJXT2FBeEY4QU16TDFpZEJGNjZIUWVMQTJfcExhUTNwbGw1TkV1VEs3aGZMNWRXcF9tbnNNYktxTjZSbEwxa3YwaC1SNmpGeFo2YnFibFRtSWVjYkROWU9RVE5EWW5ROG1BUUVQd2UtcDFtMlEybFpFTQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. Aurrigo wins up to £100,000 grant to pilot driverless shuttle at Portsmouth port
+14. Aurrigo wins up to £100,000 grant to pilot driverless shuttle at Portsmouth port
    - 분야: 자율주행 / 게재일: 2026-11-05 / 매체: Dealroom
    - 원문: https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFA5bUE5V1pwX2c0a2RkVEktbHRCMTBBNzVjTERvT1ZyVEVJZWZraUctcWp1Mld0WGd3N29PN3ctSlRRUFB0SGhsZWVzbk16R2pqZ1VObnRYa3lEcGRPZUc2aFlnZFVaU01BWHJmekxyRUE0X1RaaXZzWTRkaW9Ga2hnWTdEQmhXTFU5Zms1X1RHRHNKVXlqaE9neEY1UjhBRGV3UXkwMHpxNHUzdmlvZFlORQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. Ashish Gajurel calls for smart traffic management system to reduce reliance on traffic police at intersections
+15. Ashish Gajurel calls for smart traffic management system to reduce reliance on traffic police at intersections
    - 분야: 신호·관제 / 게재일: 2026-11-01 / 매체: OnlineKhabar English News
    - 원문: https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTVtMnJVNzlsSkJWMHRvQm1sY19teFI1UThVUGxtVE1UbmRWbFVrOTZramV1ZnZZd2dIbzhfYjNOS1F1dGluN204TUR4OVFacGtUX1RPUThZbU5FYnNCR1FjUFFxNVRHVVJkYmxqSUFwMUlzUWFWMXM4dDEzc29jVUxLUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. San Fernando City, Pampanga implements new traffic management system through DOST smart technology
+16. San Fernando City, Pampanga implements new traffic management system through DOST smart technology
    - 분야: 신호·관제 / 게재일: 2026-11-02 / 매체: The Manila Times
    - 원문: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPVkxFaFI4M0tZaUVreUFFMDJLbzF3WVcyYUYyVEFoUGJaRVBFZ3pPZXVxV0xHSEJCYmw4Qk5uZzhJRmc4VjAwY0xaQXlaZmdHTm43c0h6TG9Rc1owWkxXcFk3ZE9rYWdmak1rVHJGRFZYQjMwLWdPZi1zaXZWUm5mVnh5NDRlbkFVSVpSREpudjZmRVdUUlh2VXlBWTFyX1pFSE9Uemk2U0xEcjJSOElrUG1PaHZZTFJlSUkzYzM1ZDVya0o0LW1XWEdNa2tPTHY0NnhnTE40VHI5SnlvdDMwMC1CaS1IT1d0OS1FUUF30gHzAUFVX3lxTE1mZ04xNUY4bFZBc3VrNEs0OU1RUmZaaU1SREJ1UnBfdWlmeHoyOG9RX3g2NGxjVWhCOFJNRkhjMUlsQ1BiOV9neGphakthaUY5ZzJ5ZGdlSlJna1BNdndTdk1vMW5Yc1BzZFNlQURDeU5JcWdMaWttWXhhOUpCMmFGeGlxYzdSdDRDNEoyZ3pNVm80aldJRHZlSHh1QjJxQmNvRnZHMTNHUkc0R2FyVGpVSkJ5TzUtUGh0RTFJSWZiaS1BYjRoVG1SMUZiODNvQ0VHbERQNlZHVGxuYVkwY2MzR1ZKMks2RkVGVXE4TjV3RVRjdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. COMMENT: Why Harare motorists should embrace the Smart Traffic Management System
+17. COMMENT: Why Harare motorists should embrace the Smart Traffic Management System
    - 분야: 신호·관제 / 게재일: 2026-11-02 / 매체: Herald.co.zw
    - 원문: https://news.google.com/rss/articles/CBMisAFBVV95cUxON3hEbzBUVkYyaGdIWE9obEVxSzVFYWx6amdGbHVUWEV5X1JGVDUyVzR6bjhhdWZONDFrQnZJMlA3OEtKOTJ4bkx4RnRQMkpwUTBXUWhhMkhPM2FnWnFNSlJtUnNDN25HWkdzaEtUM25DNzBuTXBEN19JdHYyNUJwdkozNFQySmJadHFWa0xKbncwZVpwVGJZUlVHcTVKOGNrSzZVUHR6bzE5TFpiZ0VERQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. NRSA directs road agencies to fix faulty traffic lights, missing signs as TraffiTech enforcement begins
+18. NRSA directs road agencies to fix faulty traffic lights, missing signs as TraffiTech enforcement begins
    - 분야: 단속·집행 / 게재일: 2026-11-04 / 매체: MyJoyOnline
    - 원문: https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWkzVThoaU05c01hMWRYVDhIS0tQRmtPQXItanhvRktjQUNzTEkzNi1oOXRmLWxvQUViZ0NtS2Y3ZjZRd0xBQ1RZbUtPNGdXa1lnZGJnbzVsM21xY3FHb2VDRVA3TmY2TlRqLXRUSlN1RnFSOFJWQ19nOFJhblQyUWJLNWVidjl4RHp6eUVrVzEtOFVmaW1FYlNrZkRJVlZXLUZKZUhSZ1pfUWZzZ1hJRVVtSWh2VTF0OE1jTDA3X0hiSWRSVFJ5ZWx5bw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. EIM inks pact with Sorigin Green Mobility to deploy 500 electric heavy commercial vehicles in 2 years
+19. EIM inks pact with Sorigin Green Mobility to deploy 500 electric heavy commercial vehicles in 2 years
    - 분야: 기타 / 게재일: 2026-11-04 / 매체: ET Auto
    - 원문: https://news.google.com/rss/articles/CBMijgJBVV95cUxNZjBRUzFIQng2R21ra2JFTzZwNC11dXQxNnNmeFJCQ0VmOGVWcUxzbzR1d0pnTDNISDRURUFJUFZsMzNWcGxwWUttZVdVZHV6MTdBVmZXTjZNQ3RwWHVaNXlwaDJOOUhHWHlfZE9DcGxwVTBCcHE5bVp4RVF1QmxsYUFVb01jRF9sYUs3UW16TTNOQ3BNM0RMMVRWdmdfM29fSjRfMnFrT1pyM2c4ckd0bXFJMm0zNEhqTVRUdnhLT01SMERsOW1RdkVEOUdXdEdnbWp2dWxXRXpOR1o3ZHF4QkMzQ1EySWFlMW9nZDFGWnc2MDA2QWY5MlA1S3pWT1M0azhTRzhvSGVoYklnUXfSAY4CQVVfeXFMTWYwUVMxSEJ4Nkdta2tiRU82cDQtdXV0MTZzZnhSQkNFZjhlVnFMc280dXdKZ0wzSEg0VEVBSVBWbDMzVnBscFlLbWVXVWR1ejE3QVZmV042TUN0cFh1WjV5cGgyTjlIR1h5X2RPQ3BscFUwQnBxOW1aeEVRdUJsbGFBVW9NY0RfbGFLN1Ftek0zTkNwTTNETDFUVnZnXzNvX0o0XzJxa09acjNnOHJHdG1xSTJtMzRIak1UVHZ4S09NUjBEbDltUXZFRDlHV3RHZ21qdnVsV0V6TkdaN2RxeEJDM0NRMklhZTFvZ2QxRlp3NjAwNkFmOTJQNUt6Vk9TNGs4U0c4b0hlaGJJZ1F3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. Graham Construction Awarded Contract for 78 Avenue LRT Bridge Project | Green Line LRT
+20. Graham Construction Awarded Contract for 78 Avenue LRT Bridge Project | Green Line LRT
    - 분야: 산업·투자 / 게재일: 2026-11-04 / 매체: The City of Calgary
    - 원문: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZmJ5WU9pSWRJRXBITFQyTjVxUUdZWTJEdHlRLTBnQmV5V0hkRXRkc09ON25QdTV1b1N0TTNUVlZIUWtiUmhHb2s1eVlUdllFbkJwZDRFTm9QZFFqR1hNOHJxZXM1eGpzdHdVXzVfVzljOVd1dkMwanZ5ZWc0NFJydE9fWkhyVGhuNTl1LVNKOGx1TWIyeVJKWFQ5Q1BQdHVnMnhzTjdmN0l2Y0NSNm9DZjJNR3l5Y2VHVnljSl9Wb2N4Ql81aWplLUFnMzJZQXlYSjI2dzln?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. [미국] Ensight parking technology for Texas
-   - 분야: 대중교통·물류 / 게재일: 2026-11-03 / 매체: ITS Korea
-   - 원문: https://www.itsinternational.com/ensight-parking-technology-for-texas/
 
 ---
 
