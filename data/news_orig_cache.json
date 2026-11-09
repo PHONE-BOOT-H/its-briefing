@@ -3509,7 +3509,7 @@
   "body": "국내 최대 농기자재 전시회인 ‘2026 대한민국 국제농기계자재박람회(KIEMSTA·키엠스타)’가 4일 대구 북구 엑스코(EXCO)에서 화려한 막을 올렸다. 올해로 17회째인 행사엔 인공지능(AI)과 자율주행을 앞세운 첨단 농기계와 농업용 로봇 등 최신 농자재·기술이 대거 선보였다. 1992년 시작해 2년마다 열리는 키엠스타는 농림축산식품부가 주최하고 농민신문사·한국농기계공업협동조합·대구시가 공동 주관한다. 국내 최대 농기자재 전시회인 ‘2026 대한민국 국제농기계자재박람회(KIEMSTA·키엠스타)’가 4일 대구 북구 엑스코(EXCO)에서 화려한 막을 올렸다. 올해로 17회째인 행사엔 인공지능(AI)과 자율주행을 앞세운 첨단 농기계와 농업용 로봇 등 최신 농자재·기술이 대거 선보였다. 1992년 시작해 2년마다 열리는 키엠스타는 농림축산식품부가 주최하고 농민신문사·한국농기계공업협동조합·대구시가 공동 주관한다. Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://www.nongmin.com/article/20261104500680",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24180": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -3521,19 +3521,19 @@
   "body": "- 광역교통개선대책 추진상황 점검… 주요 현안 해결방안 논의 및 사업 신속추진 당부 □ 국토교통부(장관 홍지선) 대도시권광역교통위원회(이하 대광위) 김용석 위원장은 11월 5일 오후 하남교산 공공주택지구 현장을 찾아 하남시, 강동구, 남양주시, 한국토지주택공사(LH) 등 관계기관과 함께 광역교통개선대책 주요 사업의 추진상황을 점검하고, 교통시설의 적기 구축을 위한 주요 현안을 논의하였다. ㅇ 이번 점검은 10월 29일 남양주왕숙지구 현장점검에 이어, 3기 신도시 광역교통개선대책의 추진상황을 순차적으로 확인하기 위한 것으로, 주요 사업의 지연 우려 요인을 사전에 파악하고 관계기관과 구체적인 해결방안을 모색하기 위해 마련되었다. □ 하남교산지구는 하남시 천현동, 교산동 일대 약 685만m2 면적(여의도 2.4배)에 총 3.6만호의 주택이 공급되는 3기 신도시로 2029년 6월에 첫 입주가 예정되어 있어 입주에 따른 광역교통 수요 증가에 대비한 교통시설 확충이 중요한 지역이다. ㅇ 정부는 서울 송파와 하남을 연결하는 도시철도 3호선 연장(송파하남선)을 비롯해 서울 방향 연결도로인 서하남로 확장, 동남로 연결도로 신설 등의 광역교통개선대책을 추진하고 있다. ㅇ 특히, 핵심 교통대책인 송파하남선은 2032년 이후 개통이 예상되어 2029년 첫 입주시기와 차이가 있는 만큼, 철도 개통 전 입주 초기 교통불편을 최소화하기 위한 보완대책도 중요하다. 정부는 광역교통개선대책에 반영된 대중교통 운영지원비를 적기에 활용하여 주요 지하철역과 연계하는 대중교통을 운영하는 등 초기 입주민의 교통수요에 적극 대응할 계획이다. □ 이날 점검회의에서는 주요 광역교통개선대책 사업별 추진상황을 점검하고, 관계기관 간 이견이나 인허가 등으로 사업 추진에 어려움이 있는 현안에 대해 구체적인 해결방안과 후속 추진방향을 논의",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092564",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24182": {
   "body": "오송역에서 국회세종의사당까지, 버스 한 번에… 간선급행버스(BRT)로 달린다! - 오송역~국회세종의사당~세종고속시외버스터미널 연결 간선급행버스 노선 신설 추진 - 간선급행버스 전용차로 및 정류장 설치 등 기반 시설 구축, 2030년 운행 목표 앞으로 고속철도(KTX) 오송역에서 국회세종의사당까지 간선급행버스(BRT)로 바로 갈 수 있게 된다. 행정중심복합도시건설청(이하 행복청, 청장 강주엽)은 국회세종의사당 입주에 따라 늘어날 교통 수요에 대비해 오송역~국회세종의사당~세종고속시외버스터미널을 잇는 간선급행버스 노선 신설을 추진한다. 새 노선의 길이는 224km이다. 노선이 생기면 오송역과 간선급행버스 간 연계성이 강화돼 수도권과 전국 각지에서 국회를 찾는 이용객의 대중교통 편의성이 높아진다. 국회세종의사당 개원에 따른 교통 혼잡을 줄이는 데에도 도움이 될 것으로 기대된다. 이 노선은 관계기관과 충청권 지방정부가 참여하는 행복도시 광역계획권 교통협의회*를 거쳐 마련됐으며, 올해 7월 「제2차 간선급행버스체계(BRT) 종합계획(2026~2030)」에 최종 반영·고시됐다. * (위원장) 행복청 차장 / (구성) 행복청, 국무조정실, 세종특별자치시지원단, 대도시권광역교통위원회, 충청광역연합, 7개 광역·기초 지방정부(대전광역시, 세종특별자치시, 충청북도, 충청남도, 청주시, 천안시, 공주시) 참여 행복청은 앞으로 관계기관(세종시·한국토지주택공사(LH) 등)과 긴밀히 협력해 2030년 운행 목표에 맞춰 간선급행버스 전용차로와 정류장 등 필요한 기반 시설을 차질 없이 구축해 나갈 계획이다. 강병구 행복청 교통계획과장은 “국회세종의사당 간선급행버스는 전국 각지에서 국회를 방문하는 국민의 이동 편의를 높이는 중요한 교통수단이 될 것이다.”라며 “2030년 운행에 차질이 없도록 관계기관과 적극 협력해 ",
   "date": null,
   "link": "https://naacc.go.kr/WEB/contents/N3050100000.do?schM=view&page=1&viewCount=10&id=79923&schBdcode=&schGroupCode=",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24183": {
   "body": "농림축산식품부(장관 송미령, 이하 ‘농식품부’)는 농업기계의 안전성을 높이고 농작업 사고를 예방하기 위해 ‘농업기계 검정기준’ 고시를 개정하여 11월 6일부터 시행한다고 밝혔다. 이번 개정은 지난 6월 농식품부에서 발표한 ‘농림분야 안전관리 종합대책’의 5대 전략을 반영하여 자율주행 기술의 발전과 새로운 동력원을 반영하고, 농작업과 도로 주행 중 발생할 수 있는 사고 위험을 줄이는 데 중점을 뒀다. 자율주행 농업기계는 운전자 탑승 없이 현장·원격 감독하에서도 주행이 가능하도록 검정기준을 마련하였다. 자율주행 농기계가 장애물·작업 경로 이탈·고장 등 위험 상황 발생 시 스스로 인식하고 정지하여 안전성을 확보하도록 하였다. 또한, 작동가능 여부 등 장치의 현재 상태를 표시해 사용자가 이상상태를 쉽게 파악하고, 자율주행 모드 작동에 활용하는 휴대용 제어장치에 대한 안전기준도 마련해 사고 위험을 줄인다. 기존 기준은 자동조향 등 제한적인 자율주행 기능을 중심으로 마련되어 있어, 발전하는 기술 수준에 대응하기 어렵다는 한계가 있었다. 이번 개정은 자율주행 농기계 국제표준(ISO 18497)에 맞춰 안전기준을 마련하여 농기계 업체들의 기술개발과 농업 현장으로의 보급을 촉진할 것으로 기대된다. 먼저, 전기·수소 농업기계의 감전·화재사고 예방을 위한 안전기준을 신설하였다. 고전압 전기장치에 신체가 직접 닿지 않도록 하고, 충전 중 누전이나 기계 작동을 방지하도록 하였다. 리튬이온 배터리에는 급격한 온도 변화와 과충전·과방전 등에 대한 안전시험 기준을 적용한다. 수소를 연료로 사용하는 농업기계에는 수소 누출 경고와 연료 공급 차단 등 안전요건을 마련하였다. 후진이 가능한 보행형 농업기계는 위급한 상황에서 작업자의 신체가 안전장치에 닿으면 동력이 차단되도록 하였다. 작업자가 직접 정지 스위치를 누르기 ",
   "date": null,
   "link": "https://www.mafra.go.kr/home/5109/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGaG9tZSUyRjc5MiUyRjU4MjE1MSUyRmFydGNsVmlldy5kbyUzRnJnc0VuZGRlU3RyJTNEJTI2c3JjaENvbHVtbiUzRCUyNnBhc3N3b3JkJTNEJTI2cmdzQmduZGVTdHIlM0QlMjZiYnNDbFNlcSUzRCUyNmlzVmlld01pbmUlM0RmYWxzZSUyNnBhZ2UlM0QxJTI2cm93JTNEMTAlMjZiYnNPcGVuV3JkU2VxJTNEJTI2c3JjaFdyZCUzRCUyNg%3D%3D",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24189": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -3557,18 +3557,102 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://hyundaenews.com/107859",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24193": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://hyundaenews.com/107875",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24194": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-11-05",
   "link": "https://www.yna.co.kr/amp/view/AKR20261105132900062",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24199": {
+  "body": "- 11월 13일, 제5차 철도망 계획 의견수렴 행사 개최… 온라인 생중계·사전 설문 병행 □국토교통부(장관 홍지선)는 11월 13일(금) 오전 9시 30분 전문건설회관 대회의실(서울)에서 ｢새로운 대한민국의 내일을 잇는 철도 대전환｣을 주제로 ｢제5차 국가철도망 구축계획(2026~2035)(이하 ‘제5차 철도망 계획’)｣ 의견수렴 행사를 개최한다. ㅇ 국토교통부가 주최하고 한국교통연구원이 주관하는 이번 행사는 제5차 철도망 계획 수립·고시에 앞서 국민·지방정부·전문가 등 다양한 의견을 폭넓게 듣기 위해 마련됐다. □ 국토교통부는 그간 지방정부 등이 제5차 철도망 계획에 건의한 사업을 대상으로 국가 철도망에서의 기능과 역할, 장래 교통수요, 지역발전과 연계한 구축 필요성 및 사업 타당성 등을 검토해 왔다. ㅇ 철도망 구축에는 대규모 재원과 오랜 건설기간이 필요한 만큼, 이번 행사에서는 3대 메가프로젝트 등 주요 국가산업과 연계, 주택공급에 맞춘 철도망 확충, 시급한 병목구간 개선 등의 중점 과제와 철도투자 필요성 등의 의견을 수렴하여 계획의 완성도를 높일 예정이다. □ 이번 행사는 한국교통연구원의 발제, 지방정부 의견발표, 전문가 토론 및 국민 의견수렴 순으로 진행된다. ㅇ 먼저 한국교통연구원은 미래 30년 철도 중심의 교통체계 전환을 위한 제5차 철도망 계획의 비전과 목표를 소개하고, 인구·산업구조 변화에 대응하고 대한민국 대전환과 미래교통 혁신을 뒷받침할 철도의 역할과 중장기 투자 필요성을 발표한다. ㅇ 이어 지방정부는 영상 등을 통해 철도망 확충을 바라는 주민의 목소리를 생생하게 전달하고, 지역별 핵심사업과 기대효과를 설명한다. ㅇ 전문가 토론에서는 교통·국토 분야 전문가와 시민단체 등이 미래 철도의 역할, 철도투자의 필요성과 적정 규모, 지역균형발전 효과, 예비타당성조사를 비롯",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092569",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24200": {
+  "body": "- 행안부, 11.9.~13. 베트남·말레이시아 등 재난관리 실무급 공무원 9명 초청연수 행정안전부는 11월 9일(월)부터 13일(금)까지 인천 송도와 서울·경기 일대에서 베트남, 말레이시아, 동티모르, 캄보디아 등 아세안 4개국과 아세안 재난관리 인도지원조정센터(AHA센터)의 재난관리 실무급 공무원 9명을 대상으로 ‘2026년 아세안 재난관리 공무원 초청연수’를 실시한다. 2023년부터 시작해 올해로 4회째를 맞는 이번 연수는 한국의 재난관리 정책과 경험을 아세안 국가들과 공유하고, 재난관리 분야의 실질적인 협력 기반을 강화하기 위해 마련되었다. 특히 올해는 ‘재난관리를 위한 과학·기술·혁신’을 중심으로 참가국의 정책 수요에 맞춰 강의와 현장학습을 연계하고, 국가별 재난관리 현황을 공유해 각국의 재난관리 개선 방안을 논의하는 프로그램으로 구성된다. 참가자들은 한국의 재난관리 정책과 제도를 비롯해 ▲재난관리 정보통신기술(ICT) 시스템, ▲조기경보체계, ▲인공지능(AI)과 국외 데이터 활용 방안 등을 배우고, 첨단기술을 재난 예방과 대응에 접목하는 방안을 살펴본다. 이와 함께 재난관리 정책이 실제 현장에서 어떻게 운영되는지 확인할 수 있도록 다양한 현장학습도 진행한다. 우선, 인천광역시 재난안전상황실을 방문하여 지방정부의 재난 상황관리 및 대응 체계를 확인하고, 재난안전 기술 업체 견학을 통해 최신 기술 동향과 현장 적용 사례를 둘러본다. 또한 경기도 김포시 공무원과 자율방재단 면담을 통해 지역사회 중심의 재난 대응 활동과 민관 협력 경험 등을 논의할 예정이다. 참가자들은 자국의 재난관리 현황과 주요 정책과제를 발표하고, 한국의 재난관리 전문가들과 토의 및 질의응답을 통해 개선 방안을 모색한다. 연수 마지막 날에는 한국의 우수 제도를 자국 정책에 적용하기 위한 계획을 발표해, 연수 성",
+  "date": null,
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=130821",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24201": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.g1tv.co.kr/news/?mid=1_207_5&newsid=350728&newscode=011000",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24202": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-06",
+  "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1336151",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24203": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.pmnews.co.kr/124735",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24204": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-06",
+  "link": "https://weekly.hankooki.com/news/articleViewAmp.html?idxno=7192587",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24205": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-06",
+  "link": "https://www.etnews.com/20261106000241",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24207": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-06",
+  "link": "https://www.nspna.com/country/?mode=view&newsid=835074",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24208": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-06",
+  "link": "https://www.dailysecu.com/news/articleView.html?idxno=209346",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24209": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-09",
+  "link": "https://www.edaily.co.kr/News/Read?newsId=02095926645644080&mediaCodeNo=257",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24210": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-09",
+  "link": "https://www.m-i.kr/news/articleView.html?idxno=2015850",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24212": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-08",
+  "link": "https://www.localnewsroom.co.kr/news/articleView.html?idxno=9199",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24214": {
+  "body": "과기정통부, 에이전틱 AI 이용 환경에서 제로트러스트를 적용할 수 있는 안내서 발간 【관련 국정과제】 23-4. AI시대를 지탱하는 견고한 디지털 보안·안전 체계 구축 과학기술정보통신부(부총리 겸 과학기술정보통신부 장관 배경훈, 이하 ‘과기정통부’)와 한국인터넷진흥원(이하 ‘KISA’)은 산·학·연 전문가들과 함께 국내·외 주요 AI 보안·제로트러스트 가이드를 분석하고 수요·공급기관 대상 의견수렴을 거쳐 국내 기업들이 에이전틱 AI를 도입하고 운영하는 환경에서 제로트러스트를 적용할 수 있는 ｢에이전틱 AI 제로트러스트 안내서｣(이하 ‘안내서’)를 마련하였다고 밝혔다. 최근 클라우드 이용 확대, AI 기반 업무 자동화 등 기업의 업무환경이 빠르게 변화하고 있다. 특히 AI가 단순한 정보 분석·생성을 넘어 스스로 판단하고 도구를 활용해 업무를 수행하는 에이전틱 AI(Agentic AI)로 발전하면서, 기존의 사용자·단말·서버뿐 아니라 AI 에이전트가 접근하는 외부 서비스와의 상호작용, 물리적 장치에 대한 명령 등으로 통제 대상이 확대되고 있다. 이에 따라 정부는 기존 보안체계로는 대응하기 어려운 에이전틱 AI의 자율성과 높은 권한에서 비롯되는 보안위협을 최소화하고, 에이전틱 AI가 수반하는 고유 위협(프롬프트 오염, 위임된 권한을 넘어선 자율 행동 등)에 대해 제로트러스트* 적용을 통해 예방·대응 할 수 있는 보안조치를 반영한 안내서를 마련했다. * 정보시스템 등에 대한 접속 요구가 있을 때 네트워크가 이미 침해된 것으로 간주하여 “절대 믿지 말고, 계속 검증하라(Never Trust, Always Verify)”는 보안 개념 이번 안내서는 기업의 제로트러스트 적용 절차 및 도입 방향을 제시한「제로트러스트 가이드라인 2.0('24. 12.)」을 토대로 기존 가이드라인에서 정의한 ‘성숙도 ",
+  "date": null,
+  "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=&bbsSeqNo=94&nttSeqNo=3187929&searchOpt=ALL&searchTxt=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24217": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-08",
+  "link": "https://www.efnews.co.kr/news/articleView.html?idxno=133822",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -5597,7 +5681,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.drive.com.au/news/toyota-to-start-building-self-driving-cars-from-next-year/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24196": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -5607,8 +5691,68 @@
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24197": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
-  "date": null,
+  "date": "2026-11-03",
   "link": "https://dealroom.co/news/169227-modaxo-buys-brazils-fiscaltech-adding-4-000-traffic-lanes/",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24206": {
+  "body": "The theme for ITS World Congress 2028 will be ‘Mobility Reimagined’. The event takes place at the Orange County Convention Center in Orlando, Florida, from October 8-12, 2028...중략... [2028년 ITS 세계 총회에서 '재해석된 모빌리티'를 주제로 발표합니다.] 이 행사는 2028년 10월 8일부터 12일까지 플로리다주 올랜도에 있는 오렌지 카운티 컨벤션 센터에서 개최됩니다. The theme for ITS World Congress 2028 will be ‘Mobility Reimagined’. The event takes place at the Orange County Convention Center in Orlando, Florida, from October 8-12, 2028...중략... [2028년 ITS 세계 총회에서 '재해석된 모빌리티'를 주제로 발표합니다.] 이 행사는 2028년 10월 8일부터 12일까지 플로리다주 올랜도에 있는 오렌지 카운티 컨벤션 센터에서 개최됩니다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-06",
+  "link": "https://www.itsinternational.com/mobility-reimagined-for-its-world-congress-2028/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24211": {
+  "body": "The European Commission, in collaboration with the European Partnership on Connected, Cooperative and Automated Mobility (CCAM) and the CCAMbassador project, has launched a Call for Interest for organisations wishing to present their initiatives, technologies and solutions at EUCAD 2027 ...중략... 유럽 ​​위원회는 유럽 연결, 협력 및 자동화 모빌리티 파트너십(CCAM) 및 CCAMbassador 프로젝트와 협력하여 EUCAD 2027 에서 자신들의 이니셔티브, 기술 및 솔루션을 발표하고자 하는 기관을 대상으로 참가 신청 접수를 시작했습니다 . The European Commission, in collaboration with the European Partnership on Connected, Cooperative and Automated Mobility (CCAM) and the CCAMbassador project, has launched a Call for Interest for organisations wishing to present their initiatives, technologies and solutions at EUCAD 2027 ...중략... 유럽 ​​위원회는 유럽 연결, 협력 및 자동화 모빌리티 파트너십(CCAM) 및 CCAMbassador 프로젝트와 협력하여 EUCAD 2027 에서 자신들의 이니셔티브, 기술 및 솔루션을 발표하고자 하는 기관을 대상으로 참가 신청 접수를 시작했습니다 . Copyright © 2018 ITS Kor",
+  "date": "2026-11-09",
+  "link": "https://ertico.com/eucad-2027-opens-call-for-interest-for-exhibition-demos",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24213": {
+  "body": "Researchers at Beihang University have developed a unified framework called the Traffic World Model, or TWM, designed to address the critical scarcity of diverse roadside traffic data. The system generates controllable roadside images, traffic videos, safety-critical events, and LiDAR-style point clouds, offering a potential solution to the high costs and logistical difficulties associated with collecting real-world multimodal data from infrastructure-mounted sensors. The study, published in Communications in Transportation Research, presents a novel approach to synthetic data generation that aims to support the development of autonomous driving and intelligent transportation systems by providing high-quality, varied training datasets...중략... 베이항대학교 연구진은 다양한 도로변 교통 데이터의 심각한 부족 문제를 해결하기 위해 '교통 세계 모델(Traffic World Model, TWM)'이라는 통합 프레임워크를 개발했습니다. 이 시스템은 제어 가능한 도로변 이미지, 교통 영상, 안전 필수 이벤트, 그",
+  "date": "2026-11-08",
+  "link": "https://bioengineer.org/traffic-world-model-generates-realistic-roadside-multimodal-data/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24215": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.eurekalert.org/news-releases/1150789",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24216": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-08",
+  "link": "https://bioengineer.org/modular-autonomous-pod-transport-systems-face-critical-multimodal-and-artificial-intelligence-gaps/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24218": {
+  "body": "A new 5GAA White Paper examines the conditions enabling the emergence of C-V2X Tolling in the United States, its potential benefits and the challenges to wider adoption. Cellular Vehicle-to-Everything (C-V2X) Tolling is emerging in the United States as four conditions align: a maturing regulatory environment, a standard basis for toll-specific messaging under SAE J3217, a series of demonstrations and first deployments, and growing pressure on the spectrum environment used by legacy RFID tolling in the 902–928 MHz band. The new 5GAA White Paper, C-V2X Tolling in the United States , explores how these developments are creating opportunities for a complementary approach to traditional toll collection. Rather than replacing existing RFID-based systems, C-V2X could augment RFID, video tolling and back-office processes through a more vehicle-centric transaction model. Vehicles could identify t",
+  "date": null,
+  "link": "https://5gaa.org/c-v2x-tolling-in-the-united-states/",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24219": {
+  "body": "Jakarta (ANTARA) - Indonesia has developed a roadmap to accelerate transportation decarbonization, outlining planned measures to reduce greenhouse gas emissions across all transport subsectors through a partnership with the United Kingdom. The roadmap was developed as part of the Transportation Ministry's participation in the United Kingdom Partnering for Accelerated Climate Transitions (UK PACT) program, according to a statement received here on Sunday...중략... 자카르타 (ANTARA) - 인도네시아는 영국과의 협력을 통해 모든 교통 부문에서 온실가스 배출량을 줄이기 위한 구체적인 조치를 담은 교통 부문 탈탄소화 로드맵을 개발했다. 일요일 발표된 성명에 따르면, 이 로드맵은 교통부가 영국 기후변화 대응 가속화 파트너십(UK PACT) 프로그램에 참여하는 일환으로 개발되었다. 아리프 토하 교통부 사무총장은 Jakarta (ANTARA) - Indonesia has developed a roadmap to accelerate transportation decarbonization, outlining planned measures to reduce greenhouse gas emissions across all transport subsectors through a partnership with the United Kingdom.",
+  "date": "2026-11-08",
+  "link": "https://en.antaranews.com/news/441047/indonesia-advances-transport-emissions-cuts-through-uk-partnership",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24220": {
+  "body": "NZ Transport Agency Waka Kotahi expects to release an open Request for Tender through GETS within the next two weeks for the National Intelligent Transport Systems Maintenance Contract. The opportunity covers the national monitoring, maintenance and operational support of the Intelligent Transport Systems assets identified in the tender documents...중략... 뉴질랜드 교통청 와카 코타히는 향후 2주 이내에 GETS를 통해 국가 지능형 교통 시스템 유지보수 계약에 대한 공개 입찰 요청서를 발표할 예정입니다. 이 기회는 입찰 문서에서 확인된 지능형 교통 시스템 자산의 국가 모니터링, 유지보수 및 운영 지원을 포함합니다. NZ Transport Agency Waka Kotahi expects to release an open Request for Tender through GETS within the next two weeks for the National Intelligent Transport Systems Maintenance Contract. The opportunity covers the national monitoring, maintenance and operational support of the Intelligent Transport Systems assets identified in the tender documents...중략... 뉴질랜드 교통청 와카 코타히는 향후 2주 이내에 GETS를 통해 국가 ",
+  "date": null,
+  "link": "https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=35399092&utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24222": {
+  "body": "SINGAPORE: The Land Transport Authority (LTA) has told Grab to pause some autonomous vehicle (AV) testing after one of its vehicles nearly hit a schoolgirl while making a left turn in Punggol...중략... [싱가포르 육상교통청(LTA)은 퐁골에서 여학생과 아찔한 사고를 겪은 후 그랩(Grab)에 일부 자율주행차 테스트를 일시 중단하도록 지시했습니다.] 싱가포르: 육상교통청(LTA)은 그랩(Grab)에 자율주행 차량(AV) 테스트 일부를 중단하라고 지시했다. 이는 그랩의 자율주행 차량이 퐁골에서 좌회전하던 중 여학생을 거의 칠 뻔한 사고가 발생한 이후 내려진 조치다. SINGAPORE: The Land Transport Authority (LTA) has told Grab to pause some autonomous vehicle (AV) testing after one of its vehicles nearly hit a schoolgirl while making a left turn in Punggol...중략... [싱가포르 육상교통청(LTA)은 퐁골에서 여학생과 아찔한 사고를 겪은 후 그랩(Grab)에 일부 자율주행차 테스트를 일시 중단하도록 지시했습니다.] 싱가포르: 육상교통청(LTA)은 그랩(Grab)에 자율주행 차량(AV) 테스트 일부를 중단하라고 지시했다. 이는 그랩의 자율주행 차량이 퐁골에서 좌회전하던 중 여학생을 거의 칠 뻔한 사고가 발생한 이후 내려진 조치다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-07",
+  "link": "https://www.channelnewsasia.com/singapore/lta-grab-pause-av-vehicle-testing-punggol-near-miss-schoolgirl-6531876?utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24223": {
+  "body": "글로벌 자율주행 시장에서 세를 넓히고 있는 엔비디아가 한국 무인 로보택시 실증사업에 참여하기 위한 물밑 작업에 착수했다. 정부 주도 실증 사업을 발판 삼아 국내 완성차 업체와 자율주행 기업, 모빌리티 사업자 등이 자사의 기술 플랫폼을 표준으로 ...중략... 글로벌 자율주행 시장에서 세를 넓히고 있는 엔비디아가 한국 무인 로보택시 실증사업에 참여하기 위한 물밑 작업에 착수했다. 정부 주도 실증 사업을 발판 삼아 국내 완성차 업체와 자율주행 기업, 모빌리티 사업자 등이 자사의 기술 플랫폼을 표준으로 ...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.sedaily.com/article/20111630?ref=naver",
   "tries": 1
  }
 }
