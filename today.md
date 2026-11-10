@@ -64,37 +64,37 @@
    - 분야: 단속·집행 / 게재일: 2026-11-05 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/news/enforcement/ghana-launches-new-national-road-safety-enforcement-programme-with-sensys-gasto.html
 
-13. ANPR camera maker MAV Systems wins Innovation of the Year award
-   - 분야: 단속·집행 / 게재일: 2026-11-06 / 매체: Traffic Technology Today
-   - 원문: https://www.traffictechnologytoday.com/news/awards/anpr-camera-maker-mav-systems-wins-innovation-of-the-year-award.html
-
-14. US-French Consortium Wins Contract to Advance $2.75bn Riyadh Metro Red Line Extension
+13. US-French Consortium Wins Contract to Advance $2.75bn Riyadh Metro Red Line Extension
    - 분야: 산업·투자 / 게재일: 2026-11-03 / 매체: Construction Review
    - 원문: https://news.google.com/rss/articles/CBMivwFBVV95cUxQYzJqdkVRbXN3aDJfemRDWDRYZVR1Y2pSUDFTRnJsakI5bTdKWVRndDZpT2hUcjMxVVVMWUN2RUVuMnlzTmxEMmFlQ2xCLVJXT2FBeEY4QU16TDFpZEJGNjZIUWVMQTJfcExhUTNwbGw1TkV1VEs3aGZMNWRXcF9tbnNNYktxTjZSbEwxa3YwaC1SNmpGeFo2YnFibFRtSWVjYkROWU9RVE5EWW5ROG1BUUVQd2UtcDFtMlEybFpFTQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. C-V2X Tolling in the United States
+14. C-V2X Tolling in the United States
    - 분야: C-ITS·V2X / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://5gaa.org/c-v2x-tolling-in-the-united-states/
 
-16. Aurrigo wins up to £100,000 grant to pilot driverless shuttle at Portsmouth port
+15. Aurrigo wins up to £100,000 grant to pilot driverless shuttle at Portsmouth port
    - 분야: 자율주행 / 게재일: 2026-11-05 / 매체: Dealroom
    - 원문: https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFA5bUE5V1pwX2c0a2RkVEktbHRCMTBBNzVjTERvT1ZyVEVJZWZraUctcWp1Mld0WGd3N29PN3ctSlRRUFB0SGhsZWVzbk16R2pqZ1VObnRYa3lEcGRPZUc2aFlnZFVaU01BWHJmekxyRUE0X1RaaXZzWTRkaW9Ga2hnWTdEQmhXTFU5Zms1X1RHRHNKVXlqaE9neEY1UjhBRGV3UXkwMHpxNHUzdmlvZFlORQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
+16. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://warwick.ac.uk/fac/sci/wmg/news-and-events/news/new-partnerships-strengthen-pave-uks-commitment-to-self-driving-mobility/?utm_source=chatgpt.com
 
-18. New traffic management system not perfect, says govt
+17. New traffic management system not perfect, says govt
    - 분야: 신호·관제 / 게재일: 2026-11-05 / 매체: newsday.co.zw
    - 원문: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXJtVDkxLXJVMWx3NWphUllGVUF4ZFhNVV9lc0RhMHpHQ3drdGNGcGNrWTMzSGVIbWpyWGg2TUhCbnVfdmNJMDlfVUZtSThRNVJqQzJ0bmF3MDlzUGxKdzdXTkxUX1loWlppQVd1a3pmOExDdExwemdtZF9oLWZTNzh1VDF4OXM5?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. Kazembe admits errors in Smart Traffic Management System, promises fixes
+18. Kazembe admits errors in Smart Traffic Management System, promises fixes
    - 분야: 신호·관제 / 게재일: 2026-11-05 / 매체: Pindula News
    - 원문: https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFRqRk04U3pjRTkzTmI2OVBHd2pQbFdUeHM1UGhNWUVpUUo4SkY4eHVKeFR4S25iNlVRNmQ3R0ZoZkd5a29mUFRwb0QxeGlrRUdOckpERzNIMXdnQ1FYZDdhMFBicE91eHNJTDRiMy1BQVpJaGpmRm1razJWckVFaVk2SFllb1ZTOUNycU5TRV81SGRSQldTU0hTbnRDZm9pclNqSV85Y1YweHZaSXhB0gG3AUFVX3lxTE1RRS02bzgyR2hQc0ExaEx3Wkl0YU8xOUdYSmk3Z1VPczBhc0lDZHJYQUxMUXQ2bDEzN2VxVXIxbjRLRjA5VXR6RlJoQzJpYTJ2U0F2MHdNWW1fbWtvRzhrVFpRN3JEa1FDZGJCR296d0l2S2RpQ3NCakZsQ2lBUTRXaWo4UThVMnlWbEItYnJiZmlQV192OTBOVzVKUndtdEZLNVlzUW5CZzhFdVBuLWhuMkZJN3BZaw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. Ensight parking technology for Texas
+19. Ensight parking technology for Texas
    - 분야: 대중교통·물류 / 게재일: 2026-11-03 / 매체: ITS International
    - 원문: https://www.itsinternational.com/ensight-parking-technology-for-texas/
+
+20. NRSA directs road agencies to fix faulty traffic lights, missing signs as TraffiTech enforcement begins
+   - 분야: 단속·집행 / 게재일: 2026-11-04 / 매체: MyJoyOnline
+   - 원문: https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWkzVThoaU05c01hMWRYVDhIS0tQRmtPQXItanhvRktjQUNzTEkzNi1oOXRmLWxvQUViZ0NtS2Y3ZjZRd0xBQ1RZbUtPNGdXa1lnZGJnbzVsM21xY3FHb2VDRVA3TmY2TlRqLXRUSlN1RnFSOFJWQ19nOFJhblQyUWJLNWVidjl4RHp6eUVrVzEtOFVmaW1FYlNrZkRJVlZXLUZKZUhSZ1pfUWZzZ1hJRVVtSWh2VTF0OE1jTDA3X0hiSWRSVFJ5ZWx5bw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -130,51 +130,47 @@
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjejFraEdaYm90VlhOUWpRZmtUaVdyMFJCaTZPeVBnMWJ1S2dBNXMzSlE1LWNOQXQ4aWNsdnVMVlVGLTlmT1lnbzRXMDRZZDVnRHdF0gFTQVVfeXFMUGN6MWtoR1pib3RWWE5RalFma1RpV3IwUkJpNk95UGcxYnVLZ0E1czNKUTUtY05BdDhpY2x2dUxWVUYtOWZPWWdvNFcwNFlkNWdEd0U?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. 고양특례시의회, '높아진 어르신 이동 편의... 건설교통위원회, 일산노인종합복지관 DRT버스 개통식 참석해'
-   - 분야: 대중교통·물류 / 게재일: 2026-11-03 / 매체: Queen 이코노미퀸
-   - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFBUU0U2MEYtY2ZKNTEybm9pczEyS29uT0w0dzBJZ1dXY2tJUW5oMDA5OHJqVnlYYml1N1lmeTFSb1QwX1hSM3FPbnlhNFozVm1DUVFSQ0lhdGNJcWVhMDlPVkhnNERRb2FUVUE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-9. 고양시, 실시간 AI 교통신호시스템…"5개 교차로서 시범"
+8. 고양시, 실시간 AI 교통신호시스템…"5개 교차로서 시범"
    - 분야: 신호·관제 / 게재일: 2026-11-09 / 매체: 뉴시스
    - 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE1GYWdQdzVReGhkTHNlaUpQYXJlS0tMd3BoU3VEdy1zRVVuZE5HZVdHMkI2UlRZM2dGYmJVUWRyVldYdHp3ZGhpd2dxUWNscVNHXzFuanFBUnY4elpGeUY2cHp2OWNyZEd6SlJNS1JycXozYTVqa255N9IBeEFVX3lxTE1GYWdQdzVReGhkTHNlaUpQYXJlS0tMd3BoU3VEdy1zRVVuZE5HZVdHMkI2UlRZM2dGYmJVUWRyVldYdHp3ZGhpd2dxUWNscVNHXzFuanFBUnY4elpGeUY2cHp2OWNyZEd6SlJNS1JycXozYTVqa255Nw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. [회원사/동향] 한국교통안전공단·도로교통공단, 교통안전 중소기업 판로 확대 지원
+9. [회원사/동향] 한국교통안전공단·도로교통공단, 교통안전 중소기업 판로 확대 지원
    - 분야: 신호·관제 / 게재일: 2026-11-06 / 매체: ITS Korea
    - 원문: https://www.nspna.com/country/?mode=view&newsid=835074
 
-11. 자율주행 차량, 광주 도심 누빈다…단계적 무인화 추진
+10. 자율주행 차량, 광주 도심 누빈다…단계적 무인화 추진
    - 분야: 자율주행 / 게재일: 2026-11-04 / 매체: 진일보 | 전남일보
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTFBnbjdZeFZweXZWWWF5Njg1S2dfclVSRHhfQ1ZqTEZzdkMtRThmSTdxdFRHNi1ERTZKbXlDQjhUc3RwbWRDUGp5TFhLblo1a2FUX01uNjA2NmVNd2pxMWFlbjNDRkhmYlRjaDY2dGxWVQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 에브리봇, 中 DDT와 ‘자율주행 4족 보행 로봇’ 공동개발 및 상용화 계약 체결
+11. 에브리봇, 中 DDT와 ‘자율주행 4족 보행 로봇’ 공동개발 및 상용화 계약 체결
    - 분야: 산업·투자 / 게재일: 2026-11-05 / 매체: 매일경제 마켓
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Y0k4TnRmOEg0ZmtOcDdaeU00c3NJVXliV3ZrZWp2QXBWbTlfNlhRcGpaRnM1S0hzbUZ2c1M1bFZ0M1VSR3YwbGtsTndhOXZNMFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 테슬라 '자율주행' 광고, 실제와 달라…소비자 속인 혐의 공정위 심판대
+12. 테슬라 '자율주행' 광고, 실제와 달라…소비자 속인 혐의 공정위 심판대
    - 분야: 자율주행 / 게재일: 2026-11-05 / 매체: 논객닷컴
    - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XRWY5YlFFNTZCUmZZR3pSMUdDLVpQT3NCOXprZ09QUlVRM2prbU5zYUhadnNGek5kM2I2NEtpVHNsLWZvaVRfOVEyWFRwN1k5Z0tRcFRnVWxPREhRcmROQkMwYk5WZWfSAWtBVV95cUxPYXhLbDBUdDkySlExQl9ET2t0SVFNSEJhekJHZTFKZ3BXWlo4SkJYOXpTVXBUbDA3UDlVanZSTkhKZGt5Rjk3eExNSHJyU3daTlB1TWRGTkM3Z18wbDdnN1NKLXB0dFktRzB1SQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. FSD의 ‘완전자율주행 딜레마’, 소송 불씨로 [김기혁의 테슬라월드]
+13. FSD의 ‘완전자율주행 딜레마’, 소송 불씨로 [김기혁의 테슬라월드]
    - 분야: 자율주행 / 게재일: 2026-11-07 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yaWRxU2x4RTVxY0FIcmtjMUxVWHdWWi0zN0lSOU0zVlY0X3BSSmg3T2hPMVM0WGM4Q2FuRnAyR2VMY0oyNUh2cnljMnZOTy1DUXfSAVNBVV95cUxObkxzS2lCOWd4QmV3alJaSDZRaGRMNl9qQWhGVFJKQThnTFdzNEFOLW43UF9jNllZOUQzRy1rN1Q4VjFySjZNajdvNkVTTUphWENKRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 광명시, 지능형교통체계 기본계획 최종보고회 개최
+14. 광명시, 지능형교통체계 기본계획 최종보고회 개최
    - 분야: 기타 / 게재일: 2026-11-09 / 매체: 매일일보
    - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBYdzhEZzRCb0ZfXzRSc0JzMFcyaUFNM1ZORDRnVE1sNWRWNmcwRk44RHNqM29GaGRiN054RmZuQWNNNUd0M240S3dDdkUtTnFoWTJzRlhzRmt4TE1wLXY4anplaDY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [국토부/보도자료] 새로운 대한민국의 내일을 잇는 철도 대전환, 국민과 함께 그립니다
+15. [국토부/보도자료] 새로운 대한민국의 내일을 잇는 철도 대전환, 국민과 함께 그립니다
    - 분야: 대중교통·물류 / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092569
 
-17. TS, AI 안전장치 도입 효과 톡톡... 통근용 전세버스 사고 14.5%, 손해지급액 18.1% 감소
+16. TS, AI 안전장치 도입 효과 톡톡... 통근용 전세버스 사고 14.5%, 손해지급액 18.1% 감소
    - 분야: 대중교통·물류 / 게재일: 2026-11-10 / 매체: ITS Korea
    - 원문: https://main.kotsa.or.kr/portal/bbs/report_view.do?bbscCode=report&cateCode=&bbscSeqn=18988&pageNumb=1&sechCdtn=&sechKywd=&menuCode=05010200
 
-18. [회원사/동향] 스튜디오갈릴레이, 지역 택시 기반 관광 DRT '소풍택시' 운영...관광·축제 이동 지원
+17. [회원사/동향] 스튜디오갈릴레이, 지역 택시 기반 관광 DRT '소풍택시' 운영...관광·축제 이동 지원
    - 분야: 대중교통·물류 / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://www.sisunnews.co.kr/news/articleViewAmp.html?idxno=249242
 
-19. [회원사/동향] 현대자동차·기아, 차량용 반도체 개발 프로세스 국제표준 인증 획득
+18. [회원사/동향] 현대자동차·기아, 차량용 반도체 개발 프로세스 국제표준 인증 획득
    - 분야: 기술·표준 / 게재일: 2026-11-06 / 매체: ITS Korea
    - 원문: https://hyundaenews.com/107875
 
