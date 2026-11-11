@@ -76,25 +76,25 @@
    - 분야: C-ITS·V2X / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://5gaa.org/c-v2x-tolling-in-the-united-states/
 
-16. Aurrigo wins up to £100,000 grant to pilot driverless shuttle at Portsmouth port
+16. L&T wins contract for Noida Metro Projects
+   - 분야: 산업·투자 / 게재일: 2026-11-10 / 매체: Indian Infrastructure Magazine
+   - 원문: https://news.google.com/rss/articles/CBMikgFBVV95cUxQdDAwVUtrSnhUODdmLThLbmpGdGpVb0ZDbHRybWgtcjlNX1dRVWhVclNvYkNyN3VoWkhkTWhlTU5BSXIwVEFIb1ZERWZSWElkZzkwYWJJbnVIcmNYbVJ0Q1RYM2dWQjBrdGRYR0ppMVlBUy1RMVRLek9pbmNQcTFLU0F2UWdrcTV1YW1OUlk5M3RZQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. Aurrigo wins up to £100,000 grant to pilot driverless shuttle at Portsmouth port
    - 분야: 자율주행 / 게재일: 2026-11-05 / 매체: Dealroom
    - 원문: https://news.google.com/rss/articles/CBMiswFBVV95cUxNVFA5bUE5V1pwX2c0a2RkVEktbHRCMTBBNzVjTERvT1ZyVEVJZWZraUctcWp1Mld0WGd3N29PN3ctSlRRUFB0SGhsZWVzbk16R2pqZ1VObnRYa3lEcGRPZUc2aFlnZFVaU01BWHJmekxyRUE0X1RaaXZzWTRkaW9Ga2hnWTdEQmhXTFU5Zms1X1RHRHNKVXlqaE9neEY1UjhBRGV3UXkwMHpxNHUzdmlvZFlORQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
+18. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://warwick.ac.uk/fac/sci/wmg/news-and-events/news/new-partnerships-strengthen-pave-uks-commitment-to-self-driving-mobility/?utm_source=chatgpt.com
 
-18. New traffic management system not perfect, says govt
+19. New traffic management system not perfect, says govt
    - 분야: 신호·관제 / 게재일: 2026-11-05 / 매체: newsday.co.zw
    - 원문: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOXJtVDkxLXJVMWx3NWphUllGVUF4ZFhNVV9lc0RhMHpHQ3drdGNGcGNrWTMzSGVIbWpyWGg2TUhCbnVfdmNJMDlfVUZtSThRNVJqQzJ0bmF3MDlzUGxKdzdXTkxUX1loWlppQVd1a3pmOExDdExwemdtZF9oLWZTNzh1VDF4OXM5?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. Kazembe admits errors in Smart Traffic Management System, promises fixes
+20. Kazembe admits errors in Smart Traffic Management System, promises fixes
    - 분야: 신호·관제 / 게재일: 2026-11-05 / 매체: Pindula News
    - 원문: https://news.google.com/rss/articles/CBMirwFBVV95cUxNUFRqRk04U3pjRTkzTmI2OVBHd2pQbFdUeHM1UGhNWUVpUUo4SkY4eHVKeFR4S25iNlVRNmQ3R0ZoZkd5a29mUFRwb0QxeGlrRUdOckpERzNIMXdnQ1FYZDdhMFBicE91eHNJTDRiMy1BQVpJaGpmRm1razJWckVFaVk2SFllb1ZTOUNycU5TRV81SGRSQldTU0hTbnRDZm9pclNqSV85Y1YweHZaSXhB0gG3AUFVX3lxTE1RRS02bzgyR2hQc0ExaEx3Wkl0YU8xOUdYSmk3Z1VPczBhc0lDZHJYQUxMUXQ2bDEzN2VxVXIxbjRLRjA5VXR6RlJoQzJpYTJ2U0F2MHdNWW1fbWtvRzhrVFpRN3JEa1FDZGJCR296d0l2S2RpQ3NCakZsQ2lBUTRXaWo4UThVMnlWbEItYnJiZmlQV192OTBOVzVKUndtdEZLNVlzUW5CZzhFdVBuLWhuMkZJN3BZaw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. NRSA directs road agencies to fix faulty traffic lights, missing signs as TraffiTech enforcement begins
-   - 분야: 단속·집행 / 게재일: 2026-11-04 / 매체: MyJoyOnline
-   - 원문: https://news.google.com/rss/articles/CBMiywFBVV95cUxQOWkzVThoaU05c01hMWRYVDhIS0tQRmtPQXItanhvRktjQUNzTEkzNi1oOXRmLWxvQUViZ0NtS2Y3ZjZRd0xBQ1RZbUtPNGdXa1lnZGJnbzVsM21xY3FHb2VDRVA3TmY2TlRqLXRUSlN1RnFSOFJWQ19nOFJhblQyUWJLNWVidjl4RHp6eUVrVzEtOFVmaW1FYlNrZkRJVlZXLUZKZUhSZ1pfUWZzZ1hJRVVtSWh2VTF0OE1jTDA3X0hiSWRSVFJ5ZWx5bw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -130,57 +130,57 @@
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjejFraEdaYm90VlhOUWpRZmtUaVdyMFJCaTZPeVBnMWJ1S2dBNXMzSlE1LWNOQXQ4aWNsdnVMVlVGLTlmT1lnbzRXMDRZZDVnRHdF0gFTQVVfeXFMUGN6MWtoR1pib3RWWE5RalFma1RpV3IwUkJpNk95UGcxYnVLZ0E1czNKUTUtY05BdDhpY2x2dUxWVUYtOWZPWWdvNFcwNFlkNWdEd0U?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. 부산 자율주행버스 특정 업체 의존 우려…운영비 검증 요구
+8. 허선경 서대문구의원, 자율주행버스 사업 실효성·예산 운용 문제 제기
+   - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: 신아일보
+   - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE9STktTa1d5RkhELTdNY1ZKRjhXV3hMTUU5MndvVHdDWW4zNGM5SUVhT0Z4LTdJQjFaRlFxQUh2TjlYX2ZuOWtKcTNDZ0dFcHFVTkJ0bEl3bzVuTkhyTlpDUDZWVVVPRTZSOGprQWpsaDY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+9. 부산 자율주행버스 특정 업체 의존 우려…운영비 검증 요구
    - 분야: 자율주행 / 게재일: 2026-11-10 / 매체: 중도일보
    - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LRzBMRmVOTVlRdVZBWUdRQ3Q0cTM4TEdyeGlyLXo2ZW4zM3NTelRMZ000NWJZcmI2Qjc4RFgwblJ0ZTVVUVVMQkt5a2NYTmlXZDJFTlRqem9PN28talRLYnQ0NHo?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. 고양시, 실시간 AI 교통신호시스템…"5개 교차로서 시범"
+10. 250억 들인 광주 '지능형교통체계', 내년 7월 통신 중단
+   - 분야: 기타 / 게재일: 2026-11-11 / 매체: 연합뉴스
+   - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRlJybGxJd0xGb2tuUU01MkplNmN5RlYwZkJTUk5jZXZiclZZMWk2b0tFMkZnRDNDaS0zWUlScmhTQTVpZjBWMjV5bGZINS1jZE1XRThBQ0NxVU3SAWBBVV95cUxQRzVFN0hVZXVyWUV1b0JhRUhWT2xxXzlFaGRIN2ttcldhRk8wdUdobWU0dmd3b0RHZUU3N0hxQ3pqSFNXUy1DWHQ4NUZlYlZDVWNXU3ItOTJlS2NldkRkMFc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+11. 고양시, 실시간 AI 교통신호시스템…"5개 교차로서 시범"
    - 분야: 신호·관제 / 게재일: 2026-11-09 / 매체: 뉴시스
    - 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE1GYWdQdzVReGhkTHNlaUpQYXJlS0tMd3BoU3VEdy1zRVVuZE5HZVdHMkI2UlRZM2dGYmJVUWRyVldYdHp3ZGhpd2dxUWNscVNHXzFuanFBUnY4elpGeUY2cHp2OWNyZEd6SlJNS1JycXozYTVqa255N9IBeEFVX3lxTE1GYWdQdzVReGhkTHNlaUpQYXJlS0tMd3BoU3VEdy1zRVVuZE5HZVdHMkI2UlRZM2dGYmJVUWRyVldYdHp3ZGhpd2dxUWNscVNHXzFuanFBUnY4elpGeUY2cHp2OWNyZEd6SlJNS1JycXozYTVqa255Nw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. [회원사/동향] 한국교통안전공단·도로교통공단, 교통안전 중소기업 판로 확대 지원
+12. [회원사/동향] 한국교통안전공단·도로교통공단, 교통안전 중소기업 판로 확대 지원
    - 분야: 신호·관제 / 게재일: 2026-11-06 / 매체: ITS Korea
    - 원문: https://www.nspna.com/country/?mode=view&newsid=835074
 
-11. 자율주행 차량, 광주 도심 누빈다…단계적 무인화 추진
+13. 자율주행 차량, 광주 도심 누빈다…단계적 무인화 추진
    - 분야: 자율주행 / 게재일: 2026-11-04 / 매체: 진일보 | 전남일보
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTFBnbjdZeFZweXZWWWF5Njg1S2dfclVSRHhfQ1ZqTEZzdkMtRThmSTdxdFRHNi1ERTZKbXlDQjhUc3RwbWRDUGp5TFhLblo1a2FUX01uNjA2NmVNd2pxMWFlbjNDRkhmYlRjaDY2dGxWVQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 에브리봇, 中 DDT와 ‘자율주행 4족 보행 로봇’ 공동개발 및 상용화 계약 체결
+14. 에브리봇, 中 DDT와 ‘자율주행 4족 보행 로봇’ 공동개발 및 상용화 계약 체결
    - 분야: 산업·투자 / 게재일: 2026-11-05 / 매체: 매일경제 마켓
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE41Y0k4TnRmOEg0ZmtOcDdaeU00c3NJVXliV3ZrZWp2QXBWbTlfNlhRcGpaRnM1S0hzbUZ2c1M1bFZ0M1VSR3YwbGtsTndhOXZNMFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 테슬라 '자율주행' 광고, 실제와 달라…소비자 속인 혐의 공정위 심판대
+15. 테슬라 '자율주행' 광고, 실제와 달라…소비자 속인 혐의 공정위 심판대
    - 분야: 자율주행 / 게재일: 2026-11-05 / 매체: 논객닷컴
    - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XRWY5YlFFNTZCUmZZR3pSMUdDLVpQT3NCOXprZ09QUlVRM2prbU5zYUhadnNGek5kM2I2NEtpVHNsLWZvaVRfOVEyWFRwN1k5Z0tRcFRnVWxPREhRcmROQkMwYk5WZWfSAWtBVV95cUxPYXhLbDBUdDkySlExQl9ET2t0SVFNSEJhekJHZTFKZ3BXWlo4SkJYOXpTVXBUbDA3UDlVanZSTkhKZGt5Rjk3eExNSHJyU3daTlB1TWRGTkM3Z18wbDdnN1NKLXB0dFktRzB1SQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. FSD의 ‘완전자율주행 딜레마’, 소송 불씨로 [김기혁의 테슬라월드]
+16. FSD의 ‘완전자율주행 딜레마’, 소송 불씨로 [김기혁의 테슬라월드]
    - 분야: 자율주행 / 게재일: 2026-11-07 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yaWRxU2x4RTVxY0FIcmtjMUxVWHdWWi0zN0lSOU0zVlY0X3BSSmg3T2hPMVM0WGM4Q2FuRnAyR2VMY0oyNUh2cnljMnZOTy1DUXfSAVNBVV95cUxObkxzS2lCOWd4QmV3alJaSDZRaGRMNl9qQWhGVFJKQThnTFdzNEFOLW43UF9jNllZOUQzRy1rN1Q4VjFySjZNajdvNkVTTUphWENKRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. CoreWeave, 자율주행 기업 Wayve와 다년간 클라우드 계약 체결
-   - 분야: 산업·투자 / 게재일: 2026-11-09 / 매체: Investing.com 한국어
-   - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFBYOUNVelFTZm9GZXNjXzdoeG5WOUVmX2k5SFU3VmhHd3ZPRWZ1dnM2N0dobEtjNWlxcXNQbkViaWg1MDA5ZnRoQVNFTHpid3ZjckR4d25ZMXV0OWpQdk1TTEJVRTBKMXdYRDRwY1M2X1I?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-16. 광명시, 지능형교통체계 기본계획 수립…2036년까지 10년 전략 추진
+17. 광명시, 지능형교통체계 기본계획 수립…2036년까지 10년 전략 추진
    - 분야: 기타 / 게재일: 2026-11-10 / 매체: 경기신문
    - 원문: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMY002NnJUT19SaWVvcGlpTnMwdS1JSlVfMTIzLTFjYW1STkl0VFBZT0pyQkVROW9YYzVKcEJIbVJGdy1qU01MY1NPZjB3YUlKUXM3blVPWnloTDA3Sms3ZDln?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. [현대차 다음 성장 조건] '정밀한 자율주행' 삼성과 함께 이뤄내나
+18. [현대차 다음 성장 조건] '정밀한 자율주행' 삼성과 함께 이뤄내나
    - 분야: 자율주행 / 게재일: 2026-11-10 / 매체: Daum
    - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhVjNqZm0tYlN3eXR1U1dDQWZId2kwMFYtaUFkb1JHTDIxa0xHMEh4NHZqay1tRDI3ajlqMl9NOUxWbXlac0E?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 코어위브, 개장 전 1% 하락: 3분기 실적 발표 앞두고 영국 자율주행 기업 웨이브와 다년간의 AI 클라우드 파트너십 체결
+19. 코어위브, 개장 전 1% 하락: 3분기 실적 발표 앞두고 영국 자율주행 기업 웨이브와 다년간의 AI 클라우드 파트너십 체결
    - 분야: 자율주행 / 게재일: 2026-11-10 / 매체: TradingKey
    - 원문: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc2hEbXpRZkRtaGZ3MklGaGt0Tl9CVXBuanZpQTAwZjdkLUNSM0ItQS1HWlhUM3BqRUZLbHhXeHRhdllHUWZkSmg4SERxaTRRbUV0RkRGMXI5cGY2RmVKX1RsZ2Y2VFFQNHhqZTlyQjBzNGlTLWhoblZrMnF0VE14dmtpbWlWVzFhdl9PUjhpSW1DM1ExUEVLXzNkZmY2RWZaTG9zM0NERlRFaWItbmtLUGxZcE0zeHRYTXd5T2dsbGtFX2FSbmlkczVqNl9sWmt1TUJQWk5Lcw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. TS, AI 안전장치 도입 효과 톡톡... 통근용 전세버스 사고 14.5%, 손해지급액 18.1% 감소
+20. TS, AI 안전장치 도입 효과 톡톡... 통근용 전세버스 사고 14.5%, 손해지급액 18.1% 감소
    - 분야: 대중교통·물류 / 게재일: 2026-11-10 / 매체: ITS Korea
    - 원문: https://main.kotsa.or.kr/portal/bbs/report_view.do?bbscCode=report&cateCode=&bbscSeqn=18988&pageNumb=1&sechCdtn=&sechKywd=&menuCode=05010200
-
-20. [회원사/동향] 스튜디오갈릴레이, 지역 택시 기반 관광 DRT '소풍택시' 운영...관광·축제 이동 지원
-   - 분야: 대중교통·물류 / 게재일: 2026-11-09 / 매체: ITS Korea
-   - 원문: https://www.sisunnews.co.kr/news/articleViewAmp.html?idxno=249242
 
 ---
 

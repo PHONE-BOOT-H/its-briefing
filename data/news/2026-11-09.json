@@ -2585,10 +2585,11 @@
    "parking",
    "전문지"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "news",
   "first_seen": "2026-11-09",
-  "notes": null
+  "notes": null,
+  "posted_how": "link"
  },
  {
   "schema_version": 3,
@@ -2900,10 +2901,11 @@
    "metro",
    "전문지"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "news",
   "first_seen": "2026-11-05",
-  "notes": null
+  "notes": null,
+  "posted_how": "link"
  },
  {
   "schema_version": 3,

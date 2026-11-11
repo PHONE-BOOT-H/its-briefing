@@ -479,5 +479,164 @@
    "valley",
    "vehicle"
   ]
+ },
+ "m16218": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.northescambia.com/2026/11/work-begins-on-22-5-million-escambia%E2%80%93santa-rosa-regional-traffic-management-center"
+  ],
+  "title": "[미국] 플로리다주 에스캄비아·산타로사, 2,250만 달러 광역 교통관리센터 착공",
+  "tokens": [
+   "emerald",
+   "green",
+   "light"
+  ]
+ },
+ "m16219": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.demotivateur.fr/voyage/fini-les-cabines-de-peage-sur-les-autoroutes-croates-a-partir-de-mars-2027-c-est-votre-plaque-qui-sera-lue-au-passage-51160"
+  ],
+  "title": "[크로아티아] 2027년 3월 전국 고속도로에 무정차 통행료 징수체계 ‘Crolibertas’ 도입 예정",
+  "tokens": [
+   "crolibertas"
+  ]
+ },
+ "m16220": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.infozona.com.ar/fin-del-efectivo-en-autopistas-desde-el-1-de-enero-solo-se-podra-pagar-con-telepase-o-medios-digitales/"
+  ],
+  "title": "[아르헨티나] 2027년 1월부터 민자 운영 국도 통행료 현금징수 폐지…전자결제 전환",
+  "tokens": [
+   "telepase"
+  ]
+ },
+ "m16221": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.prnewswire.com/news-releases/quarterhill-selected-by-idaho-transportation-department-to-support-and-modernize-commercial-vehicle-screening-infrastructure-302931761.html"
+  ],
+  "title": "[미국] 쿼터힐, 아이다호주 상용차 검사 인프라 유지·현대화 178만 달러 계약 수주",
+  "tokens": [
+   "quarterhill"
+  ]
+ },
+ "m16222": {
+  "date": "2026-11-11",
+  "links": [
+   "https://finance.biggo.com/news/4ad0efbc-08a0-47b3-b838-f9623d5bf007"
+  ],
+  "title": "[말레이시아] ITMAX AI 교통관리 카메라 1만7천 대로 확대",
+  "tokens": [
+   "cosmosnemotron",
+   "itmax",
+   "metropolis",
+   "samurai",
+   "terasim"
+  ]
+ },
+ "m16223": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.itsinternational.com/a-shift-for-metrolinx-in-ontario/"
+  ],
+  "title": "[캐나다] 메트로링크스, 수요응답형 교통 소프트웨어 공급사로 Shift 선정",
+  "tokens": [
+   "canada",
+   "metrolinx",
+   "shift",
+   "technologies"
+  ]
+ },
+ "m16224": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.kanematsu.co.jp/en/press/release/20261109_release"
+  ],
+  "title": "[일본] 도요오카시, 한국 A2Z 자율주행버스 ‘ROii’ 현지 실증 개시",
+  "tokens": []
+ },
+ "m16225": {
+  "date": "2026-11-11",
+  "links": [
+   "https://img2.thejournal.ie/article/7210376/river?version=7210396&width=650",
+   "https://www.thejournal.ie/wrong-way-driving-sensors-ireland-7210376-Oct2026/"
+  ],
+  "title": "[아일랜드] TII, EU 지원으로 고속도로 역주행 감지 기술 시범사업 추진",
+  "tokens": [
+   "verkko"
+  ]
+ },
+ "m16226": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.kapsch.net/_Resources/Persistent/b1cbb3c3fc9f985d5868a54a6a234c5edc1672ed/1000004485%20(1)-1280x1225.avif",
+   "https://www.kapsch.net/en/press/releases/20261104-en"
+  ],
+  "title": "[스페인] 바르셀로나, 캡쉬 AI 기반 실시간 교통신호 제어 실증 추진",
+  "tokens": [
+   "cenit",
+   "ecotrafix",
+   "kapsch",
+   "matcab",
+   "trafficcom"
+  ]
+ },
+ "m16227": {
+  "date": "2026-11-11",
+  "links": [
+   "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNX1BwQ2JfSlR6Z2pfeEZKak5CSUJuYVJFb184c1hseTRpM0ZTT3ItYzV2NHg0cmVSNmZVQTBFVjhSd1J5SkNCamhwVS1LV01BaGVNS2xUMU9wUUpjSFdlc0Q5dTd6VVFGRlI3X2lUR0dOSjJqVm1MLXF1eHVBbmFPM0phOTBneVJqVTg0RERKcEVSdWhCRDRMaTNBSlJzT3pIRHRjNGs3NmlMSGhETnRpX1FmVDZ4TEx4Tnc5Z1RIMjlZNkR5TGt4TEVNcTVueW9ENFpQOXlxWHBybUdtV3c?oc=5"
+  ],
+  "title": "[브라질] ANTT, BR-040 무정차 통행료 징수 승인…11월 16일 운영 개시 예정",
+  "tokens": [
+   "elovias"
+  ]
+ },
+ "m16228": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.bude-today.co.uk/news/road-safety-cameras-head-for-m5-after-cornwall-trials-970374"
+  ],
+  "title": "[영국] M5 고속도로로 휴대전화·안전벨트 위반 감지 AI 카메라 확대",
+  "tokens": [
+   "acusensus",
+   "highways"
+  ]
+ },
+ "m16229": {
+  "date": "2026-11-11",
+  "links": [
+   "https://news.google.com/rss/articles/CBMijwFBVV95cUxNNEthWlZ2b2F0NTMtYkRocEdkQy1PdWxsSVNWVTR6UVFJUi1ZcW5yb2hCdWxUNEFfZGItYWE2MTZFVU5TamIxN0szN1lKTFBmMmdEZjlWa2lpY3czbEE5SjBncEpiellQY3dDRHVreGJvSmFuQzJJa2hUVkZMRzQ5anZldklYUk1GTjZHbDJtQQ?oc=5"
+  ],
+  "title": "[아랍에미리트] 두바이 RTA, 개정 AI 전략 발표…교통혼잡 3~5% 감축 목표",
+  "tokens": []
+ },
+ "m16230": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.itsinternational.com/ensight-parking-technology-for-texas/"
+  ],
+  "title": "[미국] 텍사스 사우스스톤 야즈, EnSight 영상 기반 주차 안내 시스템 도입 추진",
+  "tokens": [
+   "connect",
+   "ensight",
+   "ensightful",
+   "mitchell",
+   "portal",
+   "southstone",
+   "technologies",
+   "yards"
+  ]
+ },
+ "m16231": {
+  "date": "2026-11-11",
+  "links": [
+   "https://www.chilango.com/noticias/transporte/semaforos-inteligentes-de-cdmx-asi-funcionaran-flujo-vehicilar-tiempo-de-viaje/"
+  ],
+  "title": "[멕시코] 멕시코시티, 2027년 감응식 신호체계 현대화 추진…통행시간 10~20% 단축 기대",
+  "tokens": [
+   "metrobus"
+  ]
  }
 }
