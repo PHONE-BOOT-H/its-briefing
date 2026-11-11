@@ -391,6 +391,13 @@
   "impagency": "Bangladesh Police,Bangladesh Road Transport Authority,Directorate General of Health Services,Roads and Highways Division",
   "total": 527000000.0
  },
+ "P173025": {
+  "borrower": "Iller Bankasi Anonim Sirketi,Republic of Türkiye",
+  "closing": "2028-10-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Local Authorities,Urban Transformation Presidency,Urban Transformation Presidency",
+  "total": 512148000.0
+ },
  "P173070": {
   "borrower": "Republic of The Gambia",
   "closing": "2028-12-31",
@@ -684,6 +691,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Ministry of Lands, Public Works, Housing and Urban Development (State Department of Housing and Urba",
   "total": 300000000.0
+ },
+ "P177100": {
+  "borrower": "Tuvalu",
+  "closing": "2029-07-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Finance and Economic Development,Ministry of Public Works, Infrastructure Development and Water",
+  "total": 46500000.0
  },
  "P177185": {
   "borrower": "Ministry of Economy and Finance,The Kingdom of Cambodia",
@@ -1041,6 +1055,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Secretaria de Estado da Infraestrutura e Mobilidade",
   "total": 300000000.0
+ },
+ "P504532": {
+  "borrower": "Ministry of Finance",
+  "closing": "2029-03-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Public Health, Hygiene, and Social Welfare",
+  "total": 250000000.0
  },
  "P504762": {
   "borrower": "The Republic of The Gambia ",
