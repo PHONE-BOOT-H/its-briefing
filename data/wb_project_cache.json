@@ -629,6 +629,13 @@
   "impagency": "Bangladesh Inland Water Transport Authority (BIWTA),Bangladesh Land Port Authority (BLPA),National Board of Revenue (NBR),Roads and Highways Department (RHD)",
   "total": 1045950980.0
  },
+ "P176608": {
+  "borrower": "Iller Bankasi Anonim Sirketi (ILBANK)",
+  "closing": "2028-03-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Local Authorities",
+  "total": 449249984.0
+ },
  "P176623": {
   "borrower": "United Republic of Tanzania",
   "closing": "2030-03-28",
@@ -908,6 +915,13 @@
   "funder": "IBRD (세계은행)",
   "impagency": "Ministry of Planning and International Cooperation ,Ministry of Social Development (MOSD)",
   "total": null
+ },
+ "P180555": {
+  "borrower": "State of Bahia ",
+  "closing": "2032-11-30",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Secretary of Infrastructure of the State of Bahia (SEINFRA)",
+  "total": 187500000.0
  },
  "P180579": {
   "borrower": "Republic of Benin",
