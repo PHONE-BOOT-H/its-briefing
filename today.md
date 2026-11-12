@@ -106,9 +106,9 @@
    - 분야: 자율주행 / 게재일: 2026-11-11 / 매체: ITS Korea
    - 원문: https://www.electimes.com/news/articleViewAmp.html?idxno=374612
 
-2. 오토노머스에이투지, 日 효고현서 ROii 자율주행 버스 실증
-   - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: 와우테일
-   - 원문: https://news.google.com/rss/articles/CBMiT0FVX3lxTFBtNmZvOGVkVkJrbFhtakxTcXI0V01tbWFBQjdqeDdKb1NTMlkzbmd5aUVvUjg3VmllNi1yMzJKTnB6UzByZ1VTc3ExdUI1RHM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+2. 오토노머스에이투지, 日 효고현서 레벨4 자율주행 ‘로이’ 실증 착수
+   - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: beSUCCESS
+   - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTE1nUXEzbFJVOU5TRlhhNFhnTTNta01nTnhRSzdORmpfaTdaQmFlMDYwM1ZVSks5MVNRYndrNlBrSWl2QkJNYnc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 3. 정명근 화성시장, 자율주행 공공교통 실증 '본격화'...리빙랩 시승회 참
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: 더퍼블릭
@@ -131,8 +131,8 @@
    - 원문: https://www.kns.tv/news/articleView.html?idxno=1025278
 
 8. [지자체] “자동차 넘어 하늘·로봇까지”…평택, 미래 모빌리티 산업의 내일 묻다
-   - 분야: 기타 / 게재일: 2026-11-12 / 매체: ITS Korea
-   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=24280
+   - 분야: 기타 / 게재일: 2026-11-11 / 매체: ITS Korea
+   - 원문: https://weekly.hankooki.com/news/articleViewAmp.html?idxno=7193332
 
 9. 광명시, 2036년까지 AI 교통체계 구축 추진… 스마트 횡단보도·자율주행 인프라 확대
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: livesnews.com
@@ -150,13 +150,13 @@
    - 분야: 기타 / 게재일: 2026-11-11 / 매체: 연합뉴스
    - 원문: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MRlJybGxJd0xGb2tuUU01MkplNmN5RlYwZkJTUk5jZXZiclZZMWk2b0tFMkZnRDNDaS0zWUlScmhTQTVpZjBWMjV5bGZINS1jZE1XRThBQ0NxVU3SAWBBVV95cUxQRzVFN0hVZXVyWUV1b0JhRUhWT2xxXzlFaGRIN2ttcldhRk8wdUdobWU0dmd3b0RHZUU3N0hxQ3pqSFNXUy1DWHQ4NUZlYlZDVWNXU3ItOTJlS2NldkRkMFc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. [지자체] 여수시, 공영주차장 120면 확충해 원도심 주차난 던다
+13. 스마트폰 넘어 자율주행·로봇까지…카메라 부품주 동반 강세
+   - 분야: 자율주행 / 게재일: 2026-11-11 / 매체: 핀포인트뉴스
+   - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTE5rc0ZwdlMtMXVQUk1HLUZoVmdROUxIeVpfbS16RlhnU01WOFF1RU1ybzJOc0F5ZlBkdmg1S1VFUWN3V2syMEw1LVRQTjFfQVlEQzBHLWVFMms4WGNFbFR3RjZOY2ZpRkpCblhfdHAtY0p2Z1N5N3E40gF3QVVfeXFMTmtzRnB2Uy0xdVBSTUctRmhWZ1E5TEh5Wl9tLXpGWGdTTVY4UXVFTXJvMk5zQXlmUGR2aDVLVUVRY3dXazIwTDUtVFBOMV9BWURDMEctZUUyazhYY0VsVHdGNk5jZmlGSkJuWF90cC1jSnZnU3k3cTg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+14. [지자체] 여수시, 공영주차장 120면 확충해 원도심 주차난 던다
    - 분야: 대중교통·물류 / 게재일: 2026-11-12 / 매체: ITS Korea
    - 원문: https://www.jnilbo.com/news/articleView.html?idxno=90000081643
-
-14. 테슬라 '자율주행' 광고, 실제와 달라…소비자 속인 혐의 공정위 심판대
-   - 분야: 자율주행 / 게재일: 2026-11-05 / 매체: 논객닷컴
-   - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1XRWY5YlFFNTZCUmZZR3pSMUdDLVpQT3NCOXprZ09QUlVRM2prbU5zYUhadnNGek5kM2I2NEtpVHNsLWZvaVRfOVEyWFRwN1k5Z0tRcFRnVWxPREhRcmROQkMwYk5WZWfSAWtBVV95cUxPYXhLbDBUdDkySlExQl9ET2t0SVFNSEJhekJHZTFKZ3BXWlo4SkJYOXpTVXBUbDA3UDlVanZSTkhKZGt5Rjk3eExNSHJyU3daTlB1TWRGTkM3Z18wbDdnN1NKLXB0dFktRzB1SQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 15. 광명시, 미래 교통도시 2036년 AI 기반 지능형교통체계 구축
    - 분야: 기타 / 게재일: 2026-11-06 / 매체: 전국매일신문
