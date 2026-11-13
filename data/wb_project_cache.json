@@ -216,6 +216,13 @@
   "impagency": "Ministere de l'Agriculture, de l'Elevage et de la Peche",
   "total": 160000000.0
  },
+ "P168310": {
+  "borrower": "Republic of India",
+  "closing": "2027-03-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Department of Agriculture, Government of Maharashtra",
+  "total": 300000000.0
+ },
  "P168386": {
   "borrower": "Burkina Faso,Niger,Togo",
   "closing": "2027-09-30",
@@ -1008,6 +1015,13 @@
   "total": null
  },
  "P182034": {
+  "borrower": null,
+  "closing": null,
+  "funder": null,
+  "impagency": null,
+  "total": null
+ },
+ "P182053": {
   "borrower": null,
   "closing": null,
   "funder": null,
