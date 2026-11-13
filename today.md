@@ -56,45 +56,45 @@
    - 분야: 요금·통행료 / 게재일: 2026-11-07 / 매체: Pulse 2.0
    - 원문: https://news.google.com/rss/articles/CBMiwgFBVV95cUxORE9pTTVhOVFUYTRVcUF4Z09ZUGs4QzN0bGlKN1JyOW9ZdnFLTzBlazdvVVZJWVRCX193VVBKYjNYbHl3dXAtZFJJVVNjVEstNVBXS1QwQ1k4eWFFSjVEcEFPQ3ZLRmFXR3owUGRwT21sV3ZVcjRWVm1lXzlMeU5DXzVPVGpLV2xMelU4T1RFU0xVbGlsMG83am5CeGYtcmNpQlBEdGwyQmVqd2ctNkhwcFItVVNHbmI1OVFXRzJFeFZuQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. ANPR camera maker MAV Systems wins Innovation of the Year award
-   - 분야: 단속·집행 / 게재일: 2026-11-06 / 매체: Traffic Technology Today
-   - 원문: https://www.traffictechnologytoday.com/news/awards/anpr-camera-maker-mav-systems-wins-innovation-of-the-year-award.html
-
-12. [미국] Indra Group USA Wins Project Worth More Than $44 Million to Improve Mobility on California’s Yolo 80 Corridor
+11. [미국] Indra Group USA Wins Project Worth More Than $44 Million to Improve Mobility on California’s Yolo 80 Corridor
    - 분야: 기타 / 게재일: 2026-11-12 / 매체: ITS Korea
    - 원문: https://www.globenewswire.com/news-release/2026/11/11/3400959/0/en/indra-group-usa-wins-project-worth-more-than-44-million-to-improve-mobility-on-california-s-yolo-80-corridor.html
 
-13. [브라질] 통신사 TIM 브라질·BYD, 약 40만 대 차량 및 카마사리 공장 대상 4G/5G 커넥티드 모빌리티 동맹 체결
+12. [브라질] 통신사 TIM 브라질·BYD, 약 40만 대 차량 및 카마사리 공장 대상 4G/5G 커넥티드 모빌리티 동맹 체결
    - 분야: 기타 / 게재일: 2026-11-11 / 매체: ITS Korea
    - 원문: https://latamobility.com/en/byd-and-tim-seal-alliance-to-connect-camacari-factory-and-nearly-400000-vehicles-in-brazil-with-4g-and-5g/
 
-14. CASE STUDY: How and why PA Turnpike is removing all its tolling plazas
-   - 분야: 요금·통행료 / 게재일: 2026-11-11 / 매체: Traffic Technology Today
-   - 원문: https://www.traffictechnologytoday.com/features/case-study-how-and-wwhy-pa-turnpike-is-removing-all-its-tolling-plazas.html
-
-15. Seyond launches SIMPL-Tolling Lidar solution
+13. Seyond launches SIMPL-Tolling Lidar solution
    - 분야: 요금·통행료 / 게재일: 2026-11-12 / 매체: ITS International
    - 원문: https://www.itsinternational.com/seyond-launches-simpl-tolling-lidar-solution/
 
-16. Weekes to lead toll tech at HNTB
+14. Weekes to lead toll tech at HNTB
    - 분야: 요금·통행료 / 게재일: 2026-11-13 / 매체: ITS International
    - 원문: https://www.itsinternational.com/weekes-to-lead-toll-tech-at-hntb/
 
-17. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
+15. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://warwick.ac.uk/fac/sci/wmg/news-and-events/news/new-partnerships-strengthen-pave-uks-commitment-to-self-driving-mobility/?utm_source=chatgpt.com
 
-18. Kazembe admits errors in Smart Traffic Management System, promises fixes
+16. Kazembe admits errors in Smart Traffic Management System, promises fixes
    - 분야: 신호·관제 / 게재일: 2026-11-06 / 매체: The Zimbabwean
    - 원문: https://news.google.com/rss/articles/CBMirgFBVV95cUxQTWtuNmlZeVllYlA5QVVWUExkUXNPc2VWcjE3WDJTYXU1OFVIZ19iYmhKeUZWNTZmelc2LWFNTFI5MVhxcTRxR1psamQzYlluN3l0cnJwcmVsdUlhOWV6MXlGcnlWbkg3aUU1enpWTG5VVGtOTHJid2NFQXh0V1ZUMkk1LUl4LTVWSFBMZkdScFdycGxzZEtNMG93aU5YVHpqeEdlZDJDSkFCUlhOMmc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. FAA Expands AI-Assisted Traffic Management Nationwide
+17. FAA Expands AI-Assisted Traffic Management Nationwide
    - 분야: 신호·관제 / 게재일: 2026-11-12 / 매체: AVweb
    - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFctVWd0X3BNR2VZTW90Yk9Sb3ZhZ2ROMnZFQno4X0xkZGl0NTZ5YkpUMWlEMFJMTndzQ2taUXhLTTNlWlBsT01aSE1HbEY5THp5cnpzUHh6WmZZNTZBVHhKRXRObUNRblNiUjI1MUZzbVV1dWMtQm9tT053S1dqSA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. ‘Mobility Reimagined’ for ITS World Congress 2028
+18. The state is preparing digital traffic control on motorways ᐉ News from Fakti.bg - Bulgaria
+   - 분야: 신호·관제 / 게재일: 2026-11-13 / 매체: Fakti.bg
+   - 원문: https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2JzTEFmNXNXMDVLSFEteUVJR3U1RWlLcUdGelE0WVRLRzhjaDhOLUtlX1E3YXpsTS15bFB0MUlwV3d5Q1ZVcDJCRUZiSnhZdGxPNWhydHRRa3VwRUlEZzhfY1ltQkRPYmdvd1hKUk5USFQzSWh4RUxVbDNFMXYtZnVTZmVva1BPci1uU2pNQm1sZ3A2NU5udVREWDctOHU0NGc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. ‘Mobility Reimagined’ for ITS World Congress 2028
    - 분야: 기술·표준 / 게재일: 2026-11-06 / 매체: ITS International
    - 원문: https://www.itsinternational.com/mobility-reimagined-for-its-world-congress-2028/
+
+20. Mettler Development awarded contract for Glen Carbon PD remodel
+   - 분야: 산업·투자 / 게재일: 2026-11-07 / 매체: The Troy Times Tribune
+   - 원문: https://news.google.com/rss/articles/CBMirAFBVV95cUxOaWlwWW1ob0pOdGhJSHRDaVgzdF9Hb3haT1cyaTdBM2JxaXdaWnA0aGw5aklsbGcwWmY4Q2VneW1jcFEwbUhFOWltNXFkb3pkSS0xYVhyN1BWTjNGaHNCSUJEdHhxdjJtNXppaHlKaHBpd3lxcGowdW9aYmxiSDFEM3kyOHZSRnlGTGRITmJaSDdyTUtfVDZWWHJVUzRsWm1tZ095cFlzVzJhaGZp?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -150,37 +150,37 @@
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBjejFraEdaYm90VlhOUWpRZmtUaVdyMFJCaTZPeVBnMWJ1S2dBNXMzSlE1LWNOQXQ4aWNsdnVMVlVGLTlmT1lnbzRXMDRZZDVnRHdF0gFTQVVfeXFMUGN6MWtoR1pib3RWWE5RalFma1RpV3IwUkJpNk95UGcxYnVLZ0E1czNKUTUtY05BdDhpY2x2dUxWVUYtOWZPWWdvNFcwNFlkNWdEd0U?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 부산 자율주행버스 특정 업체 의존 우려…운영비 검증 요구
-   - 분야: 자율주행 / 게재일: 2026-11-10 / 매체: 중도일보
-   - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LRzBMRmVOTVlRdVZBWUdRQ3Q0cTM4TEdyeGlyLXo2ZW4zM3NTelRMZ000NWJZcmI2Qjc4RFgwblJ0ZTVVUVVMQkt5a2NYTmlXZDJFTlRqem9PN28talRLYnQ0NHo?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-14. 250억 들인 광주 '지능형교통체계', 내년 7월 통신 중단
+13. 250억 들인 광주 '지능형교통체계', 내년 7월 통신 중단
    - 분야: 기타 / 게재일: 2026-11-11 / 매체: 연합뉴스
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFBHNUU3SFVldXJZRXVvQmFFSFZPbHFfOUVoZEg3a21yV2FGTzB1R2htZTR2Z3dvREdlRTc3SHFDempIU1dTLUNYdDg1RmViVkNVY1dTci05MmVLY2V2RGQwV9IBYEFVX3lxTFBHNUU3SFVldXJZRXVvQmFFSFZPbHFfOUVoZEg3a21yV2FGTzB1R2htZTR2Z3dvREdlRTc3SHFDempIU1dTLUNYdDg1RmViVkNVY1dTci05MmVLY2V2RGQwVw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. '교통 올림픽'으로 불리는 세계 최대 규모의 지능형교통체계(ITS) 국제행사인 '2026 강릉 ITS 세계총회'가 19일부터 23일까지 강릉 올림픽파크 일원에서 열린다. 홍지선 국토교통부 장관이 19일 강원 강릉컨벤션센터에서 열린 '2026 강릉 ITS 세계총회' 개회식에서 환영
+14. '교통 올림픽'으로 불리는 세계 최대 규모의 지능형교통체계(ITS) 국제행사인 '2026 강릉 ITS 세계총회'가 19일부터 23일까지 강릉 올림픽파크 일원에서 열린다. 홍지선 국토교통부 장관이 19일 강원 강릉컨벤션센터에서 열린 '2026 강릉 ITS 세계총회' 개회식에서 환영
    - 분야: 기술·표준 / 게재일: 2026-11-11 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMi6w9BVV95cUxOMDFNcHdHNDV3NzIwQXNBaXJvUFZEZmNkUmVNQldScjdTVXkxNFFCUk9EWlVQaERIZXI0andSR1BVQWxPenY4d2tSS0J2Z2prdjlYUjBnaW4yTHk2b1ZBb3R4M2dCalJ2dk5FeUZKTFY5SHp0Z2xJZFc5UE1KdXoxRmJWUGc1aWJzazlNMXZLeXFkdWVlemw3eU1vTzJ3Nm5lR0M3RUprMXZrRlhwaEhtMWNxc0VkNElOWVZYU0ROSVNDdVFOUlBMYjg1YXdfUEduSHRyS1ZudVo0SE9qQXJ5WmNMRTVzdlB6b0xFbERHb1pLYTc4RVF6LW82am96Q1J0YmpkYTJWbk9UUTB4YmFvY2dKYzZNd2RQSFlvNEFfMWZWZmVIRkg5N28yUTl1c1FGaVhDcmxUTDRPNDB6bmR5WlJTMnVqVk1JNUpBLXlyMTUxdlVfMG0wZFQ1TkxyOXZ2azhJM0hteEVFZWJadEZNSkxwVG9VcFZ3UlppWHQ0U0pBMjdWUS04LWJ5d0NPLVBjY25feVBIb3A3QnRkUURXSzh2X2otbWUxX00wRkRlaDRuV0NBU1owSVdRRmx5bm4tVi12NHNYQTMtN2tQaFRFcl9ORU5PSTZRVGZSa0I5UzcyWmxoVS10ZC1uRGQ0MjF1cjBmNTAxWUZBc0hpejZKNFNFalc5bjdLTm51WFFmb2stRzAxS3pNSzJhZ0FrcDk0SlhhUnhTZTQyajY1OUNnOG9BWk9tQ2VPLU85VUtNeFlKaHpEZE9CS3ZCQjlMaXBmTEZqcWhkUl9fdnR5d1Z0RjhJN181ZTQ2d0FITlVDM18zaS1fQ3BMU04tcWxxaWU2WkRYSnk5dk4ycU5DX3BadVJDWko4bTVBUVVZWF9BTFF4UVhrNDZkemY2SWZZOVJodnZlb1kxQnZYMGx2aFVqTUpmNFp3cVA3ZVVUeDdsd1BXVjkyUjNXZnFJckw2amoyME4wNXloa3FrSi14N0lPOVJDbldIdHJwRUwtSkVHd2Q2V2VoMkVfakI4cjcyM0VMR3U4eDZBWHk5TWxkVDlyS0NUdWYtS0x3ZkV3Q0tGU1ZRYlNqelN4azd5T0NPMkV2NUNRdEY5S2RHa0hBQ3R0eXRmNHpXRVhJQW1hNlFqem81WDRsQ0dhUHVnU09vZkUycm1nLUhUZk5taWx0aWI1MFZBRFVaWmYtVXBwWGloMDU2S0M1TzlaWlhhbjByQWtZX3NyOFcta3V6aXFQRnVITlgyUkVZdkozLXJIZjBSU0JIX3RXc1BBWUJpZXl2TmRNQ196MVI2MVpyTzdOWXdhUHhYUWdReVF4cjlMZ1ZOeTYtZnVJNVAtZDNyd01hdEpsQnBjU2VPY2lXZ19rcDl5NzRFZ0Z6Wk9KMlREenRfbDB2SmFnSVZSbnozdlhLX20yMFFKQzR4RC1qS0JpRmpJN3plVXpaanhDRkZqSzlVd2wtVkpWWUJPeHJ4WnQtWElDOC1YV2hDdzAyVVFMd09FTGdqdTNIMEZoQWwxVjRTTDg2UHJyV1Ytd21paUlkRXU2U0wxVm5XZHhnX0lKc0IwZlcyOS1WSFRVeGN1cXJFLVkzSnJuM1Zad2Nycm11T0xPTWhSSkJmTWtiTFJTUU50X0hBQlVrYmR1YkRmRTIwZ016cUJzb1JLM3BYRlRBXzBHb21pTEwxS3VhaVJPVXVZNUZZRkNjMzhLckVtRkNGUzJSTEV6eTZLRDN6SDBYZzZkLTNiYm5LU0p4V3RjdGpxejRmSnJUYXRsYnhVOWJ6c1pXRUJfT3VTd1JqUkZSVGlOUWhDd0VvcTlUR3VGbkdjSG9hSkw5MEx6cG9SLU5IbFBrVTlBSksxVkMxUVRpZGxiWTc2TkdGRjFESVZKdFNqTUdvRmYxQ3pSaWpMak94NGJNaHE4cF9Hbi1NZV9xUnNtZFFmM1hpNXdhX3k0c052c2NIN21BYVNjNS1qLWdaYnJHNGhCT1QxY1BJN3dsQkFNcWdqaUhobTdhbldKZDJwdmNxOUUycnc3TzdRNmczeHIyaTlhLVY1My1DbVd3aVEyWWV4VUFtQ3BiNU0yU080Qk1rZl9fMzlmMU1Fb0RUSGduZldnbHdQamdvb09kMUdJM2pPUkxCUzcxOHhWM2JNQ0JoclBrZ2pxVHFsZ0cwRl9FVUJuOUUyQnZwRnZCWjB2U29ydGc0ZWpoQUYzSV91MkdoZF9uV2J0NDE3Nk83dTJkUzR2QkVJcmpVNUI3RkYzVXZ5NHV2NzhQZnVDRHc1djljX0x3MFBTQVc3d0lwQjFRN2pwdmpBWUtOQmlGTmFRNFp0SDF3YmNPekIxZWd5QWhveFhIcWlMNnFjV2c4OFJldVF1bUMxZ3FUMEQyT2xubjhfNEs4Uk1WaGI2VnE0dzhkRWpjZWVuTWh2dHN6b0g1b0pKQ19KN0lTcG1LVks2VnVha09nSUQ2LWRFanFFMW93NTZ3QlJKMVA1MUdVd2JJZTRidUJJbVVreUJFa29lazJ4bEs5dUN4T25BMWhZLWRlVF83VmVOblhiek1yVmxlYlJXMWpaTmZubVljLVlTNC1jcGZibzBzZk5SVW0yaXlkNktObEV1T18wNFNiT2w1MHpMWlN1ZWtUV2JTclNOdmltUERwUDJJemx2Ukhnd0psem8waEVfV0tKYUF6THpYMkxRZ1JWTlNoNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 스마트폰 넘어 자율주행·로봇까지…카메라 부품주 동반 강세
+15. 스마트폰 넘어 자율주행·로봇까지…카메라 부품주 동반 강세
    - 분야: 자율주행 / 게재일: 2026-11-11 / 매체: 핀포인트뉴스
    - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTE5rc0ZwdlMtMXVQUk1HLUZoVmdROUxIeVpfbS16RlhnU01WOFF1RU1ybzJOc0F5ZlBkdmg1S1VFUWN3V2syMEw1LVRQTjFfQVlEQzBHLWVFMms4WGNFbFR3RjZOY2ZpRkpCblhfdHAtY0p2Z1N5N3E40gF3QVVfeXFMTmtzRnB2Uy0xdVBSTUctRmhWZ1E5TEh5Wl9tLXpGWGdTTVY4UXVFTXJvMk5zQXlmUGR2aDVLVUVRY3dXazIwTDUtVFBOMV9BWURDMEctZUUyazhYY0VsVHdGNk5jZmlGSkJuWF90cC1jSnZnU3k3cTg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 국가철도공단, 제2철도교통관제센터 AI·빅데이터 관제기술 공개
+16. 국가철도공단, 제2철도교통관제센터 AI·빅데이터 관제기술 공개
    - 분야: 신호·관제 / 게재일: 2026-11-12 / 매체: 한국철도일보
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE01LVltX2tCaXdoNG5zLVZjcGw4dlYzc3lPeFhOdDRyb0hXSUpHQUlBaVZMN0tYd3ZKZ1VBdlg1T1JxMUQ1M3pQTUJQU2tfYkE2eUNIN3FZT0ppMXdYLTZrSmZaOVIzcGxpTVhjNkY4UUc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 국가철도공단, SNS 기자단 초청 `제2철도교통관제센터 관제시스템 개발 현장` 소개
-   - 분야: 신호·관제 / 게재일: 2026-11-12 / 매체: 이코노믹포스트
-   - 원문: https://news.google.com/rss/articles/CBMiTEFVX3lxTFBiM1ZENlpOdmU1QmNnRHZBVlBrNFN6VkhGVTY4MWJONk1xdGxTNE91ZmFEcVAtb0laUmJIWG5icVNHMkdfYWxwQlZwRkY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. [지자체] 여수시, 공영주차장 120면 확충해 원도심 주차난 던다
+17. [지자체] 여수시, 공영주차장 120면 확충해 원도심 주차난 던다
    - 분야: 대중교통·물류 / 게재일: 2026-11-12 / 매체: ITS Korea
    - 원문: https://www.jnilbo.com/news/articleView.html?idxno=90000081643
 
-20. 고양시, 실시간 AI 교통신호시스템…"5개 교차로서 시범"
+18. 고양시, 실시간 AI 교통신호시스템…"5개 교차로서 시범"
    - 분야: 신호·관제 / 게재일: 2026-11-09 / 매체: 뉴시스
    - 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE1GYWdQdzVReGhkTHNlaUpQYXJlS0tMd3BoU3VEdy1zRVVuZE5HZVdHMkI2UlRZM2dGYmJVUWRyVldYdHp3ZGhpd2dxUWNscVNHXzFuanFBUnY4elpGeUY2cHp2OWNyZEd6SlJNS1JycXozYTVqa255N9IBeEFVX3lxTE1GYWdQdzVReGhkTHNlaUpQYXJlS0tMd3BoU3VEdy1zRVVuZE5HZVdHMkI2UlRZM2dGYmJVUWRyVldYdHp3ZGhpd2dxUWNscVNHXzFuanFBUnY4elpGeUY2cHp2OWNyZEd6SlJNS1JycXozYTVqa255Nw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. CoreWeave, 자율주행 기업 Wayve와 다년간 클라우드 계약 체결
+   - 분야: 산업·투자 / 게재일: 2026-11-09 / 매체: Investing.com 한국어
+   - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFBYOUNVelFTZm9GZXNjXzdoeG5WOUVmX2k5SFU3VmhHd3ZPRWZ1dnM2N0dobEtjNWlxcXNQbkViaWg1MDA5ZnRoQVNFTHpid3ZjckR4d25ZMXV0OWpQdk1TTEJVRTBKMXdYRDRwY1M2X1I?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 코어위브, 자율주행 기업 웨이브와 클라우드 계약
+   - 분야: 자율주행 / 게재일: 2026-11-10 / 매체: 시사매거진
+   - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE5EeVVkS2VUcmVRMkNabUMyMVNtZGhldXBCbW51dzN3ajBEcEMwekRybzRSWGdlYnJORXBGWEZTWm1mMnFfVndZSTh4Z09QNWdNaTRQMWNtMGRPZF9XQkJuNmpZU2N2RUJ5NDBLTUE3S1oydDB1YS1kaWhLcw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
