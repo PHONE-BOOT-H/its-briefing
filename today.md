@@ -56,45 +56,45 @@
    - 분야: 요금·통행료 / 게재일: 2026-11-12 / 매체: ITS International
    - 원문: https://www.itsinternational.com/indra-wins-44m-california-free-flow-toll-deal/
 
-11. CASE STUDY: How and why PA Turnpike is removing all its tolling plazas
-   - 분야: 요금·통행료 / 게재일: 2026-11-11 / 매체: Traffic Technology Today
-   - 원문: https://www.traffictechnologytoday.com/features/case-study-how-and-wwhy-pa-turnpike-is-removing-all-its-tolling-plazas.html
-
-12. Seyond launches SIMPL-Tolling Lidar solution
+11. Seyond launches SIMPL-Tolling Lidar solution
    - 분야: 요금·통행료 / 게재일: 2026-11-12 / 매체: ITS International
    - 원문: https://www.itsinternational.com/seyond-launches-simpl-tolling-lidar-solution/
 
-13. Weekes to lead toll tech at HNTB
+12. Weekes to lead toll tech at HNTB
    - 분야: 요금·통행료 / 게재일: 2026-11-13 / 매체: ITS International
    - 원문: https://www.itsinternational.com/weekes-to-lead-toll-tech-at-hntb/
 
-14. Haltivision first to integrate Q-Free’s Intrada Cloud ANPR
-   - 분야: 단속·집행 / 게재일: 2026-11-13 / 매체: Traffic Technology Today
-   - 원문: https://www.traffictechnologytoday.com/news/enforcement/haltivision-first-to-integrate-q-frees-intrada-cloud-anpr.html
-
-15. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
+13. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://warwick.ac.uk/fac/sci/wmg/news-and-events/news/new-partnerships-strengthen-pave-uks-commitment-to-self-driving-mobility/?utm_source=chatgpt.com
 
-16. FAA Expands AI-Assisted Traffic Management Nationwide
+14. FAA Expands AI-Assisted Traffic Management Nationwide
    - 분야: 신호·관제 / 게재일: 2026-11-12 / 매체: AVweb
    - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFctVWd0X3BNR2VZTW90Yk9Sb3ZhZ2ROMnZFQno4X0xkZGl0NTZ5YkpUMWlEMFJMTndzQ2taUXhLTTNlWlBsT01aSE1HbEY5THp5cnpzUHh6WmZZNTZBVHhKRXRObUNRblNiUjI1MUZzbVV1dWMtQm9tT053S1dqSA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. The state is preparing digital traffic control on motorways ᐉ News from Fakti.bg - Bulgaria
+15. The state is preparing digital traffic control on motorways ᐉ News from Fakti.bg - Bulgaria
    - 분야: 신호·관제 / 게재일: 2026-11-13 / 매체: Fakti.bg
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxPY1JrYlBIZ05tU1FnaUg4c0YzcWMybldja3d3alNxaUgtZ2VmcGpKSURIVG1SRmlWcXRUaEJkaERJLUlpS1p6bEo5ZzI5SEJkRUpWeTBMQU1mLUhmeEwyVDlLUW5jUS1UNGRqeUZQeUtBZmFTeTFzUF9uUEdhR2hCcE1Td1VoSV9tLXJ6YW1OamxUMTZ5R0FRT29RdTY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. DeTect Awarded Contract to Supply MERLIN™ True3D® Bird Detection Radar to the Soekarno-Hatta Airport in Jakarta
-   - 분야: 산업·투자 / 게재일: 2026-11-08 / 매체: Construction & Property News
-   - 원문: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHY0eFdmRE9GN1ptM2Jsa1F2M2otWnlZYTFhZjVwcFQ5ckdsUURha2t4Rkt3bURDWHB6b0ZVTF9rLWxxdi12RzQ0amdoemdmcTBkMFh3cGxYbkhHWFQzeEpEVnVnVUc4QkdER19RdWxoZ1hRM3h3bmtxSDJ6S3RKeHdaLUR2V21Zb3lN?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. Thoma-Sea wins contract for TUSTUMENA replacement
+16. Thoma-Sea wins contract for TUSTUMENA replacement
    - 분야: 산업·투자 / 게재일: 2026-11-09 / 매체: Shippax
    - 원문: https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzluYWp6Wmc4cU00a2Z0LUdXbE45bG9aWVVKdW1BakFwcDZrb3lkY0taaEJMUkFFR3JEY1Vhai14b2wwa3ZuUV9xSVlFc3MzRnF1WkdlMV9vUjVWNW1oVUo5QkZ1dElZWDFSeUlNRUJudGxHRjdwLXdYY21QN0YxTjM4REJzTEZzNlhvMk95cw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. Verra Mobility data pinpoints peak Thanksgiving speeding times
-   - 분야: 단속·집행 / 게재일: 2026-11-09 / 매체: Traffic Technology Today
-   - 원문: https://www.traffictechnologytoday.com/news/safety/verra-mobility-data-pinpoints-peak-thanksgiving-speeding-times.html
+17. Merlin Awarded Contract for U.S. Africa Command Autonomous Casualty Evacuation Technology Challenge
+   - 분야: 자율주행 / 게재일: 2026-11-11 / 매체: GlobeNewswire
+   - 원문: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTGJDSHdwTUdnaGxVRWhqTV8wd2UtcFVtZ0JHeE1pMnA0bGtxeDhPeWFYU2VjZUpVOTl3anNPc3otTHNRRmtqV1RJcDdPYlE1T3YwbEpPYVBFdXZPYmFhSGctTm1fOTkza25Ra2VMam9PblRuTGZyeEd3dVNZLTVWdTNiZzM5WWlxMzd0cXFmanZ2UzE5NC1rZGIzZEZxWXQyNlFYdGgzczBEdDNBd1d6b3hWQXdZa2MxcXhGZGVrWHFzTTRXZ20zc29NM0c1end5TlBVTUUycFVBUEpGbjFBRDY2TmxIRUFIYm9pM1BSdHVOWHVnWjhHaWVjbERLT3M?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+18. Teracom wins contract to provide aerial coverage for Swedish Emergency Network
+   - 분야: 산업·투자 / 게재일: 2026-11-11 / 매체: Telecompaper
+   - 원문: https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXhnaE51Q09PN1drTkJYVHpXS2FrdXRsY1JXRlJvbnBDTEhSdTdpV3c1MXpubFd2aF9DT3RKcnJFLXNGejNFZ0FXZVVCZVppVnh3TWNfdEQ1Q3RTV1FjRTZZQ0VTLTJqSnduNTdQdEl5WWRjbUlNN1ZBVEE2aHcxMUpKLVYyTU1SSUxydU9uZDBBWEMzaC02emF1OUxJMklndi1NaThrWk8wWjdGSG1kTTB6MktRbUJVVXJxZGpB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. Government Plans Major Road Safety Reform with Real-Time Traffic Monitoring, Early Warning Systems 2026
+   - 분야: 신호·관제 / 게재일: 2026-11-12 / 매체: balgarianovinite.com
+   - 원문: https://news.google.com/rss/articles/CBMihgFBVV95cUxQZURoRUtmQ19vNUluMXRsck9RbVFDdkdKTWxQajhwMDlaY2Q1OWotWEJUdEdnOS1IX2VJS0x2RUppMS1fVkZOWjc5ODhKMG15NFFlbHlQRHpkQ1l0clBtYTdReDNMdlBiMTNmel9lOXhIR1NZaG4zVWtDSzhRSll4TzlURHVoUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. Dhaka Metro Contract Gives Tata Projects a Major Global Transit Boost
+   - 분야: 대중교통·물류 / 게재일: 2026-11-12 / 매체: Urban Acres
+   - 원문: https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHBoRFJNOF81MnpkaHBERWhmeS1xMXZTVjY2dXFhRzJPeVF3SkFnVGdXWUQ2U1V6a0M5Wk56Z0o1dHJBemkyM1A0R1dDY3AtNUJGQUFBc0RUMHhIYmFLelVPZ2V2VGl5Z2JPdDZXN2RleENtdUF2X3ZBdFdIWDJwUldxQVdUT1BmdzRiaEppdEk1OEpkano0?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
