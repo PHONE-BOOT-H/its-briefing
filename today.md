@@ -1,4 +1,4 @@
-# ITS 브리핑 2026-11-14
+# ITS 브리핑 2026-11-15
 
 해외 ITS 기사·국내 ITS 기사·해외 발주 공고를 매일 06시에 모은 것입니다.
 이미 게시판에 올린 건, 관련도가 낮은 건, 원문이 오래된 건은 빼고 후보만 남겼습니다.
@@ -16,81 +16,81 @@
 
 등록 게시판: ITS국제협력센터 > 수출정보 > 국가별 ITS 시장정보
 
-1. 자율주행 속도내는 엔비디아…韓 로보택시 실증 ‘눈독’
-   - 분야: 자율주행 / 게재일: 2026-11-08 / 매체: ITS Korea
-   - 원문: https://www.sedaily.com/article/20111630?ref=naver
-
-2. [호주] 테슬라, 호주 상원 청문회서 2027년 완전 무인 자율주행 도로 실증 허가 촉구
+1. [호주] 테슬라, 호주 상원 청문회서 2027년 완전 무인 자율주행 도로 실증 허가 촉구
    - 분야: 자율주행 / 게재일: 2026-11-11 / 매체: ITS Korea
    - 원문: https://autotalk.com.au/industry-news/tesla-asks-senate-inquiry-to-bring-autonomous-vehicle-law-forward-to-2027
 
-3. [뉴질랜드] National Intelligent Transport Systems Maintenance Contract
+2. [뉴질랜드] National Intelligent Transport Systems Maintenance Contract
    - 분야: 신호·관제 / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://www.gets.govt.nz/NZTAHNO/ExternalTenderDetails.htm?id=35399092&utm_source=chatgpt.com
 
-4. [일본] 총무성·국토교통성, 레벨 4 자율주행 및 대중교통 지원 전용 V2I 통신 인프라 가이드라인 본격 가동
-   - 분야: C-ITS·V2X / 게재일: 2026-11-08 / 매체: ITS Korea
-   - 원문: https://www.tesla-mag.com/en/tesla-fsd-supervised-europe-approved-countries-tracker/
-
-5. [일본] 기노사키 온센 지구에서는 자율주행버스 시범 운행이 진행될 예정입니다.
+3. [일본] 기노사키 온센 지구에서는 자율주행버스 시범 운행이 진행될 예정입니다.
    - 분야: 자율주행 / 게재일: 2026-11-11 / 매체: ITS Korea
    - 원문: https://www.city.toyooka.lg.jp/kurashi/dorokotsu/1039195/1039198.html?utm_source=chatgpt.com
 
-6. [미국] 자율주행 전기 화물 스타트업 험블 로보틱스(Humble Robotics), 5,100만 달러 규모 시리즈 A 투자 유치
+4. [미국] 자율주행 전기 화물 스타트업 험블 로보틱스(Humble Robotics), 5,100만 달러 규모 시리즈 A 투자 유치
    - 분야: 산업·투자 / 게재일: 2026-11-12 / 매체: ITS Korea
    - 원문: https://www.goodwinlaw.com/en/news-and-events/news/2026/11/announcements-technology-goodwin-advises-humble-robotics-51-million-series-a
 
-7. [싱가포르] 육상교통청(LTA), 풍골 지역 자율주행 셔틀 주행 이상 사례 검토 및 일부 테스트 일시 중단 지시
+5. [싱가포르] 육상교통청(LTA), 풍골 지역 자율주행 셔틀 주행 이상 사례 검토 및 일부 테스트 일시 중단 지시
    - 분야: 자율주행 / 게재일: 2026-11-12 / 매체: ITS Korea
    - 원문: https://mothership.sg/2026/11/av-punggol-brake/
 
-8. [미국] IBTTA ANNUAL MEETING: Seyond to showcase lidar toll classification
+6. [미국] IBTTA ANNUAL MEETING: Seyond to showcase lidar toll classification
    - 분야: 요금·통행료 / 게재일: 2026-11-10 / 매체: ITS Korea
    - 원문: https://www.traffictechnologytoday.com/news/tolling/ibtta-annual-meeting-seyond-to-showcase-lidar-toll-classification.html
 
-9. [칠레] Kapsch to implement new Free Flow tolling system at Lo Ruiz Tunnel in Chile
+7. [칠레] Kapsch to implement new Free Flow tolling system at Lo Ruiz Tunnel in Chile
    - 분야: 요금·통행료 / 게재일: 2026-11-12 / 매체: ITS Korea
    - 원문: https://www.kapsch.net/en/press/releases/20261112
 
-10. [미국] Indra Group USA Wins Project Worth More Than $44 Million to Improve Mobility on California’s Yolo 80 Corridor
+8. [미국] Indra Group USA Wins Project Worth More Than $44 Million to Improve Mobility on California’s Yolo 80 Corridor
    - 분야: 기타 / 게재일: 2026-11-12 / 매체: ITS Korea
    - 원문: https://www.globenewswire.com/news-release/2026/11/11/3400959/0/en/indra-group-usa-wins-project-worth-more-than-44-million-to-improve-mobility-on-california-s-yolo-80-corridor.html
 
-11. [브라질] 통신사 TIM 브라질·BYD, 약 40만 대 차량 및 카마사리 공장 대상 4G/5G 커넥티드 모빌리티 동맹 체결
+9. [브라질] 통신사 TIM 브라질·BYD, 약 40만 대 차량 및 카마사리 공장 대상 4G/5G 커넥티드 모빌리티 동맹 체결
    - 분야: 기타 / 게재일: 2026-11-11 / 매체: ITS Korea
    - 원문: https://latamobility.com/en/byd-and-tim-seal-alliance-to-connect-camacari-factory-and-nearly-400000-vehicles-in-brazil-with-4g-and-5g/
 
-12. CASE STUDY: How and why PA Turnpike is removing all its tolling plazas
+10. Indra wins $44m California free-flow toll deal
+   - 분야: 요금·통행료 / 게재일: 2026-11-12 / 매체: ITS International
+   - 원문: https://www.itsinternational.com/indra-wins-44m-california-free-flow-toll-deal/
+
+11. CASE STUDY: How and why PA Turnpike is removing all its tolling plazas
    - 분야: 요금·통행료 / 게재일: 2026-11-11 / 매체: Traffic Technology Today
    - 원문: https://www.traffictechnologytoday.com/features/case-study-how-and-wwhy-pa-turnpike-is-removing-all-its-tolling-plazas.html
 
-13. Seyond launches SIMPL-Tolling Lidar solution
+12. Seyond launches SIMPL-Tolling Lidar solution
    - 분야: 요금·통행료 / 게재일: 2026-11-12 / 매체: ITS International
    - 원문: https://www.itsinternational.com/seyond-launches-simpl-tolling-lidar-solution/
 
-14. Weekes to lead toll tech at HNTB
+13. Weekes to lead toll tech at HNTB
    - 분야: 요금·통행료 / 게재일: 2026-11-13 / 매체: ITS International
    - 원문: https://www.itsinternational.com/weekes-to-lead-toll-tech-at-hntb/
 
-15. Haltivision first to integrate Q-Free’s Intrada Cloud ANPR
+14. Haltivision first to integrate Q-Free’s Intrada Cloud ANPR
    - 분야: 단속·집행 / 게재일: 2026-11-13 / 매체: Traffic Technology Today
    - 원문: https://www.traffictechnologytoday.com/news/enforcement/haltivision-first-to-integrate-q-frees-intrada-cloud-anpr.html
 
-16. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
+15. [영국] New partnerships strengthen PAVE UK’s commitment to self-driving mobility
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: ITS Korea
    - 원문: https://warwick.ac.uk/fac/sci/wmg/news-and-events/news/new-partnerships-strengthen-pave-uks-commitment-to-self-driving-mobility/?utm_source=chatgpt.com
 
-17. FAA Expands AI-Assisted Traffic Management Nationwide
+16. FAA Expands AI-Assisted Traffic Management Nationwide
    - 분야: 신호·관제 / 게재일: 2026-11-12 / 매체: AVweb
    - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFctVWd0X3BNR2VZTW90Yk9Sb3ZhZ2ROMnZFQno4X0xkZGl0NTZ5YkpUMWlEMFJMTndzQ2taUXhLTTNlWlBsT01aSE1HbEY5THp5cnpzUHh6WmZZNTZBVHhKRXRObUNRblNiUjI1MUZzbVV1dWMtQm9tT053S1dqSA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. The state is preparing digital traffic control on motorways ᐉ News from Fakti.bg - Bulgaria
+17. The state is preparing digital traffic control on motorways ᐉ News from Fakti.bg - Bulgaria
    - 분야: 신호·관제 / 게재일: 2026-11-13 / 매체: Fakti.bg
    - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxPY1JrYlBIZ05tU1FnaUg4c0YzcWMybldja3d3alNxaUgtZ2VmcGpKSURIVG1SRmlWcXRUaEJkaERJLUlpS1p6bEo5ZzI5SEJkRUpWeTBMQU1mLUhmeEwyVDlLUW5jUS1UNGRqeUZQeUtBZmFTeTFzUF9uUEdhR2hCcE1Td1VoSV9tLXJ6YW1OamxUMTZ5R0FRT29RdTY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. DeTect Awarded Contract to Supply MERLIN™ True3D® Bird Detection Radar to the Soekarno-Hatta Airport in Jakarta
+18. DeTect Awarded Contract to Supply MERLIN™ True3D® Bird Detection Radar to the Soekarno-Hatta Airport in Jakarta
    - 분야: 산업·투자 / 게재일: 2026-11-08 / 매체: Construction & Property News
    - 원문: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHY0eFdmRE9GN1ptM2Jsa1F2M2otWnlZYTFhZjVwcFQ5ckdsUURha2t4Rkt3bURDWHB6b0ZVTF9rLWxxdi12RzQ0amdoemdmcTBkMFh3cGxYbkhHWFQzeEpEVnVnVUc4QkdER19RdWxoZ1hRM3h3bmtxSDJ6S3RKeHdaLUR2V21Zb3lN?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. Thoma-Sea wins contract for TUSTUMENA replacement
+   - 분야: 산업·투자 / 게재일: 2026-11-09 / 매체: Shippax
+   - 원문: https://news.google.com/rss/articles/CBMijwFBVV95cUxQQzluYWp6Wmc4cU00a2Z0LUdXbE45bG9aWVVKdW1BakFwcDZrb3lkY0taaEJMUkFFR3JEY1Vhai14b2wwa3ZuUV9xSVlFc3MzRnF1WkdlMV9vUjVWNW1oVUo5QkZ1dElZWDFSeUlNRUJudGxHRjdwLXdYY21QN0YxTjM4REJzTEZzNlhvMk95cw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 20. Verra Mobility data pinpoints peak Thanksgiving speeding times
    - 분야: 단속·집행 / 게재일: 2026-11-09 / 매체: Traffic Technology Today
@@ -150,37 +150,37 @@
    - 분야: 기술·표준 / 게재일: 2026-11-11 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMi6w9BVV95cUxOMDFNcHdHNDV3NzIwQXNBaXJvUFZEZmNkUmVNQldScjdTVXkxNFFCUk9EWlVQaERIZXI0andSR1BVQWxPenY4d2tSS0J2Z2prdjlYUjBnaW4yTHk2b1ZBb3R4M2dCalJ2dk5FeUZKTFY5SHp0Z2xJZFc5UE1KdXoxRmJWUGc1aWJzazlNMXZLeXFkdWVlemw3eU1vTzJ3Nm5lR0M3RUprMXZrRlhwaEhtMWNxc0VkNElOWVZYU0ROSVNDdVFOUlBMYjg1YXdfUEduSHRyS1ZudVo0SE9qQXJ5WmNMRTVzdlB6b0xFbERHb1pLYTc4RVF6LW82am96Q1J0YmpkYTJWbk9UUTB4YmFvY2dKYzZNd2RQSFlvNEFfMWZWZmVIRkg5N28yUTl1c1FGaVhDcmxUTDRPNDB6bmR5WlJTMnVqVk1JNUpBLXlyMTUxdlVfMG0wZFQ1TkxyOXZ2azhJM0hteEVFZWJadEZNSkxwVG9VcFZ3UlppWHQ0U0pBMjdWUS04LWJ5d0NPLVBjY25feVBIb3A3QnRkUURXSzh2X2otbWUxX00wRkRlaDRuV0NBU1owSVdRRmx5bm4tVi12NHNYQTMtN2tQaFRFcl9ORU5PSTZRVGZSa0I5UzcyWmxoVS10ZC1uRGQ0MjF1cjBmNTAxWUZBc0hpejZKNFNFalc5bjdLTm51WFFmb2stRzAxS3pNSzJhZ0FrcDk0SlhhUnhTZTQyajY1OUNnOG9BWk9tQ2VPLU85VUtNeFlKaHpEZE9CS3ZCQjlMaXBmTEZqcWhkUl9fdnR5d1Z0RjhJN181ZTQ2d0FITlVDM18zaS1fQ3BMU04tcWxxaWU2WkRYSnk5dk4ycU5DX3BadVJDWko4bTVBUVVZWF9BTFF4UVhrNDZkemY2SWZZOVJodnZlb1kxQnZYMGx2aFVqTUpmNFp3cVA3ZVVUeDdsd1BXVjkyUjNXZnFJckw2amoyME4wNXloa3FrSi14N0lPOVJDbldIdHJwRUwtSkVHd2Q2V2VoMkVfakI4cjcyM0VMR3U4eDZBWHk5TWxkVDlyS0NUdWYtS0x3ZkV3Q0tGU1ZRYlNqelN4azd5T0NPMkV2NUNRdEY5S2RHa0hBQ3R0eXRmNHpXRVhJQW1hNlFqem81WDRsQ0dhUHVnU09vZkUycm1nLUhUZk5taWx0aWI1MFZBRFVaWmYtVXBwWGloMDU2S0M1TzlaWlhhbjByQWtZX3NyOFcta3V6aXFQRnVITlgyUkVZdkozLXJIZjBSU0JIX3RXc1BBWUJpZXl2TmRNQ196MVI2MVpyTzdOWXdhUHhYUWdReVF4cjlMZ1ZOeTYtZnVJNVAtZDNyd01hdEpsQnBjU2VPY2lXZ19rcDl5NzRFZ0Z6Wk9KMlREenRfbDB2SmFnSVZSbnozdlhLX20yMFFKQzR4RC1qS0JpRmpJN3plVXpaanhDRkZqSzlVd2wtVkpWWUJPeHJ4WnQtWElDOC1YV2hDdzAyVVFMd09FTGdqdTNIMEZoQWwxVjRTTDg2UHJyV1Ytd21paUlkRXU2U0wxVm5XZHhnX0lKc0IwZlcyOS1WSFRVeGN1cXJFLVkzSnJuM1Zad2Nycm11T0xPTWhSSkJmTWtiTFJTUU50X0hBQlVrYmR1YkRmRTIwZ016cUJzb1JLM3BYRlRBXzBHb21pTEwxS3VhaVJPVXVZNUZZRkNjMzhLckVtRkNGUzJSTEV6eTZLRDN6SDBYZzZkLTNiYm5LU0p4V3RjdGpxejRmSnJUYXRsYnhVOWJ6c1pXRUJfT3VTd1JqUkZSVGlOUWhDd0VvcTlUR3VGbkdjSG9hSkw5MEx6cG9SLU5IbFBrVTlBSksxVkMxUVRpZGxiWTc2TkdGRjFESVZKdFNqTUdvRmYxQ3pSaWpMak94NGJNaHE4cF9Hbi1NZV9xUnNtZFFmM1hpNXdhX3k0c052c2NIN21BYVNjNS1qLWdaYnJHNGhCT1QxY1BJN3dsQkFNcWdqaUhobTdhbldKZDJwdmNxOUUycnc3TzdRNmczeHIyaTlhLVY1My1DbVd3aVEyWWV4VUFtQ3BiNU0yU080Qk1rZl9fMzlmMU1Fb0RUSGduZldnbHdQamdvb09kMUdJM2pPUkxCUzcxOHhWM2JNQ0JoclBrZ2pxVHFsZ0cwRl9FVUJuOUUyQnZwRnZCWjB2U29ydGc0ZWpoQUYzSV91MkdoZF9uV2J0NDE3Nk83dTJkUzR2QkVJcmpVNUI3RkYzVXZ5NHV2NzhQZnVDRHc1djljX0x3MFBTQVc3d0lwQjFRN2pwdmpBWUtOQmlGTmFRNFp0SDF3YmNPekIxZWd5QWhveFhIcWlMNnFjV2c4OFJldVF1bUMxZ3FUMEQyT2xubjhfNEs4Uk1WaGI2VnE0dzhkRWpjZWVuTWh2dHN6b0g1b0pKQ19KN0lTcG1LVks2VnVha09nSUQ2LWRFanFFMW93NTZ3QlJKMVA1MUdVd2JJZTRidUJJbVVreUJFa29lazJ4bEs5dUN4T25BMWhZLWRlVF83VmVOblhiek1yVmxlYlJXMWpaTmZubVljLVlTNC1jcGZibzBzZk5SVW0yaXlkNktObEV1T18wNFNiT2w1MHpMWlN1ZWtUV2JTclNOdmltUERwUDJJemx2Ukhnd0psem8waEVfV0tKYUF6THpYMkxRZ1JWTlNoNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 스마트폰 넘어 자율주행·로봇까지…카메라 부품주 동반 강세
-   - 분야: 자율주행 / 게재일: 2026-11-11 / 매체: 핀포인트뉴스
-   - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTE5rc0ZwdlMtMXVQUk1HLUZoVmdROUxIeVpfbS16RlhnU01WOFF1RU1ybzJOc0F5ZlBkdmg1S1VFUWN3V2syMEw1LVRQTjFfQVlEQzBHLWVFMms4WGNFbFR3RjZOY2ZpRkpCblhfdHAtY0p2Z1N5N3E40gF3QVVfeXFMTmtzRnB2Uy0xdVBSTUctRmhWZ1E5TEh5Wl9tLXpGWGdTTVY4UXVFTXJvMk5zQXlmUGR2aDVLVUVRY3dXazIwTDUtVFBOMV9BWURDMEctZUUyazhYY0VsVHdGNk5jZmlGSkJuWF90cC1jSnZnU3k3cTg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-14. 국가철도공단, 제2철도교통관제센터 AI·빅데이터 관제기술 공개
+13. 국가철도공단, 제2철도교통관제센터 AI·빅데이터 관제기술 공개
    - 분야: 신호·관제 / 게재일: 2026-11-12 / 매체: 한국철도일보
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE01LVltX2tCaXdoNG5zLVZjcGw4dlYzc3lPeFhOdDRyb0hXSUpHQUlBaVZMN0tYd3ZKZ1VBdlg1T1JxMUQ1M3pQTUJQU2tfYkE2eUNIN3FZT0ppMXdYLTZrSmZaOVIzcGxpTVhjNkY4UUc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 자동차 | 하이브리드가 수익성 방어, 로봇·자율주행이 재평가의 관건
+14. 자동차 | 하이브리드가 수익성 방어, 로봇·자율주행이 재평가의 관건
    - 분야: 자율주행 / 게재일: 2026-11-13 / 매체: 네이버 프리미엄콘텐츠
    - 원문: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWRZUUpoc1hlNzNxSnhFWkoxbUlrOFRRYlh6MzFITmVwN19HY2NtVzdaVFpCMVNCNnRyZWpIUTJUSlpQNTg2TzZ5VXBFM0RuQTVyeWdwQl9meUdoMFpma2RvVThvRDZvN0FkMFg3Vmt3QWhOVmwweWIzT19ENzNqUVdJVHc4SU5L?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [지자체] 여수시, 공영주차장 120면 확충해 원도심 주차난 던다
+15. [지자체] 여수시, 공영주차장 120면 확충해 원도심 주차난 던다
    - 분야: 대중교통·물류 / 게재일: 2026-11-12 / 매체: ITS Korea
    - 원문: https://www.jnilbo.com/news/articleView.html?idxno=90000081643
 
-17. 고양시, 실시간 AI 교통신호시스템…"5개 교차로서 시범"
+16. 고양시, 실시간 AI 교통신호시스템…"5개 교차로서 시범"
    - 분야: 신호·관제 / 게재일: 2026-11-09 / 매체: 뉴시스
    - 원문: https://news.google.com/rss/articles/CBMieEFVX3lxTE1GYWdQdzVReGhkTHNlaUpQYXJlS0tMd3BoU3VEdy1zRVVuZE5HZVdHMkI2UlRZM2dGYmJVUWRyVldYdHp3ZGhpd2dxUWNscVNHXzFuanFBUnY4elpGeUY2cHp2OWNyZEd6SlJNS1JycXozYTVqa255N9IBeEFVX3lxTE1GYWdQdzVReGhkTHNlaUpQYXJlS0tMd3BoU3VEdy1zRVVuZE5HZVdHMkI2UlRZM2dGYmJVUWRyVldYdHp3ZGhpd2dxUWNscVNHXzFuanFBUnY4elpGeUY2cHp2OWNyZEd6SlJNS1JycXozYTVqa255Nw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. FSD의 ‘완전자율주행 딜레마’, 소송 불씨로 [김기혁의 테슬라월드]
-   - 분야: 자율주행 / 게재일: 2026-11-07 / 매체: 서울경제
-   - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE8yaWRxU2x4RTVxY0FIcmtjMUxVWHdWWi0zN0lSOU0zVlY0X3BSSmg3T2hPMVM0WGM4Q2FuRnAyR2VMY0oyNUh2cnljMnZOTy1DUXfSAVNBVV95cUxObkxzS2lCOWd4QmV3alJaSDZRaGRMNl9qQWhGVFJKQThnTFdzNEFOLW43UF9jNllZOUQzRy1rN1Q4VjFySjZNajdvNkVTTUphWENKRQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. CoreWeave, 자율주행 기업 Wayve와 다년간 클라우드 계약 체결
+17. CoreWeave, 자율주행 기업 Wayve와 다년간 클라우드 계약 체결
    - 분야: 산업·투자 / 게재일: 2026-11-09 / 매체: Investing.com 한국어
    - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFBYOUNVelFTZm9GZXNjXzdoeG5WOUVmX2k5SFU3VmhHd3ZPRWZ1dnM2N0dobEtjNWlxcXNQbkViaWg1MDA5ZnRoQVNFTHpid3ZjckR4d25ZMXV0OWpQdk1TTEJVRTBKMXdYRDRwY1M2X1I?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. 코어위브, 개장 전 1% 하락: 3분기 실적 발표 앞두고 영국 자율주행 기업 웨이브와 다년간의 AI 클라우드 파트너십 체결
+18. 코어위브, 개장 전 1% 하락: 3분기 실적 발표 앞두고 영국 자율주행 기업 웨이브와 다년간의 AI 클라우드 파트너십 체결
    - 분야: 자율주행 / 게재일: 2026-11-09 / 매체: TradingKey
    - 원문: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQc2hEbXpRZkRtaGZ3MklGaGt0Tl9CVXBuanZpQTAwZjdkLUNSM0ItQS1HWlhUM3BqRUZLbHhXeHRhdllHUWZkSmg4SERxaTRRbUV0RkRGMXI5cGY2RmVKX1RsZ2Y2VFFQNHhqZTlyQjBzNGlTLWhoblZrMnF0VE14dmtpbWlWVzFhdl9PUjhpSW1DM1ExUEVLXzNkZmY2RWZaTG9zM0NERlRFaWItbmtLUGxZcE0zeHRYTXd5T2dsbGtFX2FSbmlkczVqNl9sWmt1TUJQWk5Lcw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. 코어위브, 자율주행 기업 웨이브와 클라우드 계약
+   - 분야: 자율주행 / 게재일: 2026-11-10 / 매체: 시사매거진
+   - 원문: https://news.google.com/rss/articles/CBMie0FVX3lxTE5EeVVkS2VUcmVRMkNabUMyMVNtZGhldXBCbW51dzN3ajBEcEMwekRybzRSWGdlYnJORXBGWEZTWm1mMnFfVndZSTh4Z09QNWdNaTRQMWNtMGRPZF9XQkJuNmpZU2N2RUJ5NDBLTUE3S1oydDB1YS1kaWhLcw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. [현대차 다음 성장 조건] '정밀한 자율주행' 삼성과 함께 이뤄내나
+   - 분야: 자율주행 / 게재일: 2026-11-10 / 매체: Daum
+   - 원문: https://news.google.com/rss/articles/CBMiRkFVX3lxTFBhVjNqZm0tYlN3eXR1U1dDQWZId2kwMFYtaUFkb1JHTDIxa0xHMEh4NHZqay1tRDI3ajlqMl9NOUxWbXlac0E?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -198,25 +198,21 @@
   - 마감 2026-11-16 / 발주처 PIU VSTF (Village Social Transformation Foundation), Maharashtra
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480758
 
-- [볼리비아] Coordinador del Programa
-  - 마감 2026-11-18 / 발주처 Unidad Tecnica Aeroportuaria
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480894
-
-- [볼리비아] Especialista en Gestion Financiera
-  - 마감 2026-11-18 / 발주처 Unidad Tecnica Aeroportuaria
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480900
-
 - [부탄] Maintenance of road through Piloting of Performance Based Maintenance Contract (PBMC) of Wangdue Zam to Chuserbu (76.3Km) and Lawala to Phobjikha (17.24Km)
   - 마감 2026-11-19 / 발주처 Maintenance Division, Department of Surface Transport, Ministry of Infrastructure and Transport
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00469637
 
-- [볼리비아] Especialista Social
-  - 마감 2026-11-19 / 발주처 Unidad Tecnica Aeroportuaria
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480892
-
 - [폴란드] Poland – Repair and maintenance services – KU.241/pn63_2026/AT - Świadczenie usług polegających na diagnozowaniu usterek, usuwaniu awarii, wykonywaniu napraw oraz zapewnieniu sprawności technicznej tablic Dynamicznej Informacji Przystankowej (DIP) zlokalizowanych na terenie miasta Wrocławia i podłączonych do Systemu Dynamicznej Informacji Pasażerskiej
   - 마감 2026-11-20 / 발주처 Miejskie Przedsiębiorstwo Komunikacyjne Sp. z o.o. we Wrocławiu
   - 원문: https://ted.europa.eu/en/notice/-/detail/787906-2026
+
+- [볼리비아] Coordinador del Programa
+  - 마감 2026-11-20 / 발주처 Unidad Tecnica Aeroportuaria
+  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480894
+
+- [볼리비아] Especialista en Gestion Financiera
+  - 마감 2026-11-20 / 발주처 Unidad Tecnica Aeroportuaria
+  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480900
 
 - [콩고민주공화국] Consultant International Coordonnateur des activités environnementales et sociales,  exclusivement dédié aux PACT 1, 2 et 3 au sein de la Cellule  Infrastructures
   - 마감 2026-11-20 / 발주처 Cellule Infrastructures
@@ -225,6 +221,10 @@
 - [루마니아] Romania – Control, safety or signalling equipment for roads – Acord cadru de furnizare și punere în funcțiune de echipamente și dotări suplimentare, aferent obiectivului de investiții „Supraînălțare treceri pietoni și intersecții în vecinătatea unităților de învățământ și a zonelor aglomerate
   - 마감 2026-11-23 / 발주처 SECTOR 3 AL MUNICIPIULUI BUCURESTI
   - 원문: https://ted.europa.eu/en/notice/-/detail/777329-2026
+
+- [볼리비아] Especialista Social
+  - 마감 2026-11-23 / 발주처 Unidad Tecnica Aeroportuaria
+  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00480892
 
 - [크로아티아] Croatia – Traffic lights – IZVEDBA PROMETNIH ELABORATA SVJETLOSNE PROMETNE SIGNALIZACIJE
   - 마감 2026-11-24 / 발주처 GRAD ZAGREB
