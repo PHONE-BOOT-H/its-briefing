@@ -3971,24 +3971,96 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172399/view?mno=&pageIndex=1",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24307": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172400/view?mno=&pageIndex=1",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24308": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=130901",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24309": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000079935&menuNo=4010100",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24316": {
+  "body": "- 서류·실차 평가로 안전요건 확인, 연말까지 실증차량 120대 실제 도로 투입 전망 - 통합운영사무실 개소, 운행계획 수립, 사고대응 모의훈련 등 첫 차량 투입 준비 박차 □국토교통부(장관 홍지선)는 최초 도시 단위 자율주행 실증 공간인 「광주 자율주행 실증도시」의 첫 실증차량을 오는 11월 30일 투입하는 것을 목표로 차량 안전성 확인과 현장 운행 준비를 진행하고 있다고 밝혔다. ㅇ 광주 자율주행 실증도시는 자율주행차가 실제 도로의 복잡한 교통 환경 속에서 다양한 주행 상황을 학습하며 기술 완성도를 높이는 사업이다. ㅇ 지난 5월 ‘대한민국 자율주행팀’ 출범 이후 국토교통부, 전남광주통합특별시, 한국교통안전공단, 참여기업은 차량제작 및 개조부터 운행 지원, 24시간 사고대응체계 구축에 이르기까지 성공적인 실증을 위한 준비를 이어오고 있다. □ 자동차 제작사(현대차)는 소프트웨어 중심 차량(SDV) 200대를 제작‧인도할 계획이다. 현재까지 67대를 인도했으며, 자율주행 개발기업(현대차‧A2Z‧라이드플럭스)들은 인도받은 차량에 센서와 자율주행 시스템을 탑재하는 기능개조 및 점검을 진행 중이다. ㅇ 라이드플럭스가 지난주 첫 차량에 대한 임시운행허가를 신청했으며, 국토교통부와 한국교통안전공단은 서류검토 및 실차평가*를 거쳐 이달 중 차량의 안전운행요건을 확인할 예정이다. * 「자동차관리법 시행규칙」제26조의2제3항에 따른 자율주행자동차의 임시운행에 필요한 세부요건 및 확인하는 절차로, 시험운행과 조정장치, 경고장치 등 안전성확인 - 후속 차량도 준비 상황에 따라 순차적으로 임시운행허가를 진행할 계획이며, 국토교통부는 차량개조 및 허가 절차가 계획대로 진행될 경우 연말까지 약 120대를 실제 도로에 투입할 수 있을 것으로 전망하고 있다. □ 실증차량의 운행상황을 관리할 통합운영사무소(광주",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092599",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24317": {
+  "body": "□ 「공간정보의 구축 및 관리 등에 관한 법률(이하 ‘공간정보관리법’)｣에 따라 관계부처․기관 및 민간1전문가로 구성된「기본측량성과 국외반출 협의체*(이하 ‘협의체’)｣는 11월 13일 오전 10시 회의를 개최하여, 지난 2월 27일 구글社(Google LLC)에 허가한 1:5,000 지도 국외반출 건에 대해, 허가 시 부과한 보안조건의 이행 결과를 보고받고 점검·확인했다. * 협의체: 국토교통부(국토지리정보원), 과학기술정보통신부, 외교부, 통일부, 국방부, 행정안전부, 산업통상부, 국가정보원, 민간위원으로 구성 ㅇ 구글社는 좌표표시, 영상 보안처리, 데이터 가공, 보안사고 대응 절차 등 관련 조건에 대해 11월 4일 최종 보안조건 이행결과 보고서를 제출했다. □ (좌표표시) 협의체는 인터넷 및 모바일(안드로이드, iOS)에서 서비스되는 구글 맵스와 구글 어스의 글로벌 서비스에서 대한민국 영토의 경·위도 좌표 표시 제거 및 노출 제한이 전부 이행되었음을 확인했다. ㅇ 구글社는 이를 위해 대한민국 영토에만 적용되는 전용 제어 레이어를 개발했으며, 향후 애플리케이션 업데이트 시 좌표 노출 여부를 감지하면 배포를 차단하는 등 예방 및 준수 체계를 구축했다. □ (영상 보안처리) 구글社는 국토지리정보원이 보안처리한 영상(이하 ‘국내 처리 영상’)을 국내 제휴기업을 통해 공급받는 계약을 체결(2026.8.31.)했다. 향후 구글社는 국내 제휴기업으로부터 국내 처리 영상을 제공받는 즉시 지도 서비스의 영상을 교체해야 한다. ㅇ 군사·보안시설의 위치와 면적 등 전체 목록 및 명세는 그 자체가 보안정보에 해당하므로 구글社에 직접 제공하여 처리토록 하지 않고, 정부가 보안처리까지 완료한 영상을 국내 제휴기업을 통해 제공하도록 했으며, 구글社는 제공받은 영상을 수정 없이 그대로 탑재해야 한다. - 이",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95092596",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24318": {
+  "body": "- 11월 13일(금), 영덕소방서·주왕산국립공원 찾아 AI·위치정보 기반 산악구조 및 산불 대응 점검 - 주왕산서 산불 예방 국민동참 챌린지 및 관계기관 합동 캠페인 전개로 자발적 실천 독려 윤호중 행정안전부 장관은 11월 13일(금), 경북 영덕소방서와 주왕산국립공원을 찾아 과학적 산악구조·산불대응 지원 시스템 등 가을철 산불 대비태세를 점검하고, 산불 예방을 위한 국민 동참 캠페인을 진행했다. 이번 방문은 가을철 산불조심기간(11.1.~12.15.)을 맞아 관계기관의 산불 대응체계를 점검하고, 산을 찾는 국민에게 산불 예방수칙을 직접 홍보하며 자발적인 동참을 유도하기 위해 마련됐다. >> 영덕소방서: 위치정보·인공지능(AI) 활용 산악구조·산불대응 지원 시스템 점검 먼저, 윤 장관은 경북 영덕소방서를 방문해 위치정보 기반의 산악구조 시스템과 인공지능(AI)을 활용한 산불대응 지원 시스템을 점검하였다. 신고자에게 인터넷 주소(URL)를 전송해 정밀한 위치를 파악하는 민간 개발 위치추적 시스템을 시연하며, 기존 기지국을 중심으로 한 수색방식의 한계를 극복하고 구조 대상자에게 빠르게 접근할 수 있는 과학적 구조 체계의 중요성을 확인했다. 또한, 현직 소방관들이 자체 개발한 인공지능(AI)·지리정보시스템(GIS) 기반 현장지휘 산불지원 시스템*을 통해 지형, 기상, 위성정보를 결합한 산불 확산 예측과정을 살펴보았다. 이러한 첨단 기술이 효율적인 주민 대피 결정과 현장 대원의 안전 확보에 핵심적인 역할을 하고 있음을 높이 평가하고, 개발에 참여한 소방관들을 격려하였다. * 영덕소방서 정다호 소방위 등 3명이 개발(’26년 제1회 경북소방 AI 공모전 ‘정책분야’ 최우수 선정) 이어서 경북 청송군 주왕산국립공원을 방문해 가을철 산불조심기간(11.1.~12.15.)을 맞아 산불 대비태세를 점",
+  "date": null,
+  "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=130922",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24319": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-13",
+  "link": "https://www.m-i.kr/news/articleView.html?idxno=2018474",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24320": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-13",
+  "link": "https://www.joongang.co.kr/article/25478455",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24321": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-13",
+  "link": "https://www.ajunews.com/view/20261113213042922",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24323": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-13",
+  "link": "https://zdnet.co.kr/view/?no=20261113134331",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24324": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-14",
+  "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1731678",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24325": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-15",
+  "link": "https://www.theguru.co.kr/news/article.html?no=109735",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24326": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-15",
+  "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4090840",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24327": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-13",
+  "link": "https://www.ddnnews.kr/news/articleView.html?idxno=25340",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24328": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-15",
+  "link": "https://www.k-today.com/news/articleView.html?idxno=10854",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -6233,7 +6305,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010200\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.wardsauto.com/news/bmw-to-launch-level-2-urban-automated-driving-in-germany-in-2027/873711/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24313": {
   "body": "[Kapsch, 칠레 Lo Ruiz 터널에 새로운 Free Flow 통행료 징수 시스템 구현] [Kapsch, 칠레 Lo Ruiz 터널에 새로운 Free Flow 통행료 징수 시스템 구현] Copyright © 2018 ITS Korea. All rights reserved.",
@@ -6245,6 +6317,12 @@
   "body": "미국 연방도로청(FHWA)이 Great American Digital Corridors(GADC) 사업 공모를 시작했습니다. 총 2천만 달러 , 약 8개 사업을 지원하며 도로공사, 차로폐쇄, 교통상황 등 실시간·동적 교통정보의 디지털화를 통해 안전·교통효율·화물운송을 개선 하는 것이 핵심입니다. ITS Program을 통한 연방정부 지원사업이라는 점에서 국내 ITS 업계가 참고할 가치가 높습니다. 미국 연방도로청(FHWA)이 Great American Digital Corridors(GADC) 사업 공모를 시작했습니다. 총 2천만 달러 , 약 8개 사업을 지원하며 도로공사, 차로폐쇄, 교통상황 등 실시간·동적 교통정보의 디지털화를 통해 안전·교통효율·화물운송을 개선 하는 것이 핵심입니다. ITS Program을 통한 연방정부 지원사업이라는 점에서 국내 ITS 업계가 참고할 가치가 높습니다. Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://simpler.grants.gov/opportunity/426101f8-6633-4db7-8219-614c9c83867c?utm_source=chatgpt.com",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24329": {
+  "body": "Tolling organisation IBTTA and WTS International have signed a four-year memorandum of understanding at IBTTA’s 94th Annual Meeting and Exhibition in Arlington, Texas. WTS International exists to advance the careers of women in transportation, and the agreement is to expand leadership development, workforce development and professional opportunities for members of both organisations...중략... [IBTTA, WTS International과 양해각서 체결 및 차세대 인재 초청으로 업계 선도] 통행료 징수 기관인 IBTTA와 WTS International은 텍사스주 알링턴에서 열린 제94회 IBTTA 연례 회의 및 전시회에서 4년 양해각서를 체결했습니다. WTS International은 운송업계 여성의 경력 발전을 위해 설립되었으며, 이번 협약은 양 기관 회원들을 위한 리더십 개발, 인력 개발 및 전문적인 기회를 확대하는 것을 목표로 합니다. Tolling organisation IBTTA and WTS International have signed a four-year memorandum of understanding at IBTTA’s 94th Annual Meeting and Exhibition in Arlington, Texas. WTS International exists to advance the careers of women in transportation, and t",
+  "date": "2026-11-14",
+  "link": "https://www.itsinternational.com/ibtta-signs-wts-international-mou-invites-next-generation-to-shape-the-industry/",
   "tries": 1
  }
 }
