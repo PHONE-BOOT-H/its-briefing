@@ -88,13 +88,13 @@
    - 분야: 신호·관제 / 게재일: 2026-11-12 / 매체: AVweb
    - 원문: https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFctVWd0X3BNR2VZTW90Yk9Sb3ZhZ2ROMnZFQno4X0xkZGl0NTZ5YkpUMWlEMFJMTndzQ2taUXhLTTNlWlBsT01aSE1HbEY5THp5cnpzUHh6WmZZNTZBVHhKRXRObUNRblNiUjI1MUZzbVV1dWMtQm9tT053S1dqSA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. Lahore Gets Rs3.246bn Traffic Control Centre
+19. The state is preparing digital traffic control on motorways ᐉ News from Fakti.bg - Bulgaria
+   - 분야: 신호·관제 / 게재일: 2026-11-13 / 매체: Fakti.bg
+   - 원문: https://news.google.com/rss/articles/CBMiogFBVV95cUxNd2JzTEFmNXNXMDVLSFEteUVJR3U1RWlLcUdGelE0WVRLRzhjaDhOLUtlX1E3YXpsTS15bFB0MUlwV3d5Q1ZVcDJCRUZiSnhZdGxPNWhydHRRa3VwRUlEZzhfY1ltQkRPYmdvd1hKUk5USFQzSWh4RUxVbDNFMXYtZnVTZmVva1BPci1uU2pNQm1sZ3A2NU5udVREWDctOHU0NGc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. Lahore Gets Rs3.246bn Traffic Control Centre
    - 분야: 신호·관제 / 게재일: 2026-11-16 / 매체: Digital Pakistan
    - 원문: https://news.google.com/rss/articles/CBMifEFVX3lxTE14bnhfaHlDLW9ibjZGUWFkc0k4RUhsdXdla0FSRnlmTEVxVHhJRDlDZnJQUEwwSnRwMVBrMEtzU1JXZlR6TmJseV95M3dYWkxhcVpzY2VQYmRlOHNnYnl6TzhNdGU1Mkxmejl6dnQ3YUNyRlBfOWxWZWJUUVU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. Dhaka Metro Contract Gives Tata Projects a Major Global Transit Boost
-   - 분야: 대중교통·물류 / 게재일: 2026-11-12 / 매체: Urban Acres
-   - 원문: https://news.google.com/rss/articles/CBMilwFBVV95cUxOVHBoRFJNOF81MnpkaHBERWhmeS1xMXZTVjY2dXFhRzJPeVF3SkFnVGdXWUQ2U1V6a0M5Wk56Z0o1dHJBemkyM1A0R1dDY3AtNUJGQUFBc0RUMHhIYmFLelVPZ2V2VGl5Z2JPdDZXN2RleENtdUF2X3ZBdFdIWDJwUldxQVdUT1BmdzRiaEppdEk1OEpkano0?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -127,8 +127,8 @@
    - 원문: https://www.m-i.kr/news/articleView.html?idxno=2018474
 
 7. [지자체] 인천공항서 자율주행차 달린다…조건부 운행 기준 마련
-   - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: ITS Korea
-   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=24366
+   - 분야: 자율주행 / 게재일: 2026-11-16 / 매체: ITS Korea
+   - 원문: https://www.yna.co.kr/view/AKR20261116097200065?input=1195m
 
 8. [산업부/보도자료] 2026년 10월 자동차산업 동향
    - 분야: 기타 / 게재일: 2026-11-17 / 매체: ITS Korea
@@ -146,29 +146,29 @@
    - 분야: 자율주행 / 게재일: 2026-11-12 / 매체: 서울경제
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KMWFaYk9LYkRlRDZFcnYwYkJOZVJiNGdSYlo4ZG1TTllLVl9nd0ExQlE1VkFIY1VYMGRHLWRDMkxCeVZRV0RsZDdzN1Y5R1RzOXfSAVNBVV95cUxPd2VfU3FmM213emxXbS1PLXZWUU1EUGxGX0NKRDBkQXpkUl9qS3JSUnVhd0hHRUl6TDZRSloyVlp3U1VBTXctYjh5VFdHejY3WllYWQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 자동차 | 하이브리드가 수익성 방어, 로봇·자율주행이 재평가의 관건
+12. 국가철도공단, 제2철도교통관제센터 AI·빅데이터 관제기술 공개
+   - 분야: 신호·관제 / 게재일: 2026-11-12 / 매체: 한국철도일보
+   - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTE01LVltX2tCaXdoNG5zLVZjcGw4dlYzc3lPeFhOdDRyb0hXSUpHQUlBaVZMN0tYd3ZKZ1VBdlg1T1JxMUQ1M3pQTUJQU2tfYkE2eUNIN3FZT0ppMXdYLTZrSmZaOVIzcGxpTVhjNkY4UUc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+13. 자동차 | 하이브리드가 수익성 방어, 로봇·자율주행이 재평가의 관건
    - 분야: 자율주행 / 게재일: 2026-11-13 / 매체: 네이버 프리미엄콘텐츠
    - 원문: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWWRZUUpoc1hlNzNxSnhFWkoxbUlrOFRRYlh6MzFITmVwN19HY2NtVzdaVFpCMVNCNnRyZWpIUTJUSlpQNTg2TzZ5VXBFM0RuQTVyeWdwQl9meUdoMFpma2RvVThvRDZvN0FkMFg3Vmt3QWhOVmwweWIzT19ENzNqUVdJVHc4SU5L?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. 강릉 ITS 세계총회, 108개 기업 첨단 교통기술 한자리에…미래 모빌리티 실증
-   - 분야: 기술·표준 / 게재일: 2026-11-14 / 매체: 쿠키뉴스
-   - 원문: https://news.google.com/rss/articles/CBMiY0FVX3lxTE5uczAyU3hUaEFXZlFfNFBYMUNqOThUZGNjdzNDdFVKNWpqRDVab01Va1VDQ2twRGY3eWRELTZmRWN3YkNabTNpUXZ6c0RMUFhNR2VuUlNWUW1KeENtRkVhM1N2WQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-14. 임창휘 경기도의원, ITS 광역 통합과 C-ITS 도입 촉구
-   - 분야: C-ITS·V2X / 게재일: 2026-11-12 / 매체: 전국매일신문
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFBmc0pQd0NTZFV6NkIwS3pVTENBclVlU1dURVFLcW9yclg4emV6Vkk0V2FtSGZMRk5qTXpoZzN4MWxMT3JHOUxwYjRoTXlaNm93QmNSWkRKQVBjYXM0Z3BkZnN1VDBKWnV0WjQtSA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-15. 자율주행·스마트팩토리 확산 기대…5G 관련주 매수세 확대 '앗 뜨거'
+14. 자율주행·스마트팩토리 확산 기대…5G 관련주 매수세 확대 '앗 뜨거'
    - 분야: 자율주행 / 게재일: 2026-11-14 / 매체: 핀포인트뉴스
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE1xUjRfcG5UWDlBM21uUWE2TEx2M041VExRZ0RFNnZyOC1YRDE0Uks1Vjh6cVMwMHhLbkNYeGNmQnRURC1aa1NtdkJQbmk2QmRhQ2hyWDdKLUlLOV9kT1hnbTZWWGlLRnp6eXdhQjFFZkFqNVHSAXdBVV95cUxNZGVzZHRnemhOTWxza1RBVzFueUJaZzBIck9va2FmR0Q1UWZSR2dDb3lPeVRGVkVvd1BhaThPRnZXLTE3M3N0RHBBb3B1UF90bFEzSHpfTzRiMXNDd09jN2JpNXo3UlpNZ0hxM3pvd19QUjg5VG9fMA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [김시호의 AI와 자율주행] 자율주행에 협력주행 인프라는 필수적인가?
-   - 분야: C-ITS·V2X / 게재일: 2026-11-16 / 매체: 오피니언뉴스
-   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE1VUzk3QTZiQ1ZlXzZWTzlWcG9CT2Ytb2RLZFJPTHl5Um0zazF4MHVvSzVjSk1KTkExOXo4dzhNVDBJcHFaa3hybmxZanNfbHVLN0pyVEVVbUVaZlJwakRDZUluamxxQTJQN01FaG5rMFhTQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+15. 교통 관제 플랫폼 25년 유티정보, AI 실무 인재 양성 나선다
+   - 분야: 기타 / 게재일: 2026-11-14 / 매체: 미디어픽
+   - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTFBXQzNmd001T2xYRkxzbFIzb1FqOHZudnQyVmlkNTdIRnR2aEtIMVczZlkyclRpcGJ1TDNVdVp3blFqQkN5bDJpcVE1bUQwaERkc0xITmNmdG51bmxmQzdVZDk5WkFhNGE0ZEVV?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 현대차그룹 포티투닷, 외국변호사 채용 나서…"글로벌 자율주행 규제 선제 대응"
+16. 현대차그룹 포티투닷, 외국변호사 채용 나서…"글로벌 자율주행 규제 선제 대응"
    - 분야: 자율주행 / 게재일: 2026-11-16 / 매체: 뉴시스
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oMXFSZmdGcnVDR1Z5b3VoTWlQd002dklVcklhVEJ6QktxUTlUNWk2bGtXSXVGcUtMNmM4R1RsRXFENFUzNk1EUUZjYm53TERORHMzb0NyNTN0N1RkSXhDTNIBeEFVX3lxTE52MncxdGpuckROQnFVZ09mLWpLQVowWjFyWnVsdTdESURsYUcxRmZxMExRT2plOHk0d204N1k1OFhMTFQtN2xOXzV2clhxbi1Hbm53VDlsd2NMYm5QbXQxYm1zazZqbnE5bXNGMl9iOTI5NGhUaGNfRg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+17. [김시호의 AI와 자율주행] 자율주행에 협력주행 인프라는 필수적인가?
+   - 분야: C-ITS·V2X / 게재일: 2026-11-16 / 매체: 오피니언뉴스
+   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE1VUzk3QTZiQ1ZlXzZWTzlWcG9CT2Ytb2RLZFJPTHl5Um0zazF4MHVvSzVjSk1KTkExOXo4dzhNVDBJcHFaa3hybmxZanNfbHVLN0pyVEVVbUVaZlJwakRDZUluamxxQTJQN01FaG5rMFhTQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 18. 현대차, 자율주행차도 위탁생산…현대차, 'AV 파운드리' 사업 확대
    - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: 뉴스핌
