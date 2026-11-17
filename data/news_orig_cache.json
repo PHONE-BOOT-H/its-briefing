@@ -3995,19 +3995,19 @@
   "body": "- 서류·실차 평가로 안전요건 확인, 연말까지 실증차량 120대 실제 도로 투입 전망 - 통합운영사무실 개소, 운행계획 수립, 사고대응 모의훈련 등 첫 차량 투입 준비 박차 □국토교통부(장관 홍지선)는 최초 도시 단위 자율주행 실증 공간인 「광주 자율주행 실증도시」의 첫 실증차량을 오는 11월 30일 투입하는 것을 목표로 차량 안전성 확인과 현장 운행 준비를 진행하고 있다고 밝혔다. ㅇ 광주 자율주행 실증도시는 자율주행차가 실제 도로의 복잡한 교통 환경 속에서 다양한 주행 상황을 학습하며 기술 완성도를 높이는 사업이다. ㅇ 지난 5월 ‘대한민국 자율주행팀’ 출범 이후 국토교통부, 전남광주통합특별시, 한국교통안전공단, 참여기업은 차량제작 및 개조부터 운행 지원, 24시간 사고대응체계 구축에 이르기까지 성공적인 실증을 위한 준비를 이어오고 있다. □ 자동차 제작사(현대차)는 소프트웨어 중심 차량(SDV) 200대를 제작‧인도할 계획이다. 현재까지 67대를 인도했으며, 자율주행 개발기업(현대차‧A2Z‧라이드플럭스)들은 인도받은 차량에 센서와 자율주행 시스템을 탑재하는 기능개조 및 점검을 진행 중이다. ㅇ 라이드플럭스가 지난주 첫 차량에 대한 임시운행허가를 신청했으며, 국토교통부와 한국교통안전공단은 서류검토 및 실차평가*를 거쳐 이달 중 차량의 안전운행요건을 확인할 예정이다. * 「자동차관리법 시행규칙」제26조의2제3항에 따른 자율주행자동차의 임시운행에 필요한 세부요건 및 확인하는 절차로, 시험운행과 조정장치, 경고장치 등 안전성확인 - 후속 차량도 준비 상황에 따라 순차적으로 임시운행허가를 진행할 계획이며, 국토교통부는 차량개조 및 허가 절차가 계획대로 진행될 경우 연말까지 약 120대를 실제 도로에 투입할 수 있을 것으로 전망하고 있다. □ 실증차량의 운행상황을 관리할 통합운영사무소(광주",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092599",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24317": {
   "body": "□ 「공간정보의 구축 및 관리 등에 관한 법률(이하 ‘공간정보관리법’)｣에 따라 관계부처․기관 및 민간1전문가로 구성된「기본측량성과 국외반출 협의체*(이하 ‘협의체’)｣는 11월 13일 오전 10시 회의를 개최하여, 지난 2월 27일 구글社(Google LLC)에 허가한 1:5,000 지도 국외반출 건에 대해, 허가 시 부과한 보안조건의 이행 결과를 보고받고 점검·확인했다. * 협의체: 국토교통부(국토지리정보원), 과학기술정보통신부, 외교부, 통일부, 국방부, 행정안전부, 산업통상부, 국가정보원, 민간위원으로 구성 ㅇ 구글社는 좌표표시, 영상 보안처리, 데이터 가공, 보안사고 대응 절차 등 관련 조건에 대해 11월 4일 최종 보안조건 이행결과 보고서를 제출했다. □ (좌표표시) 협의체는 인터넷 및 모바일(안드로이드, iOS)에서 서비스되는 구글 맵스와 구글 어스의 글로벌 서비스에서 대한민국 영토의 경·위도 좌표 표시 제거 및 노출 제한이 전부 이행되었음을 확인했다. ㅇ 구글社는 이를 위해 대한민국 영토에만 적용되는 전용 제어 레이어를 개발했으며, 향후 애플리케이션 업데이트 시 좌표 노출 여부를 감지하면 배포를 차단하는 등 예방 및 준수 체계를 구축했다. □ (영상 보안처리) 구글社는 국토지리정보원이 보안처리한 영상(이하 ‘국내 처리 영상’)을 국내 제휴기업을 통해 공급받는 계약을 체결(2026.8.31.)했다. 향후 구글社는 국내 제휴기업으로부터 국내 처리 영상을 제공받는 즉시 지도 서비스의 영상을 교체해야 한다. ㅇ 군사·보안시설의 위치와 면적 등 전체 목록 및 명세는 그 자체가 보안정보에 해당하므로 구글社에 직접 제공하여 처리토록 하지 않고, 정부가 보안처리까지 완료한 영상을 국내 제휴기업을 통해 제공하도록 했으며, 구글社는 제공받은 영상을 수정 없이 그대로 탑재해야 한다. - 이",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_72/dtl.jsp?lcmspage=1&id=95092596",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24318": {
   "body": "- 11월 13일(금), 영덕소방서·주왕산국립공원 찾아 AI·위치정보 기반 산악구조 및 산불 대응 점검 - 주왕산서 산불 예방 국민동참 챌린지 및 관계기관 합동 캠페인 전개로 자발적 실천 독려 윤호중 행정안전부 장관은 11월 13일(금), 경북 영덕소방서와 주왕산국립공원을 찾아 과학적 산악구조·산불대응 지원 시스템 등 가을철 산불 대비태세를 점검하고, 산불 예방을 위한 국민 동참 캠페인을 진행했다. 이번 방문은 가을철 산불조심기간(11.1.~12.15.)을 맞아 관계기관의 산불 대응체계를 점검하고, 산을 찾는 국민에게 산불 예방수칙을 직접 홍보하며 자발적인 동참을 유도하기 위해 마련됐다. >> 영덕소방서: 위치정보·인공지능(AI) 활용 산악구조·산불대응 지원 시스템 점검 먼저, 윤 장관은 경북 영덕소방서를 방문해 위치정보 기반의 산악구조 시스템과 인공지능(AI)을 활용한 산불대응 지원 시스템을 점검하였다. 신고자에게 인터넷 주소(URL)를 전송해 정밀한 위치를 파악하는 민간 개발 위치추적 시스템을 시연하며, 기존 기지국을 중심으로 한 수색방식의 한계를 극복하고 구조 대상자에게 빠르게 접근할 수 있는 과학적 구조 체계의 중요성을 확인했다. 또한, 현직 소방관들이 자체 개발한 인공지능(AI)·지리정보시스템(GIS) 기반 현장지휘 산불지원 시스템*을 통해 지형, 기상, 위성정보를 결합한 산불 확산 예측과정을 살펴보았다. 이러한 첨단 기술이 효율적인 주민 대피 결정과 현장 대원의 안전 확보에 핵심적인 역할을 하고 있음을 높이 평가하고, 개발에 참여한 소방관들을 격려하였다. * 영덕소방서 정다호 소방위 등 3명이 개발(’26년 제1회 경북소방 AI 공모전 ‘정책분야’ 최우수 선정) 이어서 경북 청송군 주왕산국립공원을 방문해 가을철 산불조심기간(11.1.~12.15.)을 맞아 산불 대비태세를 점",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=130922",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24319": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -4073,6 +4073,60 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.police.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1002&q_bbscttSn=20261116093704070",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24348": {
+  "body": "자동차 수출(18.1%)·내수(7.9%)·생산(25.8%) ‘트리플’ 증가 - 산업통상부(이하 산업부)는 '26년 10월 자동차 수출액이 전년 동월 대비 18.1% 증가한 65.5억불을 기록하여 역대 10월 자동차 수출실적 중 최대치를 달성하였다고 밝혔다. 내수 판매량(13.7만대)과 생산량(38.1만대)도 각각 7.9%, 25.8% 증가하였다. * 역대 10월 자동차 수출 순위 : 1위65.5억불(‘26년), 2위62.0억불(’24년), 3위58.8억불(‘23년) 10월 자동차 수출은 지역별로는 주력 시장인 북미와 EU를 중심으로 증가하였다. 북미 수출은 전년 동월 대비 33.2% 증가한 33.8억불, EU는 58.2% 증가한 11.8억불을 기록하였다. 이는 추석 연휴(‘25년 10월 → ’26년 9월) 이동에 따른 평균 조업일수 증가(4일)와 친환경차 및 SUV 차종에 대한 지속적인 글로벌 수요 등에 기인한 것으로 분석된다. 친환경차 수출은 견조한 흐름을 이어갔다. 10월 친환경차 수출액은 전기차(10.4억불, 41.6%)와 하이브리드차(20.6억불, 53.1%)의 수출 증가에 힘입어 전년 동월 대비 49% 증가한 31억불을 달성하였다. 수출 대수 기준으로도 1~10월 누적 88.4만대를 기록하며 작년 연간 실적(87.4만대)을 상회하였다. 10월 내수 판매량은 13.7만대로 전년 동월 대비 7.9% 증가하였다. 이 중 친환경차 판매량이 8.5만대로 전체 내수 판매의 약 62%를 차지하였다. 특히, 전기차는 전년 동월 대비 81.4% 증가한 3.5만대가 판매되어 친환경차 내수 판매 증가를 이끌었다. 10월 자동차 생산량은 추석 연휴 시기 변동에 따른 조업일수 증가 등에 힘입어 전년 동월 대비 25.8% 증가한 38.1만대를 기록하였다. 누적 기준으로는 1~10월 생산량은 전년 동기",
+  "date": null,
+  "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172411/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24352": {
+  "body": "- ’26년 3분기 기준 계획 대비 84.1% 점검 완료 및 위험자산 개보수 조치 재정경제부는 ‘노동안전 종합대책(’25.9월)’ 등 정부의 재난·안전관리 강화에 발맞추어 ’27년 국유재산 종합계획(’26.8.20)’ 에서 ‘국유재산 안전관리 체계화·고도화 계획’을 마련한 바 있다. 이와 관련하여, 재정경제부는 9월말 현재 ’27년 국유재산 종합계획에 따른 ‘국유재산 안전관리 체계화·고도화 계획’의 추진상황을 점검하였으며, 한국자산관리공사에서 마련한 세부 추진계획에 따라 정상적으로 추진되고 있음을 확인하였다. 먼저, 한국자산관리공사에서 관리하고 있는 일반재산에 대한 정기·특별 점검 계획 등(‘26년 6,558건)에 따라 5,515건의 재산에 대한 안전점검(84.1%)을 완료하였으며, 점검 결과 드러난 184건의 재해위험 우려 재산(토지·건물)에 대해 지반 보강(36건), 위험 시설물 보강(12건), 위험 건물 해체(57건) 등의 보완 조치를 시행하고 있다. 그리고, 올해부터 한국자산관리공사의 건물 개보수 현장 등을 대상으로 드론, AI를 활용한 안전점검 기술을 도입하여 안전점검을 과학화하는 등 안전관리 체계 고도화를 추진하고 있다. 이를 통해 한국자산관리공사는, AI가 현장 사진을 분석해 유해·위험 요인을 선제적으로 파악하는 AI 위험성평가를 모든 개보수 현장으로 확대하여 총 387건의 위험 요소를 발굴하고 위험시설 정비, 시설물 보강 등 보완 조치를 완료하였으며, 2층 이상 건물을 드론으로 촬영하여 AI가 위험 요인을 분석·예측하는 시스템을 중대재해 우려 건물 5개 동에 시범 적용하고 있다. 마지막으로, 한국자산관리공사가 발주·관리하는 건설사업장에 CCTV와 AI를 연동하여 AI가 실시간 위험을 감지하고 위험도를 예측·평가하는 AI 통합안전관리시스템을 시범 도입하고, 붕괴위험 경보기",
+  "date": null,
+  "link": "https://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000079967&menuNo=4010100",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24355": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-16",
+  "link": "https://www.etnews.com/20261116000238",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24356": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-16",
+  "link": "https://www.mt.co.kr/amp/industry/2026/11/16/2026111610361961981",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24357": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-16",
+  "link": "https://zdnet.co.kr/view/?no=20261116141116",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24358": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-16",
+  "link": "https://www.aptn.co.kr/news/articleView.html?idxno=113272",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24359": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-16",
+  "link": "https://www.aitimes.com/news/articleView.html?idxno=217457",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24360": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": "2026-11-17",
+  "link": "https://www.munhwa.com/article/11631769",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24363": {
+  "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
+  "date": null,
+  "link": "https://www.mcee.go.kr/home/web/board/read.do?pagerOffset=0&maxPageItems=10&maxIndexPages=10&searchKey=&searchValue=&menuId=10598&orgCd=&boardId=1907650&boardMasterId=939&boardCategoryId=&decorator=",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -6347,7 +6401,7 @@
   "body": "TIER IV and Komatsu have begun joint development of autonomous driving systems for three dump truck models , aiming to put the technology into practical use at quarry and construction sites in Japan and North America, the companies announced on Nov. 13. They said the work will accelerate their collaboration toward deployment in both regions in 2027...중략... 티어 IV와 코마츠는 덤프트럭 3개 모델에 적용 가능한 자율주행 시스템 공동 개발에 착수 했다고 11월 13일 발표했습니다. 양사는 이번 개발을 통해 일본과 북미 지역의 채석장 및 건설 현장에서 해당 기술을 실용화하는 것을 목표로 하고 있으며, 2027년까지 양 지역에서 상용화를 위한 협력을 가속화할 것이라고 밝혔습니다. TIER IV and Komatsu have begun joint development of autonomous driving systems for three dump truck models , aiming to put the technology into practical use at quarry and construction sites in Japan and North America, the companies announced on Nov. 13. They said the work will accelerate their collaboration toward deployment in both regions in 2027...중략... 티",
   "date": null,
   "link": "https://selfdrivenews.com/tier-iv-komatsu-autonomous-dump-trucks-joint-development/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24332": {
   "body": "US tech company May Mobility has announced plans to deploy over 10,000 autonomous VW ID. Buzz vehicles for robotaxi services worldwide by 2031. Volkswagen will technically adapt the electric van, which will then be equipped with May Mobility’s autonomous driving system (Autonomous Driving Kit, ADK) from Chinese technology group ECARX, which is based in London. Another partner, German company Charlton Intelligence.ai, will support vehicle delivery and deployment...중략... [메이 모빌리티, 폭스바겐 ID. 버즈 차량 1만 대를 로보택시로 전환 예정] 미국 기술 기업 메이 모빌리티(May Mobility) 는 2031년까지 전 세계에 1만 대 이상의 자율주행 폭스바겐 ID. 버즈(ID. Buzz) 차량을 배치하여 로보택시 서비스를 제공할 계획이라고 발표했습니다. 폭스바겐은 이 전기 밴을 기술적으로 개조하고, 런던에 본사를 둔 중국 기술 그룹 ECARX가 개발한 자율주행 시스템(Autonomous Driving Kit, ADK)을 장착할 예정입니다. 또 다른 파트너사인 독일 기업 찰튼 인텔리전스(Charlton Intelligence.ai)는 차량 인도 및 배치를 지원할 것입니다. US tech company May Mobility has announced plans to deploy over 10,000 autonomous",
@@ -6359,18 +6413,72 @@
   "body": "Zoox is expanding its Las Vegas robotaxi service beyond the Strip into Downtown and the Arts District , the company said in a service update dated Nov. 11. Zoox also extended service hours to 6 a.m. to 3 a.m., seven days a week...중략... Zoox는 라스베이거스 로보택시 서비스를 스트립 지역을 넘어 다운타운과 아트 디스트릭트까지 확장한다고 11월 11일자 서비스 업데이트를 통해 밝혔습니다. 또한, Zoox는 서비스 시간을 주 7일 오전 6시부터 새벽 3시까지로 연장했습니다. Zoox is expanding its Las Vegas robotaxi service beyond the Strip into Downtown and the Arts District , the company said in a service update dated Nov. 11. Zoox also extended service hours to 6 a.m. to 3 a.m., seven days a week...중략... Zoox는 라스베이거스 로보택시 서비스를 스트립 지역을 넘어 다운타운과 아트 디스트릭트까지 확장한다고 11월 11일자 서비스 업데이트를 통해 밝혔습니다. 또한, Zoox는 서비스 시간을 주 7일 오전 6시부터 새벽 3시까지로 연장했습니다. Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://selfdrivenews.com/zoox-las-vegas-downtown-arts-district-expansion/",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24334": {
   "body": "近日，交通运输部推出首批354项“人工智能＋交通运输”典型应用场景项目清单，为人工智能在交通运输领域规模化创新应用提供真实场景空间。 首批场景项目覆盖智能驾驶、智慧公路、智能航运、智能建养、智慧出行服务、智慧货运、智能安全监管等方向，涵盖攻关突破、创新示范、应用推广三类任务，呈现覆盖方向全、参与主体广、应用场景实的特点。场景项目将坚持应用导向和成果导向，通过开放真实业务场景，为各类创新主体搭建技术攻关、集成应用与推广平台。...중략... [ 중국 교통운수부, ‘AI+교통’ 354개 실증·적용 시나리오 공개, \"인공지능 + 교통\"의 적용 시나리오는 매우 다양합니다.] 최근 교통부는 '인공지능 + 교통' 프로젝트의 대표적인 적용 시나리오 354개를 처음으로 발표하여 교통 분야에서 인공지능을 대규모로 혁신적으로 적용할 수 있는 실질적인 사례를 제시했습니다. 첫 번째 시나리오 프로젝트들은 지능형 주행, 스마트 고속도로, 지능형 해운, 지능형 건설 및 유지보수, 스마트 모빌리티 서비스, 스마트 화물 운송, 지능형 안전 관리 등 다양한 분야를 포괄합니다. 近日，交通运输部推出首批354项“人工智能＋交通运输”典型应用场景项目清单，为人工智能在交通运输领域规模化创新应用提供真实场景空间。 首批场景项目覆盖智能驾驶、智慧公路、智能航运、智能建养、智慧出行服务、智慧货运、智能安全监管等方向，涵盖攻关突破、创新示范、应用推广三类任务，呈现覆盖方向全、参与主体广、应用场景实的特点。场景项目将坚持应用导向和成果导向，通过开放真实业务场景，为各类创新主体搭建技术攻关、集成应用与推广平台。...중략... [ 중국 교통운수부, ‘AI+교통’ 354개 실증·적용 시나리오 공개, \"인공지능 + 교통\"의 적용 시나리오는 매우 다양합니다.] 최근 교통부는 '인공지능 + 교통' 프로젝트의 대표적인 적용 시나리오 354개를 처음으로 발표하여 교통 분야에서 인공지능을 대규모로 혁신적으로 적용할 수 있는 실질적인 ",
   "date": null,
   "link": "https://www.mot.gov.cn/xinwen/jiaotongyaowen/202611/t20261113_4227676.html?utm_source=chatgpt.com",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24335": {
+  "body": "Na 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), em Antália, na Turquia, a agenda brasileira de mobilidade urbana foi exemplo de como a articulação entre as políticas e programas nacionais de mobilidade urbana contribui para o avanço da agenda climática global. O país participou de debates sobre o futuro dos sistemas de transporte nas cidades, apresentando as iniciativas locais de redução de emissões de gases de efeito estufa, transição energética e ampliação do acesso ao transporte público...중략... [COP31: 브라질, 기후변화 의제와 통합된 도시 이동성 전략 발표.] 터키 안탈리아에서 열린 제31차 유엔기후변화협약 당사국총회(COP31)에서 브라질의 도시 교통 정책은 국가 도시 교통 정책 및 프로그램 간의 협력이 어떻게 전 세계 기후 의제 진전에 기여하는지 보여주는 좋은 사례가 되었습니다. 브라질은 도시 교통 시스템의 미래에 대한 논의에 참여하여 온실가스 배출 감소, 에너지 전환, 대중교통 접근성 확대 등을 위한 지역 차원의 정책들을 발표했습니다. Na 31ª Conferência das Nações Unidas sobre Mudanças Climáticas (COP31), em Antália, na Turquia, a agenda brasileira",
+  "date": "2026-11-13",
+  "link": "https://www.gov.br/cidades/pt-br/assuntos/noticias-1/noticia-mcid-n-2399?utm_source=chatgpt.com",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24338": {
   "body": "The corresponding draft law (34168-9) was posted on Friday in the database of legislative activities of the Duma. The provisions of the bill are based on the results of the trial operation of the VATS on certain public roads, including as part of the implementation of experimental legal regimes that have been implemented since 2018, the explanatory note says. The draft law provides for the establishment of permanent regulatory legal regulation of the operation of unmanned vehicles outside the framework of experimental legal regimes. The draft law determines, among other things: conditions for the admission of VATS to roads and tram tracks of the Russian Federation; features and limitations of PBX operation; duties and responsibilities of manufacturers, remote support operators, owners, drivers, operators of PBX; conditions on compulsory insurance of civil liability of PBX owners. [러시아 정부",
   "date": null,
   "link": "https://m.interfax.ru/1128851?utm_source=chatgpt.com",
+  "tries": 2
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24349": {
+  "body": "At the 2026 ITS World Congress in Gangneung, ITS Korea supported the Ministerial Meeting and high-level talks, while running the Korea ITS Pavilion and a business matching programme. By pursuing policy cooperation and industry support side by side, it helped turn discussions at the Congress into overseas business opportunities for Korean ITS companies...중략... [ITSWC 코리아: 행사 후기 – 장관급 회의, 비즈니스 매칭 성공 사례 등] 2026년 강릉에서 개최된 ITS 세계 총회에서 ITS 코리아는 한국 ITS 파빌리온 운영 및 비즈니스 매칭 프로그램 진행과 더불어 장관급 회의 및 고위급 회담을 지원했습니다. 정책 협력과 산업 지원을 병행함으로써 총회에서의 논의가 한국 ITS 기업들의 해외 사업 기회로 이어지도록 도왔습니다. At the 2026 ITS World Congress in Gangneung, ITS Korea supported the Ministerial Meeting and high-level talks, while running the Korea ITS Pavilion and a business matching programme. By pursuing policy cooperation and industry support side by side, it helped turn discussions at the Congress into overseas business opportunities",
+  "date": "2026-11-16",
+  "link": "https://www.traffictechnologytoday.com/news/event-news/itswc-korea-event-review-ministerial-meeting-business-matching-success-and-more.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24351": {
+  "body": "Making automated driving safer, improving traffic management and supporting the wider deployment of connected and automated vehicles all depend on access to reliable mobility data. To help address this need, ERTICO – ITS Europe is coordinating FUSE4CCAM , a new three-year Horizon Europe project bringing together 16 consortium Partners to connect existing mobility data platforms and enable secure, trusted and interoperable data sharing across Europe...중략... [새롭게 출시된 FUSE4CCAM은 유럽 전역의 자율주행 데이터를 연결합니다.] 자율주행의 안전성을 높이고, 교통 관리를 개선하며, 커넥티드 및 자율주행 차량의 보급을 확대하는 것은 모두 신뢰할 수 있는 모빌리티 데이터에 대한 접근성에 달려 있습니다. 이러한 요구를 충족하기 위해 ERTICO – ITS Europe은 16개 컨소시엄 파트너가 참여하는 새로운 3년짜리 Horizon Europe 프로젝트인 FUSE4CCAM을 주도하고 있습니다 . 이 프로젝트는 기존 모빌리티 데이터 플랫폼을 연결하고 유럽 전역에서 안전하고 신뢰할 수 있으며 상호 운용 가능한 데이터 공유를 가능하게 하는 것을 목표로 합니다. Making automated driving safer, improving traffic management and supporting the wider deployment o",
+  "date": null,
+  "link": null,
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24353": {
+  "body": "Uber Technologies Inc. made Amazon.com Inc.’s Zoox robotaxis available on its platform in Las Vegas, ramping up competition with Waymo, which also recently began operating there...중략... [우버와 아마존의 Zoox가 라스베이거스에서 로보택시 서비스를 시작한다] 우버 테크놀로지스는 아마존의 주크스 로보택시를 라스베이거스 플랫폼에서 이용할 수 있도록 함으로써, 최근 라스베이거스에서 운행을 시작한 웨이모와의 경쟁을 심화시켰다. Uber Technologies Inc. made Amazon.com Inc.’s Zoox robotaxis available on its platform in Las Vegas, ramping up competition with Waymo, which also recently began operating there...중략... [우버와 아마존의 Zoox가 라스베이거스에서 로보택시 서비스를 시작한다] 우버 테크놀로지스는 아마존의 주크스 로보택시를 라스베이거스 플랫폼에서 이용할 수 있도록 함으로써, 최근 라스베이거스에서 운행을 시작한 웨이모와의 경쟁을 심화시켰다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-16",
+  "link": "https://www.ttnews.com/articles/uber-amazon-zoox-las-vegas",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24354": {
+  "body": "...중략...일본 경시청은 도쿄도(都) 도심의 정체를 완화하기 위해 그동안 일부 교통 신호기에서 사용했던 AI 신호 제어를 내년 4월부터 도 전역으로 확대한다고 밝혔다. 간선도로가 교차하는 교차로에서는 30분 후의 정체 상황을 예측해서, 비교적 규모가 작은 교차로에서는 실시간 정체 상황을 파악해서 각각 신호를 조정한다...중략... ...중략...일본 경시청은 도쿄도(都) 도심의 정체를 완화하기 위해 그동안 일부 교통 신호기에서 사용했던 AI 신호 제어를 내년 4월부터 도 전역으로 확대한다고 밝혔다. 간선도로가 교차하는 교차로에서는 30분 후의 정체 상황을 예측해서, 비교적 규모가 작은 교차로에서는 실시간 정체 상황을 파악해서 각각 신호를 조정한다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-16",
+  "link": "https://www.yna.co.kr/view/AKR20261116153300009",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24361": {
+  "body": "중국 교통운수부는 교통 분야 디지털·AI 전환 현황을 종합 공개했습니다. 국가 종합교통정보플랫폼에는 30억 건 이상의 데이터와 46만 개 이상의 영상자원이 연계됐고, 전국 26개 지역에서 도로·수로 인프라 디지털전환이 진행돼 고속도로 3,500㎞, 부대시설 5,300여 곳이 디지털화됐습니다. AI 분야에서는 교통 대형모델, 지능형 운항·항만, 교통관제, 디지털 도로·항로 등을 확대하고 있습니다...중략... 중국 교통운수부는 교통 분야 디지털·AI 전환 현황을 종합 공개했습니다. 국가 종합교통정보플랫폼에는 30억 건 이상의 데이터와 46만 개 이상의 영상자원이 연계됐고, 전국 26개 지역에서 도로·수로 인프라 디지털전환이 진행돼 고속도로 3,500㎞, 부대시설 5,300여 곳이 디지털화됐습니다. AI 분야에서는 교통 대형모델, 지능형 운항·항만, 교통관제, 디지털 도로·항로 등을 확대하고 있습니다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.mot.gov.cn/xinwen/jiaotongyaowen/202611/t20261116_4227775.html",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24364": {
+  "body": "Today, the High Representative for Foreign Affairs and Security Policy/Vice-President of the European Commission Kaja Kallas , Commissioner for Enlargement Marta Kos , and Commissioner for International Partnerships Jozef Síkela hosted representatives from the EU, the Black Sea region, the South Caucasus and Central Asia for the second Ministerial Meeting on Cross-Regional Security and Connectivity in Brussels...중략... EU 집행위원회와 흑해·남캅카스·중앙아시아 국가들이 브뤼셀에서 장관회의를 열고 교통·디지털·에너지 연결성 확대에 합의했습니다. 유럽과 중앙아시아를 연결하는 교통회랑의 인프라와 디지털 연결성을 함께 강화하는 방향으로, 향후 Trans-Caspian Transport Corridor의 운영 효율화와 디지털화가 주요 후속 과제로 이어질 전망입니다. Today, the High Representative for Foreign Affairs and Security Policy/Vice-President of the European Commission Kaja Kallas , Commissioner for Enlargement Marta Kos , and Commissioner for International Partnerships Jozef Síkela hosted representatives from the EU, the Black Sea region",
+  "date": "2026-11-16",
+  "link": "https://enlargement.ec.europa.eu/news/ministers-eu-black-sea-south-caucasus-and-central-asia-advance-cooperation-cross-regional-security-2026-11-16_en?prefLang=el&utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24365": {
+  "body": "Dubai’s Roads and Transport Authority (RTA) has announced its participation as a strategic partner in Dubai Future Week 2026 , organised by Dubai Future Foundation from 18 to 21 November under the theme “For the Human of the Future”. RTA will showcase its flagship forward-looking projects and innovations, take part in discussion sessions and specialised workshops on artificial intelligence and the future of mobility, and organise a hackathon to develop innovative solutions for the transport sector...중략... [두바이 RTA, 자율주행택시·에어택시·자동교통시스템 등 미래모빌리티 로드맵 공개] 두바이 RTA가 Dubai Future Week 2026 참가계획과 함께 최신 미래교통 프로젝트를 공개했습니다. 주요 프로젝트에는 자율주행택시, Air Taxi, Dubai Loop, Glydways 자동교통시스템, Rail Bus가 포함됩니다. RTA는 업데이트된 AI 전략과 함께 Agentic AI 워크숍, Future Mobility Hackathon, 자율배송 스테이션 등도 선보일 예정입니다. Dubai’s Roads and Transport Authority (RTA) has announced its participation as a strategic partner in Dubai Future W",
+  "date": "2026-11-16",
+  "link": "https://www.zawya.com/en/press-release/events-conferences/rta-showcases-flagship-projects-and-innovations-in-ai-and-future-mobility-as-strategic-partner-of-dubai-future-week-2026-2284527?utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24367": {
+  "body": "테슬라가 운전대와 가속·브레이크 페달이 없는 2인승 자율주행차 ‘사이버캡(cybercab)’을 개인 고객에게도 판매하기로 했다. 그동안 승객이 앱으로 직접 호출해 타던 로보택시를 자가용으로도 판매한다는 취지다. 가격은 2만9990달러(약 4000만원)로 책정돼 미국 일부 고객을 대상으로 먼저 판매가 시작된다...중략... 테슬라가 운전대와 가속·브레이크 페달이 없는 2인승 자율주행차 ‘사이버캡(cybercab)’을 개인 고객에게도 판매하기로 했다. 그동안 승객이 앱으로 직접 호출해 타던 로보택시를 자가용으로도 판매한다는 취지다. 가격은 2만9990달러(약 4000만원)로 책정돼 미국 일부 고객을 대상으로 먼저 판매가 시작된다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-15",
+  "link": "https://www.chosun.com/economy/auto/2026/11/15/JGEXT5S2XNBRDHZSLUU7GS2TLQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
   "tries": 1
  }
 }
