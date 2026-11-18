@@ -4079,13 +4079,13 @@
   "body": "자동차 수출(18.1%)·내수(7.9%)·생산(25.8%) ‘트리플’ 증가 - 산업통상부(이하 산업부)는 '26년 10월 자동차 수출액이 전년 동월 대비 18.1% 증가한 65.5억불을 기록하여 역대 10월 자동차 수출실적 중 최대치를 달성하였다고 밝혔다. 내수 판매량(13.7만대)과 생산량(38.1만대)도 각각 7.9%, 25.8% 증가하였다. * 역대 10월 자동차 수출 순위 : 1위65.5억불(‘26년), 2위62.0억불(’24년), 3위58.8억불(‘23년) 10월 자동차 수출은 지역별로는 주력 시장인 북미와 EU를 중심으로 증가하였다. 북미 수출은 전년 동월 대비 33.2% 증가한 33.8억불, EU는 58.2% 증가한 11.8억불을 기록하였다. 이는 추석 연휴(‘25년 10월 → ’26년 9월) 이동에 따른 평균 조업일수 증가(4일)와 친환경차 및 SUV 차종에 대한 지속적인 글로벌 수요 등에 기인한 것으로 분석된다. 친환경차 수출은 견조한 흐름을 이어갔다. 10월 친환경차 수출액은 전기차(10.4억불, 41.6%)와 하이브리드차(20.6억불, 53.1%)의 수출 증가에 힘입어 전년 동월 대비 49% 증가한 31억불을 달성하였다. 수출 대수 기준으로도 1~10월 누적 88.4만대를 기록하며 작년 연간 실적(87.4만대)을 상회하였다. 10월 내수 판매량은 13.7만대로 전년 동월 대비 7.9% 증가하였다. 이 중 친환경차 판매량이 8.5만대로 전체 내수 판매의 약 62%를 차지하였다. 특히, 전기차는 전년 동월 대비 81.4% 증가한 3.5만대가 판매되어 친환경차 내수 판매 증가를 이끌었다. 10월 자동차 생산량은 추석 연휴 시기 변동에 따른 조업일수 증가 등에 힘입어 전년 동월 대비 25.8% 증가한 38.1만대를 기록하였다. 누적 기준으로는 1~10월 생산량은 전년 동기",
   "date": null,
   "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172411/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24352": {
   "body": "- ’26년 3분기 기준 계획 대비 84.1% 점검 완료 및 위험자산 개보수 조치 재정경제부는 ‘노동안전 종합대책(’25.9월)’ 등 정부의 재난·안전관리 강화에 발맞추어 ’27년 국유재산 종합계획(’26.8.20)’ 에서 ‘국유재산 안전관리 체계화·고도화 계획’을 마련한 바 있다. 이와 관련하여, 재정경제부는 9월말 현재 ’27년 국유재산 종합계획에 따른 ‘국유재산 안전관리 체계화·고도화 계획’의 추진상황을 점검하였으며, 한국자산관리공사에서 마련한 세부 추진계획에 따라 정상적으로 추진되고 있음을 확인하였다. 먼저, 한국자산관리공사에서 관리하고 있는 일반재산에 대한 정기·특별 점검 계획 등(‘26년 6,558건)에 따라 5,515건의 재산에 대한 안전점검(84.1%)을 완료하였으며, 점검 결과 드러난 184건의 재해위험 우려 재산(토지·건물)에 대해 지반 보강(36건), 위험 시설물 보강(12건), 위험 건물 해체(57건) 등의 보완 조치를 시행하고 있다. 그리고, 올해부터 한국자산관리공사의 건물 개보수 현장 등을 대상으로 드론, AI를 활용한 안전점검 기술을 도입하여 안전점검을 과학화하는 등 안전관리 체계 고도화를 추진하고 있다. 이를 통해 한국자산관리공사는, AI가 현장 사진을 분석해 유해·위험 요인을 선제적으로 파악하는 AI 위험성평가를 모든 개보수 현장으로 확대하여 총 387건의 위험 요소를 발굴하고 위험시설 정비, 시설물 보강 등 보완 조치를 완료하였으며, 2층 이상 건물을 드론으로 촬영하여 AI가 위험 요인을 분석·예측하는 시스템을 중대재해 우려 건물 5개 동에 시범 적용하고 있다. 마지막으로, 한국자산관리공사가 발주·관리하는 건설사업장에 CCTV와 AI를 연동하여 AI가 실시간 위험을 감지하고 위험도를 예측·평가하는 AI 통합안전관리시스템을 시범 도입하고, 붕괴위험 경보기",
   "date": null,
   "link": "https://mofe.go.kr/nw/nes/detailNesDtaView.do?searchBbsId1=MOSFBBS_000000000028&searchNttId1=MOSF_000000000079967&menuNo=4010100",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24355": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -4133,6 +4133,42 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": "2026-11-16",
   "link": "https://www.yna.co.kr/view/AKR20261116097200065?input=1195m",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24368": {
+  "body": "...중략...시험장에선 통상 휴대전화 반입을 금지하거나 시험 전 수거한다. AI 부정행위가 없다면 시험장 주변에 이동통신 신호가 감지되지 않지만, 수험생이 초소형 카메라로 문제를 찍은 뒤 답을 받는 과정엔 통신이 발생한다. 이 과정에서 발생하는 이동통신 신호를 감지하는 게 지슨의 신규 장비다...중략... ...중략...시험장에선 통상 휴대전화 반입을 금지하거나 시험 전 수거한다. AI 부정행위가 없다면 시험장 주변에 이동통신 신호가 감지되지 않지만, 수험생이 초소형 카메라로 문제를 찍은 뒤 답을 받는 과정엔 통신이 발생한다. 이 과정에서 발생하는 이동통신 신호를 감지하는 게 지슨의 신규 장비다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-17",
+  "link": "https://www.thelec.kr/news/articleView.html?idxno=65528",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24370": {
+  "body": "경기도의회 한승훈 의원이 늘어나는 평택지역 교통 수요에 대응하기 위해 도로 확충 중심의 대책에서 벗어나 지능형 교통체계(ITS)를 활용한 교통 운영 개선을 강조하고 있다...중략... 경기도의회 한승훈 의원이 늘어나는 평택지역 교통 수요에 대응하기 위해 도로 확충 중심의 대책에서 벗어나 지능형 교통체계(ITS)를 활용한 교통 운영 개선을 강조하고 있다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-16",
+  "link": "https://www.lawissue.co.kr/view.php?ud=202611161346298302d94aa4ada6_12",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24371": {
+  "body": "...중략...이번 스마트시티는 계획 단계부터 기술이 움직일 공간을 반영했다. 지하 통합배송시설에서 주거시설까지 로봇 이동 경로를 설계하고, 교통·주차 정보는 AI로 통합 관리해 주민이 앱으로 서비스를 이용할 수 있다. 시행은 ‘세종스마트시티’가 맡는다...중략... ...중략...이번 스마트시티는 계획 단계부터 기술이 움직일 공간을 반영했다. 지하 통합배송시설에서 주거시설까지 로봇 이동 경로를 설계하고, 교통·주차 정보는 AI로 통합 관리해 주민이 앱으로 서비스를 이용할 수 있다. 시행은 ‘세종스마트시티’가 맡는다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-17",
+  "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=46367",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24373": {
+  "body": "...회사에 따르면 드론 등 국방 무인체계 활용이 늘면서 무기체계 설계 단계부터 사이버보안을 반영하는 '보안 내재화(Security by Design)'의 필요성이 커지고 있다. 이에 따라 위협분석과 위험평가의 정확성·일관성을 확보하는 기술 수요도 늘고 있다는 설명이다. 회사는 모빌리티 보안 분야의 국제표준 기반 위협분석 기술을 이번 과제에 활용할 계획이다...중략... ...회사에 따르면 드론 등 국방 무인체계 활용이 늘면서 무기체계 설계 단계부터 사이버보안을 반영하는 '보안 내재화(Security by Design)'의 필요성이 커지고 있다. 이에 따라 위협분석과 위험평가의 정확성·일관성을 확보하는 기술 수요도 늘고 있다는 설명이다. 회사는 모빌리티 보안 분야의 국제표준 기반 위협분석 기술을 이번 과제에 활용할 계획이다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-16",
+  "link": "https://www.mt.co.kr/industry/2026/11/16/2026111615155430812",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24374": {
+  "body": "- 9월 한-중앙아 정상회의 계기 체결 교통분야 양해각서 후속 조치 - 도로관리·ITS 등 한국 경험 공유, ODA·인적교류 등 협력 강화 논의 □ 국토교통부(장관 홍지선) 대도시권광역교통위원회(이하 대광위) 김용석 위원장은 11월 17일(화) 오후 수흐롭 요쿠브조다(Suhrob Yokubzoda) 타지키스탄* 교통부 차관과 면담을 갖고, 양국 간 도로·교통 분야 협력 강화 방안을 논의했다. * 타지키스탄은 중국·아프가니스탄 등과 국경을 맞댄 중앙아시아 내륙국으로, 국토의 약 93%가 산악지대인 여건 속에서 철도·도로망 확충과 교통 분야 디지털화를 추진 중 ㅇ 이번 면담은 한국도로공사의 초청 및 아시아개발은행(ADB)의 지원으로 진행된 도로·교통분야 연수를 계기로 타지키스탄 대표단이 방한함에 따라 마련되었다. □ 타지키스탄 측은 “양국간 교통분야의 전반적인 협력 강화와 함께 도로관리, 지능형교통체계(ITS), 대중교통 운영관리 등의 분야에서도 한국의 정책 경험과 기술을 공유받기를 희망한다”는 뜻을 밝혔다. □ 이에 김 위원장은 “해당 분야는 한국이 오랜 기간 경험과 기술을 축적해 온 분야”라며, 타지키스탄 여건에 맞는 협력 방안이 마련될 수 있도록 한국의 경험을 공유할 예정”이라고 답했다. ㅇ 또한 김 위원장은 국토교통 공적개발원조(ODA) 사업으로 추진 중인 두샨베시 스마트 모빌리티 조성사업*이 도시교통 관리 기술 공유의 좋은 사례가 될 수 있음을 언급하며, 이 사업이 두샨베시 교통 환경 개선으로 이어질 수 있도록 타지키스탄 측의 관심과 협조를 요청했다. * 수도인 두샨베시 교통 혼잡 완화를 위한 도시교통 마스터플랜과 스마트 모빌리티 세부계획(교통관제센터 등)의 수립을 지원하는 사업 (’26~’28년) □ 이어 양측은 지난 9월 한-중앙아 정상회의를 계기로 체결된 양해각서(MOU) ",
+  "date": null,
+  "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092611",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=8&idx=24378": {
+  "body": "...중략...이는 산업통상부가 주관하는 ‘자율주행 기반 스마트항만 모빌리티 플랫폼 기술개발’ 과제에 최근 에이스웍스가 참여하면서 현실화할 수 있게 됐다. 한국자동차연구원과 부산항만공사가 총괄하는 이 사업은 2029년까지 총 454억6000만원을 들여 부산항의 24시간 무인 운영 기반을 갖추는 게 목표다...중략... ...중략...이는 산업통상부가 주관하는 ‘자율주행 기반 스마트항만 모빌리티 플랫폼 기술개발’ 과제에 최근 에이스웍스가 참여하면서 현실화할 수 있게 됐다. 한국자동차연구원과 부산항만공사가 총괄하는 이 사업은 2029년까지 총 454억6000만원을 들여 부산항의 24시간 무인 운영 기반을 갖추는 게 목표다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-17",
+  "link": "https://www.newswire.co.kr/newsRead.php?no=1047228&picno=611376&utm_source=chatgpt.com",
   "tries": 1
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=23063": {
@@ -6455,7 +6491,7 @@
   "body": "Making automated driving safer, improving traffic management and supporting the wider deployment of connected and automated vehicles all depend on access to reliable mobility data. To help address this need, ERTICO – ITS Europe is coordinating FUSE4CCAM , a new three-year Horizon Europe project bringing together 16 consortium Partners to connect existing mobility data platforms and enable secure, trusted and interoperable data sharing across Europe...중략... [새롭게 출시된 FUSE4CCAM은 유럽 전역의 자율주행 데이터를 연결합니다.] 자율주행의 안전성을 높이고, 교통 관리를 개선하며, 커넥티드 및 자율주행 차량의 보급을 확대하는 것은 모두 신뢰할 수 있는 모빌리티 데이터에 대한 접근성에 달려 있습니다. 이러한 요구를 충족하기 위해 ERTICO – ITS Europe은 16개 컨소시엄 파트너가 참여하는 새로운 3년짜리 Horizon Europe 프로젝트인 FUSE4CCAM을 주도하고 있습니다 . 이 프로젝트는 기존 모빌리티 데이터 플랫폼을 연결하고 유럽 전역에서 안전하고 신뢰할 수 있으며 상호 운용 가능한 데이터 공유를 가능하게 하는 것을 목표로 합니다. Making automated driving safer, improving traffic management and supporting the wider deployment o",
   "date": null,
   "link": null,
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24353": {
   "body": "Uber Technologies Inc. made Amazon.com Inc.’s Zoox robotaxis available on its platform in Las Vegas, ramping up competition with Waymo, which also recently began operating there...중략... [우버와 아마존의 Zoox가 라스베이거스에서 로보택시 서비스를 시작한다] 우버 테크놀로지스는 아마존의 주크스 로보택시를 라스베이거스 플랫폼에서 이용할 수 있도록 함으로써, 최근 라스베이거스에서 운행을 시작한 웨이모와의 경쟁을 심화시켰다. Uber Technologies Inc. made Amazon.com Inc.’s Zoox robotaxis available on its platform in Las Vegas, ramping up competition with Waymo, which also recently began operating there...중략... [우버와 아마존의 Zoox가 라스베이거스에서 로보택시 서비스를 시작한다] 우버 테크놀로지스는 아마존의 주크스 로보택시를 라스베이거스 플랫폼에서 이용할 수 있도록 함으로써, 최근 라스베이거스에서 운행을 시작한 웨이모와의 경쟁을 심화시켰다. Copyright © 2018 ITS Korea. All rights reserved.",
@@ -6473,7 +6509,7 @@
   "body": "중국 교통운수부는 교통 분야 디지털·AI 전환 현황을 종합 공개했습니다. 국가 종합교통정보플랫폼에는 30억 건 이상의 데이터와 46만 개 이상의 영상자원이 연계됐고, 전국 26개 지역에서 도로·수로 인프라 디지털전환이 진행돼 고속도로 3,500㎞, 부대시설 5,300여 곳이 디지털화됐습니다. AI 분야에서는 교통 대형모델, 지능형 운항·항만, 교통관제, 디지털 도로·항로 등을 확대하고 있습니다...중략... 중국 교통운수부는 교통 분야 디지털·AI 전환 현황을 종합 공개했습니다. 국가 종합교통정보플랫폼에는 30억 건 이상의 데이터와 46만 개 이상의 영상자원이 연계됐고, 전국 26개 지역에서 도로·수로 인프라 디지털전환이 진행돼 고속도로 3,500㎞, 부대시설 5,300여 곳이 디지털화됐습니다. AI 분야에서는 교통 대형모델, 지능형 운항·항만, 교통관제, 디지털 도로·항로 등을 확대하고 있습니다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://www.mot.gov.cn/xinwen/jiaotongyaowen/202611/t20261116_4227775.html",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24364": {
   "body": "Today, the High Representative for Foreign Affairs and Security Policy/Vice-President of the European Commission Kaja Kallas , Commissioner for Enlargement Marta Kos , and Commissioner for International Partnerships Jozef Síkela hosted representatives from the EU, the Black Sea region, the South Caucasus and Central Asia for the second Ministerial Meeting on Cross-Regional Security and Connectivity in Brussels...중략... EU 집행위원회와 흑해·남캅카스·중앙아시아 국가들이 브뤼셀에서 장관회의를 열고 교통·디지털·에너지 연결성 확대에 합의했습니다. 유럽과 중앙아시아를 연결하는 교통회랑의 인프라와 디지털 연결성을 함께 강화하는 방향으로, 향후 Trans-Caspian Transport Corridor의 운영 효율화와 디지털화가 주요 후속 과제로 이어질 전망입니다. Today, the High Representative for Foreign Affairs and Security Policy/Vice-President of the European Commission Kaja Kallas , Commissioner for Enlargement Marta Kos , and Commissioner for International Partnerships Jozef Síkela hosted representatives from the EU, the Black Sea region",
@@ -6491,6 +6527,60 @@
   "body": "테슬라가 운전대와 가속·브레이크 페달이 없는 2인승 자율주행차 ‘사이버캡(cybercab)’을 개인 고객에게도 판매하기로 했다. 그동안 승객이 앱으로 직접 호출해 타던 로보택시를 자가용으로도 판매한다는 취지다. 가격은 2만9990달러(약 4000만원)로 책정돼 미국 일부 고객을 대상으로 먼저 판매가 시작된다...중략... 테슬라가 운전대와 가속·브레이크 페달이 없는 2인승 자율주행차 ‘사이버캡(cybercab)’을 개인 고객에게도 판매하기로 했다. 그동안 승객이 앱으로 직접 호출해 타던 로보택시를 자가용으로도 판매한다는 취지다. 가격은 2만9990달러(약 4000만원)로 책정돼 미국 일부 고객을 대상으로 먼저 판매가 시작된다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": "2026-11-15",
   "link": "https://www.chosun.com/economy/auto/2026/11/15/JGEXT5S2XNBRDHZSLUU7GS2TLQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24369": {
+  "body": "메르세데스-벤츠가 내년 상반기부터 독일과 미국에서 지점 간 이동(point-to-point) 주행을 지원하는 레벨 2++(도심 자율주행 가능)급 자율주행 소프트웨어 'MB.드라이브 어시스트 프로'를 제공한다고 17일 밝혔다. 지난해 말 중국에서 먼저 상용화한 뒤 유럽과 미국으로 자율주행 영토를 넓히는 것이다. 한국에는 내년 하반기 도입 예정이다...중략... 메르세데스-벤츠가 내년 상반기부터 독일과 미국에서 지점 간 이동(point-to-point) 주행을 지원하는 레벨 2++(도심 자율주행 가능)급 자율주행 소프트웨어 'MB.드라이브 어시스트 프로'를 제공한다고 17일 밝혔다. 지난해 말 중국에서 먼저 상용화한 뒤 유럽과 미국으로 자율주행 영토를 넓히는 것이다. 한국에는 내년 하반기 도입 예정이다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-17",
+  "link": "https://www.hankookilbo.com/news/article/A2026111715200005068",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24372": {
+  "body": "교통 센서가 없는 도로의 교통 상황을 인공지능(AI)으로 예측하는 기술이 개발됐다. 독일 뮌헨공과대학교와 영국 임페리얼 칼리지 런던 공동 연구팀은 희소한 센서 데이터로부터 전체 도로망의 교통 상황을 추정하는 AI 접근법 'RADGCN'을 개발했다...중략... Relation-diffusion augmented network-wide traffic state estimation under sparse sensor deployment 교통 센서가 없는 도로의 교통 상황을 인공지능(AI)으로 예측하는 기술이 개발됐다. 독일 뮌헨공과대학교와 영국 임페리얼 칼리지 런던 공동 연구팀은 희소한 센서 데이터로부터 전체 도로망의 교통 상황을 추정하는 AI 접근법 'RADGCN'을 개발했다...중략... Relation-diffusion augmented network-wide traffic state estimation under sparse sensor deployment Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-17",
+  "link": "https://www.kmkj.kr/news/articleViewAmp.html?idxno=144186",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24375": {
+  "body": "Taking place from 25–29 October 2027 at the NEC Birmingham, United Kingdom, the ITS World Congress will unite the global intelligent transport systems (ITS) community under the theme Connect Ideas. Transform Transport. Organised by ERTICO – ITS Europe and hosted by the UK Government, together with the West Midlands Combined Authority through Transport for West Midlands, the Congress will provide a major international platform for industry, government and transport authorities to connect, collaborate and accelerate the deployment of intelligent mobility solutions...중략... [글로벌 산업계, 버밍엄 2027 전시회에 대한 지지 표명… 전시장 수용률 50% 돌파] 2027년 10월 25일부터 29일까지 영국 버밍엄 NEC에서 개최되는 ITS 세계 총회는 \"아이디어를 연결하고 교통을 혁신하자\"라는 주제로 전 세계 지능형 교통 시스템(ITS) 커뮤니티를 한자리에 모을 것입니다. ERTICO – ITS Europe가 주관하고 영국 정부와 웨스트 미들랜즈 통합 당국(웨스트 미들랜즈 교통국 산하)이 공동으로 주최하는 이번 컨퍼런스는 산업계, 정부 및 교통 당국이 연결하고 협력하며 지능형 모빌리티 솔루션의 도입을 가속화할 수 있는 주요 국제 플랫폼을 제공",
+  "date": "2026-11-17",
+  "link": "https://ertico.com/global-industry-backs-birmingham-2027-as-exhibition-reaches-50-capacity",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24376": {
+  "body": "The Irish Government, as part of its EU presidency, is planning to set up a new agency which it hopes will speed up the development of so-called connected and automated vehicles (CAV) in Ireland. [아일랜드, CAV 실도로 시험 총괄 ‘합동 프로그램 사무국’ 설립 추진] 아일랜드 교통부는 정부기관·산업계·학계를 연결해 커넥티드·자율주행차 시험장과 실도로 시험을 조정할 Joint Programme Office 설립 계획을 발표했다. 이는 설립 완료가 아닌 추진 발표 단계이며, 아일랜드는 별도로 2026~2030년 교통 디지털혁신과 CAV 준비에 2억3,100만 유로를 배정한 상태다. The Irish Government, as part of its EU presidency, is planning to set up a new agency which it hopes will speed up the development of so-called connected and automated vehicles (CAV) in Ireland. [아일랜드, CAV 실도로 시험 총괄 ‘합동 프로그램 사무국’ 설립 추진] 아일랜드 교통부는 정부기관·산업계·학계를 연결해 커넥티드·자율주행차 시험장과 실도로 시험을 조정할 Joint Programme Office 설립 계획을 발표했다. 이는 설립 완료가 아닌 추진 발표 단계이며, 아일랜드는 별도로 2026~2030년 교통 디지털혁신과 CAV 준비에 2억3,100만 유로를 배정한 상태다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": "2026-11-17",
+  "link": "https://www.completecar.ie/car-news/article/15468/Self-driving-car-testing-office-planned-for-Ireland?utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24377": {
+  "body": "California banned Waymo’s autonomous vehicles from state freeways, saying they pose an “imminent hazard” after recent traffic incidents, including one where three of the driverless cars drove into a construction zone...중략... [캘리포니아는 웨이모 자율 주행 차량이 '임박한 위험'을 초래한다며 주 고속도로에서 금지합니다] 캘리포니아 DMV는 공사구간 진입과 경찰 교통통제 관련 사건을 근거로 11월 11일 Waymo의 무인 고속도로 운행을 제한했으며, 이 조치가 17일 공개됐다. Waymo는 시내 일반도로 서비스는 유지하되 다른 운영 도시에서도 고속도로 운행을 일시 중단했으며, 재개 시점은 정해지지 않았다 California banned Waymo’s autonomous vehicles from state freeways, saying they pose an “imminent hazard” after recent traffic incidents, including one where three of the driverless cars drove into a construction zone...중략... [캘리포니아는 웨이모 자율 주행 차량이 '임박한 위험'을 초래한다며 주 고속도로에서 금지합니다] 캘리포니아 DMV는 공사구간 진입과 경찰 교통통제 관련 사건을 근거로 11월 11일 Waymo의 무인 고속도로 운행을 제한했으며, 이 조치가 17일 공개됐다. Waymo는 시내 일반도로 서비스는 유지하되 다른 운영 도시에서도 고속도로 운행을 일시 중단했으며, 재개 시점은 정해지지 않았다 Copyright © 2018 ITS",
+  "date": null,
+  "link": "https://apnews.com/article/waymo-driverless-vehicle-california-freeway-ban-37bcd5371a4699a1850b7666b271946b",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24379": {
+  "body": "...중략...This investment will accelerate the provision of electric vehicle (EV) flexibility for the UK electricity system by 2030 through interoperable vehicle to everything (V2X) bidirectional charging. This will contribute to the Mission ambition of delivering at least 2 gigawatts (GW) of additional peak time consumer led flexibility by 2030...중략... UKRI는 전력망 연계형 V2X 양방향 충전 실증에 최대 1,500만 파운드를 지원하는 공모를 11월 16일 공식 게시했다. V2G·V2H·V2B·V2V·V2L과 유무선, AC·DC 방식을 포괄하며 다수 사업자 간 상호운용성·사이버보안·표준 검증을 요구한다. 공모 자체는 11월 10일 개시됐고 2027년 1월 27일 마감된다 ...중략...This investment will accelerate the provision of electric vehicle (EV) flexibility for the UK electricity system by 2030 through interoperable vehicle to everything (V2X) bidirectional charging. This will contribute to the Mission ambition of delivering at least 2 gigawatts (GW) of additional peak time consumer led flexibility by 2030...중략... UKRI는 전력망 연",
+  "date": null,
+  "link": "https://find-government-grants.service.gov.uk/grants/scaling-interoperable-v2x-bidirectional-charging-1?utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24380": {
+  "body": "Emergency crews can reach people in need more quickly and safely under an innovative traffic light system currently being trialled in Hamilton. 뉴질랜드 해밀턴시는 소방·긴급대응기관(Fire and Emergency New Zealand)과 공동으로 긴급차량 우선신호(EVP) 시스템을 실증하고 있다. EVP는 실시간 차량 위치추적, 인공지능(AI), 교통신호 데이터 를 활용해 소방차의 교차로 도착시점을 예측하고, 접근 전에 녹색신호를 부여해 출동시간을 단축하는 시스템이다. 긴급차량 통과 시 보행신호를 일시적으로 제어해 소방대원과 일반 차량·보행자의 안전도 함께 확보하며, 우선신호 적용으로 발생하는 교통영향을 자동 수집·분석해 시스템 개선에 활용한다. 현재 소방차 5대와 시내 신호교차로 30개소에서 실증 중이며, 성공적으로 완료되면 적용 교차로와 소방차를 확대하고 경찰 등 다른 긴급서비스로도 적용할 계획이다. 해밀턴시는 시스템을 다른 지방정부에서도 활용할 수 있도록 설계했으며, 장기적으로는 뉴질랜드 전국 단위 긴급차량 우선신호 플랫폼 으로 확대한다는 구상이다. 해당 기술은 2026년 10월 한국에서 열린 ITS 세계총회에서 ITS Hall of Fame 아시아·태평양 지역 ‘Local Government’ Award 를 수상했다. Emergency crews can reach people in need more quickly and safely under an innovative traffic light system currently being trialled in Hamilton. 뉴질랜드 해밀턴시는 소방·긴급대응기관(Fire and Emergency New Zealand)",
+  "date": "2026-11-17",
+  "link": "https://hamilton.govt.nz/your-council/news/hamilton-traffic-light-tech-helping-firefighters-save-lives?utm_source=chatgpt.com",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24381": {
+  "body": "The same laser-sensing technology used in autonomous vehicles is being paired with artificial intelligence to make traffic lights smarter — and streets potentially safer...중략... 내슈빌이 라이다 기반 교통관리 기술을 교차로 100곳에 추가 도입합니다. AI와 결합해 보행자·차량의 움직임을 파악하고 신호 운영을 개선하는 사례 The same laser-sensing technology used in autonomous vehicles is being paired with artificial intelligence to make traffic lights smarter — and streets potentially safer...중략... 내슈빌이 라이다 기반 교통관리 기술을 교차로 100곳에 추가 도입합니다. AI와 결합해 보행자·차량의 움직임을 파악하고 신호 운영을 개선하는 사례 Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.axios.com/2026/11/17/traffic-lights-smart-lidar-ai-nashville-ouster",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24382": {
+  "body": "중국 산시성이 고속도로 긴급구조에 디지털 통합관제·자동 위치확인·스마트 배차 를 적용하고 있습니다. 이용자가 ‘晋e行’ 앱에서 구조요청을 하면 시스템이 고장차량 위치를 자동으로 파악하고 구조자원을 배정합니다. 올해 평균 구조 대응시간은 19.11분으로 기존 방식보다 약 18% 단축 됐다고 중국 교통운수부가 밝혔습니다. 긴급차량 우선신호와는 다른 방식이지만, ITS 기반 돌발상황 관리·긴급대응 시스템 사례로 회원사 활용도가 높습니다 중국 산시성이 고속도로 긴급구조에 디지털 통합관제·자동 위치확인·스마트 배차 를 적용하고 있습니다. 이용자가 ‘晋e行’ 앱에서 구조요청을 하면 시스템이 고장차량 위치를 자동으로 파악하고 구조자원을 배정합니다. 올해 평균 구조 대응시간은 19.11분으로 기존 방식보다 약 18% 단축 됐다고 중국 교통운수부가 밝혔습니다. 긴급차량 우선신호와는 다른 방식이지만, ITS 기반 돌발상황 관리·긴급대응 시스템 사례로 회원사 활용도가 높습니다 Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.mot.gov.cn/xinwen/jiaotongyaowen/202611/t20261117_4227886.html?utm_source=chatgpt.com",
   "tries": 1
  }
 }

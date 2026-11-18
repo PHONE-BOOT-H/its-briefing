@@ -272,6 +272,13 @@
   "impagency": "Ministry of Transportation",
   "total": 363995968.0
  },
+ "P169718": {
+  "borrower": "Republic of Liberia",
+  "closing": "2028-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Public Works",
+  "total": 40000000.0
+ },
  "P169880": {
   "borrower": "People's Republic of Bangladesh",
   "closing": "2026-12-31",
@@ -601,6 +608,13 @@
   "impagency": "Land Transport Authority,Ministry of Finance,Samoa Airport Authority",
   "total": 66000000.0
  },
+ "P176274": {
+  "borrower": "Central African Republic",
+  "closing": "2027-03-29",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Finance and Budget,Ministry of Small and Medium Enterprises and Private Sector Development",
+  "total": 30000000.0
+ },
  "P176303": {
   "borrower": "Federal Republic of Ethiopia",
   "closing": "2029-03-31",
@@ -712,6 +726,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Ministry of Finance and Economic Development,Ministry of Public Works, Infrastructure Development and Water",
   "total": 46500000.0
+ },
+ "P177118": {
+  "borrower": "Republic of Cote d'Ivoire",
+  "closing": "2030-03-29",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministère de l'Hydraulique, de l'Assainissement et de la Salubrité (MINHAS)",
+  "total": 250000000.0
  },
  "P177185": {
   "borrower": "Ministry of Economy and Finance,The Kingdom of Cambodia",
@@ -1125,6 +1146,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Ministry of Finance, Labour and Transfers",
   "total": 37700000.0
+ },
+ "P507759": {
+  "borrower": "Republic of Mozambique",
+  "closing": "2030-12-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Electricidade de Moçambique (EDM),Fundo de Energia (FUNAE),Ministry of Mineral Resources and Energy (MIREME)",
+  "total": 100000000.0
  },
  "P507921": {
   "borrower": "Republic of Mali",
