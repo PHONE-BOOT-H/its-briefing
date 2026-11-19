@@ -638,5 +638,96 @@
   "tokens": [
    "metrobus"
   ]
+ },
+ "m16232": {
+  "date": "2026-11-18",
+  "links": [
+   "https://www.itsinternational.com/indra-wins-44m-california-free-flow-toll-deal/"
+  ],
+  "title": "[미국] 인드라, 캘리포니아 Yolo 80 무정차 톨링 시스템 4,400만 달러 계약 수주",
+  "tokens": [
+   "carta",
+   "express",
+   "fastrak",
+   "group",
+   "indra",
+   "lanes",
+   "parsons",
+   "transportation"
+  ]
+ },
+ "m16233": {
+  "date": "2026-11-18",
+  "links": [
+   "https://www.wsmv.com/2026/11/17/ndot-adding-more-lidar-traffic-detection-sensors-track-near-miss-accidents-across-nashville/"
+  ],
+  "title": "[미국] 내슈빌, 교차로 위험상황 분석 위한 라이다 센서 100대 추가 설치 추진 본문",
+  "tokens": [
+   "lidar"
+  ]
+ },
+ "m16234": {
+  "date": "2026-11-18",
+  "links": [
+   "https://th.bing.com/th/id/OIP.O6BX-v5AlYygysmlEgE42gHaHa?r=0&o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+   "https://newsonjapan.com/article/151415.php"
+  ],
+  "title": "[일본] 도쿄, 2027년부터 AI 교통신호 제어 전역 확대 추진",
+  "tokens": []
+ },
+ "m16235": {
+  "date": "2026-11-18",
+  "links": [
+   "https://www.thestar.com.my/business/business-news/2026/11/17/heitech-padu-secures-rm518mil-penang-smart-parking-extension"
+  ],
+  "title": "[말레이시아] 헤이텍 파두, 페낭 스마트주차 계약 연장…AI 번호판 인식 도입",
+  "tokens": [
+   "heitech"
+  ]
+ },
+ "m16236": {
+  "date": "2026-11-18",
+  "links": [
+   "https://www.brecorder.com/news/40448810"
+  ],
+  "title": "[파키스탄] 펀자브주, 라호르에 광역 교통관리·지휘센터 구축 승인",
+  "tokens": [
+   "lines",
+   "police",
+   "qurban"
+  ]
+ },
+ "m16237": {
+  "date": "2026-11-18",
+  "links": [
+   "https://www.itsinternational.com/maine-turnpike-selects-valerann-for-five-year-deal/"
+  ],
+  "title": "[미국] 메인주 고속도로청, 실시간 교통관제 플랫폼 도입…5년 계약",
+  "tokens": [
+   "lanternn",
+   "valerann"
+  ]
+ },
+ "m16238": {
+  "date": "2026-11-18",
+  "links": [
+   "https://cnevpost.com/wp-content/uploads/2026/11/2026111605213140.jpg.avif",
+   "https://cnevpost.com/2026/11/16/pony-ai-toyota-bz4x-robotaxi-guangzhou/"
+  ],
+  "title": "[중국] 포니AI·도요타, 광저우서 bZ4X 무인 로보택시 서비스 개시",
+  "tokens": [
+   "ponypilot"
+  ]
+ },
+ "m16239": {
+  "date": "2026-11-18",
+  "links": [
+   "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRMuR0miquD4BmdJudIG1rJi4PWwWnZVjvNwmwBsSZ1AcsHVswzewM1Co&s=10",
+   "https://highways-news.com/yunex-traffic-to-support-safer-smarter-journeys-across-norfolk/"
+  ],
+  "title": "[영국] 유넥스 트래픽, 노퍽주 교통신호·ITS 유지관리 7년 계약 수주",
+  "tokens": [
+   "yunex"
+  ]
  }
 }
