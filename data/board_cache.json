@@ -729,5 +729,39 @@
   "tokens": [
    "yunex"
   ]
+ },
+ "m16240": {
+  "date": "2026-11-20",
+  "links": [
+   "https://engineeringnews.co.za/article/from-signals-to-systems-rethinking-how-south-africa-moves-2026-11-06?"
+  ],
+  "title": "[남아공] 스텔렌보스, AI 신호제어 사업 36개 교차로로 확대 추진",
+  "tokens": [
+   "beach",
+   "bytefuse",
+   "quebit",
+   "roadyork",
+   "syntell"
+  ]
+ },
+ "m16241": {
+  "date": "2026-11-20",
+  "links": [
+   "https://ippmedia.co.tz/the-guardian/news/local-news/read/dar-es-salaams-gongo-la-mboto-suburb-gets-first-taste-of-brt-phase-three-2026-11-11-153934"
+  ],
+  "title": "[탄자니아] 다르에스살람 BRT 3단계 구간, 승객 태우고 시험운행 시작",
+  "tokens": [
+   "mofat"
+  ]
+ },
+ "m16242": {
+  "date": "2026-11-20",
+  "links": [
+   "https://nairametrics.com/2026/11/14/lagos-port-truck-call-up-system-cuts-cargo-transport-costs-by-65-ttp-md/"
+  ],
+  "title": "[나이지리아] 라고스 항만, 전자식 트럭 진입 관리 시스템 운영 성과 공개",
+  "tokens": [
+   "onwubuariri"
+  ]
  }
 }
