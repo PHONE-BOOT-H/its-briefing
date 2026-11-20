@@ -60,41 +60,41 @@
    - 분야: 신호·관제 / 게재일: 2026-11-17 / 매체: ITS Korea
    - 원문: https://hamilton.govt.nz/your-council/news/hamilton-traffic-light-tech-helping-firefighters-save-lives?utm_source=chatgpt.com
 
-12. Weekes to lead toll tech at HNTB
+12. [중국] AI 기반 ‘차량-도로-클라우드’ 도로위험 정밀경보 서비스 137만 차량으로 확대
+   - 분야: 기타 / 게재일: 2026-11-20 / 매체: ITS Korea
+   - 원문: https://www.mot.gov.cn/xinwen/jiaotongyaowen/202611/t20261119_4228046.html?utm_source=chatgpt.com
+
+13. Weekes to lead toll tech at HNTB
    - 분야: 요금·통행료 / 게재일: 2026-11-13 / 매체: ITS International
    - 원문: https://www.itsinternational.com/weekes-to-lead-toll-tech-at-hntb/
 
-13. Haltivision first to integrate Q-Free’s Intrada Cloud ANPR
+14. Haltivision first to integrate Q-Free’s Intrada Cloud ANPR
    - 분야: 단속·집행 / 게재일: 2026-11-13 / 매체: Traffic Technology Today
    - 원문: https://www.traffictechnologytoday.com/news/enforcement/haltivision-first-to-integrate-q-frees-intrada-cloud-anpr.html
 
-14. [미국] Lidar and AI are making traffic lights smarter
+15. [미국] Lidar and AI are making traffic lights smarter
    - 분야: 신호·관제 / 게재일: 2026-11-18 / 매체: ITS Korea
    - 원문: https://www.axios.com/2026/11/17/traffic-lights-smart-lidar-ai-nashville-ouster
 
-15. Indra selects Ouster Lidar for tolling
+16. Indra selects Ouster Lidar for tolling
    - 분야: 요금·통행료 / 게재일: 2026-11-18 / 매체: ITS International
    - 원문: https://www.itsinternational.com/indra-chooses-ouster-lidar-for-tolling/
 
-16. [콜롬비아] 마니살레스, 64개 신호교차로 중앙관리망 구축
+17. [콜롬비아] 마니살레스, 64개 신호교차로 중앙관리망 구축
    - 분야: 신호·관제 / 게재일: 2026-11-19 / 매체: ITS Korea
    - 원문: https://centrodeinformacion.manizales.gov.co/manizales-renovara-sus-64-intersecciones-semaforizadas-con-40-nuevos-controladores/?utm_source=chatgpt.com
 
-17. Lahore Gets Rs3.246bn Traffic Control Centre
+18. Lahore Gets Rs3.246bn Traffic Control Centre
    - 분야: 신호·관제 / 게재일: 2026-11-16 / 매체: Digital Pakistan
    - 원문: https://news.google.com/rss/articles/CBMifEFVX3lxTE14bnhfaHlDLW9ibjZGUWFkc0k4RUhsdXdla0FSRnlmTEVxVHhJRDlDZnJQUEwwSnRwMVBrMEtzU1JXZlR6TmJseV95M3dYWkxhcVpzY2VQYmRlOHNnYnl6TzhNdGU1Mkxmejl6dnQ3YUNyRlBfOWxWZWJUUVU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. Intelligent Transport System to start operations in Chennai in December 2026
+19. Intelligent Transport System to start operations in Chennai in December 2026
    - 분야: 신호·관제 / 게재일: 2026-11-17 / 매체: The Hindu
    - 원문: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0VMZUpsSzJOSTZMakhyV3VYRGVyaFd6eWk0SGZHSHpuQXNwNlF0dnlZUHc4d0UxVjZYampGVjJ4RjBEZDJFSkFqSk42Sjc0TFZ0LUd1ZjloVmxjTE9TdTZDWWJETTRKTnVyUmIxa2xGbHk4TFVvdVhMSkdXX0hLOVFsQ1JOTG5uMVdBTXFCRmYyWXNkcFMzTXFuT0pqVzIxNXhfVGlQR0dZbGNHTDBvS2poSHhaREJoTHFDaGo1RUVmM1o0WnNZNVVGY2I5OUo10gHXAUFVX3lxTE5XWjdnV1dCX1lEdE1pdnJnWklsUUpyTld5Zk03UkNCMWpTbjFJY0pRVldqMXJGX0ttZWkyRGdXMGdSVEpXWk1nZ0JXVmRWSkptaUhVX2pWTm12RjUxSGZTXzNuaW0wbmxJc0RiVWtZb3M4VjlUSy0tVVVaN3RydHdOTURFYXY0eE9lZEhzYlpoeEZyc25oNGRNY1Rnd0xtQTNtMmlWaHVqaEVRSG1mVDBnUXI3YkpVaUxLR1pRYm5MY1RMQldtaXAxdi1OWmdaSUxyeThibkJF?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. Indra Group USA wins project worth more than $44 million to improve mobility on California’s yolo 80 corridor
-   - 분야: 기타 / 게재일: 2026-11-13 / 매체: Indra Group
-   - 원문: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTUxPZDFtd1VpbWRtdjhyMmR2dVZTTmhzOWk5eTVYOVo0TW9uTnZVYlNqbHdtTG90QnF3UEJUYnBXeDRSaXFsczRVcjVjVGFsOEF4MHlEcGZaazdMcUdJSkhENTNyVHQwd1A0bV90SFBpXzEtTXNMU0JzMzF2TmVUY0tDME13Y3NkclZkRW5Gc2pvbjJpR2MzZ2YyYV9nVlFoSEp1c2txaE5IVk9MTnZ1OTE0UHhGdzQ3dEJBX1AyZlZ3RnNfNjZBNk5vNlVhTnV0dlExWExJQkNtUQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. Exergy awarded contract by Kocaer Enerji
-   - 분야: 산업·투자 / 게재일: 2026-11-13 / 매체: Energy Global
-   - 원문: https://news.google.com/rss/articles/CBMinAFBVV95cUxOQnlhTU5jN2I1V05WZXI3Q045eVl3MkZIbWtGYW55TGNoZlQtamhrX3NxU2NUS3BraEZvSlFyMUh5Vk4wN2tJRGZrZmJGM1JZdXJzYVg5cEdoQnhGdWxwTEJvWUFJN05MNk9mLTZwNmhkM1NIaE5UZFpVdGJEcXRCTmdBbFotR0cyV0p1ZUJDUUpzNVdRZWJFYlNMbF8?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+20. Contract awarded for new ‘Little Bridge’ over Coosa River
+   - 분야: 기타 / 게재일: 2026-11-13 / 매체: Gadsden Messenger
+   - 원문: https://news.google.com/rss/articles/CBMijgFBVV95cUxQSjZibnUwSjNrUFlwVW9tdUZIYm9jeGhiRGM3ZHhlTGt2T3poNlJTV25BMTRZa0FkQURDRFpaV3BpbC1zMGVGRnRQVzk5YmVSOVZxLWpiVXBZSjFxRnNENU5xb3V1b3RaTVZpS2dmSXFNUGp4RnRJT3ZWc3dxTEVLdG5oVGhKNXN3ZWJ1LTFn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
@@ -198,13 +198,13 @@
   - 마감 2026-11-20 / 발주처 Ministry of Public Works and Transport
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478396
 
-- [El Salvador] ADMINISTRADOR DE CONTRATO II
-  - 마감 2026-11-20 / 발주처 Ministry of Public Works and Transport
-  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478398
-
 - [El Salvador] ADMINISTRADOR DE CONTRATO III
   - 마감 2026-11-20 / 발주처 Ministry of Public Works and Transport
   - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478400
+
+- [El Salvador] ADMINISTRADOR DE CONTRATO II
+  - 마감 2026-11-20 / 발주처 Ministry of Public Works and Transport
+  - 원문: https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00478398
 
 - [볼리비아] Coordinador del Programa
   - 마감 2026-11-20 / 발주처 Unidad Tecnica Aeroportuaria
