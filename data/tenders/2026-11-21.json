@@ -1699,6 +1699,49 @@
  },
  {
   "schema_version": 3,
+  "id": "wb-OP00481596",
+  "kind": "tender",
+  "source": "World Bank",
+  "type": "입찰",
+  "stream": "notice",
+  "country": "Mozambique",
+  "country_ko": "모잠비크",
+  "title": "Contracting of Works for the Construction of Four Schools in Nampula Province",
+  "org": "Housing Development Fund",
+  "org_type": null,
+  "project_title": "Mozambique Northern Urban Development Project",
+  "budget": null,
+  "selection_method": "Request for Bids",
+  "source_scope": null,
+  "contact_name": "Armindo Munguambe",
+  "contact_email": "amunguambe@ffh.gov.mz",
+  "contact_phone": "+258 843219962",
+  "duration": null,
+  "funder": "IDA (세계은행 양허성 창구)",
+  "terms": {
+   "차주": "Republic of Mozambique",
+   "시행기관": "Fundo para o Fomento a Habitação (Housing Development Fund)",
+   "사업 총사업비(공동재원 포함)": "USD 100,000,000",
+   "사업 종료 예정": "2028-12-31"
+  },
+  "published": "2026-11-16",
+  "deadline": "2026-12-30",
+  "deadline_time": "10:00",
+  "ref_no": "P175266",
+  "project_id": "P175266",
+  "link": "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00481596",
+  "cpv": [],
+  "score": 37,
+  "score_hits": [
+   "contract"
+  ],
+  "already_posted": false,
+  "collector": "worldbank",
+  "first_seen": "2026-11-18",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
   "id": "wb-OP00482207",
   "kind": "tender",
   "source": "World Bank",
@@ -2181,8 +2224,8 @@
   "org_type": null,
   "project_title": "Addressing Sexual Exploitation, Abuse, and Harassment in ADB Operations",
   "budget": {
-   "currency": "USD",
    "amount": 17000.0,
+   "currency": "USD",
    "is_project_total": false
   },
   "selection_method": "Individual Consultant Selection (ICS)",
@@ -2619,8 +2662,8 @@
   "org_type": null,
   "project_title": "Kobuleti Bypass Project (Lots 1 and 2)",
   "budget": {
-   "currency": "USD",
    "amount": 14540694.0,
+   "currency": "USD",
    "is_project_total": false
   },
   "selection_method": "Quality and Cost-Based Selection (QCBS)",

@@ -60,41 +60,41 @@
    - 분야: 신호·관제 / 게재일: 2026-11-17 / 매체: ITS Korea
    - 원문: https://hamilton.govt.nz/your-council/news/hamilton-traffic-light-tech-helping-firefighters-save-lives?utm_source=chatgpt.com
 
-12. [중국] AI 기반 ‘차량-도로-클라우드’ 도로위험 정밀경보 서비스 137만 차량으로 확대
-   - 분야: 기타 / 게재일: 2026-11-20 / 매체: ITS Korea
-   - 원문: https://www.mot.gov.cn/xinwen/jiaotongyaowen/202611/t20261119_4228046.html?utm_source=chatgpt.com
-
-13. [미국] Lidar and AI are making traffic lights smarter
+12. [미국] Lidar and AI are making traffic lights smarter
    - 분야: 신호·관제 / 게재일: 2026-11-18 / 매체: ITS Korea
    - 원문: https://www.axios.com/2026/11/17/traffic-lights-smart-lidar-ai-nashville-ouster
 
-14. Indra selects Ouster Lidar for tolling
+13. Indra selects Ouster Lidar for tolling
    - 분야: 요금·통행료 / 게재일: 2026-11-18 / 매체: ITS International
    - 원문: https://www.itsinternational.com/indra-chooses-ouster-lidar-for-tolling/
 
-15. WSP wins ITS UK award for Connected Vehicle Services programme
+14. WSP wins ITS UK award for Connected Vehicle Services programme
    - 분야: C-ITS·V2X / 게재일: 2026-11-18 / 매체: Traffic Technology Today
    - 원문: https://www.traffictechnologytoday.com/news/awards/wsp-wins-its-uk-award-for-connected-vehicle-services-programme.html
 
-16. [콜롬비아] 마니살레스, 64개 신호교차로 중앙관리망 구축
+15. [콜롬비아] 마니살레스, 64개 신호교차로 중앙관리망 구축
    - 분야: 신호·관제 / 게재일: 2026-11-19 / 매체: ITS Korea
    - 원문: https://centrodeinformacion.manizales.gov.co/manizales-renovara-sus-64-intersecciones-semaforizadas-con-40-nuevos-controladores/?utm_source=chatgpt.com
 
-17. AI expected to run traffic signal timing, survey of 500 finds
+16. AI expected to run traffic signal timing, survey of 500 finds
    - 분야: 신호·관제 / 게재일: 2026-11-20 / 매체: Traffic Technology Today
    - 원문: https://www.traffictechnologytoday.com/news/artificial-intelligence-ai/ai-expected-to-run-traffic-signal-timing-survey-of-500-finds.html
 
-18. Lahore Gets Rs3.246bn Traffic Control Centre
+17. Lahore Gets Rs3.246bn Traffic Control Centre
    - 분야: 신호·관제 / 게재일: 2026-11-16 / 매체: Digital Pakistan
    - 원문: https://news.google.com/rss/articles/CBMifEFVX3lxTE14bnhfaHlDLW9ibjZGUWFkc0k4RUhsdXdla0FSRnlmTEVxVHhJRDlDZnJQUEwwSnRwMVBrMEtzU1JXZlR6TmJseV95M3dYWkxhcVpzY2VQYmRlOHNnYnl6TzhNdGU1Mkxmejl6dnQ3YUNyRlBfOWxWZWJUUVU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. Intelligent Transport System to start operations in Chennai in December 2026
+18. Intelligent Transport System to start operations in Chennai in December 2026
    - 분야: 신호·관제 / 게재일: 2026-11-17 / 매체: The Hindu
    - 원문: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0VMZUpsSzJOSTZMakhyV3VYRGVyaFd6eWk0SGZHSHpuQXNwNlF0dnlZUHc4d0UxVjZYampGVjJ4RjBEZDJFSkFqSk42Sjc0TFZ0LUd1ZjloVmxjTE9TdTZDWWJETTRKTnVyUmIxa2xGbHk4TFVvdVhMSkdXX0hLOVFsQ1JOTG5uMVdBTXFCRmYyWXNkcFMzTXFuT0pqVzIxNXhfVGlQR0dZbGNHTDBvS2poSHhaREJoTHFDaGo1RUVmM1o0WnNZNVVGY2I5OUo10gHXAUFVX3lxTE5XWjdnV1dCX1lEdE1pdnJnWklsUUpyTld5Zk03UkNCMWpTbjFJY0pRVldqMXJGX0ttZWkyRGdXMGdSVEpXWk1nZ0JXVmRWSkptaUhVX2pWTm12RjUxSGZTXzNuaW0wbmxJc0RiVWtZb3M4VjlUSy0tVVVaN3RydHdOTURFYXY0eE9lZEhzYlpoeEZyc25oNGRNY1Rnd0xtQTNtMmlWaHVqaEVRSG1mVDBnUXI3YkpVaUxLR1pRYm5MY1RMQldtaXAxdi1OWmdaSUxyeThibkJF?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. Airservices launches new drone traffic management system
+19. Airservices launches new drone traffic management system
    - 분야: 신호·관제 / 게재일: 2026-11-20 / 매체: Australian Aviation
    - 원문: https://news.google.com/rss/articles/CBMioAFBVV95cUxQcTRSZk1ob3Y3czAzbXFpaXZhTHhxbWdSVGZ1b3BNbE1vc1RCYlZzcnBfSEFXV3JBMEYzMzBkVlhuMjllSXlTZzE3RGpOamsybWc0aWxyajYwR1pCaUhIcjBSSzQteHlsRXM0YmhPdG44UHBrOVk4WjhPXy1KclZUVVk2b2Fhb2hyQzFubThIWjhsMjZfVjhFRzg1azhlRUJ6?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. ClearVue Technologies Wins Sub-Contract to Supply Solar Cladding for Large-Scale Singapore Project
+   - 분야: 기타 / 게재일: 2026-11-15 / 매체: Small Caps
+   - 원문: https://news.google.com/rss/articles/CBMiywFBVV95cUxNZDVoZ3ZvLXRKOGtycFh2VFl1ZkY5em1samZEZUIxLWMxakFiVWcwWGRQQmk1N2swSjk5NFhQVWpQUTBYYzF1YmtrWXRIZUVhY2E4RmdVdFJwU1Q1aWpac2IyNC1qM1h0X0dJRmVyU3RESlJ6Z3hqRldwUHVUaXJ4cXdnMUY5bVJ4eng5aEg3ZW95WWhZYVZBMmtHT0FLNi1ISGpzem1LYVBzMHdfR3hkNzNORWlJQW5QLXRRNV9aTm5MRk5Va2Nnak5hOA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
