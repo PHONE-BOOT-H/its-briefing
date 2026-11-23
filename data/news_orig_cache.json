@@ -6929,7 +6929,7 @@
   "body": "중국, AI 기반 차량-도로-클라우드 도로위험 예측·경보 서비스 대규모 상용화 중국 교통운수부의 첫 ‘AI+교통운수’ 354개 대표 적용 시나리오 에 ‘车路云·听’이 선정됐습니다. AI가 교통사고·통제·악천후 등 다중 데이터를 이해하고 위험등급과 대상차량을 자동으로 판단해 차량에 맞춤형 경보를 전달하며, 현재 차량 이용자 137만 대 이상, 하루 교통위험정보 1,000건 이상 을 처리하고 있습니다. 연말까지 200만 차량 이상을 목표로 하고 있어 C-ITS·차량-도로-클라우드 상용화 사례로 특히 주목할 만합니다. mot.gov.cn 중국, AI 기반 차량-도로-클라우드 도로위험 예측·경보 서비스 대규모 상용화 중국 교통운수부의 첫 ‘AI+교통운수’ 354개 대표 적용 시나리오 에 ‘车路云·听’이 선정됐습니다. AI가 교통사고·통제·악천후 등 다중 데이터를 이해하고 위험등급과 대상차량을 자동으로 판단해 차량에 맞춤형 경보를 전달하며, 현재 차량 이용자 137만 대 이상, 하루 교통위험정보 1,000건 이상 을 처리하고 있습니다. 연말까지 200만 차량 이상을 목표로 하고 있어 C-ITS·차량-도로-클라우드 상용화 사례로 특히 주목할 만합니다. mot.gov.cn Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://www.mot.gov.cn/xinwen/jiaotongyaowen/202611/t20261119_4228046.html?utm_source=chatgpt.com",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24429": {
   "body": "Dubai’s Roads and Transport Authority (RTA) has revealed that it is working on implementing 67 research and development projects, as part of its research, development and innovation strategy, which extends until 2030 and includes 13 goals and 11 initiatives. Its aim is to improve the mobility system in the emirate of Dubai, raise quality of life standards, and improve the safety and flexibility of transport infrastructure and traffic control devices...중략... [두바이 RTA, 버스 무선충전·발광 차선 등 도로 인프라 실증 구체화] 두바이 도로교통청 관계자는 미래주간 행사에서 2030년까지의 연구개발 67개 과제를 소개하며 정류장 노면 아래 무선충전, 발광형 도로표시, 배송데이터 기반 교통계획 등을 설명했습니다. 무선충전은 실제 버스 정류장에서 시험하려는 연구 단계로... Dubai’s Roads and Transport Authority (RTA) has revealed that it is working on implementing 67 research and development projects, as part of its research, development and innovation strategy, which extends until 2030 and includes 13 goals and 11 initiatives. I",
@@ -6947,7 +6947,7 @@
   "body": "중국 교통운수부는 AI 기반 도로위험 경보 서비스 ‘车路云·听’이 첫 ‘AI+교통운수’ 대표 적용사례에 선정됐다고 밝혔습니다. 차량 이용자는 137만 대 이상이며 교통통제·돌발상황·악천후 정보를 하루 1,000건 이상 처리·배포한다고...중략... 중국 교통운수부는 AI 기반 도로위험 경보 서비스 ‘车路云·听’이 첫 ‘AI+교통운수’ 대표 적용사례에 선정됐다고 밝혔습니다. 차량 이용자는 137만 대 이상이며 교통통제·돌발상황·악천후 정보를 하루 1,000건 이상 처리·배포한다고...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://www.mot.gov.cn/xinwen/jiaotongyaowen/202611/t20261119_4228046.html?utm_source=chatgpt.com",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24432": {
   "body": "Moving taxi fleets towards electric mobility requires more than new vehicles. Drivers need confidence that charging infrastructure is available when they need it and that daily operations can continue without disruption. To support this transition, a dedicated charging network has been developed across Athens. Through commissioning and technical support, Yunex Traffic helps ensure the infrastructure is ready to support electric taxi operations...중략... [Yunex Traffic은 아테네에서 전기 택시를 위한 안정적인 충전 서비스를 제공합니다.] 택시를 전기 택시로 전환하려면 단순히 새 차량을 도입하는 것만으로는 부족합니다. 운전자는 필요할 때 충전 인프라를 이용할 수 있고, 일상적인 운행이 중단 없이 지속될 수 있다는 확신을 가져야 합니다. 이러한 전환을 지원하기 위해 아테네 전역에 전용 충전 네트워크가 구축되었습니다. 유넥스 트래픽(Yunex Traffic)은 시운전 및 기술 지원을 통해 전기 택시 운행을 지원할 수 있도록 인프라를 구축하고 있습니다. Moving taxi fleets towards electric mobility requires more than new vehicles. Drivers need confidence that charging infrastructure is available when they need",
@@ -6959,6 +6959,12 @@
   "body": "10일 오후 6시 중국 광둥성 선전시. 스마트폰으로 택시를 호출하자 운전석에 아무도 없는 차량이 모습을 드러냈다. 차량에 올라타자 스티어링휠이 스스로 움직이기 시작했다. 다른 차량이 끼어들면 속도를 줄여 양보했고, 보행자와 자전거의 움직임도 실시간으로 감지했다. 처음 경험하는 무인택시에 느꼈던 불안감은 이내 놀라움으로 바뀌었다. 중국에서는 운전자가 없는 자율주행 택시가 이미 승객을 태우고 도심을 달리고 있었다...중략... 10일 오후 6시 중국 광둥성 선전시. 스마트폰으로 택시를 호출하자 운전석에 아무도 없는 차량이 모습을 드러냈다. 차량에 올라타자 스티어링휠이 스스로 움직이기 시작했다. 다른 차량이 끼어들면 속도를 줄여 양보했고, 보행자와 자전거의 움직임도 실시간으로 감지했다. 처음 경험하는 무인택시에 느꼈던 불안감은 이내 놀라움으로 바뀌었다. 중국에서는 운전자가 없는 자율주행 택시가 이미 승객을 태우고 도심을 달리고 있었다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": "2026-11-23",
   "link": "https://www.etoday.co.kr/news/view/2651178",
+  "tries": 1
+ },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24448": {
+  "body": "콜롬비아 정부는 국가도로망의 감시·통신·운영을 디지털화하는 데 총 3,600억 콜롬비아페소 를 투입한다. 이 중 3,100억 페소는 도로안전 모니터링, 드론, 도로물류 지원 등에, 나머지 500억 페소는 장비·사이버보안·소프트웨어 및 BIM 통합에 사용될 예정이다. 콜롬비아 정부는 국가도로망의 감시·통신·운영을 디지털화하는 데 총 3,600억 콜롬비아페소 를 투입한다. 이 중 3,100억 페소는 도로안전 모니터링, 드론, 도로물류 지원 등에, 나머지 500억 페소는 장비·사이버보안·소프트웨어 및 BIM 통합에 사용될 예정이다. Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.mintic.gov.co/portal/inicio/Sala-de-prensa/Noticias/442563:Invias-Inteligente-tecnologia-para-modernizar-las-vias-y-fortalecer-la-seguridad-de-los-viajeros-con-el-MinTIC?utm_source=chatgpt.com",
   "tries": 1
  }
 }

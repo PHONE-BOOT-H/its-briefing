@@ -106,81 +106,81 @@
    - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: ITS Korea
    - 원문: https://www.sidae.com/article/2026111916360885476?utm_source=chatgpt.com
 
-2. 광주 자율주행 실증도시 30일 차량 첫 투입 …‘27년 레벨4’ 목표, 기술은 달리는데 제도는 걸음마
+2. 현대차, 광주 자율주행 실증차량 67대 인도…30일 첫 도로운행 추진
+   - 분야: 자율주행 / 게재일: 2026-11-16 / 매체: 토요경제
+   - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2WWp6dUtIR244endldkdxb0FIalh6Yk5CR18wMXJkT3RGcEtiLWF5aVNiN0RwU1laY2YtUEZkVk02c2ZQWC1yeVlwY1Y0ck0zMDUwVkZWSkd1Y1g0MkZYetIBb0FVX3lxTFA4Tl9OdW9HQjBwQVhOLTd6UTA5dVVjYW5rLTE5TUZwZVhDTmRqbXJjR0E1UG5sU0dmRGRYaWxOeDlES3F4SUY4XzB3ZGg0b3pRSVJxYzloLXczUVhKSURLWmJDcHZLeVlST1hoRVNfNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+3. 만트럭버스 그룹, 독일 뮌헨서 자율주행 전기버스 실증 확대... 승객 태우고 도심 운행 나선다
+   - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: 모토야
+   - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTE9fQ3lRMHR5M3EyTm1MdW9ET2NQSVdWQi0weXZGbUhtVlNKZ2xpM3BVNzJIUFdGWUdWcVlhR1ZfTkNuZmJxZF9mN19RbnVtR0JkR2FQODRoME1lc18zZ3N0cDF1c1FTend0RFE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+4. 광주 자율주행 실증도시 30일 차량 첫 투입 …‘27년 레벨4’ 목표, 기술은 달리는데 제도는 걸음마
    - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 조달경제신문
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE5WUG10RWRWZ29Cd3B6RGNDMmhjOEU5c0R0RU0wUjRHd2t3T3dlRGo0c3hUSHROaEQ5TUJ1Rlh5bUM1MTBrV205UGZNUHVsY01qVzlzM0x5TmxXd3E2QzljWm9QX3oxMlFSZGdVNEhB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-3. 메이 모빌리티, 폭스바겐 ID. 버즈를 차세대 자율주행 플랫폼으로 선정…2025년 매출 1000만 달러 공개
+5. 현대차, 중국산 '자율주행' 탑재한 신차 띄운다…中 공장, 호주 등 10여 개국 수출
+   - 분야: 자율주행 / 게재일: 2026-11-16 / 매체: 더구루
+   - 원문: https://news.google.com/rss/articles/CBMiY0FVX3lxTE95TXhrdnB6REdnMUx6aVdUVHNtbFgtcUU2dkJRY090VkpGYjByVjRSbjliTmE5NzBJRmxOaXZURTNpX2FJd2ozMFZMR1N4UUlYOTMyNTBIdU9hTkhXZEp6TlBpQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+6. 메이 모빌리티, 폭스바겐 ID. 버즈를 차세대 자율주행 플랫폼으로 선정…2025년 매출 1000만 달러 공개
    - 분야: 자율주행 / 게재일: 2026-11-16 / 매체: 데이터투자
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE1RT3pwNlA1WkFVU2NWWDF6c2U4Tnh2MmRwamF3anNienNnQVpWanVYaEozeHUxRS1xOTdLNW4tS3RtOU1vWTdCQTRKOFVpWXgtblY2RUl1Tlo0STVHZXhTaW5kVmRhQXp5U1N5VS1pUThKbDQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. 메이 모빌리티 CEO "텍사스 알링턴서 연말께 4번째 무인 자율주행 운행"…주식 거래는 내년 1월께 예상
+7. 광주 자율주행 실증차 30일 첫 운행…연말까지 120대 확대
+   - 분야: 자율주행 / 게재일: 2026-11-16 / 매체: 워크투데이
+   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTFAxTXI4dHRMTTJqcHA3U1pRRjJ5bEtaaGVTb2dVeFRyVXVlY2NxRDdDMGotTUlyS0I0VEVMSVRGQkVhVTExNUExcFRaSnA3U0QtdzgtN1BkTnF3eG42N1RLZWhKTF9NNkxFNVBhdw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+8. 메이 모빌리티 CEO "텍사스 알링턴서 연말께 4번째 무인 자율주행 운행"…주식 거래는 내년 1월께 예상
    - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 데이터투자
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE1UYjhKN2hDUWVzQURjbDd6QVhxbjNGX251VGZNYTUxVXVocTZlV3FfQlAwMl9Bejh0ZU9hLWh3dU9oQzFpekRGbWVyb1ZRYzhQTlF5YVI1TVBhbjBsbWRZQllmXzl4VC1vbmw5dnY2UXdHeDQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. [회원사/동향] 카카오모빌리티, 도로 위 숨은 영웅 찾았다…시민·기사 10명 시상
+9. [회원사/동향] 카카오모빌리티, 도로 위 숨은 영웅 찾았다…시민·기사 10명 시상
    - 분야: 기타 / 게재일: 2026-11-21 / 매체: ITS Korea
    - 원문: https://www.hansbiz.co.kr/news/articleView.html?idxno=885753
 
-6. 지능형교통체계 공사업자에게 수억원 뇌물 받아 챙긴 국토교통부 직원 구속 기소
+10. 지능형교통체계 공사업자에게 수억원 뇌물 받아 챙긴 국토교통부 직원 구속 기소
    - 분야: 기타 / 게재일: 2026-11-17 / 매체: 세계일보
    - 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wckVWOUxKUmxWd2VlcDZXUU56VHdWRUZmUC12aWt6bmxVM2tXeGZpekFTYmp0WFB2ZnNUd0RYNUVtSS1oNWJORGUwM19tN2NQLTdXVmFIM2jSAVRBVV95cUxQOHk4YjJuVEVMeGhDWUNyV1ZnVkFPbGFRR29vUko4RFpHSmhScmtHeGtQTTF0OVpoamt4QzdlNF9SUno0WlN0akptWk12MUl3a3dweFk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-7. 트위니 완전자율주행 물류로봇, 재구매로 400대 계약 돌파…현장서 통했다
+11. 트위니 완전자율주행 물류로봇, 재구매로 400대 계약 돌파…현장서 통했다
    - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: 한국경제
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmUnliVzNMSUFCTXNkX05udFV3Wll6RERPTXExMXZrdnFGd2xlTHpMYm1vU3djUDQxU0Vsc0pZa1Q0dzlZSTRNRWFvbjBHY3dlZ1ZsdzVqSEJZZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. 카메라·레이더·차량용 SW까지…자율주행 산업 성장 기대 고조
+12. 카메라·레이더·차량용 SW까지…자율주행 산업 성장 기대 고조
    - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: 핀포인트뉴스
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE9hLWhMeW52YnhIbWwxSkNxQlljemVaei1GTWlrNk9DYmE2cVFHX2JmWU1FdzM1THRkVkdUM1Naa2FteVRJVjNrel9ZaVpLT29ueUZvSkFwR2NnQnVaQ2w1VG5iTjMxbEphbFI0dm9WekEtVVHSAXdBVV95cUxObjloR3dmcDRIUTVPZmFLZDhSUGZfLU4zZ2FWS1Z0bG5ieXppejBKaUlBLTlsTXNVRFhydWdiUjlsMlpEQmE5c08zZEk5RTh4TWlZS0dGVmI1WFlpejJPV3VROHAzVXFWLXh5X0V5WklmbFpsNzBrcw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. 자율주행 화물 트럭 세계 시장, 2026년 26억 5,000만 달러로 급성장, 2032년 87억 9,800만 달러 도달｜QYResearch
+13. 자율주행 화물 트럭 세계 시장, 2026년 26억 5,000만 달러로 급성장, 2032년 87억 9,800만 달러 도달｜QYResearch
    - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: note
    - 원문: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kY3ZpZGM3a1pLaWFzU0xZdWxkcU5hbDlrb1VLQ291djhORlFfOGRvRmhLTUhhcVVsQjV3QV9NNWNuTm9SVXFQQzVBWWg4T09CN09RRTZJUlhkS3AyVHNF?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. 2035년 자동차 커넥티비티 제어 유닛 시장: V2X 의무화와 소프트웨어 정의 차량 아키텍처가 성장 견인 - 뉴스 및 통계
+14. 2035년 자동차 커넥티비티 제어 유닛 시장: V2X 의무화와 소프트웨어 정의 차량 아키텍처가 성장 견인 - 뉴스 및 통계
    - 분야: C-ITS·V2X / 게재일: 2026-11-21 / 매체: IndexBox
    - 원문: https://news.google.com/rss/articles/CBMi-gFBVV95cUxONGpEUG1jLWY2c1pCSTItYVBOYmJaYko4ZVJJa1FtWnZGWkdidUZVOS1LUkFUMFVVMDRwWFpNcklENVdLUHRWUWZpWV9WTklGaE8wQVdtVm4xclg0OUwwVXFaRFh6M21ycHBWaWk5dWFEa2ZCUGZkZkhGWmxEVlZ1Y2pCcUlkSWFDQUlXb1dQdGJfQ0RuS0hoTGZSUHRDQU9nUmhjTUFobzJPOXk5WXdZVkI0eW9yZVZGMFRjSHhtLTVWN0p1QWJLc2txck90LTJNMmZpWWFrZWVfeGtWSjZBY09IQjY5ZllvaVR3YkVXU3R2ZzRyR2JhNWJ3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. [회원사/동향] 동성아이텍, 탄력주차 플랫폼으로, 주차장 이용·운영 효율 혁신하다
+15. [회원사/동향] 동성아이텍, 탄력주차 플랫폼으로, 주차장 이용·운영 효율 혁신하다
    - 분야: 대중교통·물류 / 게재일: 2026-11-19 / 매체: ITS Korea
    - 원문: http://www.engjournal.co.kr/news/articleView.html?idxno=4060
 
-12. [회원사/동향] 부르면 오는 버스, 익숙함 살린 택시…‘사람 손’ 완전히 떼기엔 아직 갈 길 멀다
+16. [회원사/동향] 부르면 오는 버스, 익숙함 살린 택시…‘사람 손’ 완전히 떼기엔 아직 갈 길 멀다
    - 분야: 대중교통·물류 / 게재일: 2026-11-22 / 매체: ITS Korea
    - 원문: https://www.khan.co.kr/article/202611221000011?utm_source=chatgpt.com#ENT
 
-13. 현대차그룹 포티투닷, 외국변호사 채용 나서…"글로벌 자율주행 규제 선제 대응"
+17. 현대차그룹 포티투닷, 외국변호사 채용 나서…"글로벌 자율주행 규제 선제 대응"
    - 분야: 자율주행 / 게재일: 2026-11-16 / 매체: 뉴시스
    - 원문: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oMXFSZmdGcnVDR1Z5b3VoTWlQd002dklVcklhVEJ6QktxUTlUNWk2bGtXSXVGcUtMNmM4R1RsRXFENFUzNk1EUUZjYm53TERORHMzb0NyNTN0N1RkSXhDTNIBeEFVX3lxTE52MncxdGpuckROQnFVZ09mLWpLQVowWjFyWnVsdTdESURsYUcxRmZxMExRT2plOHk0d204N1k1OFhMTFQtN2xOXzV2clhxbi1Hbm53VDlsd2NMYm5QbXQxYm1zazZqbnE5bXNGMl9iOTI5NGhUaGNfRg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. [김시호의 AI와 자율주행] 자율주행에 협력주행 인프라는 필수적인가?
-   - 분야: C-ITS·V2X / 게재일: 2026-11-16 / 매체: 오피니언뉴스
-   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE1VUzk3QTZiQ1ZlXzZWTzlWcG9CT2Ytb2RLZFJPTHl5Um0zazF4MHVvSzVjSk1KTkExOXo4dzhNVDBJcHFaa3hybmxZanNfbHVLN0pyVEVVbUVaZlJwakRDZUluamxxQTJQN01FaG5rMFhTQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-15. 한국ITS학회 추계학술대회 성료…피지컬 AI·자율주행 융합 논의
+18. 한국ITS학회 추계학술대회 성료…피지컬 AI·자율주행 융합 논의
    - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: 전자신문
    - 원문: https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JN0VUQm45N3FJT2dxUE1UNFVCeFh1WU5zTTV1anlqVHJwZnVXdkZEN2g1MHNvdGM0WEdJUHJrd3dsS0Jia2lIaThKUmFtQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [중국 특징주] 화웨이, 푸룽마와 공동 개발한 '자율주행 청소차' 사전판매
+19. [중국 특징주] 화웨이, 푸룽마와 공동 개발한 '자율주행 청소차' 사전판매
    - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iSkFPMmNxajFmbi02VDNXWnVGa2JXN0pLTU5obVFaeE5jTmszYllSY0JJdU5PeUNLaTl3QnJhMllMNkw0dENHZGNTaWJndlNSZ1RQN3FYUGRoR0J5?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 자율주행·전기차 안전 기술 부각…전자장비 업종서 옥석 가리기 '눈에 띄네'
-   - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: 핀포인트뉴스
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE5PRC01ZGUxdFlYT2xKYWpuTW0wczNSWE16eUhuV1ZCMnEtX2d3NUtQX25XNXNiMTBkSF9UaGRJTllBOThTNXBuSi1zd2R5UEZJT1JTRk5WVUNndVNtcEcxaGk1by1ycXhncndiVDVPYkV2a3PSAXdBVV95cUxOQWRTV2FkTEFqX3ZpN1h5UmhRQ3hXdFlmdGJ6NnhHX2dReTR0TFozNUt3X0Q4aml3Y3ZhSThkaHMzaUlzbHcwUGZXVFRQNFc3WnQ5ZFROT3Z0UF96LW05X3ZFdk5fOTlLNGdjbHZEaUpCR0s3ZjlzSQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-18. [특징주] 삼현, 로봇·자율주행 테마 강세 속 '적자 부담' 털고 10% 껑충
-   - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 와이드경제
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dd2VGVk1zczhsbHJUWENfNVc5a0VXamRmU0h1TjFwM29zX3l4MThFVUNUcHppMWI1VWxETGx6S1pHLUVsV0tVaDMwelFGM1BiWmNjS29UWENjRm91VGxuOE9ZWGZuNXM0U1k3TA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. 에스오에스랩, 86억원 규모 자율주행·Physical AI 라이다 개발·공급 계약
-   - 분야: 산업·투자 / 게재일: 2026-11-18 / 매체: 톱스타뉴스
-   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTFAtbzFCeDl5a2xETk55NDBCX3Z0U1ZRVzZraDVFUDR6ak4ySklRZEE3eXV1Y0JhV213dWJYMXJjWm1ySHZXWXdmYVBWRW9IbUQwd3p3all4b21MbEg4bHEtSXQ2cFdpU1kzQkxCeWJ0eDlDQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. 교통 관제 플랫폼 25년 유티정보, AI 실무 인재 양성 나선다
-   - 분야: 기타 / 게재일: 2026-11-19 / 매체: 국민기자뉴스
-   - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WUHQ1U01QZEFRVWczWnhzTE5mYzZZV1JfdFNTU0I4VnNHQUJUSFlyVUdQRVNpMXRmTzNpdUttQkkxV0hxZHZQaFpzQzIzVFhlTGdxWEp4N0JwUThRSUVrbmRmNjJLcEXSAWdBVV95cUxPVlB0NVNNUGRBUVVnM1p4c0xOZmM2WVdSX3RTU1NCOFZzR0FCVEhZclVHUEVTaTF0Zk8zaXVLbUJJMVdIcWR2UGhac0MyM1RYZUxncVhKeDdCcFE4UUlFa25kZjYyS3BF?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+20. 현대차, 자율주행차도 위탁생산…현대차, 'AV 파운드리' 사업 확대
+   - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: 뉴스핌
+   - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zTnBDSWxIS0t2dXpmaXV4SkpwaTFMUldqWnlvQVZVczgzc3cwa1NrSmxQcF9uTmpCZGVwOU5jckNLa2VvMi1aSjJwem15N1BQb1ZRZ3d2RU1XcTZU?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 

@@ -3081,6 +3081,43 @@
  },
  {
   "schema_version": 3,
+  "id": "adb-3y8wre-tender_search_index-entity:node/1192336:en",
+  "kind": "tender",
+  "source": "ADB",
+  "type": "입찰",
+  "subtype": "Individual",
+  "stream": "notice",
+  "country": "India",
+  "country_ko": "인도",
+  "title": "Bihar Roads-Gender Consultant",
+  "org": "Department of Economic Affairs",
+  "org_type": null,
+  "project_title": "Strengthening Capacity to Design and Implement Transport Infrastructure Projects Phase 2",
+  "budget": {
+   "currency": "USD",
+   "amount": 20000.0,
+   "is_project_total": false
+  },
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National",
+  "published": "2026-11-21",
+  "deadline": "2026-11-27",
+  "deadline_time": null,
+  "ref_no": "59293-001",
+  "project_id": "59293-001",
+  "link": "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=B39FC2DE62B026FA3D5FA3436D406B9EF3F16A04F3DC09DFC8803441BFC3A880",
+  "cpv": [],
+  "score": 10,
+  "score_hits": [
+   "-gender"
+  ],
+  "already_posted": false,
+  "collector": "adb",
+  "first_seen": "2026-11-23",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
   "id": "ted-807151-2026",
   "kind": "tender",
   "source": "TED",
