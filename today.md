@@ -20,53 +20,53 @@
    - 분야: 신호·관제 / 게재일: 2026-11-19 / 매체: ITS Korea
    - 원문: https://www.airedesantafe.com.ar/santa-fe/santa-fe-incorporo-las-pantallas-digitales-y-semaforos-inteligentes-donde-estan-y-como-funcionan-n677348?utm_source=chatgpt.com
 
-2. [러시아] 2027년 6개 국경검문소에서 ‘10분 통과’ 지능형 검문시스템 실증
+2. 베이징현대, 中 자율주행 솔루션 채택…2027년 10여 개국 수출
+   - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: ITS Korea
+   - 원문: https://www.creditnews.kr/news/articleView.html?idxno=32734
+
+3. [러시아] 2027년 6개 국경검문소에서 ‘10분 통과’ 지능형 검문시스템 실증
    - 분야: 기타 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://mintrans.gov.ru/eye/press-center/news/13169?utm_source=chatgpt.com
 
-3. [케냐] 국가 보행·자전거 모빌리티 정책 수립…도로·교통기관 통합 참여
+4. [케냐] 국가 보행·자전거 모빌리티 정책 수립…도로·교통기관 통합 참여
    - 분야: 기타 / 게재일: 2026-11-20 / 매체: ITS Korea
    - 원문: https://www.unep.org/en/events/workshop/kenya-national-active-mobility-policy-stakeholder-kick-workshop?utm_source=chatgpt.com
 
-4. [일본] 나리타공항, ‘자동물류도로’ 다중 무인운송 실증 본격화
+5. [일본] 나리타공항, ‘자동물류도로’ 다중 무인운송 실증 본격화
    - 분야: 대중교통·물류 / 게재일: 2026-11-20 / 매체: ITS Korea
    - 원문: https://www.mlit.go.jp/report/press/road01_hh_002159.html?utm_source=chatgpt.com
 
-5. [브라질] 마세이오, Google Green Light 기반 AI 교통신호 최적화 즉시 운영
+6. [브라질] 마세이오, Google Green Light 기반 AI 교통신호 최적화 즉시 운영
    - 분야: 신호·관제 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://itskorea.kr/boardDetail.do?type=9&idx=24481
 
-6. [미국] MicroVision and Blue-Band to Support $3 Million Federally Funded Intelligent Transportation Initiative in Louisville, Kentucky
+7. [미국] MicroVision and Blue-Band to Support $3 Million Federally Funded Intelligent Transportation Initiative in Louisville, Kentucky
    - 분야: 신호·관제 / 게재일: 2026-11-20 / 매체: ITS Korea
    - 원문: https://ir.microvision.com/news/press-releases/detail/490/microvision-and-blue-band-to-support-3-million-federally?utm_source=chatgpt.com
 
-7. Traffic Management System to be linked to tollgates
+8. Traffic Management System to be linked to tollgates
    - 분야: 요금·통행료 / 게재일: 2026-11-23 / 매체: ZBC NEWS
    - 원문: https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0RINXZnd3djQmNWU29FS0ZDczRzalVnNmVuaW1fMUMzRWcwdDlUYXlycDRLaGRBTXNTOEJWc2NLZndkZk93WU5lSTVabGl6ZG9wZkFSY1hlbHIxcmVvNUFMOEtxYnRFNVFKMldjOUhreGNxcTVjTzV1TXZyNU9mTkVRTVk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-8. [중국] AI 기반 ‘차량-도로-클라우드’ 도로위험 정밀경보 서비스 137만 차량으로 확대
+9. [중국] AI 기반 ‘차량-도로-클라우드’ 도로위험 정밀경보 서비스 137만 차량으로 확대
    - 분야: 기타 / 게재일: 2026-11-20 / 매체: ITS Korea
    - 원문: https://www.mot.gov.cn/xinwen/jiaotongyaowen/202611/t20261119_4228046.html?utm_source=chatgpt.com
 
-9. [태국] 도로국, 5,000만 바트 규모 ITS 안전성 향상사업 입찰공고
+10. [태국] 도로국, 5,000만 바트 규모 ITS 안전성 향상사업 입찰공고
    - 분야: 기타 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://www.doh.go.th/procurement/443364?utm_source=chatgpt.com
 
-10. [인도] 9개 요금소로 다차로 무정차 요금징수 확대…운영 요금소 순수입 19.84% 증가
+11. [인도] 9개 요금소로 다차로 무정차 요금징수 확대…운영 요금소 순수입 19.84% 증가
    - 분야: 요금·통행료 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2340415&lang=2&reg=48&utm_source=chatgpt.com
 
-11. Smart traffic management system increases road safety, efficiency in Liaoning
+12. Smart traffic management system increases road safety, efficiency in Liaoning
    - 분야: 신호·관제 / 게재일: 2026-11-23 / 매체: 巴士的報
    - 원문: https://news.google.com/rss/articles/CBMixwFBVV95cUxNdkxyc1dyUktzZ0VtR3hzV3p2VEI0aGlSdHE5RUlqYmlqNnlnQldfZUx6M2lmenpTWlpPN21TbU1nWFQ1TXhUWVM5c3hJY2VCQnRMaUMzN1BUYzRuMXpPRGxUeFhlYkx3UmN3TmY4U1pFSU9UT2g5QTRBTjZLNFlLNWtQVU8wbDM0SE5URFVnSmc3QzdWMVBsT3RiaURXN1dNU2tVajRZamx0RFFkSDloM2lPUmp3Ti1NSlJkRC1lcl9YdWNkU2Fn?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. Indra selects Ouster Lidar for tolling
+13. Indra selects Ouster Lidar for tolling
    - 분야: 요금·통행료 / 게재일: 2026-11-18 / 매체: ITS International
    - 원문: https://www.itsinternational.com/indra-chooses-ouster-lidar-for-tolling/
-
-13. WSP wins ITS UK award for Connected Vehicle Services programme
-   - 분야: C-ITS·V2X / 게재일: 2026-11-18 / 매체: Traffic Technology Today
-   - 원문: https://www.traffictechnologytoday.com/news/awards/wsp-wins-its-uk-award-for-connected-vehicle-services-programme.html
 
 14. AI expected to run traffic signal timing, survey of 500 finds
    - 분야: 신호·관제 / 게재일: 2026-11-20 / 매체: Traffic Technology Today
@@ -82,7 +82,7 @@
 
 17. Intelligent Transport System to start operations in Chennai in December 2026
    - 분야: 신호·관제 / 게재일: 2026-11-17 / 매체: The Hindu
-   - 원문: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0VMZUpsSzJOSTZMakhyV3VYRGVyaFd6eWk0SGZHSHpuQXNwNlF0dnlZUHc4d0UxVjZYampGVjJ4RjBEZDJFSkFqSk42Sjc0TFZ0LUd1ZjloVmxjTE9TdTZDWWJETTRKTnVyUmIxa2xGbHk4TFVvdVhMSkdXX0hLOVFsQ1JOTG5uMVdBTXFCRmYyWXNkcFMzTXFuT0pqVzIxNXhfVGlQR0dZbGNHTDBvS2poSHhaREJoTHFDaGo1RUVmM1o0WnNZNVVGY2I5OUo1?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQY0VMZUpsSzJOSTZMakhyV3VYRGVyaFd6eWk0SGZHSHpuQXNwNlF0dnlZUHc4d0UxVjZYampGVjJ4RjBEZDJFSkFqSk42Sjc0TFZ0LUd1ZjloVmxjTE9TdTZDWWJETTRKTnVyUmIxa2xGbHk4TFVvdVhMSkdXX0hLOVFsQ1JOTG5uMVdBTXFCRmYyWXNkcFMzTXFuT0pqVzIxNXhfVGlQR0dZbGNHTDBvS2poSHhaREJoTHFDaGo1RUVmM1o0WnNZNVVGY2I5OUo10gHXAUFVX3lxTE5XWjdnV1dCX1lEdE1pdnJnWklsUUpyTld5Zk03UkNCMWpTbjFJY0pRVldqMXJGX0ttZWkyRGdXMGdSVEpXWk1nZ0JXVmRWSkptaUhVX2pWTm12RjUxSGZTXzNuaW0wbmxJc0RiVWtZb3M4VjlUSy0tVVVaN3RydHdOTURFYXY0eE9lZEhzYlpoeEZyc25oNGRNY1Rnd0xtQTNtMmlWaHVqaEVRSG1mVDBnUXI3YkpVaUxLR1pRYm5MY1RMQldtaXAxdi1OWmdaSUxyeThibkJF?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 18. LONGI wins contract for Australia's Muswellbrook solar farm
    - 분야: 산업·투자 / 게재일: 2026-11-17 / 매체: Enlit World
@@ -106,81 +106,81 @@
    - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 조달경제신문
    - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE5WUG10RWRWZ29Cd3B6RGNDMmhjOEU5c0R0RU0wUjRHd2t3T3dlRGo0c3hUSHROaEQ5TUJ1Rlh5bUM1MTBrV205UGZNUHVsY01qVzlzM0x5TmxXd3E2QzljWm9QX3oxMlFSZGdVNEhB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-2. 씽크풀 : 에스오에스랩 수주공시 - 자율주행 및 Physical AI 라이다 개발 및 공급 87억원 (매출액대비 142.92 %)
-   - 분야: 산업·투자 / 게재일: 2026-11-18 / 매체: ThinkPool
-   - 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc180VllkQTJGRXVSd1I2bzNjaWlWT3Nhb2loTjIyaWcwSHhCNzkwTVJzS0pPb0ZRbDhLZVk3M0tvaDhYejVsZ0h5T1JsUVBDT25fZQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-3. 메이 모빌리티 CEO "텍사스 알링턴서 연말께 4번째 무인 자율주행 운행"…주식 거래는 내년 1월께 예상
+2. 메이 모빌리티 CEO "텍사스 알링턴서 연말께 4번째 무인 자율주행 운행"…주식 거래는 내년 1월께 예상
    - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 데이터투자
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE1UYjhKN2hDUWVzQURjbDd6QVhxbjNGX251VGZNYTUxVXVocTZlV3FfQlAwMl9Bejh0ZU9hLWh3dU9oQzFpekRGbWVyb1ZRYzhQTlF5YVI1TVBhbjBsbWRZQllmXzl4VC1vbmw5dnY2UXdHeDQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-4. 베이징현대, 中 자율주행 솔루션 채택…2027년 10여 개국 수출
-   - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: 한국신용신문
-   - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTE9qbVh4NnZsUDJSMjdaX1FON2pyYU84Zm9xSFUzeTZBT0NfU2FvbF9vREVRZm9Eb01RN2V5bmo1TGZaMHBmWWR5UlgzMjhMbjhFSDVZSEljejFwNDhXR0Vfclc3dmhhcnQ2V3Yw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-5. [회원사/동향] 현대모비스, 자율주행 ‘눈ㆍ발’ 신기술 확보 속도
+3. [회원사/동향] 현대모비스, 자율주행 ‘눈ㆍ발’ 신기술 확보 속도
    - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231430367200200
 
-6. [회원사/동향] 카카오모빌리티, 도로 위 숨은 영웅 찾았다…시민·기사 10명 시상
+4. [회원사/동향] 카카오모빌리티, 도로 위 숨은 영웅 찾았다…시민·기사 10명 시상
    - 분야: 기타 / 게재일: 2026-11-21 / 매체: ITS Korea
    - 원문: https://www.hansbiz.co.kr/news/articleView.html?idxno=885753
 
-7. [개보위/보도자료] “개인정보 보호법 인공지능 특례” 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고
+5. [개보위/보도자료] “개인정보 보호법 인공지능 특례” 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고
    - 분야: 정책·법제도 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12663
 
-8. 지능형교통체계 공사업자에게 수억원 뇌물 받아 챙긴 국토교통부 직원 구속 기소
+6. 지능형교통체계 공사업자에게 수억원 뇌물 받아 챙긴 국토교통부 직원 구속 기소
    - 분야: 기타 / 게재일: 2026-11-17 / 매체: 세계일보
    - 원문: https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wckVWOUxKUmxWd2VlcDZXUU56VHdWRUZmUC12aWt6bmxVM2tXeGZpekFTYmp0WFB2ZnNUd0RYNUVtSS1oNWJORGUwM19tN2NQLTdXVmFIM2jSAVRBVV95cUxQOHk4YjJuVEVMeGhDWUNyV1ZnVkFPbGFRR29vUko4RFpHSmhScmtHeGtQTTF0OVpoamt4QzdlNF9SUno0WlN0akptWk12MUl3a3dweFk?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. 트위니 완전자율주행 물류로봇, 재구매로 400대 계약 돌파…현장서 통했다
+7. 트위니 완전자율주행 물류로봇, 재구매로 400대 계약 돌파…현장서 통했다
    - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: 한국경제
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmUnliVzNMSUFCTXNkX05udFV3Wll6RERPTXExMXZrdnFGd2xlTHpMYm1vU3djUDQxU0Vsc0pZa1Q0dzlZSTRNRWFvbjBHY3dlZ1ZsdzVqSEJZZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. 자율주행 화물 트럭 세계 시장, 2026년 26억 5,000만 달러로 급성장, 2032년 87억 9,800만 달러 도달｜QYResearch
+8. 자율주행 화물 트럭 세계 시장, 2026년 26억 5,000만 달러로 급성장, 2032년 87억 9,800만 달러 도달｜QYResearch
    - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: note
    - 원문: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kY3ZpZGM3a1pLaWFzU0xZdWxkcU5hbDlrb1VLQ291djhORlFfOGRvRmhLTUhhcVVsQjV3QV9NNWNuTm9SVXFQQzVBWWg4T09CN09RRTZJUlhkS3AyVHNF?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. 현대차, 웨이모 공급으로 자율주행 사업 확대…로보택시 상용화 속도
+9. 현대차, 웨이모 공급으로 자율주행 사업 확대…로보택시 상용화 속도
    - 분야: 자율주행 / 게재일: 2026-11-23 / 매체: 위키리크스한국
-   - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE1TSjVQb0o2VFcycEJJNVlMNDJfRU54NEFadGdMTnMwMXZQV2xaODBIOHphY2FBSEI0Z3FpejFkTlhiSXA0YTNjWUlnTXhBVFQ2Wk5UclJoUkV5QjYtSUJwemE2NDdvS0FvaEJ0YzdTNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFBtSFhmdE5QdmxZQVhUU1d1bW1DZDNjLVh0b2V6WjFBSVpubW9WeVdfdUVZQXlwaS1UX012djFjelNNYlFobEZqVDBwMzZZdmM0VXVfd2ktUVhPYkdLeHZsdWhfZHZvUUotMUlUOFI0cVM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. V2X 반도체 기업 '에티포스', 311억 시리즈C 유치 - 머니투데이
+10. V2X 반도체 기업 '에티포스', 311억 시리즈C 유치 - 머니투데이
    - 분야: C-ITS·V2X / 게재일: 2026-11-23 / 매체: 머니투데이
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE1CVmNfa3lxWE1sZ3ZNamZBRlAxR0F1aURhTDF4UnJUNnk5Z1NTYWRTbE84bndzcEtJaUM1R3NjWEMtWW5KOFJmODhCSzNKNmJHUW1BY25RUVZUN2RESkNPd241SXhrRVF4M0ZxMWNLZ9IBb0FVX3lxTE1CVmNfa3lxWE1sZ3ZNamZBRlAxR0F1aURhTDF4UnJUNnk5Z1NTYWRTbE84bndzcEtJaUM1R3NjWEMtWW5KOFJmODhCSzNKNmJHUW1BY25RUVZUN2RESkNPd241SXhrRVF4M0ZxMWNLZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. [회원사/동향] 부르면 오는 버스, 익숙함 살린 택시…‘사람 손’ 완전히 떼기엔 아직 갈 길 멀다
+11. [회원사/동향] 부르면 오는 버스, 익숙함 살린 택시…‘사람 손’ 완전히 떼기엔 아직 갈 길 멀다
    - 분야: 대중교통·물류 / 게재일: 2026-11-22 / 매체: ITS Korea
    - 원문: https://www.khan.co.kr/article/202611221000011?utm_source=chatgpt.com#ENT
 
-14. 자율주행 '두뇌' 넘어 '발끝'까지…K-타이어, 바퀴 위 혁신 가속
-   - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: 매일일보
-   - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE9pUW1MWVJFcFMyVXFZZTZ5Q2pWOEY2SUs1S2JzUE5jc0dqSC1PZVFRVWFybkNEcWs2WjIxRDNzSGZNWXpfdXhSZmVibFlWR0ppOGZselNhSmQ0akNGTnkwVzZpUkY?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-15. [중국 특징주] 화웨이, 푸룽마와 공동 개발한 '자율주행 청소차' 사전판매
+12. [중국 특징주] 화웨이, 푸룽마와 공동 개발한 '자율주행 청소차' 사전판매
    - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iSkFPMmNxajFmbi02VDNXWnVGa2JXN0pLTU5obVFaeE5jTmszYllSY0JJdU5PeUNLaTl3QnJhMllMNkw0dENHZGNTaWJndlNSZ1RQN3FYUGRoR0J5?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. [특징주] 삼현, 로봇·자율주행 테마 강세 속 '적자 부담' 털고 10% 껑충
+13. 자율주행·전기차 안전 기술 부각…전자장비 업종서 옥석 가리기 '눈에 띄네'
+   - 분야: 자율주행 / 게재일: 2026-11-17 / 매체: 핀포인트뉴스
+   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE5PRC01ZGUxdFlYT2xKYWpuTW0wczNSWE16eUhuV1ZCMnEtX2d3NUtQX25XNXNiMTBkSF9UaGRJTllBOThTNXBuSi1zd2R5UEZJT1JTRk5WVUNndVNtcEcxaGk1by1ycXhncndiVDVPYkV2a3PSAXdBVV95cUxOQWRTV2FkTEFqX3ZpN1h5UmhRQ3hXdFlmdGJ6NnhHX2dReTR0TFozNUt3X0Q4aml3Y3ZhSThkaHMzaUlzbHcwUGZXVFRQNFc3WnQ5ZFROT3Z0UF96LW05X3ZFdk5fOTlLNGdjbHZEaUpCR0s3ZjlzSQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+14. [특징주] 삼현, 로봇·자율주행 테마 강세 속 '적자 부담' 털고 10% 껑충
    - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 와이드경제
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dd2VGVk1zczhsbHJUWENfNVc5a0VXamRmU0h1TjFwM29zX3l4MThFVUNUcHppMWI1VWxETGx6S1pHLUVsV0tVaDMwelFGM1BiWmNjS29UWENjRm91VGxuOE9ZWGZuNXM0U1k3TA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 베이징현대, 보급형 자율주행 제어기에 中 스타트업 채택
-   - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 한국신용신문
-   - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTFBQSVZmTnlIWXA0NGRjY2hlQlB3QUVka0VoTm1wMWRWQ1U2b2Y5RDVaVTJ6ek9MVXZLcVI5QlpsdnhYYWpuQzVJWElZT0hJUWJlWDdPdC1rR1VTaTRlVVY5T0g0NmlQQ0FRbk9j?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+15. 에스오에스랩, 86억원 규모 자율주행·Physical AI 라이다 개발·공급 계약
+   - 분야: 산업·투자 / 게재일: 2026-11-18 / 매체: 톱스타뉴스
+   - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTFAtbzFCeDl5a2xETk55NDBCX3Z0U1ZRVzZraDVFUDR6ak4ySklRZEE3eXV1Y0JhV213dWJYMXJjWm1ySHZXWXdmYVBWRW9IbUQwd3p3all4b21MbEg4bHEtSXQ2cFdpU1kzQkxCeWJ0eDlDQQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 교통 관제 플랫폼 25년 유티정보, AI 실무 인재 양성 나선다
+16. 교통 관제 플랫폼 25년 유티정보, AI 실무 인재 양성 나선다
    - 분야: 기타 / 게재일: 2026-11-19 / 매체: 국민기자뉴스
    - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WUHQ1U01QZEFRVWczWnhzTE5mYzZZV1JfdFNTU0I4VnNHQUJUSFlyVUdQRVNpMXRmTzNpdUttQkkxV0hxZHZQaFpzQzIzVFhlTGdxWEp4N0JwUThRSUVrbmRmNjJLcEXSAWdBVV95cUxPVlB0NVNNUGRBUVVnM1p4c0xOZmM2WVdSX3RTU1NCOFZzR0FCVEhZclVHUEVTaTF0Zk8zaXVLbUJJMVdIcWR2UGhac0MyM1RYZUxncVhKeDdCcFE4UUlFa25kZjYyS3BF?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. 국토부, 테슬라 자율주행 특례 신청 퇴짜…“서류 부실”
+17. 국토부, 테슬라 자율주행 특례 신청 퇴짜…“서류 부실”
    - 분야: 자율주행 / 게재일: 2026-11-20 / 매체: 경향신문
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWHppRjBsdEtmS1RZT0NlQTNqUW9CdUF0TDM0N204NEpjSzR2YVpfVmlDOFBqVURLeTBXSm9KNGstTUNGTElrelluZmlHYTBUdVdvcy1RcUFpUdIBX0FVX3lxTFBDVDhkMHJMSTk4RVhidkpfaGtwemZ5M2Q5ODJIQVlGRDFKLTFYc2NZaXNRZzhVZmNMSVNaNnZPdE5ENHowOHBUNXZBQkZHZUxDeWs2X1RBRFFwdHJwQVpv?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. 현대차가 쏘카 부른 이유... 완성차의 새 사업, 남의 자율주행 SW를 얹어 판다
-   - 분야: 자율주행 / 게재일: 2026-11-20 / 매체: 교통신문
-   - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ydVR0b1dqWHRTQ1Z1clBpUTFrRG81MVFCUHE5UHQybWRRWTVFQTZybV9PTmtUWDEtRS1oSm4xM1BGVVlzUFRQN1ZySk1oX2s4Tmc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+18. 테슬라코리아 감독형 완전자율주행(FSD) 특례 신청 반려
+   - 분야: 자율주행 / 게재일: 2026-11-22 / 매체: 기독일보
+   - 원문: https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LdkR3SlpTd0JpRklNdmVmb0ZNdzU3ZFlJUFZLaFRMeW9mUXR5eFJta1RGZk5ZYk5kVE5sejBiQ3FiSi1uX0JwZ2hfa2hqNEJwN245Q3FLZ9IBXEFVX3lxTFB2V0w0YUQ1amdZNGFpbGFydllkWTJNM0hXOTlmRGJERXB5U2VjUVVaRm9KbEQyc1FhRC1NZmtIYlhxR284enkybWo1TnN0Q0ZTNHE4TXJfMm1mSUpz?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. 자율주행 성장 기대에도 전장주 흔들…DB하이텍·HL만도 매물 부담
+   - 분야: 자율주행 / 게재일: 2026-11-23 / 매체: 핀포인트뉴스
+   - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTFBPVWMzNlQ5ZFluOWtHYkNmTG5vTk5STl9lMHpYY0pWS0oxZDVCNFpSWExCQ2lqbmtBc1VSVHRycEpuQ0ZEUFIxcU1hU3ZRWUNtcGRDMHJoTkRTSEZIU0lPUzZsdzZYNmg1QlNidVRaVW5pTzlKOGQ00gF3QVVfeXFMUE9VYzM2VDlkWW45a0diQ2ZMbm9OTlJOX2UwelhjSlZLSjFkNUI0WlJYTEJDaWpua0FzVVJUdHJwSm5DRkRQUjFxTWFTdlFZQ21wZEMwcmhORFNIRkhTSU9TNmx3Nlg2aDVCU2J1VFpVbmlPOUo4ZDQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 강릉 지능형교통체계 세계총회, 응급차 도착 8분 앞당겼다
+   - 분야: 기술·표준 / 게재일: 2026-11-24 / 매체: 아시아투데이
+   - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTFAtck42LXRidzR6WnMyUU02M1FLekQzU0szZjItOXc5VkV3eXhPX2poNG1jUVhUTUNRZGdVVUtMN3lBM0JEbEV3VHFaWmdRdWpiVjZkbGVfX0FsNTVvcWRfeFRSSjdSRV9oLXQyWmZB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
