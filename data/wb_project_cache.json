@@ -1161,6 +1161,13 @@
   "impagency": "Palestinian Energy and Natural Resources Authority (PENRA)",
   "total": null
  },
+ "P507282": {
+  "borrower": "Ministry of Finance",
+  "closing": "2032-06-30",
+  "funder": "IBRD (세계은행)",
+  "impagency": "Ministry of Transport (Iraqi Republic Railways SOE)",
+  "total": 930000000.0
+ },
  "P507659": {
   "borrower": "Republic of Kosovo",
   "closing": "2031-12-16",
