@@ -102,85 +102,85 @@
 
 등록 게시판: ITS국제협력센터 > 소통창구 > 공지사항(영어)
 
-1. 광주 자율주행 실증도시 30일 차량 첫 투입 …‘27년 레벨4’ 목표, 기술은 달리는데 제도는 걸음마
-   - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 조달경제신문
-   - 원문: https://news.google.com/rss/articles/CBMibkFVX3lxTE5WUG10RWRWZ29Cd3B6RGNDMmhjOEU5c0R0RU0wUjRHd2t3T3dlRGo0c3hUSHROaEQ5TUJ1Rlh5bUM1MTBrV205UGZNUHVsY01qVzlzM0x5TmxXd3E2QzljWm9QX3oxMlFSZGdVNEhB?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-2. [회원사/동향] 쏘카, 현대차 손잡고 자율주행 사업 확대 … '로보택시' 정조준
+1. [회원사/동향] 쏘카, 현대차 손잡고 자율주행 사업 확대 … '로보택시' 정조준
    - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://biz.newdaily.co.kr/site/data/html/2026/11/24/2026112450144.amp.html
 
-3. [회원사/동향] 자율주행 판 짜는 한국도로공사, 길 위에 ‘플랫폼’ 가치 키운다
+2. [회원사/동향] 자율주행 판 짜는 한국도로공사, 길 위에 ‘플랫폼’ 가치 키운다
    - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://www.ntoday.co.kr/news/articleViewAmp.html?idxno=131099
 
-4. 씽크풀 : 에스오에스랩 수주공시 - 자율주행 및 Physical AI 라이다 개발 및 공급 87억원 (매출액대비 142.92 %)
+3. 씽크풀 : 에스오에스랩 수주공시 - 자율주행 및 Physical AI 라이다 개발 및 공급 87억원 (매출액대비 142.92 %)
    - 분야: 산업·투자 / 게재일: 2026-11-18 / 매체: ThinkPool
    - 원문: https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qc180VllkQTJGRXVSd1I2bzNjaWlWT3Nhb2loTjIyaWcwSHhCNzkwTVJzS0pPb0ZRbDhLZVk3M0tvaDhYejVsZ0h5T1JsUVBDT25fZQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-5. [회원사/동향] 현대모비스, 자율주행 ‘눈ㆍ발’ 신기술 확보 속도
+4. [회원사/동향] 현대모비스, 자율주행 ‘눈ㆍ발’ 신기술 확보 속도
    - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://www.dnews.co.kr/uhtml/view.jsp?idxno=202611231430367200200
 
-6. [회원사/동향] 노타, 엔비디아 자율주행 AI 15배 가속…주행 경로 계산 0.076초
+5. [회원사/동향] 노타, 엔비디아 자율주행 AI 15배 가속…주행 경로 계산 0.076초
    - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://zdnet.co.kr/view/?no=20261124175420
 
-7. [회원사/동향] '장롱면허' 이소영 장관도 탔다…중기부 공무원, 자율주행 체험
+6. [회원사/동향] '장롱면허' 이소영 장관도 탔다…중기부 공무원, 자율주행 체험
    - 분야: 자율주행 / 게재일: 2026-11-25 / 매체: ITS Korea
-   - 원문: https://itskorea.kr/boardDetail.do?type=8&idx=24489
+   - 원문: https://www.yna.co.kr/amp/view/AKR20261124156900030
 
-8. [개보위/보도자료] “개인정보 보호법 인공지능 특례” 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고
+7. [개보위/보도자료] “개인정보 보호법 인공지능 특례” 세부 기준 마련 … 개인정보 보호법 시행령 개정안 입법예고
    - 분야: 정책·법제도 / 게재일: 2026-11-24 / 매체: ITS Korea
    - 원문: https://pipc.go.kr/np/cop/bbs/selectBoardArticle.do?bbsId=BS074&mCode=C020010000&nttId=12663
 
-9. 트위니 완전자율주행 물류로봇, 재구매로 400대 계약 돌파…현장서 통했다
+8. 트위니 완전자율주행 물류로봇, 재구매로 400대 계약 돌파…현장서 통했다
    - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: 한국경제
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmUnliVzNMSUFCTXNkX05udFV3Wll6RERPTXExMXZrdnFGd2xlTHpMYm1vU3djUDQxU0Vsc0pZa1Q0dzlZSTRNRWFvbjBHY3dlZ1ZsdzVqSEJZZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-10. 카메라·레이더·차량용 SW까지…자율주행 산업 성장 기대 고조
+9. 카메라·레이더·차량용 SW까지…자율주행 산업 성장 기대 고조
    - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: 핀포인트뉴스
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE9hLWhMeW52YnhIbWwxSkNxQlljemVaei1GTWlrNk9DYmE2cVFHX2JmWU1FdzM1THRkVkdUM1Naa2FteVRJVjNrel9ZaVpLT29ueUZvSkFwR2NnQnVaQ2w1VG5iTjMxbEphbFI0dm9WekEtVVHSAXdBVV95cUxObjloR3dmcDRIUTVPZmFLZDhSUGZfLU4zZ2FWS1Z0bG5ieXppejBKaUlBLTlsTXNVRFhydWdiUjlsMlpEQmE5c08zZEk5RTh4TWlZS0dGVmI1WFlpejJPV3VROHAzVXFWLXh5X0V5WklmbFpsNzBrcw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. 자율주행 화물 트럭 세계 시장, 2026년 26억 5,000만 달러로 급성장, 2032년 87억 9,800만 달러 도달｜QYResearch
+10. 자율주행 화물 트럭 세계 시장, 2026년 26억 5,000만 달러로 급성장, 2032년 87억 9,800만 달러 도달｜QYResearch
    - 분야: 자율주행 / 게재일: 2026-11-19 / 매체: note
    - 원문: https://news.google.com/rss/articles/CBMiX0FVX3lxTE9kY3ZpZGM3a1pLaWFzU0xZdWxkcU5hbDlrb1VLQ291djhORlFfOGRvRmhLTUhhcVVsQjV3QV9NNWNuTm9SVXFQQzVBWWg4T09CN09RRTZJUlhkS3AyVHNF?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. 현대차, 웨이모 공급으로 자율주행 사업 확대…로보택시 상용화 속도
+11. 현대차, 웨이모 공급으로 자율주행 사업 확대…로보택시 상용화 속도
    - 분야: 자율주행 / 게재일: 2026-11-23 / 매체: 위키리크스한국
-   - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE1TSjVQb0o2VFcycEJJNVlMNDJfRU54NEFadGdMTnMwMXZQV2xaODBIOHphY2FBSEI0Z3FpejFkTlhiSXA0YTNjWUlnTXhBVFQ2Wk5UclJoUkV5QjYtSUJwemE2NDdvS0FvaEJ0YzdTNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+   - 원문: https://news.google.com/rss/articles/CBMicEFVX3lxTFBtSFhmdE5QdmxZQVhUU1d1bW1DZDNjLVh0b2V6WjFBSVpubW9WeVdfdUVZQXlwaS1UX012djFjelNNYlFobEZqVDBwMzZZdmM0VXVfd2ktUVhPYkdLeHZsdWhfZHZvUUotMUlUOFI0cVM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-13. V2X 반도체 기업 '에티포스', 311억 시리즈C 유치 - 머니투데이
+12. V2X 반도체 기업 '에티포스', 311억 시리즈C 유치 - 머니투데이
    - 분야: C-ITS·V2X / 게재일: 2026-11-23 / 매체: 머니투데이
    - 원문: https://news.google.com/rss/articles/CBMib0FVX3lxTE1CVmNfa3lxWE1sZ3ZNamZBRlAxR0F1aURhTDF4UnJUNnk5Z1NTYWRTbE84bndzcEtJaUM1R3NjWEMtWW5KOFJmODhCSzNKNmJHUW1BY25RUVZUN2RESkNPd241SXhrRVF4M0ZxMWNLZ9IBb0FVX3lxTE1CVmNfa3lxWE1sZ3ZNamZBRlAxR0F1aURhTDF4UnJUNnk5Z1NTYWRTbE84bndzcEtJaUM1R3NjWEMtWW5KOFJmODhCSzNKNmJHUW1BY25RUVZUN2RESkNPd241SXhrRVF4M0ZxMWNLZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-14. [특징주] 삼현, 로봇·자율주행 테마 강세 속 '적자 부담' 털고 10% 껑충
+13. [특징주] 삼현, 로봇·자율주행 테마 강세 속 '적자 부담' 털고 10% 껑충
    - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 와이드경제
    - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dd2VGVk1zczhsbHJUWENfNVc5a0VXamRmU0h1TjFwM29zX3l4MThFVUNUcHppMWI1VWxETGx6S1pHLUVsV0tVaDMwelFGM1BiWmNjS29UWENjRm91VGxuOE9ZWGZuNXM0U1k3TA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 베이징현대, 보급형 자율주행 제어기에 中 스타트업 채택
+14. 베이징현대, 보급형 자율주행 제어기에 中 스타트업 채택
    - 분야: 자율주행 / 게재일: 2026-11-18 / 매체: 한국신용신문
    - 원문: https://news.google.com/rss/articles/CBMia0FVX3lxTFBQSVZmTnlIWXA0NGRjY2hlQlB3QUVka0VoTm1wMWRWQ1U2b2Y5RDVaVTJ6ek9MVXZLcVI5QlpsdnhYYWpuQzVJWElZT0hJUWJlWDdPdC1rR1VTaTRlVVY5T0g0NmlQQ0FRbk9j?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 교통 관제 플랫폼 25년 유티정보, AI 실무 인재 양성 나선다
+15. 교통 관제 플랫폼 25년 유티정보, AI 실무 인재 양성 나선다
    - 분야: 기타 / 게재일: 2026-11-19 / 매체: 국민기자뉴스
    - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBURkNFUy1pQkZfUi1icFItNzA4aWVlWE5FTVAzRVM0RG5ZR1k4TUR4Rml2MDIyX2xlT296cVZFd0NXTXRERGxzQjJuREtTQ0lQTXp3TUdSWGFpaldyWkt6QXlzeFjSAWdBVV95cUxPVlB0NVNNUGRBUVVnM1p4c0xOZmM2WVdSX3RTU1NCOFZzR0FCVEhZclVHUEVTaTF0Zk8zaXVLbUJJMVdIcWR2UGhac0MyM1RYZUxncVhKeDdCcFE4UUlFa25kZjYyS3BF?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 국토부, 테슬라 자율주행 특례 신청 퇴짜…“서류 부실”
+16. 국토부, 테슬라 자율주행 특례 신청 퇴짜…“서류 부실”
    - 분야: 자율주행 / 게재일: 2026-11-20 / 매체: 경향신문
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWHppRjBsdEtmS1RZT0NlQTNqUW9CdUF0TDM0N204NEpjSzR2YVpfVmlDOFBqVURLeTBXSm9KNGstTUNGTElrelluZmlHYTBUdVdvcy1RcUFpUdIBX0FVX3lxTFBDVDhkMHJMSTk4RVhidkpfaGtwemZ5M2Q5ODJIQVlGRDFKLTFYc2NZaXNRZzhVZmNMSVNaNnZPdE5ENHowOHBUNXZBQkZHZUxDeWs2X1RBRFFwdHJwQVpv?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 알톤, AI 로봇기업 엑스업과 자율주행 로봇 생산 협력
+17. 알톤, AI 로봇기업 엑스업과 자율주행 로봇 생산 협력
    - 분야: 자율주행 / 게재일: 2026-11-20 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE9iZ2ZJOW03akt4U0FZMXFTdVRGc3g3R0p2bGRWei1qQk44YXNWbUdCcjN6UU01aWdXOFJwcjJFTDVhc0VNakRlRDU4MFUzbTVZU093Y1FOYTRJTHhv?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. 현대차가 쏘카 부른 이유... 완성차의 새 사업, 남의 자율주행 SW를 얹어 판다
+18. 현대차가 쏘카 부른 이유... 완성차의 새 사업, 남의 자율주행 SW를 얹어 판다
    - 분야: 자율주행 / 게재일: 2026-11-20 / 매체: 교통신문
    - 원문: https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ydVR0b1dqWHRTQ1Z1clBpUTFrRG81MVFCUHE5UHQybWRRWTVFQTZybV9PTmtUWDEtRS1oSm4xM1BGVVlzUFRQN1ZySk1oX2s4Tmc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. 동해경찰서, 전국 최초 자율주행 순찰로봇 도입 '눈길'
-   - 분야: 자율주행 / 게재일: 2026-11-21 / 매체: 강원지방신문
-   - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFA2Mi1uUXB5a1YwTlBhSnZxbW9yS0RhOGZ4VDNSd1NpeDc2ODV0aWFKaTdTSXFPTEdHRV80aThVUk90cEJFUVBVM3Q5c282UUpERkJqTmc0M1FfZ1ZYaVk4dm5ubG4zSlhzU2fSAW5BVV95cUxPTmI1UnA2R00wbGRPRnhzZWJjRmJMY0ZHeG1uSXNWTV9qcEx3M0dhX0lkZFZzZE5nZG9wUVBIdWxCb3pxbWdpbkpuazlfc3pmdjBFekl0XzhLQ3FMZnlHMGJ0M3BXREFpOEp1XzV1dw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+19. 테슬라코리아 감독형 완전자율주행(FSD) 특례 신청 반려
+   - 분야: 자율주행 / 게재일: 2026-11-22 / 매체: 기독일보
+   - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTFB2V0w0YUQ1amdZNGFpbGFydllkWTJNM0hXOTlmRGJERXB5U2VjUVVaRm9KbEQyc1FhRC1NZmtIYlhxR284enkybWo1TnN0Q0ZTNHE4TXJfMm1mSUpz0gFcQVVfeXFMUHZXTDRhRDVqZ1k0YWlsYXJ2WWRZMk0zSFc5OWZEYkRFcHlTZWNRVVpGb0psRDJzUWFELU1ma0hiWHFHbzh6eTJtajVOc3RDRlM0cThNcl8ybWZJSnM?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 자율주행차 테마 일제히 주춤…스트라드비젼·에이스테크만 웃었다
+   - 분야: 자율주행 / 게재일: 2026-11-23 / 매체: 핀포인트뉴스
+   - 원문: https://news.google.com/rss/articles/CBMid0FVX3lxTFBSWUltNFpyWlEtRG1ydkdVR1JBZXRHbG42UTZaVzBKckVCaF8xbHk1WVU5Mk9mZ0R5UkJveERrR2VqanBuM2VoVk5pV25Ub3ZNNWNDRlJDTjZWSENURGlEUnh4UDdBOEJwTEtLZ1hVZGdVWkhKT3RB0gF3QVVfeXFMUFJZSW00WnJaUS1EbXJ2R1VHUkFldEdsbjZRNlpXMEpyRUJoXzFseTVZVTkyT2ZnRHlSQm94RGtHZWpqcG4zZWhWTmlXblRvdk01Y0NGUkNONlZIQ1REaURSeHhQN0E4QnBMS0tnWFVkZ1VaSEpPdEE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 

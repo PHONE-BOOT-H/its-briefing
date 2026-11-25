@@ -1780,54 +1780,6 @@
  },
  {
   "schema_version": 3,
-  "id": "ted-814366-2026",
-  "kind": "tender",
-  "source": "TED",
-  "type": "입찰",
-  "country": "FRA",
-  "country_ko": "프랑스",
-  "title": "France – Electricity distribution and control apparatus – Conception, Fabrication et Livraison de Baies API pour les lignes de métro 6, 8, 7, 7bis, 2 et 10",
-  "project_title": null,
-  "org": "RATP",
-  "org_type": "공기업",
-  "budget": null,
-  "nature": "물품",
-  "selection_method": "최저가",
-  "source_scope": null,
-  "contact_name": null,
-  "contact_email": "cedric.lopez@ratp.fr",
-  "contact_phone": "+33 6 62 14 09 92",
-  "duration": "87개월",
-  "funder": null,
-  "terms": {
-   "참여 제한": "제한 없음",
-   "GPA 적용": "예",
-   "선정기준 출처": "입찰서류에 명시",
-   "수행 지역(NUTS)": "FR101",
-   "프레임워크": "프레임워크 계약(경쟁 재개 없음)",
-   "절차 유형": "공고 있는 협상"
-  },
-  "published": "2026-11-24",
-  "deadline": "2026-12-17",
-  "deadline_time": null,
-  "ref_no": "814366-2026",
-  "link": "https://ted.europa.eu/en/notice/-/detail/814366-2026",
-  "cpv": [
-   "31200000",
-   "34940000",
-   "34942000"
-  ],
-  "score": 40,
-  "score_hits": [
-   "cpv:34942000"
-  ],
-  "already_posted": false,
-  "collector": "ted",
-  "first_seen": "2026-11-24",
-  "notes": null
- },
- {
-  "schema_version": 3,
   "id": "ted-814921-2026",
   "kind": "tender",
   "source": "TED",
@@ -1873,6 +1825,54 @@
   "score": 40,
   "score_hits": [
    "cpv:34922100"
+  ],
+  "already_posted": false,
+  "collector": "ted",
+  "first_seen": "2026-11-24",
+  "notes": null
+ },
+ {
+  "schema_version": 3,
+  "id": "ted-814366-2026",
+  "kind": "tender",
+  "source": "TED",
+  "type": "입찰",
+  "country": "FRA",
+  "country_ko": "프랑스",
+  "title": "France – Electricity distribution and control apparatus – Conception, Fabrication et Livraison de Baies API pour les lignes de métro 6, 8, 7, 7bis, 2 et 10",
+  "project_title": null,
+  "org": "RATP",
+  "org_type": "공기업",
+  "budget": null,
+  "nature": "물품",
+  "selection_method": "최저가",
+  "source_scope": null,
+  "contact_name": null,
+  "contact_email": "cedric.lopez@ratp.fr",
+  "contact_phone": "+33 6 62 14 09 92",
+  "duration": "87개월",
+  "funder": null,
+  "terms": {
+   "참여 제한": "제한 없음",
+   "GPA 적용": "예",
+   "선정기준 출처": "입찰서류에 명시",
+   "수행 지역(NUTS)": "FR101",
+   "프레임워크": "프레임워크 계약(경쟁 재개 없음)",
+   "절차 유형": "공고 있는 협상"
+  },
+  "published": "2026-11-24",
+  "deadline": "2026-12-17",
+  "deadline_time": null,
+  "ref_no": "814366-2026",
+  "link": "https://ted.europa.eu/en/notice/-/detail/814366-2026",
+  "cpv": [
+   "31200000",
+   "34940000",
+   "34942000"
+  ],
+  "score": 40,
+  "score_hits": [
+   "cpv:34942000"
   ],
   "already_posted": false,
   "collector": "ted",
@@ -2228,8 +2228,8 @@
   "org_type": null,
   "project_title": "Strengthening Capacity to Design and Implement Transport Infrastructure Projects Phase 2",
   "budget": {
-   "currency": "USD",
    "amount": 16000.0,
+   "currency": "USD",
    "is_project_total": false
   },
   "selection_method": "Individual Consultant Selection (ICS)",
@@ -2263,8 +2263,8 @@
   "org_type": null,
   "project_title": "Strengthening Capacity to Design and Implement Transport Infrastructure Projects Phase 2",
   "budget": {
-   "currency": "USD",
    "amount": 18000.0,
+   "currency": "USD",
    "is_project_total": false
   },
   "selection_method": "Individual Consultant Selection (ICS)",
