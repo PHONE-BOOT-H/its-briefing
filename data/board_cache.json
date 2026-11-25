@@ -799,5 +799,83 @@
   "tokens": [
    "onwubuariri"
   ]
+ },
+ "m16243": {
+  "date": "2026-11-24",
+  "links": [
+   "https://www.tapinto.net/towns/phillipsburg/sections/economic-development/articles/toll-bridge-commission-awards-design-contract-for-open-road-tolling-including-the-phillipsburg-easton-bridge"
+  ],
+  "title": "[미국] 델라웨어강 유료교량위원회, 무정차 톨링 설계 계약 체결",
+  "tokens": [
+   "drjtbc",
+   "infrastructure",
+   "zpass"
+  ]
+ },
+ "m16244": {
+  "date": "2026-11-24",
+  "links": [
+   "https://www.itsinternational.com/emovis-agrees-five-year-mersey-extension/"
+  ],
+  "title": "[영국] 에모비스, 머지 지역 무정차 통행료 운영계약 5년 연장",
+  "tokens": [
+   "emovis",
+   "merseyflow"
+  ]
+ },
+ "m16245": {
+  "date": "2026-11-24",
+  "links": [
+   "https://www.momenta.ai/en/article/640.html"
+  ],
+  "title": "[독일] 우버·모멘타, 뮌헨서 안전요원 동승 자율주행 시범서비스 개시",
+  "tokens": [
+   "momenta",
+   "uberxelectriccomfort"
+  ]
+ },
+ "m16246": {
+  "date": "2026-11-24",
+  "links": [
+   "https://www.manilatimes.net/2026/11/22/news/national/marcos-orders-barrier-less-toll-system-by-end-of-the-year/2475377"
+  ],
+  "title": "[필리핀] 마르코스 대통령, 연말까지 고속도로 무정차 톨링 도입 지시",
+  "tokens": []
+ },
+ "m16247": {
+  "date": "2026-11-24",
+  "links": [
+   "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA2hZCos.img?w=525&h=381&m=6",
+   "https://www.telugupeople.com/news/news.asp?newsID=109534"
+  ],
+  "title": "[인도] 하이데라바드, 429개 교차로에 AI 신호제어 도입",
+  "tokens": []
+ },
+ "m16248": {
+  "date": "2026-11-24",
+  "links": [
+   "https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/11/23/1795427540139_3-png.avif",
+   "https://www.vietnam.vn/en/ha-noi-lap-dat-hon-6-200-camera-ai-ho-tro-giai-quyet-cac-diem-nghen-giao-thong"
+  ],
+  "title": "[베트남] 하노이, 교통 감시용 AI 카메라 6,200여 대 설치",
+  "tokens": [
+   "gtinx"
+  ]
+ },
+ "m16249": {
+  "date": "2026-11-24",
+  "links": [
+   "https://ohoje.com/2026/11/22/recife-adota-tecnologia-de-goiania-para-dar-prioridade-a-onibus-nos-semaforos/"
+  ],
+  "title": "[브라질] 헤시피, 고이아니아 방식 도입해 BRT 신호 우선 시스템 가동",
+  "tokens": []
+ },
+ "m16250": {
+  "date": "2026-11-24",
+  "links": [
+   "https://www.unosantafe.com.ar/santa-fe/transito-santa-fe-avanza-la-instalacion-del-nuevo-sistema-semaforos-inteligentes-bulevar-n10293082.html"
+  ],
+  "title": "[아르헨티나] 산타페, 불레바르 축 스마트 신호 시스템 설치 진행",
+  "tokens": []
  }
 }

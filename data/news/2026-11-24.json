@@ -3294,10 +3294,11 @@
   "score_hits": [
    "전문지"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "news",
   "first_seen": "2026-11-19",
-  "notes": null
+  "notes": null,
+  "posted_how": "link"
  },
  {
   "schema_version": 3,
@@ -4008,10 +4009,11 @@
   "score_hits": [
    "traffic light"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "news",
   "first_seen": "2026-11-22",
-  "notes": null
+  "notes": null,
+  "posted_how": "media"
  },
  {
   "schema_version": 3,
@@ -4076,10 +4078,11 @@
   "score_hits": [
    "toll"
   ],
-  "already_posted": false,
+  "already_posted": true,
   "collector": "news",
   "first_seen": "2026-11-22",
-  "notes": null
+  "notes": null,
+  "posted_how": "media"
  },
  {
   "schema_version": 3,

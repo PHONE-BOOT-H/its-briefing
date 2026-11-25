@@ -19,6 +19,16 @@
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
  },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=148F16A3F1C3C4E638999E423FB525EB7ADAD0425E47D17F73EECC4480814D30": {
+  "budget": {
+   "amount": 16000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Department of Economic Affairs India",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "National"
+ },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=190FCEFA1CECA1C016F68348BBD39026548CFE810B5D5E24C4B1A93E21BDFAF8": {
   "budget": {
    "amount": 1475000.0,
@@ -178,6 +188,16 @@
   "org": "Ministry of Road and Transport Mongolia",
   "selection_method": "Individual Consultant Selection (ICS)",
   "source_scope": "National"
+ },
+ "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=84B3E68895CCF1EF814A5216D44D27B032602C498C2940893E78D94CDC3324BB": {
+  "budget": {
+   "amount": 18000.0,
+   "currency": "USD",
+   "is_project_total": false
+  },
+  "org": "Department of Economic Affairs India",
+  "selection_method": "Individual Consultant Selection (ICS)",
+  "source_scope": "International"
  },
  "https://selfservice.adb.org/OA_HTML/adb/xxcrs/jsp/ADBCmsCsrnDerHomepage.jsp?csrnKey=855BC7EF77A13A37A9DF0BC572EDF215E5E262C7696C66DC1BCE285929ADB4F8": {
   "budget": {
