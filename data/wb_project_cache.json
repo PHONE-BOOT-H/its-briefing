@@ -349,6 +349,13 @@
   "impagency": "Department of Public Works and Highways",
   "total": 309500000.0
  },
+ "P171700": {
+  "borrower": "Socialist Republic of Vietnam",
+  "closing": "2027-10-31",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "ODA PMU of Vinh Long Province",
+  "total": 202200000.0
+ },
  "P171793": {
   "borrower": "Republic of Niger",
   "closing": "2031-09-26",
@@ -1286,6 +1293,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Economic and Monetary Community of Central Africa,Ministry of Equipment and Public Works (Central African Republic),Ministry of Public works  (Cameroon)",
   "total": 525000000.0
+ },
+ "P513708": {
+  "borrower": "Republic of Ghana",
+  "closing": "2031-06-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Roads and Highways",
+  "total": 523000000.0
  },
  "P513957": {
   "borrower": "Ministry of Finance",
