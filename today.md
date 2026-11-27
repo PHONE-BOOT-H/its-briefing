@@ -134,53 +134,53 @@
    - 분야: 자율주행 / 게재일: 2026-11-26 / 매체: 오피니언뉴스
    - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE9kVGx2U2NUdUtaaFZkUmx0T3Q4YTZySVpuN3lXZTJFVldPRFBrb0RSMUxfZVFkTlQtR2RzYkNqOHQ1X2tVVEUtTGJZU2JnVXVUV1FGdElnMXVjelE5ZEdRLWJJN05OdVJ6QWFFaGRERXRfZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. [지자체] 구미시, 버스정보시스템 보안 긴급 점검…30일까지 보안 패치 완료
+9. 퀄컴, 스마트폰 넘어 자율주행 시장 정조준…차량용 AI 반도체에 승부수
+   - 분야: 자율주행 / 게재일: 2026-11-27 / 매체: 제민일보
+   - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ydG40bG1uMnVFLTJHNmM1S3BaVWdRR2hFN3I0RE83MURZdkRvZk96MlFPLS1hWmZOeHVMUFlfWkZHWklJdkUzMnZhRUZFNWdDVU1oZUkyMkNXVmZFbGFJTG80SDViSmc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+10. [지자체] 구미시, 버스정보시스템 보안 긴급 점검…30일까지 보안 패치 완료
    - 분야: 대중교통·물류 / 게재일: 2026-11-26 / 매체: ITS Korea
    - 원문: https://www.mediadf.co.kr/news/articleView.html?idxno=21257
 
-10. [회원사/동향] 팅크웨어, QXD 최초 4K 블랙박스 출시…야간·주차 녹화 강화
+11. [회원사/동향] 팅크웨어, QXD 최초 4K 블랙박스 출시…야간·주차 녹화 강화
    - 분야: 대중교통·물류 / 게재일: 2026-11-26 / 매체: ITS Korea
    - 원문: https://www.m-i.kr/news/articleView.html?idxno=2024053
 
-11. [회원사/동향] 에스트래픽, LA 메트로 추가 수주…북미 요금시스템 사업 확대
+12. [회원사/동향] 에스트래픽, LA 메트로 추가 수주…북미 요금시스템 사업 확대
    - 분야: 산업·투자 / 게재일: 2026-11-26 / 매체: ITS Korea
    - 원문: https://www.epnc.co.kr/news/articleView.html?idxno=410357
 
-12. [지자체] 평택시 교차로 입체화·대중교통 연계 대안 부상…평택링 11개 노선 논의
+13. [지자체] 평택시 교차로 입체화·대중교통 연계 대안 부상…평택링 11개 노선 논의
    - 분야: 신호·관제 / 게재일: 2026-11-26 / 매체: ITS Korea
    - 원문: https://www.incheonilbo.com/news/articleView.html?idxno=1337913
 
-13. [국토부/보도자료] 시내버스 두 대 중 한 대 이상은 저상버스 교통약자 이동환경의 꾸준한 개선, 모두를 위한 변화
+14. [국토부/보도자료] 시내버스 두 대 중 한 대 이상은 저상버스 교통약자 이동환경의 꾸준한 개선, 모두를 위한 변화
    - 분야: 대중교통·물류 / 게재일: 2026-11-27 / 매체: ITS Korea
    - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092652
 
-14. 국토부, 테슬라 자율주행 특례 신청 퇴짜…“서류 부실”
+15. 국토부, 테슬라 자율주행 특례 신청 퇴짜…“서류 부실”
    - 분야: 자율주행 / 게재일: 2026-11-20 / 매체: 경향신문
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTE9BWHppRjBsdEtmS1RZT0NlQTNqUW9CdUF0TDM0N204NEpjSzR2YVpfVmlDOFBqVURLeTBXSm9KNGstTUNGTElrelluZmlHYTBUdVdvcy1RcUFpUdIBX0FVX3lxTFBDVDhkMHJMSTk4RVhidkpfaGtwemZ5M2Q5ODJIQVlGRDFKLTFYc2NZaXNRZzhVZmNMSVNaNnZPdE5ENHowOHBUNXZBQkZHZUxDeWs2X1RBRFFwdHJwQVpv?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-15. 자율주행 성장 기대에도 전장주 흔들…DB하이텍·HL만도 매물 부담
-   - 분야: 자율주행 / 게재일: 2026-11-23 / 매체: 핀포인트뉴스
-   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE14RUdNbkZCOHlHZHNheV9zUmJiTUgzd2VLMEF6QUE0dXQxZ2RkajJ4akdsRGxSRElKT2poSE5MRHZGUHczTkc4b2pRejBlSTRvM2ozWmFSVHdLZjRyUzFRV2JKdGw0Vk5WWFR2cjRmZUxJZnPSAXdBVV95cUxQT1VjMzZUOWRZbjlrR2JDZkxub05OUk5fZTB6WGNKVktKMWQ1QjRaUlhMQkNpam5rQXNVUlR0cnBKbkNGRFBSMXFNYVN2UVlDbXBkQzByaE5EU0hGSFNJT1M2bHc2WDZoNUJTYnVUWlVuaU85SjhkNA?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+16. 현대모비스, 자율주행 ‘눈ㆍ발’ 신기술 확보 속도
+   - 분야: 자율주행 / 게재일: 2026-11-23 / 매체: 대한경제
+   - 원문: https://news.google.com/rss/articles/CBMidEFVX3lxTE4wWnNUZkZPTTJEb25STE9ELVQ5Rk5NY2xsWkJISHpFU3JRNkJXZWU1ZmpJS2U1RFU1eUNTZzBCaWN2WTk0ZFg4cUFjODY4dFpqeGJRSzMzMGpnR1JwTEpoakxDVU1TTkgwZmd2NENTUzBJVzJt?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-16. 대성하이텍, 자율주행로봇 누적 제작 100대 돌파
+17. 선문대 PIS팀, 자율주행 경진대회 대상 - 머니투데이
+   - 분야: 자율주행 / 게재일: 2026-11-23 / 매체: 머니투데이
+   - 원문: https://news.google.com/rss/articles/CBMiakFVX3lxTFB4b3c3UTVLbnJKd1Zjb3p0RzY2eGp5RG54Y3FBVk9rWDJfc1ZUanEwUHJIU2UwY2x0dWNhUFo0cnlzak5FcnVScVB2RlEwR3FzYXVEdFRrekV6R0ZNekNZYzRIcjdHSlNRc1HSAW9BVV95cUxNWjNqMUlDS0JkZTY2N0t3SHd0RldGQVpCeFkyUHNVbl9vZmw2eDZUcVpaMEpMa1hHenFBb0ZHSHl1TEQybmVuaWdmM2JOcUNuRndISkowTENDM1JDWnBuaE9qeVNnZ0NyVEh6eFVsNms?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+18. 자율주행차 테마 일제히 주춤…스트라드비젼·에이스테크만 웃었다
+   - 분야: 자율주행 / 게재일: 2026-11-23 / 매체: 핀포인트뉴스
+   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZMWRvMTV3VHhsNlNoRWZKX2ViZTJCTkxJU21VcjFRVlZ2M0hTRlc2S0RHZ2pCTllnSEVvcjB1RGJweHhqdUFrYnMzdU9mSTZwUXl6TlZrSHpiTnk2VC1ibC1EbWpOd1NjeUZxd2NCRFJqSHPSAXdBVV95cUxQUllJbTRaclpRLURtcnZHVUdSQWV0R2xuNlE2WlcwSnJFQmhfMWx5NVlVOTJPZmdEeVJCb3hEa0dlampwbjNlaFZOaVduVG92TTVjQ0ZSQ042VkhDVERpRFJ4eFA3QThCcExLS2dYVWRnVVpISk90QQ?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+19. 대성하이텍, 자율주행로봇 누적 제작 100대 돌파
    - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE02bmp3TTFfeU5TNEtMeVVoS1R4b2k2Z3lXOTFwZ1BpUXpYSERiUy12NHkzLVgwZUVfeHhMSWpLSUwzdDdveTFZUlRWRUZ1TjFSN3hQeUl1SjRrVngw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-17. 노타, 소프트웨어 최적화만으로 자율주행 AI 실행 효율 높여
-   - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: 데이터넷
-   - 원문: https://news.google.com/rss/articles/CBMibEFVX3lxTE8xYnpZV1ZvVFhoYUc0Y3RBcGwxVWlsQVF2TU5xN0owazdvSXZwNEdUYXROWTBfa0JrOVlkM2Q2ZlhjcHJMRmIwYXphWWI5SFp2bUZvSVRGeGZMSVRNWmpaSDVIRHI4b0lpaTY2Zw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-18. [젠슨 황 복귀] LG 로봇·현대차 자율주행…총수들이 맺은 AI 동맹 사업화 속도 붙나
+20. [젠슨 황 복귀] LG 로봇·현대차 자율주행…총수들이 맺은 AI 동맹 사업화 속도 붙나
    - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: 아주경제
    - 원문: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBJQXhOVk1BbjFjTmE1OENhbVhoTm81SU8zcGl2cjVoeVVzdzBkSmF6NUprdXlWNTQ0bnBhZmg0Nl9OVmVfNHFkQ0JWMTNXVTBmRVQ0REhNX3ZpQdIBWEFVX3lxTFBQRVJNNkFqU3ZwV3FNSmllekVBamdvdDVmeDBPWFdHc2RwdThIdG1jY1hZOGdJbkNsRERkTjB5aFlURUdzR0VNbG9Tc3hCUzhablgweVQ0U2o?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-19. [특징주] 노타, 엔비디아 자율주행 AI 추론 속도 15배 향상에 14%↑
-   - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: 뉴스핌
-   - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE0xeE1aS25ndDRvTFNTc0I2SXpPUko4QjdoejZCYml4eTEzVE9nczVfRG5kamRrRnlSckRoTmR0STd2LTJYaXdmYlNrSU9qWVVoemZnVDhUV1R0cDQ5?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-20. 스트라드비젼, 日 완성차에 비전 인식 SW 양산 공급..E2E 자율주행 공략
-   - 분야: 자율주행 / 게재일: 2026-11-25 / 매체: 데일리카
-   - 원문: https://news.google.com/rss/articles/CBMidkFVX3lxTE5VZ3lWVVZLcVFWaXNJTEVmUDhOQXBKRTVfdDNQanEyWjRXWnJ3MWxsNWJfRkR2Ui0wYTMteWdNdUdWc0xZNG0yVGpJR2xZX0d5eEl1QzRhYnNuakF5ZUxlT0FMV1BlajN3Ti1vRVhvZVBlYlFRQlE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
