@@ -314,6 +314,13 @@
   "impagency": "Ministry of Transport and Infrastructure",
   "total": 350000000.0
  },
+ "P170590": {
+  "borrower": "INDIA",
+  "closing": "2027-03-31",
+  "funder": "IBRD (세계은행)",
+  "impagency": "West Bengal State Electricity Distribution Company Limited",
+  "total": 385700000.0
+ },
  "P170860": {
   "borrower": "Saint Lucia",
   "closing": "2028-12-29",
@@ -376,6 +383,13 @@
   "funder": "IDA (세계은행 양허성 창구)",
   "impagency": "Department of Transportation, Communications & Infrastructure",
   "total": 40000000.0
+ },
+ "P172342": {
+  "borrower": "Democratic Socialist Republic of Sri Lanka",
+  "closing": "2027-05-30",
+  "funder": "IDA (세계은행 양허성 창구)",
+  "impagency": "Ministry of Transport, Highways and Urban Development",
+  "total": 69333000.0
  },
  "P172499": {
   "borrower": "People's Republic of Bangladesh",

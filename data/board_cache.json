@@ -877,5 +877,47 @@
   ],
   "title": "[아르헨티나] 산타페, 불레바르 축 스마트 신호 시스템 설치 진행",
   "tokens": []
+ },
+ "m16251": {
+  "date": "2026-11-26",
+  "links": [
+   "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2339721&lang=2&reg=48"
+  ],
+  "title": "[인도] 국도 48호선, 요금소 정차 없는 무정차 통행료 징수 개시",
+  "tokens": [
+   "fastag"
+  ]
+ },
+ "m16252": {
+  "date": "2026-11-26",
+  "links": [
+   "https://www.fia.com/news/fia-announced-mobility-award-winners-world-smart-city-awards-2026",
+   "https://www.fia.com/news/fia-announced-mobility-award-winners-world-smart-city-awards-2026",
+   "https://www.fia.com/news/fia-announced-mobility-award-winners-world-smart-city-awards-2026"
+  ],
+  "title": "[유럽] FIA, 교차로 디지털트윈 기반 도로안전 플랫폼 ‘Roadscor’ 수상",
+  "tokens": [
+   "roadscor"
+  ]
+ },
+ "m16253": {
+  "date": "2026-11-26",
+  "links": [
+   "https://cimne.com/cimne-ai-traffic-management-barcelona-pilot/"
+  ],
+  "title": "[스페인] 보행자·자전거·버스까지 고려하는 AI 신호, 바르셀로나 도로에서 실증 추진",
+  "tokens": [
+   "cimne",
+   "matcab"
+  ]
+ },
+ "m16254": {
+  "date": "2026-11-26",
+  "links": [
+   "https://cassette.sphdigital.com.sg/image/straitstimes/257ad9ad9c6a9ee3bdb4c4f075758ea1ca6e5d0ab8deef51a643329f90ed9420",
+   "https://www.mot.gov.sg/news-resources/newsroom/deployment-challenges-for-autonomous-bus-services-400-and-191/"
+  ],
+  "title": "[싱가포르] 자율주행 버스, 일반 노선보다 직원 셔틀 등 용도 중심으로 단계적 도입",
+  "tokens": []
  }
 }
