@@ -134,53 +134,53 @@
    - 분야: 자율주행 / 게재일: 2026-11-26 / 매체: 오피니언뉴스
    - 원문: https://news.google.com/rss/articles/CBMickFVX3lxTE9kVGx2U2NUdUtaaFZkUmx0T3Q4YTZySVpuN3lXZTJFVldPRFBrb0RSMUxfZVFkTlQtR2RzYkNqOHQ1X2tVVEUtTGJZU2JnVXVUV1FGdElnMXVjelE5ZEdRLWJJN05OdVJ6QWFFaGRERXRfZw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-9. [특별취재] 광명시 대중교통, 자율주행 셔틀 ‘지엠(GM1)’부터 마을02번까지··· 미래교통 대비!
-   - 분야: 자율주행 / 게재일: 2026-11-27 / 매체: 경기남부뉴스
-   - 원문: https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EUWhIRW1GZG51ZTNtM2JZc0huZzI1STlhSHk2R2U0NmJVT2lvZUZQU1F2ZUJ2V01MOHByRmxSUTNkMkJXT044Uk05U2kzZThCUm0wTVFzT1pwdmxJeHJ1eEln?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
-
-10. 퀄컴, 스마트폰 넘어 자율주행 시장 정조준…차량용 AI 반도체에 승부수
+9. 퀄컴, 스마트폰 넘어 자율주행 시장 정조준…차량용 AI 반도체에 승부수
    - 분야: 자율주행 / 게재일: 2026-11-27 / 매체: 제민일보
    - 원문: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4ydG40bG1uMnVFLTJHNmM1S3BaVWdRR2hFN3I0RE83MURZdkRvZk96MlFPLS1hWmZOeHVMUFlfWkZHWklJdkUzMnZhRUZFNWdDVU1oZUkyMkNXVmZFbGFJTG80SDViSmc?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-11. 자율주행 스타트업, 도로 버리고 조선소로…웨어러블에이아이 30억 투자 유치
+10. 자율주행 스타트업, 도로 버리고 조선소로…웨어러블에이아이 30억 투자 유치
    - 분야: 산업·투자 / 게재일: 2026-11-28 / 매체: 동행일보
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CVmhaeU9JRWNhcFZQN3ZYX0RNUU9aU055SVdmLVdNNWpxZTAwX2NnYzQ4MHBTQXFQdWJuM1dwc2Zvd0MxUWNPZVRnN2NIU0NMR3lXanNST0RVR1dReFk3a280SFNqRVA3?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-12. [지자체] 구미시, 버스정보시스템 보안 긴급 점검…30일까지 보안 패치 완료
+11. [지자체] 구미시, 버스정보시스템 보안 긴급 점검…30일까지 보안 패치 완료
    - 분야: 대중교통·물류 / 게재일: 2026-11-26 / 매체: ITS Korea
    - 원문: https://www.mediadf.co.kr/news/articleView.html?idxno=21257
 
-13. [회원사/동향] 팅크웨어, QXD 최초 4K 블랙박스 출시…야간·주차 녹화 강화
+12. [회원사/동향] 팅크웨어, QXD 최초 4K 블랙박스 출시…야간·주차 녹화 강화
    - 분야: 대중교통·물류 / 게재일: 2026-11-26 / 매체: ITS Korea
    - 원문: https://www.m-i.kr/news/articleView.html?idxno=2024053
 
-14. [회원사/동향] 에스트래픽, LA 메트로 추가 수주…북미 요금시스템 사업 확대
+13. [회원사/동향] 에스트래픽, LA 메트로 추가 수주…북미 요금시스템 사업 확대
    - 분야: 산업·투자 / 게재일: 2026-11-26 / 매체: ITS Korea
    - 원문: https://www.epnc.co.kr/news/articleView.html?idxno=410357
 
-15. [지자체] 평택시 교차로 입체화·대중교통 연계 대안 부상…평택링 11개 노선 논의
+14. [지자체] 평택시 교차로 입체화·대중교통 연계 대안 부상…평택링 11개 노선 논의
    - 분야: 신호·관제 / 게재일: 2026-11-26 / 매체: ITS Korea
    - 원문: https://www.incheonilbo.com/news/articleView.html?idxno=1337913
 
-16. [국토부/보도자료] 시내버스 두 대 중 한 대 이상은 저상버스 교통약자 이동환경의 꾸준한 개선, 모두를 위한 변화
+15. [국토부/보도자료] 시내버스 두 대 중 한 대 이상은 저상버스 교통약자 이동환경의 꾸준한 개선, 모두를 위한 변화
    - 분야: 대중교통·물류 / 게재일: 2026-11-27 / 매체: ITS Korea
    - 원문: https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092652
 
-17. 투자 1.8조 줄인 현대차, 자율주행엔 자금 수혈…기술 고도화 '풀액셀'
+16. 투자 1.8조 줄인 현대차, 자율주행엔 자금 수혈…기술 고도화 '풀액셀'
    - 분야: 자율주행 / 게재일: 2026-11-22 / 매체: 매일일보
    - 원문: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5vYzk0N08xalYydHVGbnVvaG00ajFoRHVLM09YU1A3bERwUXJjQl9abnltTlVROUM0YUhzSjNUMWlHVFN6bkJ4MTg2R2M5ZlBpZUZBSXpUWVZjeW9pY2lBX214amo?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-18. 현대모비스, 자율주행 ‘눈ㆍ발’ 신기술 확보 속도
+17. 현대모비스, 자율주행 ‘눈ㆍ발’ 신기술 확보 속도
    - 분야: 자율주행 / 게재일: 2026-11-23 / 매체: 대한경제
    - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTE1Uclh0Rk54WUlGYjlaaFd5ald4MGlxakx1Zi14V3RXTXN0MVJ0S0ZoaUpWNGVJNHFwSzFhLW5DQXVXWloxRThjemNBTGEwSFliNzkyUUw4TllSTzFhXzVkcHVjSHdJR3lRWUYzbkR3VWZLXzg?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-19. 대성하이텍, 자율주행로봇 누적 제작 100대 돌파
+18. 대성하이텍, 자율주행로봇 누적 제작 100대 돌파
    - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: 뉴스핌
    - 원문: https://news.google.com/rss/articles/CBMiXEFVX3lxTE02bmp3TTFfeU5TNEtMeVVoS1R4b2k2Z3lXOTFwZ1BpUXpYSERiUy12NHkzLVgwZUVfeHhMSWpLSUwzdDdveTFZUlRWRUZ1TjFSN3hQeUl1SjRrVngw?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
-20. 노타, 엔비디아 자율주행 AI 추론 15배 가속…피지컬 AI 최적화 확대
+19. 노타, 엔비디아 자율주행 AI 추론 15배 가속…피지컬 AI 최적화 확대
    - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: 테크월드
    - 원문: https://news.google.com/rss/articles/CBMiaEFVX3lxTE5QVEd6aGQyYURPNmpWNFJIc09BcjNJZE5za200RDNiUVNVTTl5VFhPbi1WWjZHcUpUczZ2S09wQlVzeFQ2WGx3eW1vemNrS2UyV3kyUHFxMmp5eEh5M2FzcHJTWlRwUDk2?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
+
+20. 테슬라 자율주행 'FSD V15' 공개, 리얼리티 뷰로 주행 상황 실시간 구현
+   - 분야: 자율주행 / 게재일: 2026-11-24 / 매체: 데이터투자
+   - 원문: https://news.google.com/rss/articles/CBMic0FVX3lxTFBGRGZ1NGs3REVQVS1uWDd0ZDdLRnJFc2tlRmpna2RxWGxoUWRyWWdCSUI1TTQ4eUZhdWpMWlR2X2JUS2VGbWRZUUM5ZzlCeFRTdGVCNTV2ckg4Ui1uazBPaFNwVFFaMlBQUWp5cE1OVlV0akE?oc=5  (구글뉴스 경유 — 브라우저로 열면 원문으로 이동)
 
 ---
 
