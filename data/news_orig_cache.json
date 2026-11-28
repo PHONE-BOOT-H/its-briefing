@@ -4601,7 +4601,7 @@
   "body": "- 겨울철 터널 내 대형·복합 도로재난에 대비한 관계기관 통합 대응 역량 점검 행정안전부(장관 윤호중)는 11월 25일(수), 경기도 사패산터널일원에서 국토교통부, 보건복지부, 경기도, 고양시, 소방청, 경찰청, 서울고속도로㈜ 등 관계기관 합동으로 올해 네 번째 ‘레디 코리아(READY Korea) 훈련’을 실시했다. ‘레디 코리아 훈련’은 기후 위기나 도시 기반 시설 노후화 등 잠재 위험으로 발생하는 대형·복합 재난에 대비해 민·관이 함께 대응 체계를 점검하는 훈련이다. 이번 훈련은 겨울철을 앞두고 터널 출입구 부근의 도로 살얼음(블랙아이스)으로 차량 40대가 연쇄 추돌하고, 사고 차량에서 발생한 화재가 주변 차량과 적재물로 번지면서 다수의 인명피해가 발생하는 상황을 가정했다. 밀폐된 터널에서 열과 연기가 빠르게 확산되고, 파손된 차량들로 구조대 진입이 어려워지는 악조건 속에서, 이용자 대피, 화재진압, 인명구조 등 관계기관의 통합 대응 역량을 점검하는 데 중점을 두었다. 훈련은 수도권제1순환고속도로 사패산터널 입구 부근에서 결빙된 노면에 미끄러진 차량을 뒤따르던 차량들이 잇따라 추돌하면서 시작됐다. 사고 차량 운전자의 119 신고와 터널 관리사무소의 상황 인지로 관계기관에 상황이 전파됐고, 즉시 도로관리기관 초기대응반과 소방·경찰 선착대가 현장 대응에 나섰다. 서울고속도로㈜는 터널 진입 차단과 전광판 안내, 비상방송을 통해 후속 차량 진입을 막고 운전자와 승객의 대피를 유도했다. 터널 내 환기설비를 가동해 연기 배출을 지원했으며, 경찰은 터널 출입구를 통제하고 우회도로를 안내하며 긴급차량의 통행로를 확보했다. 행정안전부는 사고 상황을 접수한 후 관계기관과 상황판단회의를 개최해 대응 방향을 결정했다. 경기도와 고양시는 각각 지역재난안전대책본부를 가동하고 긴급재난문자를 발송해 도로 통",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=131221",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24514": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -4673,31 +4673,31 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=131218",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24529": {
   "body": "산업통상부(장관 김정관, 이하 산업부)는 11월 25일(수), 15시 그래비티 조선 판교에서 이규봉 반도체혁신성장지원단장, 이언주 의원, 김경호 한국AI반도체팹리스산업협회장 등 팹리스 산업 관계자 100여 명이 참석한 가운데, 피지컬AI 미래대응 기술교류회와 ｢2026년 팹리스인의 날｣ 기념행사를 개최하고, 팹리스 산업 발전에 기여한 유공자 19명에게 정부 포상을 수여하였다. 기념행사는 “K-팹리스, 솔루션을 넘어 플랫폼 생태계로”를 주제로 진행되었다. 특히 팹리스 기업의 기술혁신과 성장이 설계 분야에만 머무르지 않고 제조·소재·장비·수요기업 등 산업 생태계 전반의 협력으로 이어져야 한다는 데 뜻을 모았다. 기술교류회에서 LG전자, 마음AI, 딥엑스는 피지컬AI 분야에서 수요기업과 팹리스 간 온디바이스 AI반도체 협력 추진현황 및 기술개발 등 상생 협력 성과를 발표하였다. 올해 팹리스인의 날 기념식에서는 39년간 CPU 및 HPC용 ASIC 개발을 주도하여 시스템반도체 설계 기술 자립 및 전문 인재 양성에 기여한 (주)세미파이브 김태진 부사장을 포함하여 산업부 장관 표창 3점, 과학기술정보통신부 장관 표창 2점, 한국AI반도체팹리스산업협회장 표창 4점 등 팹리스산업 생태계에 공로가 있는 유공자들에게 총 19점의 포상이 수여되었다. 이규봉 산업부 반도체혁신성장지원단장은 축사를 통해 “시스템반도체의 경쟁력은 개별기업의 노력만으로는 확보할 수 없으며, 팹리스와 제조·소재·장비·수요기업이 긴밀하게 협력하는 상생 생태계가 뒷받침되어야 한다”며, “정부도 8,002억원 규모의 K-온디바이스 AI반도체 기술개발, 공동 활용 설계·검증 인프라 확충, 상생을 위한 투자·금융지원 확대 등을 통해 팹리스 기업의 기술혁신과 성장을 적극 뒷받침하고, 산업 생태계 구성원 모두 함께 성장할 수 있도록 지원하겠다",
   "date": null,
   "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172450/view?mno=&pageIndex=1",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24532": {
   "body": "- 2025년 교통약자는 1,646만 명(총인구의 32.2%), 국민 3명 중 1명은 교통약자 - 2025년 기준 저상버스 총 1만 8,160대, 전국 보급률 51.8% - 특별·광역시 이동편의시설 기준적합설치율 86.1%…2014년 대비 12.9%p 증가 □국토교통부(장관 홍지선)는 8개 특별･광역시를 대상으로 실시한 「2025년도 교통약자 이동편의 실태조사｣ 결과를 발표했다. *(조사 방법･내용) 8개 특별·광역･자치시와 9개 도에 대해 격년으로 번갈아 표본조사 수행, 교통약자 인구･이동실태, 이동편의시설 설치･관리현황 등 조사 **(실시 근거) ｢교통약자법｣ 제25조에 따라 이동편의시설 실태 등 조사 • 교통수단: [특별·광역시, 표본] 시내·마을버스(19,451대 중 3,790대) [전국, 전수] 도시･광역철도차량(9,352량), 철도차량(300량), 항공기(397대), 여객선(142척), 궤·삭도 차량(8량) •여객시설: [특별·광역시, 전수] 여객자동차터미널(21개소),철도역사(32개소), 도시･광역철도역사(707개소), 공항(9개소), 여객선터미널(4개소), [ 교통약자 현황 : 총인구의 32.2%, 국민 3명 중 1명은 교통약자] □ 조사 결과에 따르면, 2025년 말 기준 우리나라 교통약자*는 총인구 5,112만 명의 32.2%인 1,646만 명으로 2024년 교통약자 수 1,613만 명(31.6%) 대비 약 33만 명 증가한 것으로 나타났다. *장애인, 고령자(65세 이상), 임산부, 영유아(7세 이하) 동반자, 어린이(12세 이하) 등 이동에 불편을 느끼는 사람 ㅇ 교통약자 유형별로는 고령화 추세에 따라 2024년 대비 고령자가 58.4만 명, 임산부가 1.6만명 증가한 반면, 영유아 동반자와 어린이는 각각 10.1만 명, 12.5만 명 감소한 것으로 나타났다. □",
   "date": null,
   "link": "https://www.molit.go.kr/USR/NEWS/m_71/dtl.jsp?lcmspage=1&id=95092652",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24533": {
   "body": "- 학습 데이터 공유·활용을 위한 데이터 구조·생성·저장에 대한 KS 제정예고 - 산업통상부 국가기술표준원(원장 김규성, 이하 국표원)은 휴머노이드 등 AI 로봇의 학습 데이터 공유·활용 촉진을 위해「로봇 조작 학습을 위한 데이터셋*」 KS 제정안을 11월 27일부터 60일간 예고고시하고 산업계 의견을 수렴한다고 밝혔다. * 데이터셋(Dataset) : 로봇의 개발, 학습, 시험 및 평가에 활용하기 위하여 하나 이상의 센서 또는 외부 장치로부터 획득된 데이터 집합 AI 로봇이 산업 현장과 일상생활로 확대가 예상되면서 로봇 학습 데이터의 중요성이 커지고 있으나, 로봇마다 데이터 구조와 속성이 달라 기업 간 공유·재사용에 어려움이 있었다. 국표원은 아직 로봇 학습 데이터셋에 적용 가능한 국제표준이 확립되지 않았으나, 국내 AI 로봇 산업 발전과 표준화 시급성을 고려해 국가표준을 선제적으로 마련하기로 했다. 표준안은 데이터셋 구축을 위해 계획·수집·전처리·저장 등 생성 단계별 요구사항을 제시하고, 작업 수행 환경, 내용, 과정 등을 기록할 수 있도록 데이터 구조를 정의한다. 특히 작업 과정에서 수집한 영상·음향 등 센서 정보와 로봇의 상태·행동 데이터를 시간 순서와 일치하도록 최소 사항을 규정한다. 또한 데이터의 저장과 메타데이터* 형식을 체계화하여 로봇 간 학습 데이터를 공유하고 활용할 수 있게 지원한다. * 메타데이터(Metadata) : 데이터 수집환경, 종류, 저장 위치 등 내용과 속성을 설명하는 데이터 이번 표준안은 로봇 분야 산학연 전문가로 구성된 지능형로봇표준포럼(KOROS)*에서 산업부 로봇 연구개발 과제 결과를 토대로 마련되었으며, 국표원이 AI 로봇 기업 및 전문가 협의, 기술 검토 등을 거쳐 구체화하였다. * LG전자, 삼성전자, HD현대로보틱스, 두산로보틱스 등 38개",
   "date": null,
   "link": "https://www.motir.go.kr/kor/article/ATCL3f49a5a8c/172462/view?mno=&pageIndex=1&rowPageC=0&displayAuthor=&searchCategory=0&schClear=on&startDtD=&endDtD=&searchCondition=1&searchKeyword=",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24534": {
   "body": "- 자카르타서 아세안 11개국 장관급 회의 공동 주재, 향후 5년 워크플랜 채택 - 인도네시아·말레이시아와 재난 분야 업무협약(MOU)으로 양자 협력 확대 행정안전부(장관 윤호중)는 11월 26일 인도네시아 자카르타에서 ‘제5회 한-아세안 재난관리장관회의(AMMDM*)’를 공동 주재하고, 아세안 11개국과 향후 5년간(’26~’30) 협력의 이정표가 될 ‘한-아세안 재난관리 워크플랜(이행계획) 2026-2030’을 공식 채택한다고 밝혔다. * (ASEAN Ministerial Meeting on Disaster Management) 대한민국과 아세안(ASEAN, 동남아시아국가연합) 국가들이 재난위험 경감을 위해 2022년 개설한 장관급 대화 채널 이번 장관회의는 지난 7월 제9차 한-아세안 재난관리위원회에서 논의된 신규 워크플랜을 장관들이 최종 승인하고, 공동 이행 의지를 결집하기 위해 마련되었다. 아울러, 우리 측 대표인 안전예방정책실장을 비롯해 아세안 11개국, 아세안 사무국 등 국제기구 대표단 100여 명이 참석해 향후 5년간의 재난관리 협력 방향을 논의할 예정이다. 이번에 승인되는 워크플랜은 아세안 재난관리·긴급대응 협정(AADMER*) 프레임워크(체계)에 맞춰 마련되었으며, ▲위험평가 및 조기경보 ▲예방 및 완화 ▲대비 및 대응 ▲탄력적 회복 등 4개 전략 분야, 12개 세부 협력과제로 구성되었다. * (ASEAN Agreement on Disaster Management and Emergency Response) ASEAN 회원국들이 재난 발생 시 상호 지원 방안과 평시 대비체계를 명문화한 협정 특히, 행정안전부는 이번 워크플랜을 이행 수단으로 아세안 재난관리 역량강화(D-CAB*) 2단계 사업과 재난관리 전문가 인증제도(ASCEND**)를 본격 추진한다. 이를 통해 아세안",
   "date": null,
   "link": "https://www.mois.go.kr/frt/bbs/type010/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000008&nttId=131274",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24536": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -4745,7 +4745,7 @@
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
   "date": null,
   "link": "https://www.ddaily.co.kr/page/view/2026112610492770822",
-  "tries": 1
+  "tries": 2
  },
  "https://itskorea.kr/boardDetail.do?type=8&idx=24544": {
   "body": "ITS Korea --> /* $( document ).ready( function() { $( window ).scroll( function() { if ( $( this ).scrollTop() > 200 ) { $( '.top' ).fadeIn(); } else { $( '.top' ).fadeOut(); } } ); $( '.top' ).click( function() { $( 'html, body' ).animate( { scrollTop : 0 }, 400 ); return false; } ); } ); */ $(document).ready(function(){ // 좌측 메뉴 class 변경 var menuCode = \"09010100\"; var memu02 = menuCode.substring(0,4) + \"0000\"; var memu02Li = \"#li\" + memu02; var memu02Ul = \"#ul\" + memu02; var memu03 = menuCode.substring(0,6) + \"00\"; var memu03LiDown = \"#liDown\" + memu03; $(memu02Ul).css(\"display\", \"\"); $(memu02Li).addClass(\"active\"); $(memu03LiDown).addClass(\"active\"); $(\"li[id^='li']:not([id^='liDown'])\").click(function() { var val = $(this).val(); $(\"ul[id^='ul']\").css(\"display\", \"none\"); $(this).find('ul').css(\"display\", \"\"); }); }) function clickLeftMenu(menuType){ var searchType1 = \"\"; $('#menuType",
@@ -7369,6 +7369,12 @@
   "link": "https://ertico.com/notes-from-the-its-world-congress-in-gangneung",
   "tries": 1
  },
+ "https://itskorea.kr/boardDetail.do?type=9&idx=24475": {
+  "body": "메르세데스-벤츠가 엔비디아와 함께 개발한 도심 자율주행 기능을 내년 하반기 한국에 들여온다. 관건은 국내 운전자제어보조장치(DCAS) 규정이다. 관련 법 개정이 일정대로 진행되면 내년 하반기 시행이 가능하다. 미국산 테슬라처럼 한미 자유무역협정(FTA)을 활용한 우회 도입은 어려울 것으로 보인다...중략... 메르세데스-벤츠가 엔비디아와 함께 개발한 도심 자율주행 기능을 내년 하반기 한국에 들여온다. 관건은 국내 운전자제어보조장치(DCAS) 규정이다. 관련 법 개정이 일정대로 진행되면 내년 하반기 시행이 가능하다. 미국산 테슬라처럼 한미 자유무역협정(FTA)을 활용한 우회 도입은 어려울 것으로 보인다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
+  "date": null,
+  "link": "https://www.dnews.co.kr/?move_pc_screen=1",
+  "tries": 1
+ },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24476": {
   "body": "...중략...23일 이탈리아 언론에 따르면 이탈리아 인프라교통부는 지난 20일(현지시간) FSD의 유럽판인 ‘테슬라 보조주행’에 임시 형식승인을 내줬다. 네덜란드 차량당국(RDW)의 승인을 자국에서도 인정하는 방식으로, 유럽연합(EU) 차원의 결정에 앞서 문을 열었다. EU 회원국 가운데 12번째이자 인구 기준 4대 주요국 중 첫 승인이다...중략... ...중략...23일 이탈리아 언론에 따르면 이탈리아 인프라교통부는 지난 20일(현지시간) FSD의 유럽판인 ‘테슬라 보조주행’에 임시 형식승인을 내줬다. 네덜란드 차량당국(RDW)의 승인을 자국에서도 인정하는 방식으로, 유럽연합(EU) 차원의 결정에 앞서 문을 열었다. EU 회원국 가운데 12번째이자 인구 기준 4대 주요국 중 첫 승인이다...중략... Copyright © 2018 ITS Korea. All rights reserved.",
   "date": "2026-11-23",
@@ -7463,7 +7469,7 @@
   "body": "...중략...A 24-month Aria pilot in Boone County mapped 100 miles of roadway, allowing a seven-mile safety improvement corridor to be planned, saving an estimated 70% of the time and cost from concept to bid. The idea is to find road hazards sooner, prioritise improvements and enable states to secure funding to fix them...중략... 부운 카운티에서 24개월 동안 진행된 Aria 시범 사업을 통해 100마일의 도로를 지도화하여 7마일 길이의 안전 개선 구간을 계획할 수 있었고, 이를 통해 구상 단계부터 입찰 단계까지 소요되는 시간과 비용을 약 70% 절감할 수 있었습니다. 이 아이디어는 도로 위험 요소를 더 빨리 발견하고, 개선 사항의 우선순위를 정하며, 주 정부가 이를 해결하기 위한 자금을 확보할 수 있도록 하는 것입니다. ...중략...A 24-month Aria pilot in Boone County mapped 100 miles of roadway, allowing a seven-mile safety improvement corridor to be planned, saving an estimated 70% of the time and cost from concept to bid. The idea is to find road hazards sooner, prioritise improvements and enable states to secure funding to fix them...중략... 부운 카운티에서 24개월 동안 진행된 Ar",
   "date": null,
   "link": null,
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24521": {
   "body": "...중략...As the automotive industry undergoes a profound transformation, GM is bringing its expertise and innovative technologies to the European market. One important development is the introduction of Super Cruise , its hands-free, eyes-on driver assistance technology, designed to make driving on compatible roads more comfortable while maintaining a strong focus on safety and driver responsibility. At the same time, GM recognises that successfully introducing advanced vehicle technologies across Europe's diverse markets requires close collaboration between manufacturers, technology providers, infrastructure operators and public authorities...중략... [제너럴 모터스(GM)는 연결성, 지능성, 안전성을 강화한 미래 모빌리티를 선도합니다] 자동차 산업이 심오한 변화를 겪고 있는 가운데, GM은 유럽 시장에 자사의 전문성과 혁신 기술을 선보이고 있습니다. 그중에서도 중요한 발전은 바로 운전자가 운전대를 잡지 않고도 안전하게 운전할 수 있도록 설계된 '슈퍼 크루즈(Super Cruise)'입니다. 슈퍼 크루즈 는 호환되는 도로 환경에서 운전을 더욱 편안하게 해주는 동시에 안전과 운전자",
@@ -7475,13 +7481,13 @@
   "body": "Tesla is expanding its Robotaxi service in Dallas, Texas, just in time for Thanksgiving. The company said on November 25 that it has widened the area where riders can book a trip, added more cars and lowered fares...중략... 테슬라 공식 Robotaxi 계정은 댈러스 서비스 구역 확대와 차량 증차·요금 인하를 알렸습니다. 구체적인 인하 요금과 적용 기간, 추가 차량 수는 공개하지 않았으며, 보도된 운행면적 약 83% 증가는 공식 수치가 아닌 지도 기반 외부 추정치입니다. Tesla is expanding its Robotaxi service in Dallas, Texas, just in time for Thanksgiving. The company said on November 25 that it has widened the area where riders can book a trip, added more cars and lowered fares...중략... 테슬라 공식 Robotaxi 계정은 댈러스 서비스 구역 확대와 차량 증차·요금 인하를 알렸습니다. 구체적인 인하 요금과 적용 기간, 추가 차량 수는 공개하지 않았으며, 보도된 운행면적 약 83% 증가는 공식 수치가 아닌 지도 기반 외부 추정치입니다. Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://teslanorth.com/2026/11/25/tesla-robotaxi-dallas-expansion-lower-fares/",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24527": {
   "body": "XPENG Inc. (“XPENG” or the “Company,” NYSE: XPEV; HKEX: 9868), a leading global Physical AI company, today unveiled its Turing Physical AI Architecture（VLA 3.0） at the eighth XPENG AI Day, introducing an integrated framework connecting AI cognition, real-time decision-making and physical execution across intelligent vehicles and humanoid robots...중략... [샤오펑, VLA 3.0 아키텍처 공개…전용 로보택시 2027년 출시 목표] 샤오펑은 AI 인지·실시간 판단·차량 제어를 연결하는 ‘Turing Physical AI Architecture(VLA 3.0)’를 공개하고 전용 로보택시 YOYO-01의 2027년 출시 계획을 제시했습니다. 무인 승객 시험을 진행 중 XPENG Inc. (“XPENG” or the “Company,” NYSE: XPEV; HKEX: 9868), a leading global Physical AI company, today unveiled its Turing Physical AI Architecture（VLA 3.0） at the eighth XPENG AI Day, introducing an integrated framework connecting AI cognition, real-time decision-making and physical execution across intelligent vehicles and humanoid robots...중략... [샤오펑, VLA 3.0 아",
   "date": null,
   "link": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174?utm_source=chatgpt.com",
-  "tries": 2
+  "tries": 3
  },
  "https://itskorea.kr/boardDetail.do?type=9&idx=24530": {
   "body": "...중략...Now, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data, which includes the private conversations of millions of users...중략... 42개 주 법무장관이 이용자 대화 데이터 매각에 반대했습니다. 개인정보 보호가 쟁점 ...중략...Now, a coalition of 42 state attorneys general is intervening in Character.ai’s bankruptcy proceedings in an effort to stop the chatbot maker from selling off sensitive user data, which includes the private conversations of millions of users...중략... 42개 주 법무장관이 이용자 대화 데이터 매각에 반대했습니다. 개인정보 보호가 쟁점 Copyright © 2018 ITS Korea. All rights reserved.",
@@ -7523,6 +7529,6 @@
   "body": "반다아체시 교통국이 주요 교차로 3곳에 광역교통제어시스템(ATCS)을 설치해 운영을 시작했다. 각 진입로의 교통량과 혼잡도에 맞춰 신호시간을 조정하며, 운영·감시는 교통국 교통운송과가 맡습니다. 반다아체시 교통국이 주요 교차로 3곳에 광역교통제어시스템(ATCS)을 설치해 운영을 시작했다. 각 진입로의 교통량과 혼잡도에 맞춰 신호시간을 조정하며, 운영·감시는 교통국 교통운송과가 맡습니다. Copyright © 2018 ITS Korea. All rights reserved.",
   "date": null,
   "link": "https://aceh.tribunnews.com/nanggroe/1055524/banda-aceh-hadirkan-atcs-lampu-lalu-lintas-cerdas-beroperasi-di-tiga-persimpangan",
-  "tries": 1
+  "tries": 2
  }
 }
